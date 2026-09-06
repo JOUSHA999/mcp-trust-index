@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-09-06T12:14:44Z",
- "universe_declared_github_repos": 20834,
- "universe_declared_npm_packages": 8467,
+ "generated_at": "2026-09-06T14:07:11Z",
+ "universe_declared_github_repos": 20845,
+ "universe_declared_npm_packages": 8476,
  "github_sample": {
   "n": 1200,
-  "dead": 181,
-  "dead_pct": 15.1,
+  "dead": 176,
+  "dead_pct": 14.7,
   "ci95": [
-   13.2,
-   17.2
+   12.8,
+   16.8
   ],
-  "archived": 14,
-  "no_license": 142,
+  "archived": 13,
+  "no_license": 125,
   "stale_365d": 0,
   "extrapolated_dead": [
-   2750,
-   3583
+   2668,
+   3502
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 787,
-  "unresolved": 13,
-  "version_desync": 252,
-  "desync_pct": 31.5,
+  "resolved": 792,
+  "unresolved": 8,
+  "version_desync": 236,
+  "desync_pct": 29.5,
   "ci95": [
-   28.4,
-   34.8
+   26.4,
+   32.8
   ],
-  "description_drift": 61,
-  "drift_pct": 7.6,
-  "desc_mismatch_vs_registry": 670,
-  "mismatch_pct": 83.8,
+  "description_drift": 75,
+  "drift_pct": 9.4,
+  "desc_mismatch_vs_registry": 659,
+  "mismatch_pct": 82.4,
   "extrapolated_desync": [
-   2405,
-   2947
+   2238,
+   2780
   ]
  },
  "examples_dead_repo": [
-  "holdings-io/workspace",
-  "Ghostkey316/vaultfire-mcp-server",
-  "Ansvar-Systems/US_compliance_MCP",
-  "ZWingett/gallandigital-marketplace",
-  "yauhen-l/text2event",
-  "pipeworx-io/mcp-govcon-intel",
-  "sergioortizlatorre2/securestamp",
+  "Ansvar-Systems/uk-organic-regen-mcp",
+  "scotia1973-bot/api-hub",
+  "lfhillesheim/calculadora",
+  "most-ai-com/mostai-mcp",
+  "ptse8204/sweetsaverfare",
   "infoinlet-marketplace/marketplace",
-  "andrewlamamills-tech/missing-linkz",
-  "sohaibt/splera",
-  "bildow/kodiak",
   "Bankee-ai/inferventis",
-  "simlir/simlir",
   "Lulu-The-Narwhal/lulu-platform",
-  "IMBAwallet/IMBA_front"
+  "mohamedalmorsy/agoria",
+  "junter1989k-ai/slovenia-payments-mcp",
+  "IkeHentrel/x402-express",
+  "HaayanchandravatSr/jeeva-jyotish",
+  "ilya7-eng/replit-vertical-market-place-website",
+  "alex-hoyeol-choi/headless-commerce",
+  "smithshsh/enso-fundamentals"
  ],
  "examples_drift": [
   {
-   "server": "io.github.vdappdev2/identity",
-   "pkg": "@verusidx/identity-mcp",
-   "prev": "MCP server for VerusID identity management \u2014 create, update, revoke, recover, sign, and qu",
-   "cur": "MCP server for VerusID identities \u2014 register, update, revoke, recover, query, set timelock"
+   "server": "io.github.miller-joe/youtube-mcp",
+   "pkg": "@miller-joe/youtube-mcp",
+   "prev": "MCP server for YouTube \u2014 creator ops (video metadata, comments, playlists, analytics) plus",
+   "cur": "OAuth-authenticated YouTube MCP server for channel owners \u2014 edit video metadata, reply to "
   },
   {
-   "server": "io.github.OrygnsCode/omnicord",
-   "pkg": "@orygn/omnicord",
-   "prev": "Omnicord: an MCP server for Discord. Chat, moderate, administrate, and build out entire se",
-   "cur": "Omnicord: a Discord server management MCP for AI agents. Chat, moderate, administrate, and"
+   "server": "io.github.A7OM-AI/atom-mcp-server",
+   "pkg": "atom-mcp-server",
+   "prev": "ATOM Inference Price Index \u2014 AI pricing intelligence for agents and developers. 1,600+ SKU",
+   "cur": "ATOM Inference Price Index \u2014 AI pricing intelligence for agents and developers. 1,600+ SKU"
   },
   {
-   "server": "io.github.flowzap-xyz/flowzap",
-   "pkg": "flowzap-mcp",
-   "prev": "MCP server for FlowZap - Create workflow, sequence, and architecture diagrams via AI assis",
-   "cur": "MCP server for FlowZap - Create workflow, sequence, architecture, and mind map diagrams vi"
+   "server": "io.github.florentine-ai/mcp",
+   "pkg": "@florentine-ai/mcp",
+   "prev": "MCP server for Florentine.ai - Natural language to MongoDB aggregations",
+   "cur": "Florentine.ai MCP server \u2013 query MongoDB & MySQL databases in natural language"
   },
   {
-   "server": "com.dzgapp/mint",
-   "pkg": "@dzg-studio/mcp-server-mint",
-   "prev": "Launch Mint's on-device macOS storage intelligence as a local MCP server.",
-   "cur": "Launch Mint's on-device Mac and AI-tool storage intelligence as a local MCP server."
+   "server": "dev.cite42/mcp",
+   "pkg": "@cite42/mcp",
+   "prev": "Cite42 MCP server: query ChatGPT, Claude, Perplexity, Gemini & Google AI Overviews for bra",
+   "cur": "Cite42 MCP server: query the models behind ChatGPT, Claude, Perplexity & Gemini, plus Goog"
   },
   {
-   "server": "io.github.gkcogz/1trippulse",
-   "pkg": "1trippulse-mcp-server",
-   "prev": "1trip Travel Planning MCP Server \u2014 16 AI tools, 5 resources, 6 prompts: trip skeletons, co",
-   "cur": "1trip PULSE \u2014 The #1 travel planning MCP server. 21 tools, 5 resources, 6 prompts. Live fl"
+   "server": "io.github.icohangar-ops/chp-mcp",
+   "pkg": "@cubiczan/chp-mcp",
+   "prev": "MCP server for CHP Profile B \u2014 evaluate_spend_gate and approve_spend over @cubiczan/chp",
+   "cur": "Spend approval gate for AI agents \u2014 enforce budget limits, per-asset caps and human-in-the"
   },
   {
-   "server": "dev.cz-agents/payqr",
-   "pkg": "@czagents/payqr",
-   "prev": "MCP server for European payment QR codes, text, Wi-Fi, vCard, and QR decoding",
-   "cur": "European payment QR codes \u2014 generate and read SPAYD (CZ/SK) and EPC/GiroCode (Eurozone) pa"
+   "server": "io.github.replynodes/mcp",
+   "pkg": "@replynodes/mcp",
+   "prev": "Connect AI agents (Claude, Cursor, Codex, OpenClaw, etc.) to Replynodes over the Model Con",
+   "cur": "Connect AI agents (Claude, Cursor, Codex, OpenClaw, Hermes, etc.) to Replynodes over the M"
   },
   {
-   "server": "dev.cz-agents/adis",
-   "pkg": "@czagents/adis",
-   "prev": "MCP server for ADIS \u2014 Czech VAT-payer reliability check (nespolehliv\u00fd pl\u00e1tce DPH) via the ",
-   "cur": "Czech VAT payer reliability check (ADIS / \"nespolehliv\u00fd pl\u00e1tce DPH\") \u2014 verify whether a VA"
+   "server": "io.github.Fabio662/yieldagentx402",
+   "pkg": "agentx402-mcp-server",
+   "prev": "Policy-gated, receipt-backed x402 execution for AI agents \u2014 ShadeGuard before settlement, ",
+   "cur": "The execution layer for AI agent commerce. 100+ DeFi adapters across 20+ chains (BTC, EVM,"
   },
   {
-   "server": "io.github.sF1nX/x402station",
-   "pkg": "x402station-mcp",
-   "prev": "MCP adapter for x402station \u2014 gives any agent (Claude Code / Cursor / Windsurf / Continue)",
-   "cur": "MCP adapter for x402station.io, the independent risk-signal layer for x402 agentic commerc"
+   "server": "com.ismalicious/mcp-server",
+   "pkg": "@ismalicious/mcp-server",
+   "prev": "MCP server for the isinjected gate \u2014 scan untrusted content for prompt injection and check",
+   "cur": "MCP server for isMalicious threat intelligence \u2014 indicator reputation verdicts, CVE lookup"
   },
   {
-   "server": "io.github.danielrz/investbuddy",
-   "pkg": "investbuddy-mcp-server",
-   "prev": "Model Context Protocol server for InvestBuddy AI - Stock predictions with 79.86% accuracy",
-   "cur": "Model Context Protocol server for InvestBuddy AI - Validated LSTM predictions with +15.92%"
+   "server": "io.github.cyanheads/guardian-mcp-server",
+   "pkg": "@cyanheads/guardian-mcp-server",
+   "prev": "Search, browse, and retrieve full article text from The Guardian's journalism archive (199",
+   "cur": "Search, browse, and retrieve full article text from The Guardian's journalism archive (199"
   },
   {
-   "server": "io.github.Silbercue/public-browser",
-   "pkg": "public-browser",
-   "prev": "Lets Claude Code and Cursor drive Chrome. Browse with your real profile \u2014 30% fewer tokens",
-   "cur": "Lets Claude Code and Cursor drive Chrome. Browse your real profile: -30% tokens, -25% cost"
+   "server": "io.github.fauguste/boondmanager-mcp-server",
+   "pkg": "boondmanager-mcp-server",
+   "prev": "MCP Server for BoondManager API - 180 tools, 11 prompts, 22 resources (ERP/CRM)",
+   "cur": "MCP Server for BoondManager API - 182 tools, 12 prompts, 22 resources (ERP/CRM)"
   }
  ]
 }

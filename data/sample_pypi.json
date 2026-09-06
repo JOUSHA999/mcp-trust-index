@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-09-06T12:20:52Z",
- "universe_declared_pypi": 3607,
+ "generated_at": "2026-09-06T14:07:13Z",
+ "universe_declared_pypi": 3608,
  "sample": {
   "n_sampled": 500,
-  "resolved": 497,
-  "unresolved": 3,
-  "version_desync": 126,
-  "desync_pct": 25.4,
+  "resolved": 496,
+  "unresolved": 4,
+  "version_desync": 124,
+  "desync_pct": 25.0,
   "ci95": [
-   21.7,
-   29.4
+   21.4,
+   29.0
   ],
   "extrapolated_desync": [
-   783,
-   1060
+   772,
+   1046
   ],
-  "description_drift": 33,
-  "drift_pct": 6.6
+  "description_drift": 30,
+  "drift_pct": 6.0
  },
  "examples_drift": [
   {
@@ -26,16 +26,10 @@
    "cur": "C2PA Watermark & Provenance MCP server. Built with c2pa-python."
   },
   {
-   "server": "io.github.presidio-v/presidio-hardened-x402-mcp",
-   "pkg": "presidio-hardened-x402-mcp",
-   "prev": "MCP server exposing presidio-hardened-x402 PII screening, policy, and replay-guard tools t",
-   "cur": "MCP server exposing presidio-hardened-x402 pre-payment PII screening, policy, and replay-g"
-  },
-  {
-   "server": "io.github.wstierhout/ableton-live-mcp",
-   "pkg": "mcp-server-ableton-live",
-   "prev": "Control Ableton Live 11/12 with 154 typed MCP tools for MIDI, devices, arrangement, mixing",
-   "cur": "Control Ableton Live 11/12 with 156 typed MCP tools for MIDI, devices, arrangement, mixing"
+   "server": "io.github.rafa2403nunez-droid/pynet-mcp-bridge",
+   "pkg": "pynet-mcp-bridge",
+   "prev": "MCP server that connects AI models with Autodesk Navisworks via the PyNet ecosystem.",
+   "cur": "MCP server that connects AI models with Autodesk Navisworks, Revit and Civil 3D via the Py"
   },
   {
    "server": "io.github.bzsasson/screaming-frog-mcp",
@@ -50,16 +44,10 @@
    "cur": "MCP server for Bitcoin \u2014 49 tools for AI agents to save money on fees. Zero config, works "
   },
   {
-   "server": "io.github.seang1121/sports-betting-mcp",
-   "pkg": "sports-betting-mcp",
-   "prev": "MCP server for AI-powered sports betting analysis \u2014 NBA, NHL, NCAAB. 9 tools: picks, odds,",
-   "cur": "Live sports betting MCP server \u2014 AI picks, odds, injuries, line movement across NBA, NHL, "
-  },
-  {
-   "server": "io.github.thomasxm/crowdsentinel-mcp-server",
-   "pkg": "crowdsentinel-mcp-server",
-   "prev": "AI-powered threat hunting and incident response MCP server for Elasticsearch/OpenSearch wi",
-   "cur": "AI-powered threat hunting and incident response MCP server for Elasticsearch/OpenSearch wi"
+   "server": "io.github.thesanjeetc/parselbox",
+   "pkg": "parselbox",
+   "prev": "Secure Python sandbox for AI agents \u2014 tools as code, MCP bridging, JS interop, generative ",
+   "cur": "An embeddable Python runtime where AI agents call tools as code \u2014 MCP servers, APIs and sh"
   },
   {
    "server": "io.github.ZohaibCodez/discrete-structures",
@@ -68,16 +56,28 @@
    "cur": "MCP server for Discrete Mathematics: Boolean Logic, Algorithms, Number Theory, Cryptograph"
   },
   {
+   "server": "io.github.richardofortune/cadloop-slicer",
+   "pkg": "cadloop",
+   "prev": "Parametric CAD, meshing verification and slicing, behind MCP",
+   "cur": "Parametric CAD and slicing behind MCP, with every plate proven on the bed"
+  },
+  {
    "server": "io.github.MICONNM/openclaw-consensus-mcp",
    "pkg": "openclaw-consensus-mcp",
    "prev": "MCP server for OpenClaw Consensus \u2014 9-LLM consensus to fight hallucinations. Built by yanm",
    "cur": "MCP server for OpenClaw Consensus ??9-LLM consensus to fight hallucinations. Built by yanm"
   },
   {
-   "server": "io.github.sluyasu/openinsurance-wiki",
-   "pkg": "openinsurance-wiki-mcp",
-   "prev": "Read-only MCP server over the openinsurance-wiki knowledge base (search, get_product, comp",
-   "cur": "Read-only MCP server over the openinsurance-wiki knowledge base (search, get_product, get_"
+   "server": "io.github.ExposureGuard/haldir",
+   "pkg": "haldir",
+   "prev": "The guardian layer for AI agents \u2014 identity, secrets, audit via MCP",
+   "cur": "The guardian layer for AI agents \u2014 scoped sessions, AES-256-GCM secrets, hash-chained audi"
+  },
+  {
+   "server": "io.github.TranThienTrong/asset-auto-picker",
+   "pkg": "asset-auto-picker",
+   "prev": "Add your description here",
+   "cur": "The MCP Server use for auto pick file"
   }
  ]
 }

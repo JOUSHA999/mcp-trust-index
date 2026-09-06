@@ -1,29 +1,5786 @@
 {
- "compared_at": "2026-09-06T12:25:01Z",
- "baseline": "index-TESTPAST.json",
+ "compared_at": "2026-09-06T14:07:34Z",
+ "baseline": "index-2026-09-06T1407.json",
  "events": [
   {
-   "server": "dev.cz-agents/dd",
-   "type": "description_change",
-   "severity": "high",
-   "detail": "registry description edited"
+   "server": "io.github.thebotclub/tribunal",
+   "type": "new_entry",
+   "detail": "grade E"
+  },
+  {
+   "server": "io.github.thomasjumper/agentbay-mcp",
+   "type": "new_entry",
+   "detail": "grade E"
+  },
+  {
+   "server": "io.github.afable702/vault-mcp-tools",
+   "type": "new_entry",
+   "detail": "grade D"
+  },
+  {
+   "server": "io.github.haoyun18881-beep/universal-brute-workpack",
+   "type": "new_entry",
+   "detail": "grade D"
+  },
+  {
+   "server": "ai.obris/mcp",
+   "type": "new_entry",
+   "detail": "grade D"
+  },
+  {
+   "server": "ai.spideriq/gate",
+   "type": "new_entry",
+   "detail": "grade D"
+  },
+  {
+   "server": "io.github.MananSingh2001/figma-react",
+   "type": "new_entry",
+   "detail": "grade D"
+  },
+  {
+   "server": "io.github.Yarmoluk/ckg-mcp",
+   "type": "new_entry",
+   "detail": "grade D"
+  },
+  {
+   "server": "io.github.epsteinj/inkbloc",
+   "type": "new_entry",
+   "detail": "grade D"
+  },
+  {
+   "server": "io.github.geraservicesuk/mcp-gera-clinic",
+   "type": "new_entry",
+   "detail": "grade D"
+  },
+  {
+   "server": "io.github.moxiespirit/curistat-mcp",
+   "type": "new_entry",
+   "detail": "grade D"
+  },
+  {
+   "server": "io.github.temurkhan13/bash-vet-mcp",
+   "type": "new_entry",
+   "detail": "grade D"
+  },
+  {
+   "server": "io.github.temurkhan13/openclaw-skill-vetter-mcp",
+   "type": "new_entry",
+   "detail": "grade D"
+  },
+  {
+   "server": "io.github.temurkhan13/silentwatch-mcp",
+   "type": "new_entry",
+   "detail": "grade D"
+  },
+  {
+   "server": "io.github.tomjwxf/scopeblind-passport",
+   "type": "new_entry",
+   "detail": "grade D"
+  },
+  {
+   "server": "online.securestamp/action-proof",
+   "type": "new_entry",
+   "detail": "grade D"
+  },
+  {
+   "server": "ai.izap/whatsapp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "ai.masaro/masaro",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "ai.smithery/RectiFlex-centerassist-mcp1",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "ai.tinyfish.agent/web-agent",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "ai.usegoro/goro",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "app.linear/linear",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "app.marketgenius/mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "app.memol/memol",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "at.sporthotelideal/booking",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "au.com.appgenie/compliance-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "au.com.iknowthepilot/flight-deals",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "au.com.insuro/insuro",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "ch.the-orbit/orbit",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "cloud.theprotocol/registry",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "co.fastaf/fastaf",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.appsflyer/mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.asalsold.app/canadian-mortgage-deadlines",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.audioscrape/audio-intelligence",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.bigballsdata/sports-data",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.carsmultiverse/recall-record",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.chadanalytics/chad",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.checkmycontractorquote/ai-inventory-network",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.checkmycontractorquote/contractor-quote-check",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.dominionobservatory/observatory",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.dropwatchhq/bio-catalyst",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.encirca/domains",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.firmtape/spx-options-gamma",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.gc-airporttransfers/booking",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.gositehunt/gositehunt",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.greencalculus/api",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.haasonline/trade-server",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.haulbound/ebay-seller-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.ibkr/interactive-brokers-ibkr",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.jithox/eu-sanctions-preflight",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.kalshi-mcp/kalshi",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.knowmapped/mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.learnthedao/learn-the-dao",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.mino-yakking/good-honker",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.multilocale/multilocale",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.nevadaautoquotes/insurance",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.ponito/product-intelligence",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.proscendia/microsoft-365",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.quantamentry/quantamentry",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.ranovam/greenhouse-jobs-scraper",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.remotejobscenter/remote-jobs",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.rixfreight-group/mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.roam2go/esim-catalog",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.secondopinionx402/second-opinion",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.selfielabstudio/selfielab",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.shpbl/repository-audit-and-repair",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.sumhound/sumhound-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.talarion/talarion",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.taxact/taxact-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.telerik/agentic-ui-generator-for-angular",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.testrigor/mcp-server",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.thedailysmark/wrestling",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.thedeskmonitor/mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.thenextgennexus/global-equities-screener-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.tomorrowcentral/aws-cloud-cost-sentinel",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.truevaluerankings/tvr-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.us-bike-travel/touren",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.viddler/viddler-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.whensport/tennis-2026",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "cz.groo/reality",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "cz.jobsai/jobsai",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "de.woroller/catalog",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "dev.aipp/monetize",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "dev.cz-agents/realestate-pro",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "dev.distributionos/distributionos",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "dev.workers.mattskowronis.agent-contract-proof/verify-agent-contract",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "es.elpujante/subastas",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "eu.sirenic/sirenic",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "fyi.whatsnew/changelogs",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "ing.conjure/conjure",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.1lookup/1lookup",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.agent4/agent4-tenant",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.dedyn.kai-system-agent/csv-profiler",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Crash-ept/docrocket",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Evozim/chainalysis-aml-risk-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Evozim/crypto-capital-gains-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Evozim/crypto-price-oracle-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Evozim/customs-clearance-bot-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Evozim/dicom-imaging-analyzer-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Jonathanmberg/sirro",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Wxt-ai/event-callback-planner",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Wxt-ai/support-case-workbench",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.ZadenGG/x402-snap",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.artchristech/fillin",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.capneura/internet-janitor",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.clerk/mcp-server",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.drawcall-ai/drawcall",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.easakura/japan-official-statistics-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.findimitrov/fintel-discovery",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.followtz/macd",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.geraldho81/flow-productivity",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.grulex/money4k-split-bill",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.h4ck4life/pastml",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.haim-barad/drinkedin",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.incwo/incwo",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.junoventures/genesis-social",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.kbrayatl/repscale",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.layerzlabs/layerz",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.referodesign/refero",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.santismm/agent-rescue",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.simohammedb/travseal",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.singularitystudiosdev/askagent",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.volatility/vlab-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.yukihamada/tokkyo-maru",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.studiomeyer/geo",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.zircular/zlab-stress-test",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "kr.co.softbowl/sbchart2",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "live.alpic.node-email-mcp-b25f10ec/node-email-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "lt.nodo/ltlaw",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "my.haas/human-tasks",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "net.thirdmade/shelf",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "net.tunnelmole.heiekc-ip-209-115-177-214/x402-text-tools",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "online.claudenews/claude-news",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "pro.particle/particle-pro",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "sh.alchemylab.horizon/briefing",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "space.arakelproof.proof/arakel",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "store.ivoryriver/agent-commerce",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "sv.prometheus/mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "tech.sirune/manthan",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "tennis.grand/4grand",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "tw.0523/lucky-public",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "xyz.404humans/wall",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "xyz.solknife/toolkit",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "za.co.zaroniacalculator.api/verify",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "app.creatica/backgrounds",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "app.wishpool/canada-payments-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "app.wishpool/costa-rica-payments-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "app.wishpool/estonia-payments-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "app.wishpool/germany-payments-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "app.wishpool/india-logistics-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "app.wishpool/taiwan-payments-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.munimind/munimind-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.recipebooq/recipebooq",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.scopeblind/passport",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.thecrowdspace/crowdspace",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.voice-school/lesson-booking",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "eu.ansvar/chilean-law-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.SevaSk/nova-scotia-data-explorer",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Spacemandomains/library-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Wandersonjack/avocado",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.aksp200/useful-utilities",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.angelo-leone/talent-augmenting-layer",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.bkauto3/conduit",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.cabbageandtea/sqlguard",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.carlosdania/autopilots",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.cengit1/agent-index",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.chris-paton/trustedvillas-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.collapseindex/ci1t-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.connected-paths/paid-ads",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.dario933/grith-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.dhardestylewis/worldcastr-remote",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.djtellado/nexus-finance",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.educlopez/sparkbites",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.getgapup/mcp-knowledge",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.git-akki/sendpookie",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.hartemyaakoub/ambulancedz-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.hrandhawa02/squad_up",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.infoinlet-marketplace/mcp-memory",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.malamutemayhem/australiapost",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.malamutemayhem/bgg",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.malamutemayhem/meal",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.maxi-moss/medical-rag-mcp-test",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.mctx-ai/bible",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.onlygoodantibodies/oga-antibodies",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.outturndev/chartwire",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.ponder-surveys/dreamwork",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.simonenavifare/navifare-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.steffanricardo/the-dutch-directory",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.techleadevelopers/chainfx-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.ym2629/lavela",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.zikriz/wallet-doctor",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.tooloracle/dora",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.tooloracle/paymentoracle",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "org.lexiara/lexiara",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "dev.cz-agents/realestate",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.jcislo/moltalyzer-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.sgroy10/speclock",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.NexQL-OSS/nexql-mcp",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.fastslack/e2e-runner",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "com.noteboxd/mcp",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.BlueWaterCorp/riskmodels",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.beepboop2025/groundcheck",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.bm1016bm-svg/evidrift",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.borealstack/proton-drive-cli-mcp",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.cmoonagent/vocce-agent",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.dinosaur24/mockhero",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.hepter/i18n-codelens-mcp",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.livetennisapi/livetennisapi-mcp",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.zezeron/tweetsave-mcp",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.Acuris-GmbH/acuris-mcp-server",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.FoundryNet/crypto-intel-mcp",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.JKHeadley/moltbridge",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.blocklens/blocklens-mcp-server",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.imran-siddique/agentos",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.jefdiesel/clawphunks",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.marcorusc/MaBoSS",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.marras0914/agent-toolbelt-mcp",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.robbhimself-1337/claude-army",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.ryudi84/color",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.sacravenger/nanmesh-mcp",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.structured-world/gitlab-mcp",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.webtoolbox/websitetoolbox-mcp",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.akshatnerella/arduino-mcp-server",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "com.mcparmory/mixpanel",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "com.mcparmory/resend",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.BenyD/haypile",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.FunplayAI/funplay-unity-mcp",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.Hafeok/product-cli",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.KifoPL/RawSqlMcp",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.MikkoParkkola/trvl",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.Servosity/blumira-mcp",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.Servosity/proofpoint-mcp",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.andrasfe/vulnicheck",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.bgorzelic/ghostlink",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.croit/mcp-croit-ceph",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.daidaiJ/2native-ssh-mcp",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.domdomegg/downdetector-mcp",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.egoughnour/massive-context-mcp",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.emercoin/emercoin-agent",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.gokimedia/tarot-mcp-server",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.goreleaser/mcp",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.hexamatic/pihole-mcp",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.jayden99236/consult-opencode",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.marcomoauro/substack-mcp",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.pastea-app/pastea-mcp",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.pete-builds/unifi",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.psyb0t/codexbox",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.psyb0t/stealthy-auto-browse",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.shuaicongxiaomai/agentguard",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.theluckystrike/appointment",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.theluckystrike/price-tracker",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.timescale/tiger-skills",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.wyre-technology/qbo-mcp",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.yellow-hammer/mcp-1c-platform-tools",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "ai.nexustoken/nexustoken-sdk",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "app.oddsrail/polymarket-kalshi-arbitrage",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "app.qwady.thorns/thornguard",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "app.trysonar/sonar",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "aws.api.us-east-1.ecs-mcp/server",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.BigJai/opendirectories-business-data",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.CrossPad/crosspad-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Custodia-Admin/pagebolt",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Firou91/dyslex-ia",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.IONIS-AI/ionis-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.JerBouma/financetoolkit",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.LGDiMaggio/mcp-server-mcsa",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.OrangeproAI/orangepro",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.PrintrFi/printr",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.SAP/mdk-mcp-server",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.SceneView/mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Shweta-Mishra-ai/tokenmizer",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.SystemCraftsman/strimzi-kafka-cli",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.VibeTensor/attestix",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.absolutejs/agents",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.adam121393/package-intel",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.apilocker/apilocker",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.bamchi/scrapi",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.bawbel/bawbel-scanner",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.bawbel/scanner",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.camgitt/memoir",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.davidmosiah/delx-mcp-server",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.davidmosiah/google-ads-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.docdyhr/macwhisper-mcp-server",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.enzoemir1/invoiceflow-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.evidai/xstocks",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.iowarp/adios-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.iowarp/darshan-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.iowarp/scientific-catalog-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.loicfontaine-max/qorami",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.lu-zhengda/mcp-python-exec-sandbox",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.mcp-z/mcp-drive",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.mikusnuz/app-publish",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.mikusnuz/meta-ads",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.pgalyen1987/gate402-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.pooriaarab/viberadio-fm",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.remoprinz/swiss-health-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.rogerawong/cudaq-docs-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.saucelabs-sample-test-frameworks/sauce-api-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.xiangzi1126/ai-agent-memory-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "ai.sellermate/amazon-ads",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "cloud.nordicdata/nordic-data",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.agentfenster/agentfenster",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.axiomatic-ai/prover",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.getguru/mcp-server",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.numbru/client-compass",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.thatseoagent/seo",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.weav/mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "eu.ansvar/gateway",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Cail726/chinese-text-tools",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.CryptoAPIs-io/mcp-aml",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.ObligationSign/agts-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Yersat/chatflow",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.bendtherules/ask262",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.danecodes/botcall-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.domdomegg/google-drive-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.eduair94/cambio-uruguay",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.fino-oss/contract-scanner",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.fluidumber/autopm",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.jdhart81/viridisos",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.johnisanerd/google-jobs",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.junct-bot/hyperliquid-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.lazymac2x/api-perf-analyzer",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.lazymac2x/diff-patch-tools",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.maxigirl123/storefront-guard",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.megachadxyz/megachad",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.sathergate/floodgate",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.sathvic-kollu/techtenstein-seo",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.silverbackmarketing/ai-readiness",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.tathagat22/slipstream",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.thegridwork/license",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.varvararatta/air_quality_mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.varvararatta/sunrise_sunset_mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.varvararatta/web_content_extract_mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.weiseer/llm-oracle",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.zekebuilds-lab/mcp-identity",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.zemloai-ctrl/elecz",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.prisma/mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "lv.bezbaseina/mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "network.plurality/ai-context-flow",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "sh.objekt/mcp-upload",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "ai.intodns/scanner",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "ai.marketcore/mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "ai.namewhisper/ens-tools",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "ai.trendsapi/crypto",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "ai.trendsmcp/amazon",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "ai.trendsmcp/npm",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "ai.trydock/dock",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "ai.vulx/watch",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "app.selis.mcp/pmo",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "app.turnale/turnale",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "be.tripnet.mnemosyne/mnemosyne",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.automox/automox-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.blackswancausallabs/target-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.braincloudservers/braincloud-mcp-helper",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.carrepaircostestimator/cost-estimator",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.clauxel.c2paintake/c2paintake-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.clauxel.safetyreplay/safetyreplay-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.datasignalslab/datasignals-events-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.dialfetch/dialfetch",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.llm-bus/llm-bus",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.mambabuilt/mcp-ecommerce-platform-profiler",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.midvash/bible",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.missingmcp/whoop",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.moosejudge/alces-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.opensolr/opensolr-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.paxalabs/mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.puppetflow/mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.tamperlens/mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.xhostd/mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "dev.agentsim/mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "dev.costheta/costheta",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "dev.docmancer/docmancer",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "dev.hatchloop/company-verification",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "dev.leclap/video",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "dev.servonaut/servonaut",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "fi.ophis/mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.2s-io/mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.A1-x-Tech/mcp-avito-ads",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.A1-x-Tech/mcp-google-contacts",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.A1-x-Tech/mcp-google-drive",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.ANAMIZED/openmesha",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.AndrewAvery7/promptspend",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Ankur-stockheads/rubo-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Apegurus/web3agent",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.AutomateLab-tech/seo-performance-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Backas03/vitaminmcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Br0ski777/hl-funding",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/agent-audit-logger-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/agent-policy-enforcement-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/bft-progress-council-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/commit-message-ai-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/csrd-compliance-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/eudi-wallet-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/mdr-medical-device-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/meok-ai-reflection-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/meok-bs7121-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/nist-rmf-ai-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/webhook-ai-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Cavendo-AI/vantage",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.ChristopherDavenport/github-twin",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.DollhouseMCP/mcp-server",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Dynatrace/dynatrace-for-ai",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Ethersflow/EthersFlow",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.GitHub30/zenn-mcp-server",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.HaseebKhalid1507/velocirag",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.IndirectTek/mcp-server",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Jason26214/omni-computer-use",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.LizzleChen/local-dfw-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.LuisEnVilla/furniture-designer-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.MaxMLang/cxg-census-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.MukundaKatta/csv-tools-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.NickCirv/engram",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.OpenHCSDev/openhcs",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.PavelGuzenfeld/gemini",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Py2755/aiogram-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Ray0907/git-mcp-server",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Rotwang9000/seneschal-data",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.SMABoundless/scopus",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.SidneyBissoli/senado-br-mcp-cloudflare",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.SpikeyCoder/website-auditor-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.SymbioticSec/mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.TateLyman/x402-triage-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Thunder-Compute/thunder-compute",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Un3x/ai-success-story",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.WimSuenens/gs1belu-mpm",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.ailingqu/apiany-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.alexar76/aimarket-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.antbotlab/mac-use-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.arpe-io/migratorxpress-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.asqi-carter/ftx-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.atomno-mcp/mcp-cbr-rates",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.ax-platform/ax-platform",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.beepboop2025/myquant-editorial",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.bridgenode-ai/bridgenode-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.cantbeblank96/qodercli-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.capad-xyz/searchts",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.chrischall/infinitecampus-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.convergeqa/reviews",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.cyanheads/imf-mcp-server",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.cyanheads/libofcongress-mcp-server",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.cyanheads/mcp-ts-core",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.cyanheads/seerr-mcp-server",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.damoqiongqiu/mcp-local-translate",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.dasasian/firebase-mcp-server",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.dave1362/rca-mcp-connector",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.dave1362/umlforge",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.davet47/heddle",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.djoudad292/hireme-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.dodopok/estevao-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.eduardoabreu81/livewiki",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.feelyday/kadlint",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.ffboers/x402-rpc-gateway",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.furkan708/skillkit",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.g-digital-by-Garrigues/gocertius",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.gabrielmahia/offline-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.giovanemartins/localstack",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.gradion-ai/ipybox",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.haiyunsky/hpsilab-quant-finance-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.honeycrisp-suite/mail",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.houtini-ai/seo-audit-console",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.huangyunbin/soclip",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.hufirst/onsense",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.imatza-rh/mcp-zuul",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.imkemit-ops/comparedge-llm-cost",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.irrenwill/secret-safe-env",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.jaimenbell/github-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.jaredco-ai/weather-mcp-server",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.jarmstrong158/cambium",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.jedanderson432/jedanderson-corpus-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.jmcentire/kindex",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.johnisanerd/startup-investors",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.jztan/qt4-doc-mcp-server",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.kaiser-data/kitsune-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.kira-autonoma/context-proxy",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.labstack/fanout",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.lazyants/transkribus",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.linxule/vox-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.majiayu000/remem",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.manganate006/openlmnp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.marcoguillermaz/tierward",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.matematicsolutions/sk-eli-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.maxtechera/hushdrop",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.mcp-dir/carrefour-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.mcp-dir/contas_cpfl_link_ocr-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.mcp-dir/cro_ba_cadastro-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.mcp-dir/detran_pa_crlv-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.mcp-dir/detran_pr_veiculo_completa-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.mcp-dir/ecrvsp_docs_baixar_veiculo-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.mcp-dir/ecrvsp_docs_dados_cadastrais-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.mcp-dir/investigacao-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.mcp-dir/ofac-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.mcp-dir/portal_transparencia_convenios-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.mcp-dir/portal_transparencia_repasse-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.mcp-dir/portal_transparencia_servidor-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.mcp-dir/pref_sp_sao_paulo_dados_imovel-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.mcp-dir/sefaz_al_ipva-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.mcp-dir/sefaz_es_dec_caixa_postal-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.mcp-dir/sefaz_pi_nfce-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.mcp-dir/sefaz_rj_nfce_completa-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.mcp-dir/sefaz_rs_cadin_cfil-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.mcp-dir/sema_mt_apf-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.mcp-dir/transparencia_servidores_remuneracao-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.mcp-dir/tribunal_tjsp_primeiro_grau-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.mcp-dir/tribunal_tst_validacao_cndt-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.mcp-dir/trt_processos-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.mitsuashi/habitat",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.morinokami/astro-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.mpalermiti/outlook-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.mrslbt/rakuten-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.mrslbt/rippr-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.newspacemarket-com/mrd",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.nirholas/agent-sniper",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.nirholas/agora-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.nirholas/solidity-compiler",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.nirholas/three.ws",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.norrietaylor/distillery-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.ofershap/real-browser",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.ogasurfproject-jpg/jidec",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.openfate-ai/bazi-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.pcmedsinge/mcp-clinical-reasoner",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.pipeworx-io/arcgis-tampa",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.pipeworx-io/australia-tenders",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.pipeworx-io/bored",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.pipeworx-io/cisa-kev",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.pipeworx-io/country-state-city",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.pipeworx-io/ct-dmv",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.pipeworx-io/data-denver",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.pipeworx-io/data-detroit",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.pipeworx-io/datacite",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.pipeworx-io/duffel",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.pipeworx-io/freshdesk",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.pipeworx-io/greynoise",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.pipeworx-io/mast-nasa",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.pipeworx-io/nihr",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.pipeworx-io/ny-dmv",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.pipeworx-io/regulations-gov",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.pipeworx-io/repology",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.pipeworx-io/steam",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.pipeworx-io/travel-feeds",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.pipeworx-io/unpaywall",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.pipeworx-io/url",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.pipeworx-io/weather-gc-ca",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.pipeworx-io/worldbank-projects",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.pochtmanr/argus",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.ravi-labs/mindmap-mcp-server",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.reesehammer/umbra-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.rog0x/time",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.scottconfusedgorilla/sncro",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.seifreed/ensmcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.slshults/gpra-chord-charts",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.smythmyke/patent-search-mcp-server",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.snoooz-ai/snoooz-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.soke1556/zas-agent",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.stef-k/cognirelay",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.strato-space/media-gen-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.telemarkdigital-publisher/bluesky-keyword-alerts",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.tixuz/openemis-pro",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.tpjnorton/swiss-public-transport-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.ura-tools/changelogai",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.us-all/dbt",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.us-all/unifi",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.vktr93/reviewmetric",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.vouch-protocol/vouch-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.waqarulwahab/llm-cost-estimator",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.wubin1836/ai-hive-aigc",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.xiaojiou176-open/openui-mcp-studio",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.lenz/fact-check",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.rtkmotion/data",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.synthnet/mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.tooloracle/policyoracle",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.usefulapi/stream",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "is.k01/synthetic-health-data",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "land.transcript/transcripts",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "org.bull-run/bullrun",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "org.pubscope/pubscope",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "su.hpt/hptsu-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "trade.rubin/exchange",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "uk.co.garchi/garchi-cms",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
    "server": "eu.ansvar/argentine-law-mcp",
-   "type": "new_signal",
-   "detail": "repo_link_dead",
-   "severity": "high"
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "eu.ansvar/india-law-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.pcrzero/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.jeresalmisto/calcfi-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.datasynx/cartography",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.dmsnavin/grandline-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.ojuschugh1/sqz",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.spideriq/leads",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Ansvar-Systems/ot-security-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.fentz26/envcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.nirholas/data-workbench-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.puglieseweb/systemdox",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.terry-li-hm/vivesca",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.intuitek.the-stall/the-stall",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.jawz/jawz",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.marketcrew/market-data",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.nashboard/nashboard-merchants",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.occludra/mcp-gateway",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.seltz/seltz-ai-seltz-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.smithery/STUzhy-py_execute_mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.tunnelmind/data",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.uselamina/lamina",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "app.dailystudio/teleprompter",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "app.racecalendar/f1",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "app.sendhey/sendhey",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "au.com.ministryofgems/gemmology",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "az.trend/news",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "best.creditcards/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "chat.avva/catalog",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "cloud.serpent/salesforce-devops",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "cloud.wavehouse/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.agenticdealernetwork/adn-gateway",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.arc-relay/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.ayurak/aribot-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.brainiall/nlp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.checkmycontractorquote/firegrant-ai",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.checkmycontractorquote/local-compliance-os",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.datocapital/api",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.doorprofit/doorprofit",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.dropwatchhq/distress-abc",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.groniz/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.hedgefundalpha/public-research",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.koongo/mcp-server",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.legendsoflearning.app/catalog",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.llmotions.farm/opus-4-8-agent",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.minkapp/mink",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.moxlade/upwork-buyer-intelligence",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.muzecmo/ecommerce-ads",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.newyorkautoquotes/insurance",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.ntop/docs",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.postlia/postlia",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.publicsignaldata/actors",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.pythonanywhere.cryptopulse/json-repair",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.ranovam/mcp-research-agent",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.redreplier/mcp-server",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.reportingninja/reporting-ninja",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.rocket-core.intel/marketplace",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.sigmadiario/datos-argentina",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.supersaas/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.tamgara/tamgara",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.teenpsychiatry/library",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.test-well/testwell",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.texttostl/texttostl",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.theirstack/theirstack",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.themailx/email-deliverability",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.thenextgennexus/patents-trademarks-ip-mcp-server",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.vigotime/tools",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.voxodds/voxodds",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.website2vat/website2vat",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.wickfunded/trading",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "cz.volai/volai",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "dev.desvela/brand-watch",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "dev.desvela/registry",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "dev.ichabod/ichabod",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "dev.workers.notdown-app.pulse/monitor",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "eu.voxs/voxcars-pt",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "finance.double.agent4/knowledge-base",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ge.meni/guest",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Evozim/chirpstack-lorawan-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Evozim/damaged-text-inpainter-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Evozim/dark-pool-liquidity-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Evozim/darkweb-breach-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Evozim/dnp3-protocol-analyzer-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Wxt-ai/inventory-planning-ledger",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Wxt-ai/workspace-activity-reference-identifier",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.alansafahi/soapbox-faith",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.albermm/phos-analytics-engine",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.blakeyounger/answerpool",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.capratesignals-cpu/cap-rate-signals",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.imoldyoung/e-invoice",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.junoventures/bogeyland-golf",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.junoventures/vilamadalena-sampa-br",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.powerliftingdeveloper/autonoma",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.rolocache/agent-advisories",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.sturs49/cryptotaxedge",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.xiaopeng215-sys/travelerlocal",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.minter/analytics",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.rendry/rendry",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.systemprompt/reports",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "it.machinesignal/discovery",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "lighting.comiza/agentwatch",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "live.alpic.clouddj-ce0f8cfd/clouddj",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "live.alpic.staging.mcp-server-template-90a89880/mcp-server-template",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "market.plati.mcp/digimarket",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "markets.rivo/rivo",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "network.edge/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "news.v3/desk",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "org.448c/sentinel",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "org.blocksigner/agentworld",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "org.govenantstandard/govenant-audit",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "org.memoryapi/food",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "org.thru/thru-explorer",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "red.atlas/red-atlas-api",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "sh.fetcher.yelp/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "tech.broen/asmi",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "tech.finology/verified-engine",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "technology.draup/api-server",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "today.utsuroi/uratori",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "tw.tobid/tenders",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "uk.mayneart.mcp/mayneart-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "xyz.fluxiq/agent",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "xyz.utilityhouse/federal-grant-evidence",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.ninar/ninar",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.walterwrites/mcp-server",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "app.livtakt/livtakt",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "app.meepo/studio",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "app.odyssey365/mcp-server",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "app.wishpool/colombia-payments-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "app.wishpool/cyprus-payments-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "app.wishpool/finland-payments-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "app.wishpool/global-logistics-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "app.wishpool/indonesia-logistics-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "app.wishpool/thailand-invoice-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "au.com.manageyourloans/mortgage-tools",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.biodnd/agent-fin",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.blazesportsintel/college-baseball",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.gemalli/trade",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.gqlteam/site",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.ifa-wisdom/library",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.mustertheforce/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.queuesim/public",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.tastemakerdev/tastemaker",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.themassprint/massprint",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "de.zugferd-validator/validator",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "dev.arlet/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "dev.dungbeetle/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Adessoadesso/panoramic-ireland-booking",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/meek_capillary_actuator_mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Caplia-Tech/caplia",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Centrify-Internal/hubspot-integrations-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Gliana-Labs/gliana-ai-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Lulu-The-Narwhal/holidays-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.NicolasIppoliti/argentina-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Nikoble1926/kraken-signals-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Screed369/autoza-uk",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Timwal78/402proof",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.aniripsaretro-max/golemreach-heartbeat",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.astafford8488/pitchiq-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.carson-see/arkova-verification",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.egorthinks/perception",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.faulknerwayne73-droid/kojiru-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.geraservicesuk/mcp-gera-witness",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.geraservicesuk/mcp-geracash",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.hunterzai16z/ai-hunterz",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.infoinlet-marketplace/mcp-translate",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.jalexspringer/forage-shopping",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.jazib/homebase",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.malamutemayhem/ipapi",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.malamutemayhem/ipaustralia",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.malamutemayhem/restcountries",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mbdev3/consolelog-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mjbryant66/rentershield",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.nousulabs-debug/pohjola-api",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.pduggusa/dugganusa-threat-intel",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.ptyagiegnyte/egnyte-remote",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.sarduine13-star/botguard-pro",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.shailesh-opsera/softwareforge",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.singularitybpjade/balance-engine",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.tcador/787daily",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.teodorofodocrispin-cmyk/veradata",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.thyn-ai/telys",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.usamaejaz/justblogged",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.usnmax88/reel25-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.zero520-dot/trencher-agent",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.tmtb/tmtb-platform",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.tooloracle/seooraclev2",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.tooloracle/tlpt",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "jobs.physicalai/physical-ai-jobs",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "net.arclera/arclera",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "support.recursive/recursive",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.ZentricProtocol/zentric-protocol-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.jasonko/psquare",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.CryptoAPIs-io/mcp-prepare-transactions",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.carlosahumada89/govrider-mcp-server",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.MarcellM01/tinysearch",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.BamaCharanChhandogi/blogcaster-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Eason0in/classdojo-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.STiFLeR7/memex",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Silbercue/public-browser",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.VidhiJav/myrsu-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.bobaba99/motionlint",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.inflectiv/inflectiv-mcp-server",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.msgwing/zerosmtp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.vshulcz/deja-vu",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.engagedviews/youtube-thumbnail-sizes",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "app.undisk.mcp/stdio-proxy",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.32bitsret/demostudio",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.APonkratov/yandex-tracker-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Autostackup/hr",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.FoundryNet/foundrynet-inference",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Shangri-la-0428/oasyce",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.airweave-ai/search",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.lucle87/boo-mpp-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.pipeworx-io/ons-uk",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.ryudi84/readme",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.snrniranjan/vibelogin-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.zhugejun/chartone",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.scrapfly.mcp/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "app.metadock/metadock",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.mcparmory/parallel",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.mcparmory/shopify-admin",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.mock-server/mockserver",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.sema-lang/sema",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "day.shyn/shyn",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Josepavese/nido",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Servosity/datto-rmm-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Servosity/servosity-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.apollographql/apollo-mcp-server",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.bardesss/arr-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.boutquin/email",
+   "type": "removed",
+   "detail": "delisted from registry"
   },
   {
    "server": "io.github.copyleftdev/kahea",
-   "type": "version_change",
-   "detail": "0.0.1-OLD -> unresolved",
-   "severity": "high"
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.drhelius/gearcoleco",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.egoughnour/code-firewall-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.fmadore/iwac-mcp-server",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.jarvismaximum-hue/profitplay-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.johnnyclem/jcas-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.matteo-sung/lockvet",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.smbcloudXYZ/smbcloud-cli",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.terrorproforma/explore-better",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.theluckystrike/archive",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.theluckystrike/contract-clause-library-proposal-template-docx",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.theluckystrike/spreadsheet",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.wyre-technology/alternative-payments-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.wyre-technology/xero-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.nyx-intelligence/val",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Anioko/archiet-xray",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/firmware-attestation-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.CaFra-House/office-worker-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.IcyHot09/opengrok",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Kinglions/ui-design-to-code-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.OwenMaine/dockase-legal-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.RudrenduPaul/computeledger",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.WayforthOfficial/wayforth",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Wolfe-Jam/gemini-faf-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.alexey-pelykh/linkedctl",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.atomno-mcp/mcp-seo-audit",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.clm-cloud-solutions/uptimebolt-mcp-server",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.cocaxcode/database-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.dancumberland/kit-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.davidmosiah/apple-health-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.davidmosiah/ouramcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.davidmosiah/uap-pulse",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.dominik1001/caldav-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.galaxyproject/galaxy-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.goodfel10w/welcome-text-generator-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.gptaria-mcp/gptaria-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.horustechltd/horus-flow-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.iowarp/parallel-sort-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.jessedu29260-netizen/booboo",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.kitepon-rgb/aiterm-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.live-direct-marketing/inbox-check",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mcpware/claude-code-organizer",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.msenol/gorev",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.payclaw/badge",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.phillipclapham/anneal-memory",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.pooriaarab/aigentify",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.robotel-limited/robo-cortex",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.romainsantoli-web/memory-os-ai",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.saybanet/sayba-platform",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.sbrunner-atx/contest-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.siddmax/namera",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.singularityjason/lightning-memory",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.sonpiaz/watch-cli",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.stevemilton/buyforme-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.userFRM/rpg-encoder",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.wesseltl/crypto-price-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.masnavi/masnavi",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "co.flow2/flow2",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.avalara/classification",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.diggercamp/music-similarity",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.fixidu/mcp-server",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.hankookilbo.mcp/hankookilbo-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.kazejev/profile",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.mintmcp/outlook-email",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.sendpageapp/sendpage",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "eu.ansvar/dutch-law",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ink.ml/ink",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.actvt/actvt",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.BorisGujvin/dittu",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Br0ski777/image-generator",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.CryptoAPIs-io/mcp-block-data",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.IndoTender/thecompanyatlas",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Odds7/fia-signals-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Prohect/bind-alias-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Terminal49/terminal49",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Yoshyaes/creator-seo-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.addozhang/nexus",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.bibinprathap/veritasgraph",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.bluetouff/compatair",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.cailab-hk/cai",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.carhaix/oi",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.danielle790/jewelry-by-sweet-pea",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.digidenone/synapse-audit",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.domdomegg/filesystem-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.domdomegg/shell-exec-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.erashev-fedor/gemsift-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.fisher-byte/markovo",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.forgeagents-jp/oka-anywhere",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.git-acet/smsenmasse",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.giuliobmb/exam-sheet",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.greencore-solutions/cpg-knowledge-graph",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.gucceed/norric-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.hashchecked/crypto-derivatives-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.hernaninverso/eleata-einvoice-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.isgudtek/mycrab-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.jdhart81/agent-notary",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.lazymac2x/ai-crawler-policy",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.lazymac2x/ai-guardrails",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.lazymac2x/crypto-signal",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.lazymac2x/smart-data-extractor",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mdfifty50-boop/agent-costcenter",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.meltingpixelsai/harvey-tools",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.milesdev888/guardian",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mrfentmen/gimp-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mrfentmen/opensearch-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.nexus-mcp-infra/public-tenders-es-eu",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.oppenheimervonbraun/zerostart-agent",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.portdeveloper/gulltoppr",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.rbonestell/ap-mcp-server",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.renanlido/custom-mcp-database",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.sadri-dridi/http-404",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.toolhail/gateway",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.varvararatta/home_automation_mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.vmware-skills/vmware-nsx",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.weiseer/regulatory-deadline",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.xitoring/mcp-server",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.zev-lll/lastlook-data",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "net.zzboard/zzboard",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "uk.co.grantiq/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.millerchou/rocketchat-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.toffu/toffu",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.trendsapi/ecommerce",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.trendsmcp/app-store",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.trendsmcp/reddit",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "app.twiceshy/twiceshy",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "au.com.aiframework/australian-ai-governance-framework",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "au.com.ato-mcp/ato-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.askacharge/askacharge",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.ausca/agent-services",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.casemargin/casemargin-mcp-server",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.catalogapi/catalogapi",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.chalet-montagne/rentals",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.clauxel.codegraphcontext/codegraphcontext-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.clauxel.skybridgepackager/skybridgepackager-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.getmcpads/google-analytics",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.jobyap/jobs",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.mambabuilt/mcp-gtm-hiring-signal-scraper",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.optionsanalysissuite/options-analysis-suite-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.rohithmariyala/makemebetter-ai",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.scrapeunblocker/scrapeunblocker-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.theartofservice/compliance-intelligence",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.torquantis/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.tryadlicio/adlicio",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.usedailyai/launchd-drift-recovery",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "com.yaktool/gs1",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "dev.animica/animica",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "dev.cz-agents/dd",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "dev.e18e/e18e",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "dev.lovable/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "dev.smartcut/cutlist-optimizer",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.ainsof/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.docmill/mcp-server",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.A1-x-Tech/mcp-google-docs",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.A1-x-Tech/mcp-google-search-console",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.A1-x-Tech/mcp-google-tasks",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Applied-Artificial-Intelligence-Eurecat/epanet-mcp-server",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Bgenc48/arc-ledger-tax-tools",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.BilliumHQ/billium",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/agent-identity-trust-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/ai-gateway-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/care-home-cqc-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/content-registry-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/dataprivacy-ai-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/meok-bft-governance-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/meok-eu-ai-act-art-13-ifu-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/oscal-generator-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Cipher208/ariel-memory",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Creed-Space/creedspace-mcp-server",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.CydVilla/peckish",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.DownAtTheBottomOfTheMoleHole/infracost",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Evil-Bane/eyebrowse",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.FixemBCN/mcp-bifrost",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.G0Osey99/awesome-mineflayer-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Happygallo/apple-ads",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.HayoDev/crystallize-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.JSONbored/metagraphed",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.JaysonAIOnline/cognitive-substrate",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Jiansen/mcp-doctor",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Lakshmi-Chakradhar-Vijayarao/credence",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Lohithry/divlens",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.MealMasteryAI/mcp-server",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.MiniCodeTeam/askais-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.MukundaKatta/shellquote-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Opita-Code/dark-memory-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Perf-AI/perf-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Qiskit/qiskit-code-assistant-mcp-server",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Reachpad/reachpad-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.SLAtech-IL/mediora-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.SidneyBissoli/ilo-mcp-server",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.SpicyRiceCakes/nelly-elephant-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Stakemate369/yieldsignal",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.Synvoya/codeinspectus",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.TadFuji/kirok-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.UnboundCompute/lachesis",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.YawLabs/caddy-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.achiya-automation/safari-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.afurlane/copilot-datagate",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.andrelaptenok/redmine-mcp-stdio",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.antics-gg/antics-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.arthurcarlsonn/aeo-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.artvepa80/hefestoai",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.aydincan/turk-hukuku-mevzuat-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.bch1212/agentfetch",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.bch1212/agenttrust",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.beepboop2025/pdf-suite-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.beeswaxpat/chronoverify",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.benkaiser/mob-demo",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.brntech/myotp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.capabilityhostprotocol/chp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.cesteral/gads-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.chrischall/app-store-connect-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.chrischall/ofw-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.comil27/etsy-tags-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.conorbronsdon/substack-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.crunchtools/gitlab",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.cyanheads/national-parks-mcp-server",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.cyanheads/nist-nvd-mcp-server",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.cyanheads/noaa-marine-mcp-server",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.cyanheads/treasury-fiscaldata-mcp-server",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.dailyaiagents-cpu/monthly-burn",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.darrenjrobinson/graph-atlas-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.davidangularme/hokmah",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.davidemanuelDEV/percept",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.dir-ai/voyager-repo",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.dmarc-examiner/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.dockndevai/mcp-keycloak",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.easonwong-de/firefox-css-theme",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.egocen-vivideo/vivideo",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.ejentum/self-inspect-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.emircbngl/blender-optics-simulator",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.epistemedeus/x402-data-gateway",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.extensiondev/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.figranium/figranium-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.firatmio/mcp-audit-proxy",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.g-digital-by-Garrigues/ead-enterprise-suite",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.gabrielmahia/faida-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.getsquish/squish",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.hail-hq/hail-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.hampsterx/claude-mcp-bridge",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.hampsterx/codex-mcp-bridge",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.heidihelena/vahtian",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.hifarrer/ffmpegapi",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.hshintelligence/agent-scrape",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.huanglizhuo/octocounts-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.humantextpro/mcp-server",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.inavi-systems/inavi-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.industrial-aiops/iaiops-energy",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.ipiton/agent-memory-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.iqingyoung/429-throttle-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.jamboree777/nightwatch",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.jeff-nasseri/revolut-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.jnilrac/secant-agent-research-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.joinQuantish/polymarket",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.kadopi/x402-mcp-starter",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.kalehdoo/warehouse-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.keshrath/agent-tasks",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.laibniz/scholarfetch",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.llmops-pro/nostr-ops-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.lonniev/taxsort-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.makosdDavid/package-risk",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mansurjisan/recon-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mario-andreschak/mcp-abap-abap-adt-api",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mario-andreschak/mcp-abap-adt",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mario-andreschak/mcp-cad-studio",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.martc03/public-health",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mayim-mayim/ln-church-agent-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mayorandrew/openapi-dynamic",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mcp-dir/cfo_cadastro-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mcp-dir/contas_neoenergia_download_ocr-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mcp-dir/cro_pi_cadastro-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mcp-dir/detran_pr_licenciamento-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mcp-dir/detran_rs_infracoes-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mcp-dir/ecrvsp_processos_andamento-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mcp-dir/ecrvsp_processos_crlve-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mcp-dir/jus-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mcp-dir/pedagios_pedagio_digital-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mcp-dir/pref_ba_juazeiro_cnd-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mcp-dir/pref_ba_salvador_nfs-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mcp-dir/pref_ce_fortaleza_cpom-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mcp-dir/pref_sp_sao_paulo_valor_ref-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mcp-dir/sefaz_ba_ipva_notificado-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mcp-dir/sefaz_mg_certidao_debitos-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mcp-dir/sefaz_rj_ipva_darj-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mcp-dir/sefaz_rs_debitos-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mcp-dir/sefaz_sp_certidao_debitos-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mcp-dir/siconfi_declaracao-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mcp-dir/tribunal_tjpr_processo-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mcp-dir/tribunal_trf4_certidao-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mcp-dir/veiculo_nacional-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mcp-dir/vinculo_empregaticio-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.mouhabmzibra-rgb/seo-backlinks",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.nirholas/crypto-market-data",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.nirholas/validation-mcp-server",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.nirholas/x402-bridge",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.oguzc/playwright-wizard-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.open-agreements/open-agreements",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.ozankasikci/global-agent-memory",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.peureka/agentlookup-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.pipeworx-io/ashby",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.pipeworx-io/bcb-br",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.pipeworx-io/bundestag-de",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.pipeworx-io/cms-open-payments",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.pipeworx-io/crystallography",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.pipeworx-io/data-delaware",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.pipeworx-io/data-iledefrance",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.pipeworx-io/data-issy",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.pipeworx-io/datos-cl",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.pipeworx-io/edgar",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.pipeworx-io/genius",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.pipeworx-io/hagstova-fo",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.pipeworx-io/mercury-number",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.pipeworx-io/npm",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.pipeworx-io/riksdagen-se",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.pipeworx-io/rss2json",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.pipeworx-io/take-the-meeting",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.pipeworx-io/uk-food-hygiene",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.pipeworx-io/useragent",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.pipeworx-io/usgs-volcano",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.pipeworx-io/wikiquote",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.pipeworx-io/zoho_crm",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.remoet-labs/remoet-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.reshadat/outage-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.saucelabs/sauce-api-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.sean-sunagaku/promptlint-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.selflabbs/regulatory-intel-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.sind00/flippa-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.sitegpt/sitegpt-docs",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.societe-agents-ia-arch/open-agent-polity",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.steve228uk/metro-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.stylabs/hostaway-kit",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.temporal-cortex/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.tersignhq/evidence",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.thehesiod/aa",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.titov-d/agentdocs",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.tlennon-ie/neurodock-mcp-guardrail",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.trakkr-aisearch/openai-ads-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.vatnode/vatnode-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.vdappdev2/chain",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.vpatser1/mcp-schema-designer",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.weatherai-io/weatherai",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.yjhann33-design/korea-stock-insight-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.yongjip/mergetrain",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.yuvalsuede/claudia",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.github.zomma-dev/quantcontext",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.tooloracle/suioracle",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "io.veezee/linkedin",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "si.sigit/sigit",
+   "type": "removed",
+   "detail": "delisted from registry"
   },
   {
    "server": "st.seedfa/seedfast",
-   "type": "new_entry",
-   "detail": "grade A"
+   "type": "removed",
+   "detail": "delisted from registry"
   }
  ]
 }

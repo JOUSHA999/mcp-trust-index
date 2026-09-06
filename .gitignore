@@ -1,0 +1,12 @@
+# Large intermediates — regenerated at runtime, never committed (127 MB / 31 MB).
+data/servers_raw.json
+data/servers_dedup_full.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store

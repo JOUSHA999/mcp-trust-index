@@ -1,0 +1,29 @@
+{
+ "compared_at": "2026-09-06T12:25:01Z",
+ "baseline": "index-TESTPAST.json",
+ "events": [
+  {
+   "server": "dev.cz-agents/dd",
+   "type": "description_change",
+   "severity": "high",
+   "detail": "registry description edited"
+  },
+  {
+   "server": "eu.ansvar/argentine-law-mcp",
+   "type": "new_signal",
+   "detail": "repo_link_dead",
+   "severity": "high"
+  },
+  {
+   "server": "io.github.copyleftdev/kahea",
+   "type": "version_change",
+   "detail": "0.0.1-OLD -> unresolved",
+   "severity": "high"
+  },
+  {
+   "server": "st.seedfa/seedfast",
+   "type": "new_entry",
+   "detail": "grade A"
+  }
+ ]
+}

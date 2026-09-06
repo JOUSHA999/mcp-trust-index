@@ -1,0 +1,83 @@
+{
+ "generated_at": "2026-09-06T12:20:52Z",
+ "universe_declared_pypi": 3607,
+ "sample": {
+  "n_sampled": 500,
+  "resolved": 497,
+  "unresolved": 3,
+  "version_desync": 126,
+  "desync_pct": 25.4,
+  "ci95": [
+   21.7,
+   29.4
+  ],
+  "extrapolated_desync": [
+   783,
+   1060
+  ],
+  "description_drift": 33,
+  "drift_pct": 6.6
+ },
+ "examples_drift": [
+  {
+   "server": "io.github.CSOAI-ORG/c2pa-watermark-mcp",
+   "pkg": "c2pa-watermark-mcp",
+   "prev": "C2PA Content Credentials MCP server for EU AI Act Article 50 compliance.",
+   "cur": "C2PA Watermark & Provenance MCP server. Built with c2pa-python."
+  },
+  {
+   "server": "io.github.presidio-v/presidio-hardened-x402-mcp",
+   "pkg": "presidio-hardened-x402-mcp",
+   "prev": "MCP server exposing presidio-hardened-x402 PII screening, policy, and replay-guard tools t",
+   "cur": "MCP server exposing presidio-hardened-x402 pre-payment PII screening, policy, and replay-g"
+  },
+  {
+   "server": "io.github.wstierhout/ableton-live-mcp",
+   "pkg": "mcp-server-ableton-live",
+   "prev": "Control Ableton Live 11/12 with 154 typed MCP tools for MIDI, devices, arrangement, mixing",
+   "cur": "Control Ableton Live 11/12 with 156 typed MCP tools for MIDI, devices, arrangement, mixing"
+  },
+  {
+   "server": "io.github.bzsasson/screaming-frog-mcp",
+   "pkg": "screaming-frog-mcp",
+   "prev": "Headless MCP server for Screaming Frog SEO Spider \u2014 run crawls, export and analyze crawl d",
+   "cur": "Headless MCP server for Screaming Frog SEO Spider: run crawls, export and analyze crawl da"
+  },
+  {
+   "server": "io.github.Bortlesboat/bitcoin-mcp",
+   "pkg": "bitcoin-mcp",
+   "prev": "MCP server for Bitcoin \u2014 47 tools for AI agents to save money on fees. Zero config, works ",
+   "cur": "MCP server for Bitcoin \u2014 49 tools for AI agents to save money on fees. Zero config, works "
+  },
+  {
+   "server": "io.github.seang1121/sports-betting-mcp",
+   "pkg": "sports-betting-mcp",
+   "prev": "MCP server for AI-powered sports betting analysis \u2014 NBA, NHL, NCAAB. 9 tools: picks, odds,",
+   "cur": "Live sports betting MCP server \u2014 AI picks, odds, injuries, line movement across NBA, NHL, "
+  },
+  {
+   "server": "io.github.thomasxm/crowdsentinel-mcp-server",
+   "pkg": "crowdsentinel-mcp-server",
+   "prev": "AI-powered threat hunting and incident response MCP server for Elasticsearch/OpenSearch wi",
+   "cur": "AI-powered threat hunting and incident response MCP server for Elasticsearch/OpenSearch wi"
+  },
+  {
+   "server": "io.github.ZohaibCodez/discrete-structures",
+   "pkg": "discrete-structures-mcp",
+   "prev": "MCP server for Discrete Structures - Logic, Algorithms, Number Theory, and Cryptography to",
+   "cur": "MCP server for Discrete Mathematics: Boolean Logic, Algorithms, Number Theory, Cryptograph"
+  },
+  {
+   "server": "io.github.MICONNM/openclaw-consensus-mcp",
+   "pkg": "openclaw-consensus-mcp",
+   "prev": "MCP server for OpenClaw Consensus \u2014 9-LLM consensus to fight hallucinations. Built by yanm",
+   "cur": "MCP server for OpenClaw Consensus ??9-LLM consensus to fight hallucinations. Built by yanm"
+  },
+  {
+   "server": "io.github.sluyasu/openinsurance-wiki",
+   "pkg": "openinsurance-wiki-mcp",
+   "prev": "Read-only MCP server over the openinsurance-wiki knowledge base (search, get_product, comp",
+   "cur": "Read-only MCP server over the openinsurance-wiki knowledge base (search, get_product, get_"
+  }
+ ]
+}

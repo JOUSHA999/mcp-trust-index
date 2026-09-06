@@ -1,0 +1,119 @@
+{
+ "generated_at": "2026-09-06T12:14:44Z",
+ "universe_declared_github_repos": 20834,
+ "universe_declared_npm_packages": 8467,
+ "github_sample": {
+  "n": 1200,
+  "dead": 181,
+  "dead_pct": 15.1,
+  "ci95": [
+   13.2,
+   17.2
+  ],
+  "archived": 14,
+  "no_license": 142,
+  "stale_365d": 0,
+  "extrapolated_dead": [
+   2750,
+   3583
+  ]
+ },
+ "npm_sample": {
+  "n": 800,
+  "resolved": 787,
+  "unresolved": 13,
+  "version_desync": 252,
+  "desync_pct": 31.5,
+  "ci95": [
+   28.4,
+   34.8
+  ],
+  "description_drift": 61,
+  "drift_pct": 7.6,
+  "desc_mismatch_vs_registry": 670,
+  "mismatch_pct": 83.8,
+  "extrapolated_desync": [
+   2405,
+   2947
+  ]
+ },
+ "examples_dead_repo": [
+  "holdings-io/workspace",
+  "Ghostkey316/vaultfire-mcp-server",
+  "Ansvar-Systems/US_compliance_MCP",
+  "ZWingett/gallandigital-marketplace",
+  "yauhen-l/text2event",
+  "pipeworx-io/mcp-govcon-intel",
+  "sergioortizlatorre2/securestamp",
+  "infoinlet-marketplace/marketplace",
+  "andrewlamamills-tech/missing-linkz",
+  "sohaibt/splera",
+  "bildow/kodiak",
+  "Bankee-ai/inferventis",
+  "simlir/simlir",
+  "Lulu-The-Narwhal/lulu-platform",
+  "IMBAwallet/IMBA_front"
+ ],
+ "examples_drift": [
+  {
+   "server": "io.github.vdappdev2/identity",
+   "pkg": "@verusidx/identity-mcp",
+   "prev": "MCP server for VerusID identity management \u2014 create, update, revoke, recover, sign, and qu",
+   "cur": "MCP server for VerusID identities \u2014 register, update, revoke, recover, query, set timelock"
+  },
+  {
+   "server": "io.github.OrygnsCode/omnicord",
+   "pkg": "@orygn/omnicord",
+   "prev": "Omnicord: an MCP server for Discord. Chat, moderate, administrate, and build out entire se",
+   "cur": "Omnicord: a Discord server management MCP for AI agents. Chat, moderate, administrate, and"
+  },
+  {
+   "server": "io.github.flowzap-xyz/flowzap",
+   "pkg": "flowzap-mcp",
+   "prev": "MCP server for FlowZap - Create workflow, sequence, and architecture diagrams via AI assis",
+   "cur": "MCP server for FlowZap - Create workflow, sequence, architecture, and mind map diagrams vi"
+  },
+  {
+   "server": "com.dzgapp/mint",
+   "pkg": "@dzg-studio/mcp-server-mint",
+   "prev": "Launch Mint's on-device macOS storage intelligence as a local MCP server.",
+   "cur": "Launch Mint's on-device Mac and AI-tool storage intelligence as a local MCP server."
+  },
+  {
+   "server": "io.github.gkcogz/1trippulse",
+   "pkg": "1trippulse-mcp-server",
+   "prev": "1trip Travel Planning MCP Server \u2014 16 AI tools, 5 resources, 6 prompts: trip skeletons, co",
+   "cur": "1trip PULSE \u2014 The #1 travel planning MCP server. 21 tools, 5 resources, 6 prompts. Live fl"
+  },
+  {
+   "server": "dev.cz-agents/payqr",
+   "pkg": "@czagents/payqr",
+   "prev": "MCP server for European payment QR codes, text, Wi-Fi, vCard, and QR decoding",
+   "cur": "European payment QR codes \u2014 generate and read SPAYD (CZ/SK) and EPC/GiroCode (Eurozone) pa"
+  },
+  {
+   "server": "dev.cz-agents/adis",
+   "pkg": "@czagents/adis",
+   "prev": "MCP server for ADIS \u2014 Czech VAT-payer reliability check (nespolehliv\u00fd pl\u00e1tce DPH) via the ",
+   "cur": "Czech VAT payer reliability check (ADIS / \"nespolehliv\u00fd pl\u00e1tce DPH\") \u2014 verify whether a VA"
+  },
+  {
+   "server": "io.github.sF1nX/x402station",
+   "pkg": "x402station-mcp",
+   "prev": "MCP adapter for x402station \u2014 gives any agent (Claude Code / Cursor / Windsurf / Continue)",
+   "cur": "MCP adapter for x402station.io, the independent risk-signal layer for x402 agentic commerc"
+  },
+  {
+   "server": "io.github.danielrz/investbuddy",
+   "pkg": "investbuddy-mcp-server",
+   "prev": "Model Context Protocol server for InvestBuddy AI - Stock predictions with 79.86% accuracy",
+   "cur": "Model Context Protocol server for InvestBuddy AI - Validated LSTM predictions with +15.92%"
+  },
+  {
+   "server": "io.github.Silbercue/public-browser",
+   "pkg": "public-browser",
+   "prev": "Lets Claude Code and Cursor drive Chrome. Browse with your real profile \u2014 30% fewer tokens",
+   "cur": "Lets Claude Code and Cursor drive Chrome. Browse your real profile: -30% tokens, -25% cost"
+  }
+ ]
+}

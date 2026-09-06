@@ -1,0 +1,62 @@
+{
+ "generated_at": "2026-09-06T12:12:21Z",
+ "unique_servers": 27509,
+ "raw_entries": 93296,
+ "declares_repository": 20867,
+ "declares_package": 12985,
+ "declares_any_source": 21525,
+ "declares_no_source": 5927,
+ "metadata_only": 57,
+ "has_remote_endpoint": 15550,
+ "has_website": 13379,
+ "plain_http_endpoints": 0,
+ "remote_transport_types": {
+  "streamable-http": 14978,
+  "sse": 1069
+ },
+ "package_registry_types": {
+  "npm": 8467,
+  "pypi": 3607,
+  "mcpb": 1107,
+  "oci": 876,
+  "nuget": 107,
+  "cargo": 43
+ },
+ "top_namespaces": {
+  "io": 19249,
+  "com": 3891,
+  "ai": 1367,
+  "app": 462,
+  "dev": 439,
+  "eu": 148,
+  "org": 144,
+  "net": 138,
+  "co": 112,
+  "live": 75,
+  "xyz": 75,
+  "sh": 57,
+  "de": 54,
+  "tech": 44,
+  "fr": 43,
+  "uk": 41,
+  "cloud": 34,
+  "me": 34,
+  "pro": 27,
+  "ru": 27,
+  "network": 22,
+  "so": 22,
+  "us": 22,
+  "ca": 21,
+  "ch": 21
+ },
+ "statuses": {
+  "active": 27197,
+  "deprecated": 312
+ },
+ "pct": {
+  "declares_any_source": 78.2,
+  "declares_no_source": 21.5,
+  "metadata_only": 0.2,
+  "has_remote_endpoint": 56.5
+ }
+}

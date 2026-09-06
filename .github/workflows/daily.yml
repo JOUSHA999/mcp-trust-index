@@ -23,10 +23,8 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Authenticate gh (needs >1,000 public-repo lookups/hr)
-        run: |
-          echo "$GH_TOKEN" | gh auth login --with-token
-          gh auth status
+      - name: Verify gh auth (job-level GH_TOKEN already authenticates gh)
+        run: gh auth status
 
       - name: Run pipeline
         run: bash run_daily.sh

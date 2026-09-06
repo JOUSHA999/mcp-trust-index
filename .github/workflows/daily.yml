@@ -14,6 +14,8 @@ jobs:
   scan:
     runs-on: ubuntu-latest
     timeout-minutes: 90
+    env:
+      GH_TOKEN: ${{ secrets.GH_PAT || github.token }}
     steps:
       - uses: actions/checkout@v4
 
@@ -22,8 +24,6 @@ jobs:
           python-version: "3.12"
 
       - name: Authenticate gh (needs >1,000 public-repo lookups/hr)
-        env:
-          GH_TOKEN: ${{ secrets.GH_PAT || github.token }}
         run: |
           echo "$GH_TOKEN" | gh auth login --with-token
           gh auth status

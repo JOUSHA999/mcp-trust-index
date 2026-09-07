@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-09-06T14:07:11Z",
- "universe_declared_github_repos": 20845,
- "universe_declared_npm_packages": 8476,
+ "generated_at": "2026-09-07T03:43:20Z",
+ "universe_declared_github_repos": 21410,
+ "universe_declared_npm_packages": 8521,
  "github_sample": {
   "n": 1200,
-  "dead": 176,
-  "dead_pct": 14.7,
+  "dead": 188,
+  "dead_pct": 15.7,
   "ci95": [
-   12.8,
-   16.8
+   13.7,
+   17.8
   ],
   "archived": 13,
-  "no_license": 125,
+  "no_license": 133,
   "stale_365d": 0,
   "extrapolated_dead": [
-   2668,
-   3502
+   2933,
+   3811
   ]
  },
  "npm_sample": {
   "n": 800,
   "resolved": 792,
   "unresolved": 8,
-  "version_desync": 236,
-  "desync_pct": 29.5,
+  "version_desync": 221,
+  "desync_pct": 27.6,
   "ci95": [
-   26.4,
-   32.8
+   24.6,
+   30.8
   ],
-  "description_drift": 75,
-  "drift_pct": 9.4,
-  "desc_mismatch_vs_registry": 659,
-  "mismatch_pct": 82.4,
+  "description_drift": 77,
+  "drift_pct": 9.6,
+  "desc_mismatch_vs_registry": 679,
+  "mismatch_pct": 84.9,
   "extrapolated_desync": [
-   2238,
-   2780
+   2096,
+   2624
   ]
  },
  "examples_dead_repo": [
-  "Ansvar-Systems/uk-organic-regen-mcp",
-  "scotia1973-bot/api-hub",
-  "lfhillesheim/calculadora",
-  "most-ai-com/mostai-mcp",
-  "ptse8204/sweetsaverfare",
-  "infoinlet-marketplace/marketplace",
+  "musaib001/deooch-forms",
+  "joeetdev/venture-estate",
+  "tponscr-debug/oracle-h-mcp",
+  "AaronVick/ECHO_RIFT_MCP",
+  "XogZ3/botoi",
+  "medley/fda-data",
   "Bankee-ai/inferventis",
-  "Lulu-The-Narwhal/lulu-platform",
-  "mohamedalmorsy/agoria",
-  "junter1989k-ai/slovenia-payments-mcp",
-  "IkeHentrel/x402-express",
-  "HaayanchandravatSr/jeeva-jyotish",
-  "ilya7-eng/replit-vertical-market-place-website",
-  "alex-hoyeol-choi/headless-commerce",
-  "smithshsh/enso-fundamentals"
+  "jcjamet/ia-qa",
+  "joeetdev/venture-estate",
+  "Ansvar-Systems/Russian-Law-MCP",
+  "junter1989k-ai/serbia-invoice-mcp",
+  "joeetdev/venture-estate",
+  "nigelcox98/AgentDataAPI",
+  "captia-technology/captia-landing-page",
+  "alex-hoyeol-choi/headless-commerce"
  ],
  "examples_drift": [
   {
-   "server": "io.github.miller-joe/youtube-mcp",
-   "pkg": "@miller-joe/youtube-mcp",
-   "prev": "MCP server for YouTube \u2014 creator ops (video metadata, comments, playlists, analytics) plus",
-   "cur": "OAuth-authenticated YouTube MCP server for channel owners \u2014 edit video metadata, reply to "
+   "server": "io.global-chat/mcp-server",
+   "pkg": "@globalchatadsapp/mcp-server",
+   "prev": "The first x402-paid MCP server \u2014 agents bid USDC on Base L2 to list themselves. LangGraph/",
+   "cur": "x402-paid MCP server with machine-executable REGISTER runbook at /.well-known/register-run"
   },
   {
-   "server": "io.github.A7OM-AI/atom-mcp-server",
-   "pkg": "atom-mcp-server",
-   "prev": "ATOM Inference Price Index \u2014 AI pricing intelligence for agents and developers. 1,600+ SKU",
-   "cur": "ATOM Inference Price Index \u2014 AI pricing intelligence for agents and developers. 1,600+ SKU"
+   "server": "io.github.farukkolip/tiktapdown-mcp",
+   "pkg": "tiktapdown-mcp",
+   "prev": "TikTapDown MCP Server \u2014 Download TikTok videos, get hashtags, best posting times & viral h",
+   "cur": "TikTapDown MCP Server \u2014 10 TikTok creator tools: download videos and audio, hashtags, hook"
   },
   {
-   "server": "io.github.florentine-ai/mcp",
-   "pkg": "@florentine-ai/mcp",
-   "prev": "MCP server for Florentine.ai - Natural language to MongoDB aggregations",
-   "cur": "Florentine.ai MCP server \u2013 query MongoDB & MySQL databases in natural language"
+   "server": "ai.agenttrust/mcp-server",
+   "pkg": "@agenttrust/mcp-server",
+   "prev": "MCP server for AgentTrust \u2014 email, file storage, and instant messaging for AI agents",
+   "cur": "Free email for AI agents, instant messaging between agents, and cloud file storage \u2014 all t"
   },
   {
-   "server": "dev.cite42/mcp",
-   "pkg": "@cite42/mcp",
-   "prev": "Cite42 MCP server: query ChatGPT, Claude, Perplexity, Gemini & Google AI Overviews for bra",
-   "cur": "Cite42 MCP server: query the models behind ChatGPT, Claude, Perplexity & Gemini, plus Goog"
+   "server": "io.github.dpozimski/pageshot-mcp",
+   "pkg": "pageshot-mcp",
+   "prev": "MCP server for PageShot \u2014 take webpage screenshots from AI assistants like Claude, Cursor,",
+   "cur": "MCP server for PageShot \u2014 take webpage screenshots, render HTML to images, and generate PD"
   },
   {
-   "server": "io.github.icohangar-ops/chp-mcp",
-   "pkg": "@cubiczan/chp-mcp",
-   "prev": "MCP server for CHP Profile B \u2014 evaluate_spend_gate and approve_spend over @cubiczan/chp",
-   "cur": "Spend approval gate for AI agents \u2014 enforce budget limits, per-asset caps and human-in-the"
+   "server": "eu.ansvar/kenya-law-mcp",
+   "pkg": "@ansvar/kenya-law-mcp",
+   "prev": "Kenya law database covering data protection, cybercrimes, ICT, companies, and consumer pro",
+   "cur": "Kenya law database \u2014 494 Acts, 21K+ provisions from Kenya Law (kenyalaw.org) with full-tex"
   },
   {
-   "server": "io.github.replynodes/mcp",
-   "pkg": "@replynodes/mcp",
-   "prev": "Connect AI agents (Claude, Cursor, Codex, OpenClaw, etc.) to Replynodes over the Model Con",
-   "cur": "Connect AI agents (Claude, Cursor, Codex, OpenClaw, Hermes, etc.) to Replynodes over the M"
+   "server": "com.yaktool/image",
+   "pkg": "yaktool-image-mcp",
+   "prev": "Local image tools as an MCP server: compress PNG/JPEG (smart visually-guarded lossy, or tr",
+   "cur": "Local image tools as an MCP server: compress PNG/JPEG with a visually-guarded smart mode o"
   },
   {
-   "server": "io.github.Fabio662/yieldagentx402",
-   "pkg": "agentx402-mcp-server",
-   "prev": "Policy-gated, receipt-backed x402 execution for AI agents \u2014 ShadeGuard before settlement, ",
-   "cur": "The execution layer for AI agent commerce. 100+ DeFi adapters across 20+ chains (BTC, EVM,"
+   "server": "io.github.invapi-org/invapi-mcp",
+   "pkg": "@invapi/mcp-server",
+   "prev": "MCP server for the Invapi E-Invoicing API - conversion, validation, and extraction",
+   "cur": "Invoice MCP server \u2014 extract structured data from PDF & image invoices, create e-invoices "
   },
   {
-   "server": "com.ismalicious/mcp-server",
-   "pkg": "@ismalicious/mcp-server",
-   "prev": "MCP server for the isinjected gate \u2014 scan untrusted content for prompt injection and check",
-   "cur": "MCP server for isMalicious threat intelligence \u2014 indicator reputation verdicts, CVE lookup"
+   "server": "io.github.theYahia/mango-office-mcp",
+   "pkg": "@theyahia/mango-office-mcp",
+   "prev": "MCP server for Mango Office API \u2014 calls, users, recordings, SMS, statistics. 8 tools.",
+   "cur": "MCP server for Mango Office \u2014 cloud PBX, call management (Russia)"
   },
   {
-   "server": "io.github.cyanheads/guardian-mcp-server",
-   "pkg": "@cyanheads/guardian-mcp-server",
-   "prev": "Search, browse, and retrieve full article text from The Guardian's journalism archive (199",
-   "cur": "Search, browse, and retrieve full article text from The Guardian's journalism archive (199"
+   "server": "io.github.nirholas/metaplex-agent",
+   "pkg": "@three-ws/metaplex-agent-mcp",
+   "prev": "Deploy AI agents on-chain into the Metaplex Agent Registry on Solana, exactly the way the ",
+   "cur": "Deploy AI agents on-chain into the Metaplex Agent Registry on Solana: one atomic transacti"
   },
   {
-   "server": "io.github.fauguste/boondmanager-mcp-server",
-   "pkg": "boondmanager-mcp-server",
-   "prev": "MCP Server for BoondManager API - 180 tools, 11 prompts, 22 resources (ERP/CRM)",
-   "cur": "MCP Server for BoondManager API - 182 tools, 12 prompts, 22 resources (ERP/CRM)"
+   "server": "io.github.wellknownmcp/hoshin-kanri",
+   "pkg": "hoshin-kanri-mcp",
+   "prev": "Hoshin Kanri X-Matrix MCP server \u2014 sovereign local JSON mode (data never leaves your machi",
+   "cur": "Hoshin Kanri X-Matrix MCP server \u2014 sovereign local JSON mode (data never leaves your machi"
   }
  ]
 }

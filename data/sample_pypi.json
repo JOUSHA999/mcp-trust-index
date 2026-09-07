@@ -1,65 +1,47 @@
 {
- "generated_at": "2026-09-06T14:07:13Z",
- "universe_declared_pypi": 3608,
+ "generated_at": "2026-09-07T03:43:52Z",
+ "universe_declared_pypi": 3617,
  "sample": {
   "n_sampled": 500,
   "resolved": 496,
   "unresolved": 4,
-  "version_desync": 124,
-  "desync_pct": 25.0,
+  "version_desync": 102,
+  "desync_pct": 20.6,
   "ci95": [
-   21.4,
-   29.0
+   17.2,
+   24.3
   ],
   "extrapolated_desync": [
-   772,
-   1046
+   622,
+   879
   ],
-  "description_drift": 30,
-  "drift_pct": 6.0
+  "description_drift": 27,
+  "drift_pct": 5.4
  },
  "examples_drift": [
   {
-   "server": "io.github.CSOAI-ORG/c2pa-watermark-mcp",
-   "pkg": "c2pa-watermark-mcp",
-   "prev": "C2PA Content Credentials MCP server for EU AI Act Article 50 compliance.",
-   "cur": "C2PA Watermark & Provenance MCP server. Built with c2pa-python."
+   "server": "io.github.kiwoongeom/gmc-mcp",
+   "pkg": "gmc-mcp",
+   "prev": "Google Merchant Center MCP \u2014 the first free, open-source, self-hosted MCP server for Googl",
+   "cur": "MCP server for Google Merchant Center on Merchant API v1. MIT-licensed, pip install-able, "
   },
   {
-   "server": "io.github.rafa2403nunez-droid/pynet-mcp-bridge",
-   "pkg": "pynet-mcp-bridge",
-   "prev": "MCP server that connects AI models with Autodesk Navisworks via the PyNet ecosystem.",
-   "cur": "MCP server that connects AI models with Autodesk Navisworks, Revit and Civil 3D via the Py"
+   "server": "io.github.LeandroPG19/cuba-memorys",
+   "pkg": "cuba-memorys",
+   "prev": "Persistent memory MCP server for AI agents (v0.18). 29 tools, self-growing graph without M",
+   "cur": "Persistent memory MCP server for AI agents. 28 tools, self-growing graph without MCP sampl"
   },
   {
-   "server": "io.github.bzsasson/screaming-frog-mcp",
-   "pkg": "screaming-frog-mcp",
-   "prev": "Headless MCP server for Screaming Frog SEO Spider \u2014 run crawls, export and analyze crawl d",
-   "cur": "Headless MCP server for Screaming Frog SEO Spider: run crawls, export and analyze crawl da"
+   "server": "io.mcp-hangar/hangar",
+   "pkg": "mcp-hangar",
+   "prev": "Production-grade infrastructure for Model Context Protocol",
+   "cur": "Policy enforcement plane for MCP: every tool call ends in a verdict. Self-hosted, MIT."
   },
   {
-   "server": "io.github.Bortlesboat/bitcoin-mcp",
-   "pkg": "bitcoin-mcp",
-   "prev": "MCP server for Bitcoin \u2014 47 tools for AI agents to save money on fees. Zero config, works ",
-   "cur": "MCP server for Bitcoin \u2014 49 tools for AI agents to save money on fees. Zero config, works "
-  },
-  {
-   "server": "io.github.thesanjeetc/parselbox",
-   "pkg": "parselbox",
-   "prev": "Secure Python sandbox for AI agents \u2014 tools as code, MCP bridging, JS interop, generative ",
-   "cur": "An embeddable Python runtime where AI agents call tools as code \u2014 MCP servers, APIs and sh"
-  },
-  {
-   "server": "io.github.ZohaibCodez/discrete-structures",
-   "pkg": "discrete-structures-mcp",
-   "prev": "MCP server for Discrete Structures - Logic, Algorithms, Number Theory, and Cryptography to",
-   "cur": "MCP server for Discrete Mathematics: Boolean Logic, Algorithms, Number Theory, Cryptograph"
-  },
-  {
-   "server": "io.github.richardofortune/cadloop-slicer",
-   "pkg": "cadloop",
-   "prev": "Parametric CAD, meshing verification and slicing, behind MCP",
-   "cur": "Parametric CAD and slicing behind MCP, with every plate proven on the bed"
+   "server": "io.github.Jason26214/computer-use-omni",
+   "pkg": "computer-use-omni",
+   "prev": "Windows computer-use MCP for the Claude Code CLI \u2014 a 1:1 replica of Claude Desktop's compu",
+   "cur": "Renamed: this project is now published as omni-computer-use-mcp. This package just forward"
   },
   {
    "server": "io.github.MICONNM/openclaw-consensus-mcp",
@@ -68,16 +50,34 @@
    "cur": "MCP server for OpenClaw Consensus ??9-LLM consensus to fight hallucinations. Built by yanm"
   },
   {
-   "server": "io.github.ExposureGuard/haldir",
-   "pkg": "haldir",
-   "prev": "The guardian layer for AI agents \u2014 identity, secrets, audit via MCP",
-   "cur": "The guardian layer for AI agents \u2014 scoped sessions, AES-256-GCM secrets, hash-chained audi"
+   "server": "io.github.invigil/invigil",
+   "pkg": "invigil",
+   "prev": "A CI quality gate that grades a repo against a product-quality doctrine \u2014 not code style.",
+   "cur": "Linters check your code. Invigil checks whether your repo is legible \u2014 to newcomers and to"
   },
   {
-   "server": "io.github.TranThienTrong/asset-auto-picker",
-   "pkg": "asset-auto-picker",
-   "prev": "Add your description here",
-   "cur": "The MCP Server use for auto pick file"
+   "server": "io.github.atomno-mcp/mcp-zakupki",
+   "pkg": "atomno-mcp-zakupki",
+   "prev": "MCP-\u0441\u0435\u0440\u0432\u0435\u0440 \u0434\u043b\u044f \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0445 \u0433\u043e\u0441\u0437\u0430\u043a\u0443\u043f\u043e\u043a (zakupki.gov.ru, 44-\u0424\u0417 / 223-\u0424\u0417 / 615-\u041f\u041f): \u043f\u043e\u0438\u0441\u043a \u0442\u0435\u043d\u0434",
+   "cur": "MCP-\u0441\u0435\u0440\u0432\u0435\u0440 \u0434\u043b\u044f \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0445 \u0433\u043e\u0441\u0437\u0430\u043a\u0443\u043f\u043e\u043a (zakupki.gov.ru, 44-\u0424\u0417 / 223-\u0424\u0417 / 615-\u041f\u041f): \u043f\u043e\u0438\u0441\u043a, \u043a\u0430\u0440"
+  },
+  {
+   "server": "io.github.paulo2tab/certidao",
+   "pkg": "cartorio-certidao-mcp",
+   "prev": "MCP server para gerenciamento de certidoes de cartorio - permite que IAs solicitem, altere",
+   "cur": "MCP server para gerenciamento de certidoes de cartorio via IA."
+  },
+  {
+   "server": "io.github.masondelan/selvedge",
+   "pkg": "selvedge",
+   "prev": "Decision provenance for AI-coded codebases: know what your agents already tried and reject",
+   "cur": "Decision provenance for AI-coded codebases: the why, and what was already tried and reject"
+  },
+  {
+   "server": "io.github.Blite-HQ/qnexus-mcp",
+   "pkg": "qnexus-mcp",
+   "prev": "A community MCP server for Quantinuum Nexus, wrapping the qnexus SDK. Not affiliated with ",
+   "cur": "MCP server for Quantinuum Nexus, wrapping the qnexus SDK. Not affiliated with Quantinuum."
   }
  ]
 }

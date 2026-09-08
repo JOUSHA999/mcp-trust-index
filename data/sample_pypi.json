@@ -1,29 +1,59 @@
 {
- "generated_at": "2026-09-07T03:43:52Z",
- "universe_declared_pypi": 3617,
+ "generated_at": "2026-09-08T03:43:32Z",
+ "universe_declared_pypi": 3628,
  "sample": {
   "n_sampled": 500,
-  "resolved": 496,
-  "unresolved": 4,
-  "version_desync": 102,
-  "desync_pct": 20.6,
+  "resolved": 499,
+  "unresolved": 1,
+  "version_desync": 117,
+  "desync_pct": 23.4,
   "ci95": [
-   17.2,
-   24.3
+   19.9,
+   27.4
   ],
   "extrapolated_desync": [
-   622,
-   879
+   722,
+   994
   ],
-  "description_drift": 27,
-  "drift_pct": 5.4
+  "description_drift": 24,
+  "drift_pct": 4.8
  },
  "examples_drift": [
   {
-   "server": "io.github.kiwoongeom/gmc-mcp",
-   "pkg": "gmc-mcp",
-   "prev": "Google Merchant Center MCP \u2014 the first free, open-source, self-hosted MCP server for Googl",
-   "cur": "MCP server for Google Merchant Center on Merchant API v1. MIT-licensed, pip install-able, "
+   "server": "io.github.seifreed/ensmcp",
+   "pkg": "ensmcp",
+   "prev": "Servidor MCP con las medidas de seguridad del ENS (Anexo II del RD 311/2022): Anexo II, De",
+   "cur": "Servidor MCP con las medidas de seguridad del ENS (Anexo II del RD 311/2022): matriz de ap"
+  },
+  {
+   "server": "io.github.bawbel/scanner",
+   "pkg": "bawbel-scanner",
+   "prev": "Agentic AI component security scanner. Detects AVE vulnerabilities. Produces OWASP AIVSS v",
+   "cur": "Security linter and scanner for MCP servers and AI skill files. Detects toxic flows, promp"
+  },
+  {
+   "server": "io.github.mimersql/mimer-mcp",
+   "pkg": "mimer-mcp-server",
+   "prev": "A MCP server with Mimer SQL Database Connectivity",
+   "cur": "An MCP server with Mimer SQL Database Connectivity"
+  },
+  {
+   "server": "io.github.dokmatiq/docgen",
+   "pkg": "dokmatiq-docgen-mcp",
+   "prev": "MCP server for the Dokmatiq DocGen document generation API",
+   "cur": "MCP server for Dokmatiq DocGen \u2014 PDF/DOCX/Excel generation with stationery overlay, ZUGFeR"
+  },
+  {
+   "server": "io.github.chopmob-cloud/algovoi-mcp-server",
+   "pkg": "algovoi-mcp",
+   "prev": "MCP server for AlgoVoi \u2014 create crypto payment links, verify payments, probe MPP endpoints",
+   "cur": "MCP server for AlgoVoi \u2014 create crypto payment links, verify payments, probe MPP endpoints"
+  },
+  {
+   "server": "io.github.Hylouis233/bibverify",
+   "pkg": "bibverify",
+   "prev": "Bibverify: A Multi-Platform BibTeX Reference Verification Tool",
+   "cur": "Verify, repair, and enrich BibTeX references across academic metadata providers"
   },
   {
    "server": "io.github.LeandroPG19/cuba-memorys",
@@ -32,16 +62,10 @@
    "cur": "Persistent memory MCP server for AI agents. 28 tools, self-growing graph without MCP sampl"
   },
   {
-   "server": "io.mcp-hangar/hangar",
-   "pkg": "mcp-hangar",
-   "prev": "Production-grade infrastructure for Model Context Protocol",
-   "cur": "Policy enforcement plane for MCP: every tool call ends in a verdict. Self-hosted, MIT."
-  },
-  {
-   "server": "io.github.Jason26214/computer-use-omni",
-   "pkg": "computer-use-omni",
-   "prev": "Windows computer-use MCP for the Claude Code CLI \u2014 a 1:1 replica of Claude Desktop's compu",
-   "cur": "Renamed: this project is now published as omni-computer-use-mcp. This package just forward"
+   "server": "io.github.davet47/heddle",
+   "pkg": "heddle-mcp",
+   "prev": "Content-addressed contracts with a hash-keyed verification cache for spec-driven agent loo",
+   "cur": "RENAMED: this project continues as 'hashloom' on PyPI. Final release under this name. Cont"
   },
   {
    "server": "io.github.MICONNM/openclaw-consensus-mcp",
@@ -50,34 +74,10 @@
    "cur": "MCP server for OpenClaw Consensus ??9-LLM consensus to fight hallucinations. Built by yanm"
   },
   {
-   "server": "io.github.invigil/invigil",
-   "pkg": "invigil",
-   "prev": "A CI quality gate that grades a repo against a product-quality doctrine \u2014 not code style.",
-   "cur": "Linters check your code. Invigil checks whether your repo is legible \u2014 to newcomers and to"
-  },
-  {
-   "server": "io.github.atomno-mcp/mcp-zakupki",
-   "pkg": "atomno-mcp-zakupki",
-   "prev": "MCP-\u0441\u0435\u0440\u0432\u0435\u0440 \u0434\u043b\u044f \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0445 \u0433\u043e\u0441\u0437\u0430\u043a\u0443\u043f\u043e\u043a (zakupki.gov.ru, 44-\u0424\u0417 / 223-\u0424\u0417 / 615-\u041f\u041f): \u043f\u043e\u0438\u0441\u043a \u0442\u0435\u043d\u0434",
-   "cur": "MCP-\u0441\u0435\u0440\u0432\u0435\u0440 \u0434\u043b\u044f \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0445 \u0433\u043e\u0441\u0437\u0430\u043a\u0443\u043f\u043e\u043a (zakupki.gov.ru, 44-\u0424\u0417 / 223-\u0424\u0417 / 615-\u041f\u041f): \u043f\u043e\u0438\u0441\u043a, \u043a\u0430\u0440"
-  },
-  {
-   "server": "io.github.paulo2tab/certidao",
-   "pkg": "cartorio-certidao-mcp",
-   "prev": "MCP server para gerenciamento de certidoes de cartorio - permite que IAs solicitem, altere",
-   "cur": "MCP server para gerenciamento de certidoes de cartorio via IA."
-  },
-  {
-   "server": "io.github.masondelan/selvedge",
-   "pkg": "selvedge",
-   "prev": "Decision provenance for AI-coded codebases: know what your agents already tried and reject",
-   "cur": "Decision provenance for AI-coded codebases: the why, and what was already tried and reject"
-  },
-  {
-   "server": "io.github.Blite-HQ/qnexus-mcp",
-   "pkg": "qnexus-mcp",
-   "prev": "A community MCP server for Quantinuum Nexus, wrapping the qnexus SDK. Not affiliated with ",
-   "cur": "MCP server for Quantinuum Nexus, wrapping the qnexus SDK. Not affiliated with Quantinuum."
+   "server": "com.coinrailz/mcp",
+   "pkg": "coinrailz-mcp",
+   "prev": "MCP server exposing 63 Coin Railz x402 micropayment services via USDC",
+   "cur": "MCP server exposing 63 Coin Railz x402 micropayment services \u2014 crypto analytics, trading s"
   }
  ]
 }

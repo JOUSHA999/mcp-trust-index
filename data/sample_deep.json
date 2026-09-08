@@ -1,71 +1,65 @@
 {
- "generated_at": "2026-09-07T03:43:20Z",
- "universe_declared_github_repos": 21410,
- "universe_declared_npm_packages": 8521,
+ "generated_at": "2026-09-08T03:43:21Z",
+ "universe_declared_github_repos": 21585,
+ "universe_declared_npm_packages": 8559,
  "github_sample": {
   "n": 1200,
-  "dead": 188,
-  "dead_pct": 15.7,
+  "dead": 185,
+  "dead_pct": 15.4,
   "ci95": [
-   13.7,
-   17.8
+   13.5,
+   17.6
   ],
-  "archived": 13,
-  "no_license": 133,
-  "stale_365d": 0,
+  "archived": 18,
+  "no_license": 134,
+  "stale_365d": 1,
   "extrapolated_dead": [
-   2933,
-   3811
+   2914,
+   3799
   ]
  },
  "npm_sample": {
   "n": 800,
   "resolved": 792,
   "unresolved": 8,
-  "version_desync": 221,
-  "desync_pct": 27.6,
+  "version_desync": 242,
+  "desync_pct": 30.2,
   "ci95": [
-   24.6,
-   30.8
+   27.2,
+   33.5
   ],
-  "description_drift": 77,
-  "drift_pct": 9.6,
-  "desc_mismatch_vs_registry": 679,
-  "mismatch_pct": 84.9,
+  "description_drift": 60,
+  "drift_pct": 7.5,
+  "desc_mismatch_vs_registry": 682,
+  "mismatch_pct": 85.2,
   "extrapolated_desync": [
-   2096,
-   2624
+   2328,
+   2867
   ]
  },
  "examples_dead_repo": [
-  "musaib001/deooch-forms",
+  "DynamicEndpoints/m365-core-mcp",
   "joeetdev/venture-estate",
-  "tponscr-debug/oracle-h-mcp",
-  "AaronVick/ECHO_RIFT_MCP",
-  "XogZ3/botoi",
-  "medley/fda-data",
-  "Bankee-ai/inferventis",
-  "jcjamet/ia-qa",
+  "appdevexpert/prompt-ot",
+  "Appraisily/appraisily-openai-mcp",
+  "Michelangelo-Z/ai-design-blueprint",
+  "FrankNFT-labs/Portifolio",
+  "polyparlay/hypelens",
+  "Memetica-Corporation/culture-sbs",
+  "tbrajkovic/Fixatia",
+  "seanparsons/monorepo",
+  "morebetterclaw/forge",
+  "junter1989k-ai/poland-payments-mcp",
+  "mrrobey/sit-atlas",
   "joeetdev/venture-estate",
-  "Ansvar-Systems/Russian-Law-MCP",
-  "junter1989k-ai/serbia-invoice-mcp",
-  "joeetdev/venture-estate",
-  "nigelcox98/AgentDataAPI",
-  "captia-technology/captia-landing-page",
-  "alex-hoyeol-choi/headless-commerce"
+  "ThatDudeFreak/stymie"
  ],
  "examples_drift": [
   {
-   "server": "io.global-chat/mcp-server",
-   "pkg": "@globalchatadsapp/mcp-server",
-   "prev": "The first x402-paid MCP server \u2014 agents bid USDC on Base L2 to list themselves. LangGraph/",
-   "cur": "x402-paid MCP server with machine-executable REGISTER runbook at /.well-known/register-run"
-  },
-  {
-   "server": "io.github.farukkolip/tiktapdown-mcp",
-   "pkg": "tiktapdown-mcp",
-   "prev": "TikTapDown MCP Server \u2014 Download TikTok videos, get hashtags, best posting times & viral h",
-   "cur": "TikTapDown MCP Server \u2014 10 TikTok creator tools: download videos and audio, hashtags, hook"
+   "server": "io.github.TychiWallet/tyi-mcp",
+   "pkg": "@tychilabs/tyi-mcp",
+   "prev": "Agent-native Tychi wallet MCP \u2014 onboard, status, chat, reset. Self-custody keys local; bra",
+   "cur": "Agent-native Tychi wallet MCP \u2014 onboard, status, chat, reset. Self-custody keys local; bra"
   },
   {
    "server": "ai.agenttrust/mcp-server",
@@ -74,16 +68,34 @@
    "cur": "Free email for AI agents, instant messaging between agents, and cloud file storage \u2014 all t"
   },
   {
-   "server": "io.github.dpozimski/pageshot-mcp",
-   "pkg": "pageshot-mcp",
-   "prev": "MCP server for PageShot \u2014 take webpage screenshots from AI assistants like Claude, Cursor,",
-   "cur": "MCP server for PageShot \u2014 take webpage screenshots, render HTML to images, and generate PD"
+   "server": "io.github.lordbasilaiassistant-sudo/thryx-mcp-server",
+   "pkg": "@thryx/mcp-server",
+   "prev": "ThryxProtocol v3.1 MCP Server \u2014 gasless AI agent launchpad + trading platform on Base. 21 ",
+   "cur": "ThryxProtocol v3.1.1 MCP Server \u2014 gasless AI agent launchpad + trading platform on Base. 2"
   },
   {
-   "server": "eu.ansvar/kenya-law-mcp",
-   "pkg": "@ansvar/kenya-law-mcp",
-   "prev": "Kenya law database covering data protection, cybercrimes, ICT, companies, and consumer pro",
-   "cur": "Kenya law database \u2014 494 Acts, 21K+ provisions from Kenya Law (kenyalaw.org) with full-tex"
+   "server": "io.github.mentu-ai/metamcp",
+   "pkg": "@mentu/metamcp",
+   "prev": "A meta-MCP server that collapses N child MCP servers into 6 tools. Intent routing, lazy sp",
+   "cur": "A secure on-demand gateway for long-tail MCP servers with lazy calls and declarative Metho"
+  },
+  {
+   "server": "io.github.thomasjumper/agentbay-mcp",
+   "pkg": "aiagentsbay-mcp",
+   "prev": "StremAI's MCP memory server. Shared memory layer for AI coding agents; connected agents ca",
+   "cur": "StremAI MCP: shared memory for AI coding agents. OAuth-first hosted MCP with a local stdio"
+  },
+  {
+   "server": "com.slickfast/mcp",
+   "pkg": "@slickfast/mcp",
+   "prev": "SlickFast MCP \u2014 JSON \u2192 charts, dashboards, and Pages. Twin at .json, fingerprint on the Pa",
+   "cur": "Deterministic render engine for agents \u2014 not a charting library. Spec in, same bytes out. "
+  },
+  {
+   "server": "com.damagerestorehq/claims-index",
+   "pkg": "@ellul-estate/damagerestorehq-com-claims-index-mcp",
+   "prev": "DamageRestore HQ: the median paid water damage claim, read from NFIP claim records (2023 t",
+   "cur": "DamageRestore HQ: the median paid water damage claim, read from NFIP claim records (2023 t"
   },
   {
    "server": "com.yaktool/image",
@@ -92,28 +104,16 @@
    "cur": "Local image tools as an MCP server: compress PNG/JPEG with a visually-guarded smart mode o"
   },
   {
-   "server": "io.github.invapi-org/invapi-mcp",
-   "pkg": "@invapi/mcp-server",
-   "prev": "MCP server for the Invapi E-Invoicing API - conversion, validation, and extraction",
-   "cur": "Invoice MCP server \u2014 extract structured data from PDF & image invoices, create e-invoices "
+   "server": "io.github.jakefleming/font-proof-mcp",
+   "pkg": "font-proof-mcp",
+   "prev": "Create and modify Font Proof documents programmatically. Font Proof is a macOS app for typ",
+   "cur": "MCP server launcher for Hellbox (formerly Font Proof), the macOS font proofing app. Lets A"
   },
   {
-   "server": "io.github.theYahia/mango-office-mcp",
-   "pkg": "@theyahia/mango-office-mcp",
-   "prev": "MCP server for Mango Office API \u2014 calls, users, recordings, SMS, statistics. 8 tools.",
-   "cur": "MCP server for Mango Office \u2014 cloud PBX, call management (Russia)"
-  },
-  {
-   "server": "io.github.nirholas/metaplex-agent",
-   "pkg": "@three-ws/metaplex-agent-mcp",
-   "prev": "Deploy AI agents on-chain into the Metaplex Agent Registry on Solana, exactly the way the ",
-   "cur": "Deploy AI agents on-chain into the Metaplex Agent Registry on Solana: one atomic transacti"
-  },
-  {
-   "server": "io.github.wellknownmcp/hoshin-kanri",
-   "pkg": "hoshin-kanri-mcp",
-   "prev": "Hoshin Kanri X-Matrix MCP server \u2014 sovereign local JSON mode (data never leaves your machi",
-   "cur": "Hoshin Kanri X-Matrix MCP server \u2014 sovereign local JSON mode (data never leaves your machi"
+   "server": "io.github.robin-deruyck/mcp-ordali-memory",
+   "pkg": "@rdrco/mcp-ordali-memory",
+   "prev": "MCP server for Ordali memory: SQLite-backed project memory and governance traces.",
+   "cur": "Local SQLite-backed MCP memory server for the Ordali framework."
   }
  ]
 }

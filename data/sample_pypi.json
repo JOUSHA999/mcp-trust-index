@@ -1,83 +1,83 @@
 {
- "generated_at": "2026-09-08T03:43:32Z",
- "universe_declared_pypi": 3628,
+ "generated_at": "2026-09-09T03:46:28Z",
+ "universe_declared_pypi": 3645,
  "sample": {
   "n_sampled": 500,
-  "resolved": 499,
-  "unresolved": 1,
-  "version_desync": 117,
-  "desync_pct": 23.4,
+  "resolved": 497,
+  "unresolved": 3,
+  "version_desync": 118,
+  "desync_pct": 23.7,
   "ci95": [
-   19.9,
-   27.4
+   20.2,
+   27.7
   ],
   "extrapolated_desync": [
-   722,
-   994
+   736,
+   1010
   ],
-  "description_drift": 24,
-  "drift_pct": 4.8
+  "description_drift": 23,
+  "drift_pct": 4.6
  },
  "examples_drift": [
   {
-   "server": "io.github.seifreed/ensmcp",
-   "pkg": "ensmcp",
-   "prev": "Servidor MCP con las medidas de seguridad del ENS (Anexo II del RD 311/2022): Anexo II, De",
-   "cur": "Servidor MCP con las medidas de seguridad del ENS (Anexo II del RD 311/2022): matriz de ap"
+   "server": "io.github.jxbaoxiaodong/ftirfun-mcp",
+   "pkg": "ftirfun-mcp",
+   "prev": "FTIR.fun MCP server - FTIR spectral search and material identification for AI agents",
+   "cur": "Public MCP wrapper for the hosted FTIR.fun FTIR API and MCP-compatible lookup tools."
   },
   {
-   "server": "io.github.bawbel/scanner",
-   "pkg": "bawbel-scanner",
-   "prev": "Agentic AI component security scanner. Detects AVE vulnerabilities. Produces OWASP AIVSS v",
-   "cur": "Security linter and scanner for MCP servers and AI skill files. Detects toxic flows, promp"
+   "server": "io.github.sipyourdrink-ltd/bernstein",
+   "pkg": "bernstein",
+   "prev": "The open-source governance layer for AI agents. No model in the coordination loop, so para",
+   "cur": "The open-source governance layer for AI agents. No model in the coordination loop, so repl"
   },
   {
-   "server": "io.github.mimersql/mimer-mcp",
-   "pkg": "mimer-mcp-server",
-   "prev": "A MCP server with Mimer SQL Database Connectivity",
-   "cur": "An MCP server with Mimer SQL Database Connectivity"
+   "server": "io.github.atomno-mcp/mcp-pharma",
+   "pkg": "atomno-mcp-pharma",
+   "prev": "MCP server: Russian drug reference \u2014 check \u0413\u0420\u041b\u0421 registration status, get a drug card (form",
+   "cur": "MCP client for Russian drug reference: official GRLS, VEDL prices and Roszdravnadzor serie"
   },
   {
-   "server": "io.github.dokmatiq/docgen",
-   "pkg": "dokmatiq-docgen-mcp",
-   "prev": "MCP server for the Dokmatiq DocGen document generation API",
-   "cur": "MCP server for Dokmatiq DocGen \u2014 PDF/DOCX/Excel generation with stationery overlay, ZUGFeR"
+   "server": "io.github.sapuyou45-bit/ai-divination-skills",
+   "pkg": "ai-divination-skills",
+   "prev": "Direct, practical divination skills for AI agents.",
+   "cur": "DEPRECATED: renamed to Oraclebone. Install with: pip install oraclebone"
   },
   {
-   "server": "io.github.chopmob-cloud/algovoi-mcp-server",
-   "pkg": "algovoi-mcp",
-   "prev": "MCP server for AlgoVoi \u2014 create crypto payment links, verify payments, probe MPP endpoints",
-   "cur": "MCP server for AlgoVoi \u2014 create crypto payment links, verify payments, probe MPP endpoints"
+   "server": "io.github.chaoz23/charactercheck",
+   "pkg": "charactercheck",
+   "prev": "Deterministic D&D Beyond character-sheet derivation with provenance \u2014 every stat computed ",
+   "cur": "Experimental read-only derivation of selected D&D Beyond character fields with provenance "
   },
   {
-   "server": "io.github.Hylouis233/bibverify",
-   "pkg": "bibverify",
-   "prev": "Bibverify: A Multi-Platform BibTeX Reference Verification Tool",
-   "cur": "Verify, repair, and enrich BibTeX references across academic metadata providers"
+   "server": "io.github.Raffaele86/seo-stack-mcp",
+   "pkg": "seo-stack-mcp",
+   "prev": "The complete open-source SEO data stack for AI agents \u2014 Google Search Console, GA4, Bing W",
+   "cur": "The complete open-source SEO data stack for AI agents \u2014 Google Search Console, GA4, Bing W"
   },
   {
-   "server": "io.github.LeandroPG19/cuba-memorys",
-   "pkg": "cuba-memorys",
-   "prev": "Persistent memory MCP server for AI agents (v0.18). 29 tools, self-growing graph without M",
-   "cur": "Persistent memory MCP server for AI agents. 28 tools, self-growing graph without MCP sampl"
+   "server": "io.github.esrisaudiarabia/arcgis-mcp-server",
+   "pkg": "arcgis-mcp-server",
+   "prev": "A unified MCP server for ArcGIS that works for both local agent and MCP registry publishin",
+   "cur": "Intelligent ArcGIS content search for Portal and Online."
   },
   {
-   "server": "io.github.davet47/heddle",
-   "pkg": "heddle-mcp",
-   "prev": "Content-addressed contracts with a hash-keyed verification cache for spec-driven agent loo",
-   "cur": "RENAMED: this project continues as 'hashloom' on PyPI. Final release under this name. Cont"
+   "server": "io.github.cyyprezz/codex-serverops-mcp",
+   "pkg": "codex-serverops-mcp",
+   "prev": "Windows-first local MCP transport for stateful SSH server operations",
+   "cur": "Operate chosen Linux servers from Codex or Claude Code with stateful SSH sessions"
   },
   {
-   "server": "io.github.MICONNM/openclaw-consensus-mcp",
-   "pkg": "openclaw-consensus-mcp",
-   "prev": "MCP server for OpenClaw Consensus \u2014 9-LLM consensus to fight hallucinations. Built by yanm",
-   "cur": "MCP server for OpenClaw Consensus ??9-LLM consensus to fight hallucinations. Built by yanm"
+   "server": "io.github.AddyCuber/ybe-check",
+   "pkg": "ybe-check",
+   "prev": "Production-readiness gatekeeper for vibe-coded apps. Scans repos for secrets, prompt injec",
+   "cur": "Production-readiness security gatekeeper for vibe-coded apps \u2014 16 scan modules, AI remedia"
   },
   {
-   "server": "com.coinrailz/mcp",
-   "pkg": "coinrailz-mcp",
-   "prev": "MCP server exposing 63 Coin Railz x402 micropayment services via USDC",
-   "cur": "MCP server exposing 63 Coin Railz x402 micropayment services \u2014 crypto analytics, trading s"
+   "server": "io.github.TheRealDataBoss/contextkeeper",
+   "pkg": "contextkeeper",
+   "prev": "Zero model drift between AI agents. Universal session continuity CLI and Python library fo",
+   "cur": "DEPRECATED: contextkeeper is now vaultit. Install: pip install vaultit"
   }
  ]
 }

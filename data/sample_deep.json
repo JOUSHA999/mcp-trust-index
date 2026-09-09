@@ -1,65 +1,95 @@
 {
- "generated_at": "2026-09-08T03:43:21Z",
- "universe_declared_github_repos": 21585,
- "universe_declared_npm_packages": 8559,
+ "generated_at": "2026-09-09T03:46:17Z",
+ "universe_declared_github_repos": 22213,
+ "universe_declared_npm_packages": 8609,
  "github_sample": {
   "n": 1200,
-  "dead": 185,
-  "dead_pct": 15.4,
+  "dead": 191,
+  "dead_pct": 15.9,
   "ci95": [
-   13.5,
-   17.6
+   14.0,
+   18.1
   ],
-  "archived": 18,
-  "no_license": 134,
-  "stale_365d": 1,
+  "archived": 11,
+  "no_license": 140,
+  "stale_365d": 0,
   "extrapolated_dead": [
-   2914,
-   3799
+   3110,
+   4021
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 792,
-  "unresolved": 8,
-  "version_desync": 242,
-  "desync_pct": 30.2,
+  "resolved": 793,
+  "unresolved": 7,
+  "version_desync": 258,
+  "desync_pct": 32.2,
   "ci95": [
-   27.2,
-   33.5
+   29.1,
+   35.6
   ],
-  "description_drift": 60,
-  "drift_pct": 7.5,
-  "desc_mismatch_vs_registry": 682,
-  "mismatch_pct": 85.2,
+  "description_drift": 72,
+  "drift_pct": 9.0,
+  "desc_mismatch_vs_registry": 665,
+  "mismatch_pct": 83.1,
   "extrapolated_desync": [
-   2328,
-   2867
+   2505,
+   3065
   ]
  },
  "examples_dead_repo": [
-  "DynamicEndpoints/m365-core-mcp",
+  "sairaj-reddy/aibooma",
+  "spacecowboyian/brains",
+  "Homie4570/lso-mcp",
   "joeetdev/venture-estate",
-  "appdevexpert/prompt-ot",
-  "Appraisily/appraisily-openai-mcp",
-  "Michelangelo-Z/ai-design-blueprint",
-  "FrankNFT-labs/Portifolio",
-  "polyparlay/hypelens",
-  "Memetica-Corporation/culture-sbs",
-  "tbrajkovic/Fixatia",
-  "seanparsons/monorepo",
-  "morebetterclaw/forge",
-  "junter1989k-ai/poland-payments-mcp",
-  "mrrobey/sit-atlas",
+  "jojo-labs/smart-web",
+  "GabrielAllit1/salt19",
+  "people-analyst/peopleanalyst-site",
+  "Kajdep/v0-countrycallingcodes",
+  "rajanrengasamy/vidlens-mcp",
   "joeetdev/venture-estate",
-  "ThatDudeFreak/stymie"
+  "SergioRico1/thrd",
+  "winter0x/lighter-agent",
+  "shittuay/DevOps-Agent",
+  "junter1989k-ai/norway-payments-mcp",
+  "joeetdev/venture-estate"
  ],
  "examples_drift": [
   {
-   "server": "io.github.TychiWallet/tyi-mcp",
-   "pkg": "@tychilabs/tyi-mcp",
-   "prev": "Agent-native Tychi wallet MCP \u2014 onboard, status, chat, reset. Self-custody keys local; bra",
-   "cur": "Agent-native Tychi wallet MCP \u2014 onboard, status, chat, reset. Self-custody keys local; bra"
+   "server": "io.github.digitamaz/clarvia",
+   "pkg": "clarvia-mcp-server",
+   "prev": "MCP quality scanner and tool discovery for autonomous agents. Search 27,831+ indexed tools",
+   "cur": "MCP quality scanner and tool discovery for autonomous agents. Search 27,843+ indexed tools"
+  },
+  {
+   "server": "io.github.mizukaizen/x402-tools-mcp",
+   "pkg": "@melis-ai/x402-tools-mcp",
+   "prev": "16 x402-paid utility tools for AI agents \u2014 scrape, validate, notify, transcode, summarise.",
+   "cur": "22 x402 pay-per-call utility tools for AI agents \u2014 scrape, validate, embed, store, moderat"
+  },
+  {
+   "server": "io.github.robinafaruqia/stripe-mcp",
+   "pkg": "@devtechtricks/stripe-mcp",
+   "prev": "A read-only MCP server for querying Stripe customers, payments, subscriptions, and invoice",
+   "cur": "Read-only MCP server for querying Stripe customers, payments, subscriptions, invoices, and"
+  },
+  {
+   "server": "io.github.theYahia/gigachat-mcp",
+   "pkg": "@theyahia/gigachat-mcp",
+   "prev": "MCP server for Sber GigaChat API \u2014 chat, models, embeddings, token count, image generation",
+   "cur": "MCP server for GigaChat \u2014 AI chat, embeddings, image generation (Russia)"
+  },
+  {
+   "server": "io.github.BlueWaterCorp/riskmodels",
+   "pkg": "@riskmodels/mcp",
+   "prev": "MCP server for RiskModels: decompose US equities into four-bet variance shares with ETF he",
+   "cur": "MCP server for RiskModels: clean dividend-adjusted US equity total returns, risk decomposi"
+  },
+  {
+   "server": "com.imbawallet/agent-docs",
+   "pkg": "@imba_wallet/agent-mcp-docs",
+   "prev": "Read-only MCP for IMBA prepaid Agent API docs and policy. No deposit, buy, or withdraw. Co",
+   "cur": "Read-only MCP for IMBA prepaid Agent API: Visa prepaid, eSIM, gift-card, and KYT playbooks"
   },
   {
    "server": "ai.agenttrust/mcp-server",
@@ -68,52 +98,22 @@
    "cur": "Free email for AI agents, instant messaging between agents, and cloud file storage \u2014 all t"
   },
   {
-   "server": "io.github.lordbasilaiassistant-sudo/thryx-mcp-server",
-   "pkg": "@thryx/mcp-server",
-   "prev": "ThryxProtocol v3.1 MCP Server \u2014 gasless AI agent launchpad + trading platform on Base. 21 ",
-   "cur": "ThryxProtocol v3.1.1 MCP Server \u2014 gasless AI agent launchpad + trading platform on Base. 2"
+   "server": "io.github.topskychen/tilde",
+   "pkg": "tilde-ai",
+   "prev": "A thin wrapper to run the tilde MCP server via Python/uv",
+   "cur": "Your AI agents' home directory \u2014 privacy-first MCP server for portable AI identity. Config"
   },
   {
-   "server": "io.github.mentu-ai/metamcp",
-   "pkg": "@mentu/metamcp",
-   "prev": "A meta-MCP server that collapses N child MCP servers into 6 tools. Intent routing, lazy sp",
-   "cur": "A secure on-demand gateway for long-tail MCP servers with lazy calls and declarative Metho"
+   "server": "io.github.Noquarter6/contractor-license-mcp-server",
+   "pkg": "contractor-license-mcp-server",
+   "prev": "Real-time contractor license verification across 45 US states. MCP server for Claude Deskt",
+   "cur": "Real-time contractor license verification across all 50 US states + DC plus 8 major-city p"
   },
   {
-   "server": "io.github.thomasjumper/agentbay-mcp",
-   "pkg": "aiagentsbay-mcp",
-   "prev": "StremAI's MCP memory server. Shared memory layer for AI coding agents; connected agents ca",
-   "cur": "StremAI MCP: shared memory for AI coding agents. OAuth-first hosted MCP with a local stdio"
-  },
-  {
-   "server": "com.slickfast/mcp",
-   "pkg": "@slickfast/mcp",
-   "prev": "SlickFast MCP \u2014 JSON \u2192 charts, dashboards, and Pages. Twin at .json, fingerprint on the Pa",
-   "cur": "Deterministic render engine for agents \u2014 not a charting library. Spec in, same bytes out. "
-  },
-  {
-   "server": "com.damagerestorehq/claims-index",
-   "pkg": "@ellul-estate/damagerestorehq-com-claims-index-mcp",
-   "prev": "DamageRestore HQ: the median paid water damage claim, read from NFIP claim records (2023 t",
-   "cur": "DamageRestore HQ: the median paid water damage claim, read from NFIP claim records (2023 t"
-  },
-  {
-   "server": "com.yaktool/image",
-   "pkg": "yaktool-image-mcp",
-   "prev": "Local image tools as an MCP server: compress PNG/JPEG (smart visually-guarded lossy, or tr",
-   "cur": "Local image tools as an MCP server: compress PNG/JPEG with a visually-guarded smart mode o"
-  },
-  {
-   "server": "io.github.jakefleming/font-proof-mcp",
-   "pkg": "font-proof-mcp",
-   "prev": "Create and modify Font Proof documents programmatically. Font Proof is a macOS app for typ",
-   "cur": "MCP server launcher for Hellbox (formerly Font Proof), the macOS font proofing app. Lets A"
-  },
-  {
-   "server": "io.github.robin-deruyck/mcp-ordali-memory",
-   "pkg": "@rdrco/mcp-ordali-memory",
-   "prev": "MCP server for Ordali memory: SQLite-backed project memory and governance traces.",
-   "cur": "Local SQLite-backed MCP memory server for the Ordali framework."
+   "server": "eu.ansvar/india-law-mcp",
+   "pkg": "@ansvar/india-law-mcp",
+   "prev": "India Law MCP \u2014 Indian legislation via Model Context Protocol",
+   "cur": "Complete Indian law database \u2014 846 Central Acts from India Code (indiacode.nic.in) with fu"
   }
  ]
 }

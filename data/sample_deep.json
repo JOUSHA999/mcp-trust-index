@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-09T03:46:17Z",
- "universe_declared_github_repos": 22213,
- "universe_declared_npm_packages": 8609,
+ "generated_at": "2026-09-10T03:42:38Z",
+ "universe_declared_github_repos": 23339,
+ "universe_declared_npm_packages": 8657,
  "github_sample": {
   "n": 1200,
   "dead": 191,
@@ -10,110 +10,110 @@
    14.0,
    18.1
   ],
-  "archived": 11,
-  "no_license": 140,
+  "archived": 13,
+  "no_license": 192,
   "stale_365d": 0,
   "extrapolated_dead": [
-   3110,
-   4021
+   3267,
+   4224
   ]
  },
  "npm_sample": {
   "n": 800,
   "resolved": 793,
   "unresolved": 7,
-  "version_desync": 258,
-  "desync_pct": 32.2,
+  "version_desync": 236,
+  "desync_pct": 29.5,
   "ci95": [
-   29.1,
-   35.6
+   26.4,
+   32.8
   ],
-  "description_drift": 72,
-  "drift_pct": 9.0,
-  "desc_mismatch_vs_registry": 665,
-  "mismatch_pct": 83.1,
+  "description_drift": 75,
+  "drift_pct": 9.4,
+  "desc_mismatch_vs_registry": 664,
+  "mismatch_pct": 83.0,
   "extrapolated_desync": [
-   2505,
-   3065
+   2285,
+   2839
   ]
  },
  "examples_dead_repo": [
-  "sairaj-reddy/aibooma",
-  "spacecowboyian/brains",
-  "Homie4570/lso-mcp",
   "joeetdev/venture-estate",
-  "jojo-labs/smart-web",
-  "GabrielAllit1/salt19",
-  "people-analyst/peopleanalyst-site",
-  "Kajdep/v0-countrycallingcodes",
-  "rajanrengasamy/vidlens-mcp",
   "joeetdev/venture-estate",
-  "SergioRico1/thrd",
-  "winter0x/lighter-agent",
-  "shittuay/DevOps-Agent",
-  "junter1989k-ai/norway-payments-mcp",
+  "joeetdev/venture-estate",
+  "pcaiano/toolscout",
+  "buttercloud/feedback-buddy-backend",
+  "Klawdik/forex-mobile",
+  "geraservicesuk/globetura",
+  "joeetdev/venture-estate",
+  "sertanhelvaci/pathrule",
+  "people-analyst/bicycle-guide",
+  "akshayjain1996/tasklix",
+  "joeetdev/venture-estate",
+  "people-analyst/bicycle-guide",
+  "junter1989k-ai/new-zealand-payments-mcp",
   "joeetdev/venture-estate"
  ],
  "examples_drift": [
   {
-   "server": "io.github.digitamaz/clarvia",
-   "pkg": "clarvia-mcp-server",
-   "prev": "MCP quality scanner and tool discovery for autonomous agents. Search 27,831+ indexed tools",
-   "cur": "MCP quality scanner and tool discovery for autonomous agents. Search 27,843+ indexed tools"
+   "server": "dev.cz-agents/sanctions",
+   "pkg": "@czagents/sanctions",
+   "prev": "MCP server for sanctions screening (EU consolidated list, OFAC SDN, UN, OFSI) \u2014 KYC/AML fo",
+   "cur": "Sanctions screening for KYC/AML \u2014 check Czech companies and individuals against EU Financi"
   },
   {
-   "server": "io.github.mizukaizen/x402-tools-mcp",
-   "pkg": "@melis-ai/x402-tools-mcp",
-   "prev": "16 x402-paid utility tools for AI agents \u2014 scrape, validate, notify, transcode, summarise.",
-   "cur": "22 x402 pay-per-call utility tools for AI agents \u2014 scrape, validate, embed, store, moderat"
+   "server": "io.github.michaeljiangmingfeng-debug/quanttogo-mcp",
+   "pkg": "quanttogo-mcp",
+   "prev": "QuantToGo MCP Server \u2014 macro-factor quantitative signal source for AI agents. Forward-trac",
+   "cur": "MCP Server for AI trading signals \u2014 8 live strategies across US and China markets. Free 30"
   },
   {
-   "server": "io.github.robinafaruqia/stripe-mcp",
-   "pkg": "@devtechtricks/stripe-mcp",
-   "prev": "A read-only MCP server for querying Stripe customers, payments, subscriptions, and invoice",
-   "cur": "Read-only MCP server for querying Stripe customers, payments, subscriptions, invoices, and"
+   "server": "io.github.ellmos-ai/ellmos-blender-use-mcp",
+   "pkg": "ellmos-blender-use-mcp",
+   "prev": "Local-first, add-on-free MCP asset-QA tool for headless Blender FBX reimport verification ",
+   "cur": "Local-first, add-on-free MCP asset-QA tool for headless Blender: FBX reimport verification"
   },
   {
-   "server": "io.github.theYahia/gigachat-mcp",
-   "pkg": "@theyahia/gigachat-mcp",
-   "prev": "MCP server for Sber GigaChat API \u2014 chat, models, embeddings, token count, image generation",
-   "cur": "MCP server for GigaChat \u2014 AI chat, embeddings, image generation (Russia)"
+   "server": "io.github.dingdawg/agent-wallet",
+   "pkg": "dingdawg-agent-wallet",
+   "prev": "Governed Agentic Wallet Middleware \u2014 policy gates, immutable receipts, and compliance for ",
+   "cur": "Governance receipts for AI agents \u2014 USDC payment governance layer with OFAC screening, pol"
   },
   {
-   "server": "io.github.BlueWaterCorp/riskmodels",
-   "pkg": "@riskmodels/mcp",
-   "prev": "MCP server for RiskModels: decompose US equities into four-bet variance shares with ETF he",
-   "cur": "MCP server for RiskModels: clean dividend-adjusted US equity total returns, risk decomposi"
+   "server": "io.github.Stewyboy1990/stockscope-mcp",
+   "pkg": "stockscope-mcp",
+   "prev": "Stock & financial intelligence MCP server \u2014 SEC EDGAR data for AI agents. Revenue, net inc",
+   "cur": "Stock & financial intelligence MCP server \u2014 SEC EDGAR data for AI agents. 6 tools: financi"
   },
   {
-   "server": "com.imbawallet/agent-docs",
-   "pkg": "@imba_wallet/agent-mcp-docs",
-   "prev": "Read-only MCP for IMBA prepaid Agent API docs and policy. No deposit, buy, or withdraw. Co",
-   "cur": "Read-only MCP for IMBA prepaid Agent API: Visa prepaid, eSIM, gift-card, and KYT playbooks"
+   "server": "io.github.ormastes/t32-mcp-server",
+   "pkg": "@simple-lang/t32-mcp-server",
+   "prev": "TRACE32 debugger MCP server \u2014 36 tools for session management, execution, window capture, ",
+   "cur": "TRACE32 debugger MCP server \u2014 low-cost MCP frontend for session, dialog, field, history, a"
   },
   {
-   "server": "ai.agenttrust/mcp-server",
-   "pkg": "@agenttrust/mcp-server",
-   "prev": "MCP server for AgentTrust \u2014 email, file storage, and instant messaging for AI agents",
-   "cur": "Free email for AI agents, instant messaging between agents, and cloud file storage \u2014 all t"
+   "server": "io.github.depixapp/depix-mcp",
+   "pkg": "@depixapp/mcp",
+   "prev": "The DePix App MCP server: hosted receive-only Pix gateway (26 tools), or local via npx wit",
+   "cur": "The DePix App MCP server: hosted receive-only Pix gateway (26 tools), or local via npx wit"
   },
   {
-   "server": "io.github.topskychen/tilde",
-   "pkg": "tilde-ai",
-   "prev": "A thin wrapper to run the tilde MCP server via Python/uv",
-   "cur": "Your AI agents' home directory \u2014 privacy-first MCP server for portable AI identity. Config"
+   "server": "io.github.LucaRSdeCo/sharecut-mcp",
+   "pkg": "sharecut-mcp",
+   "prev": "MCP server for ShareCut \u2014 create short links with click analytics and QR codes (static one",
+   "cur": "MCP server for ShareCut \u2014 create short links, re-point them after the QR is printed, read "
   },
   {
-   "server": "io.github.Noquarter6/contractor-license-mcp-server",
-   "pkg": "contractor-license-mcp-server",
-   "prev": "Real-time contractor license verification across 45 US states. MCP server for Claude Deskt",
-   "cur": "Real-time contractor license verification across all 50 US states + DC plus 8 major-city p"
+   "server": "io.github.wefi-ai/ekyc-suite",
+   "pkg": "@wefi-ai/ekyc-suite-mcp",
+   "prev": "KYC MCP server, eKYC MCP server, and KYC onboarding MCP for AI agents: identity verificati",
+   "cur": "KYC MCP server, eKYC MCP server, KYC onboarding MCP, remote KYC onboarding MCP, and identi"
   },
   {
-   "server": "eu.ansvar/india-law-mcp",
-   "pkg": "@ansvar/india-law-mcp",
-   "prev": "India Law MCP \u2014 Indian legislation via Model Context Protocol",
-   "cur": "Complete Indian law database \u2014 846 Central Acts from India Code (indiacode.nic.in) with fu"
+   "server": "io.github.enthrium/oe-mcp",
+   "pkg": "@openenthrium/oe-mcp",
+   "prev": "OE MCP Server - connect Claude Code, Cursor & Windsurf to enterprise data sources. One bin",
+   "cur": "OE MCP Server - connect Claude Code, Cursor & Windsurf to enterprise data sources. One JSO"
   }
  ]
 }

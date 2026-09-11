@@ -1,36 +1,24 @@
 {
- "generated_at": "2026-09-10T03:42:43Z",
- "universe_declared_pypi": 3672,
+ "generated_at": "2026-09-11T03:41:53Z",
+ "universe_declared_pypi": 3691,
  "sample": {
   "n_sampled": 500,
-  "resolved": 493,
-  "unresolved": 7,
-  "version_desync": 118,
-  "desync_pct": 23.9,
+  "resolved": 496,
+  "unresolved": 4,
+  "version_desync": 106,
+  "desync_pct": 21.4,
   "ci95": [
-   20.4,
-   27.9
+   18.0,
+   25.2
   ],
   "extrapolated_desync": [
-   749,
-   1024
+   664,
+   930
   ],
-  "description_drift": 26,
-  "drift_pct": 5.3
+  "description_drift": 31,
+  "drift_pct": 6.2
  },
  "examples_drift": [
-  {
-   "server": "dev.fly.veles-finance-gateway/veles-finance-mcp",
-   "pkg": "veles-finance-mcp",
-   "prev": "MCP server for Veles Finance Agent \u2014 AI-powered financial analysis via x402 micropayments ",
-   "cur": "Veles Finance Agent MCP server \u2014 institutional DD reports for Claude Desktop, Cursor, Wind"
-  },
-  {
-   "server": "io.github.wstierhout/ableton-live-mcp",
-   "pkg": "mcp-server-ableton-live",
-   "prev": "Control Ableton Live 11/12 with 154 typed MCP tools for MIDI, devices, arrangement, mixing",
-   "cur": "Control Ableton Live 11/12 with 156 typed MCP tools for MIDI, devices, arrangement, mixing"
-  },
   {
    "server": "xyz.twzrd.intel/twzrd-agent-intel",
    "pkg": "twzrd-agent-intel",
@@ -38,46 +26,58 @@
    "cur": "Pre-spend x402 counterparty reputation from observed behavior, with free preflight, signed"
   },
   {
-   "server": "io.github.bawbel/scanner",
-   "pkg": "bawbel-scanner",
-   "prev": "Agentic AI component security scanner. Detects AVE vulnerabilities. Produces OWASP AIVSS v",
-   "cur": "Security linter and scanner for MCP servers and AI skill files. Detects toxic flows, promp"
+   "server": "io.github.yusong652/pfc",
+   "pkg": "pfc-mcp",
+   "prev": "MCP server for ITASCA PFC discrete element method simulation",
+   "cur": "DEPRECATED - use itasca-mcp. MCP server for ITASCA PFC simulation workflows"
   },
   {
-   "server": "gg.batru/batru-mcp",
-   "pkg": "batru-mcp",
-   "prev": "Read-only MCP server over batru.gg's live, calibrated Dota 2 / Deadlock win-rate predictio",
-   "cur": "Read-only MCP server over batru.gg's live, calibrated Dota 2 / Deadlock / Marvel Rivals wi"
+   "server": "io.github.genecell/piaso-mcp",
+   "pkg": "piaso-mcp",
+   "prev": "Local stdio MCP server for the PIASO single-cell omics ecosystem \u2014 serves knowledge and pu",
+   "cur": "Local stdio MCP server for the PIASO single-cell omics ecosystem (PIASO, COSG/COSGR, cytom"
   },
   {
-   "server": "io.github.davidscoreal/univercity-mcp",
-   "pkg": "univercity-mcp",
-   "prev": "Holistic business intelligence engine \u2014 8-dimension diagnosis via any LLM. Triple option (",
-   "cur": "Holistic business intelligence engine \u2014 11-dimension diagnosis via any LLM. Triple option "
+   "server": "io.github.zrk222/code-factory",
+   "pkg": "factoryline-code-factory",
+   "prev": "Catch hollow AI tests and App Store evidence gaps before review.",
+   "cur": "Independent local audit for AI-built code: catch hollow tests, security, recovery, compati"
   },
   {
-   "server": "io.github.atomadictech/atomadic-forge",
-   "pkg": "atomadic-forge",
-   "prev": "Atomadic Forge ? absorb, enforce, emerge. Polyglot (Python ? JavaScript/TypeScript ? Rust ",
-   "cur": "DEPRECATED \u2014 atomadic-forge retired; use the atomadic SDK and Lattice Omega engine."
+   "server": "io.github.omniologynow-rgb/profitspot-mcp",
+   "pkg": "profitspot-mcp",
+   "prev": "Cross-chain DeFi intelligence for AI agents. Risk-scored yields, profit simulation, whale ",
+   "cur": "The DeFi Brain for AI agents \u2014 ask Claude to find safe yields, grade liquidity pool risk, "
   },
   {
-   "server": "io.github.reesehammer/umbra-mcp",
-   "pkg": "umbra-py",
-   "prev": "A Python-first toolkit to make Umbra SAR open data easy to discover, load, download, and a",
-   "cur": "Search, preview, load, and convert Umbra open SAR. Umbra ships no search API; umbra-py is "
+   "server": "io.github.omniologynow-rgb/scout-intel-mcp",
+   "pkg": "scout-intel-mcp",
+   "prev": "Business & market intelligence MCP server for AI agents \u2014 7 tools, 8 data sources, structu",
+   "cur": "The Google for AI agents \u2014 ask Claude to research any company, analyze competitors, track "
   },
   {
-   "server": "io.github.cyyprezz/codex-serverops-mcp",
-   "pkg": "codex-serverops-mcp",
-   "prev": "Windows-first local MCP transport for stateful SSH server operations",
-   "cur": "Operate chosen Linux servers from Codex or Claude Code with stateful SSH sessions"
+   "server": "io.github.ebmurha/google-tasks-mcp",
+   "pkg": "google-tasks-mcp",
+   "prev": "A self-hosted MCP server for Google Tasks.",
+   "cur": "Manage Google Tasks from MCP-compatible AI clients."
   },
   {
-   "server": "io.github.WimSuenens/gs1belu-mpm",
-   "pkg": "gs1belu-mpm-mcp",
-   "prev": "FastMCP server exposing GS1 Belgium & Luxembourg My Product Manager (Upload + Download v17",
-   "cur": "Deprecated \u2014 split into gs1belu-mpm-upload-mcp and gs1belu-mpm-download-mcp. FastMCP serve"
+   "server": "io.github.0xzr/freellmpool",
+   "pkg": "freellmpool",
+   "prev": "Free LLM gateway: 22 LLM providers, 177 enabled chat routes, 431 cataloged chat models; ke",
+   "cur": "Free LLM gateway: 22 LLM providers, 178 enabled chat routes, 431 cataloged chat models; ke"
+  },
+  {
+   "server": "io.github.rationalbloks/rationalbloks-mcp",
+   "pkg": "rationalbloks-mcp",
+   "prev": "RationalBloks MCP Server - Deploy production REST APIs and Neo4j Graph APIs in minutes. 44",
+   "cur": "RationalBloks MCP Server - Deploy production REST APIs and Neo4j Graph APIs in minutes. 45"
+  },
+  {
+   "server": "io.github.matematicsolutions/legalize-mcp",
+   "pkg": "legalize-mcp",
+   "prev": "MCP server over the legalize-dev law-as-git corpus - national legislation for 32 jurisdict",
+   "cur": "Unofficial MCP server (not affiliated with legalize-dev) over the legalize-dev law-as-git "
   }
  ]
 }

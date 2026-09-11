@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-09-10T03:42:38Z",
- "universe_declared_github_repos": 23339,
- "universe_declared_npm_packages": 8657,
+ "generated_at": "2026-09-11T03:41:47Z",
+ "universe_declared_github_repos": 23746,
+ "universe_declared_npm_packages": 8696,
  "github_sample": {
   "n": 1200,
-  "dead": 191,
-  "dead_pct": 15.9,
+  "dead": 177,
+  "dead_pct": 14.8,
   "ci95": [
-   14.0,
-   18.1
+   12.9,
+   16.9
   ],
-  "archived": 13,
-  "no_license": 192,
-  "stale_365d": 0,
+  "archived": 15,
+  "no_license": 203,
+  "stale_365d": 3,
   "extrapolated_dead": [
-   3267,
-   4224
+   3063,
+   4013
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 793,
-  "unresolved": 7,
-  "version_desync": 236,
-  "desync_pct": 29.5,
+  "resolved": 791,
+  "unresolved": 9,
+  "version_desync": 252,
+  "desync_pct": 31.5,
   "ci95": [
-   26.4,
-   32.8
+   28.4,
+   34.8
   ],
-  "description_drift": 75,
-  "drift_pct": 9.4,
-  "desc_mismatch_vs_registry": 664,
-  "mismatch_pct": 83.0,
+  "description_drift": 71,
+  "drift_pct": 8.9,
+  "desc_mismatch_vs_registry": 688,
+  "mismatch_pct": 86.0,
   "extrapolated_desync": [
-   2285,
-   2839
+   2470,
+   3026
   ]
  },
  "examples_dead_repo": [
+  "naturalnet/wedding-seat-app",
+  "adrianncraciun-cmd/public-mcp",
+  "ChanghuLiu/uk-taxi-phv-mcp",
+  "000safah000-ai/BlackHawkMCP",
+  "Tim-Projekt/agent-router.org",
+  "jbiggs77/bizinsured",
+  "pachote/nira-video-mcp",
+  "joeetdev/venture-estate",
+  "shabsi7700/vandon-forbes-platform",
+  "partstable/partsiq",
+  "Im5tu/verifymcp",
+  "choosemylo/mind-of-mylo-chatbot",
   "joeetdev/venture-estate",
   "joeetdev/venture-estate",
-  "joeetdev/venture-estate",
-  "pcaiano/toolscout",
-  "buttercloud/feedback-buddy-backend",
-  "Klawdik/forex-mobile",
-  "geraservicesuk/globetura",
-  "joeetdev/venture-estate",
-  "sertanhelvaci/pathrule",
-  "people-analyst/bicycle-guide",
-  "akshayjain1996/tasklix",
-  "joeetdev/venture-estate",
-  "people-analyst/bicycle-guide",
-  "junter1989k-ai/new-zealand-payments-mcp",
-  "joeetdev/venture-estate"
+  "kipmcc/aviado-mcp"
  ],
  "examples_drift": [
   {
-   "server": "dev.cz-agents/sanctions",
-   "pkg": "@czagents/sanctions",
-   "prev": "MCP server for sanctions screening (EU consolidated list, OFAC SDN, UN, OFSI) \u2014 KYC/AML fo",
-   "cur": "Sanctions screening for KYC/AML \u2014 check Czech companies and individuals against EU Financi"
+   "server": "dev.cite42/mcp",
+   "pkg": "@cite42/mcp",
+   "prev": "Cite42 MCP server: query ChatGPT, Claude, Perplexity, Gemini & Google AI Overviews for bra",
+   "cur": "Cite42 MCP server: query the models behind ChatGPT, Claude, Perplexity & Gemini, plus Goog"
   },
   {
-   "server": "io.github.michaeljiangmingfeng-debug/quanttogo-mcp",
-   "pkg": "quanttogo-mcp",
-   "prev": "QuantToGo MCP Server \u2014 macro-factor quantitative signal source for AI agents. Forward-trac",
-   "cur": "MCP Server for AI trading signals \u2014 8 live strategies across US and China markets. Free 30"
+   "server": "io.github.tixuz/openemis",
+   "pkg": "openemis-mcp",
+   "prev": "Free, read-only MCP server for the OpenEMIS v5 REST API \u2014 natural-language queries over 64",
+   "cur": "Free, read-only MCP server for the OpenEMIS v5 REST API \u2014 natural-language queries over 67"
   },
   {
-   "server": "io.github.ellmos-ai/ellmos-blender-use-mcp",
-   "pkg": "ellmos-blender-use-mcp",
-   "prev": "Local-first, add-on-free MCP asset-QA tool for headless Blender FBX reimport verification ",
-   "cur": "Local-first, add-on-free MCP asset-QA tool for headless Blender: FBX reimport verification"
+   "server": "io.github.foxdavidson/property-mortgage-mcp",
+   "pkg": "@foxdavidson/property-mortgage-mcp",
+   "prev": "MCP server exposing UK mortgage calculators from Fox Davidson. UK stamp duty (SDLT/LBTT/LT",
+   "cur": "MCP server exposing UK mortgage calculators from Fox Davidson. UK stamp duty (SDLT/LBTT/LT"
   },
   {
-   "server": "io.github.dingdawg/agent-wallet",
-   "pkg": "dingdawg-agent-wallet",
-   "prev": "Governed Agentic Wallet Middleware \u2014 policy gates, immutable receipts, and compliance for ",
-   "cur": "Governance receipts for AI agents \u2014 USDC payment governance layer with OFAC screening, pol"
+   "server": "io.github.flowzap-xyz/flowzap",
+   "pkg": "flowzap-mcp",
+   "prev": "MCP server for FlowZap - Create workflow, sequence, and architecture diagrams via AI assis",
+   "cur": "MCP server for FlowZap - Create workflow, sequence, architecture, and mind map diagrams vi"
   },
   {
-   "server": "io.github.Stewyboy1990/stockscope-mcp",
-   "pkg": "stockscope-mcp",
-   "prev": "Stock & financial intelligence MCP server \u2014 SEC EDGAR data for AI agents. Revenue, net inc",
-   "cur": "Stock & financial intelligence MCP server \u2014 SEC EDGAR data for AI agents. 6 tools: financi"
+   "server": "io.github.apurv101/memory-vault",
+   "pkg": "memory-vault",
+   "prev": "Claude-style memory over a local folder, served via MCP \u2014 per-project spaces plus a shared",
+   "cur": "Portable AI memory over a local folder or hosted vault, served via MCP \u2014 one memory shared"
   },
   {
-   "server": "io.github.ormastes/t32-mcp-server",
-   "pkg": "@simple-lang/t32-mcp-server",
-   "prev": "TRACE32 debugger MCP server \u2014 36 tools for session management, execution, window capture, ",
-   "cur": "TRACE32 debugger MCP server \u2014 low-cost MCP frontend for session, dialog, field, history, a"
+   "server": "io.github.dhanushs1912-svg/agent-receipts-mcp",
+   "pkg": "agent-receipts-mcp",
+   "prev": "Signed, independently verifiable receipts for AI agent actions. Hash-only privacy, offline",
+   "cur": "Prove what your AI agents did. Signed, tamper-evident audit receipts and exportable audit "
   },
   {
-   "server": "io.github.depixapp/depix-mcp",
-   "pkg": "@depixapp/mcp",
-   "prev": "The DePix App MCP server: hosted receive-only Pix gateway (26 tools), or local via npx wit",
-   "cur": "The DePix App MCP server: hosted receive-only Pix gateway (26 tools), or local via npx wit"
+   "server": "io.github.ZLeventer/google-ads-mcp",
+   "pkg": "@zleventer/google-ads-mcp",
+   "prev": "MCP server for Google Ads API \u2014 20 tools for campaigns, keywords, RSAs, assets, audiences,",
+   "cur": "MCP server for Google Ads API \u2014 22 tools for campaigns, keywords, RSAs, assets, audiences,"
   },
   {
-   "server": "io.github.LucaRSdeCo/sharecut-mcp",
-   "pkg": "sharecut-mcp",
-   "prev": "MCP server for ShareCut \u2014 create short links with click analytics and QR codes (static one",
-   "cur": "MCP server for ShareCut \u2014 create short links, re-point them after the QR is printed, read "
+   "server": "io.github.1picassoai/sticky",
+   "pkg": "sticky-mcp",
+   "prev": "A visual board your AI coding agent can write to. Ten active notes; the oldest tumbles to ",
+   "cur": "Agent memory that cannot bloat. The default MCP memory server grows unbounded - users repo"
   },
   {
-   "server": "io.github.wefi-ai/ekyc-suite",
-   "pkg": "@wefi-ai/ekyc-suite-mcp",
-   "prev": "KYC MCP server, eKYC MCP server, and KYC onboarding MCP for AI agents: identity verificati",
-   "cur": "KYC MCP server, eKYC MCP server, KYC onboarding MCP, remote KYC onboarding MCP, and identi"
+   "server": "ai.agenttrust/mcp-server",
+   "pkg": "@agenttrust/mcp-server",
+   "prev": "MCP server for AgentTrust \u2014 email, file storage, and instant messaging for AI agents",
+   "cur": "Free email for AI agents, instant messaging between agents, and cloud file storage \u2014 all t"
   },
   {
-   "server": "io.github.enthrium/oe-mcp",
-   "pkg": "@openenthrium/oe-mcp",
-   "prev": "OE MCP Server - connect Claude Code, Cursor & Windsurf to enterprise data sources. One bin",
-   "cur": "OE MCP Server - connect Claude Code, Cursor & Windsurf to enterprise data sources. One JSO"
+   "server": "com.useweckr/weckr",
+   "pkg": "@weckr/mcp",
+   "prev": "Weckr MCP server \u2014 query your AI cost and margin data directly from Claude, Cursor, or any",
+   "cur": "Weckr MCP server. Query your AI cost and margin data directly from Claude, Cursor, or any "
   }
  ]
 }

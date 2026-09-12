@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-09-11T03:41:47Z",
- "universe_declared_github_repos": 23746,
- "universe_declared_npm_packages": 8696,
+ "generated_at": "2026-09-12T03:40:23Z",
+ "universe_declared_github_repos": 23817,
+ "universe_declared_npm_packages": 8680,
  "github_sample": {
   "n": 1200,
-  "dead": 177,
-  "dead_pct": 14.8,
+  "dead": 147,
+  "dead_pct": 12.2,
   "ci95": [
-   12.9,
-   16.9
+   10.5,
+   14.2
   ],
   "archived": 15,
-  "no_license": 203,
+  "no_license": 228,
   "stale_365d": 3,
   "extrapolated_dead": [
-   3063,
-   4013
+   2501,
+   3382
   ]
  },
  "npm_sample": {
   "n": 800,
   "resolved": 791,
   "unresolved": 9,
-  "version_desync": 252,
-  "desync_pct": 31.5,
+  "version_desync": 233,
+  "desync_pct": 29.1,
   "ci95": [
-   28.4,
-   34.8
+   26.1,
+   32.4
   ],
-  "description_drift": 71,
-  "drift_pct": 8.9,
-  "desc_mismatch_vs_registry": 688,
-  "mismatch_pct": 86.0,
+  "description_drift": 60,
+  "drift_pct": 7.5,
+  "desc_mismatch_vs_registry": 687,
+  "mismatch_pct": 85.9,
   "extrapolated_desync": [
-   2470,
-   3026
+   2265,
+   2812
   ]
  },
  "examples_dead_repo": [
-  "naturalnet/wedding-seat-app",
-  "adrianncraciun-cmd/public-mcp",
-  "ChanghuLiu/uk-taxi-phv-mcp",
-  "000safah000-ai/BlackHawkMCP",
-  "Tim-Projekt/agent-router.org",
-  "jbiggs77/bizinsured",
-  "pachote/nira-video-mcp",
+  "albertsabatemartinez/viatsy",
+  "BadRooBot/python_mcp",
   "joeetdev/venture-estate",
-  "shabsi7700/vandon-forbes-platform",
-  "partstable/partsiq",
-  "Im5tu/verifymcp",
-  "choosemylo/mind-of-mylo-chatbot",
+  "vajdap/commerce-validators-mcp",
   "joeetdev/venture-estate",
-  "joeetdev/venture-estate",
-  "kipmcc/aviado-mcp"
+  "IzikLisbon/mufmuf",
+  "zero-intel/zero",
+  "rizwanqsf-sketch/APK-and-ABB-builder",
+  "Ai-Rook/x402-atm",
+  "ee324/a2awire",
+  "entity-zero/entity-mcp",
+  "QualyHQ/docs",
+  "Ansvar-Systems/tanzanian-law-mcp",
+  "junter1989k-ai/luxembourg-invoice-mcp",
+  "LarsCowe/queue-pilot"
  ],
  "examples_drift": [
   {
-   "server": "dev.cite42/mcp",
-   "pkg": "@cite42/mcp",
-   "prev": "Cite42 MCP server: query ChatGPT, Claude, Perplexity, Gemini & Google AI Overviews for bra",
-   "cur": "Cite42 MCP server: query the models behind ChatGPT, Claude, Perplexity & Gemini, plus Goog"
+   "server": "io.github.0nork/0nMCP",
+   "pkg": "0nmcp",
+   "prev": "Universal AI API Orchestrator \u2014 1,598 tools across 106 services. UCP (Universal Commerce P",
+   "cur": "Universal AI API Orchestrator \u2014 1,598 tools across 106 services. Go High Level (GoHighLeve"
   },
   {
-   "server": "io.github.tixuz/openemis",
-   "pkg": "openemis-mcp",
-   "prev": "Free, read-only MCP server for the OpenEMIS v5 REST API \u2014 natural-language queries over 64",
-   "cur": "Free, read-only MCP server for the OpenEMIS v5 REST API \u2014 natural-language queries over 67"
+   "server": "io.github.somacoffeekyoto/imgx",
+   "pkg": "imgx-mcp",
+   "prev": "AI image generation and editing for Claude Code, Codex CLI, and MCP-compatible AI agents",
+   "cur": "AI image generation and editing MCP server with context-aware prompt optimization, 24 edit"
   },
   {
-   "server": "io.github.foxdavidson/property-mortgage-mcp",
-   "pkg": "@foxdavidson/property-mortgage-mcp",
-   "prev": "MCP server exposing UK mortgage calculators from Fox Davidson. UK stamp duty (SDLT/LBTT/LT",
-   "cur": "MCP server exposing UK mortgage calculators from Fox Davidson. UK stamp duty (SDLT/LBTT/LT"
+   "server": "io.github.AlexanderKaan/uisandbox",
+   "pkg": "uisandbox-mcp",
+   "prev": "UISandbox as an MCP server: open the real sandbox in your browser with your built web app ",
+   "cur": "UISandbox as an MCP server: open the real sandbox in your browser with your built web app "
   },
   {
-   "server": "io.github.flowzap-xyz/flowzap",
-   "pkg": "flowzap-mcp",
-   "prev": "MCP server for FlowZap - Create workflow, sequence, and architecture diagrams via AI assis",
-   "cur": "MCP server for FlowZap - Create workflow, sequence, architecture, and mind map diagrams vi"
+   "server": "io.github.theYahia/yandex-metrika-mcp",
+   "pkg": "@theyahia/yandex-metrika-mcp",
+   "prev": "MCP server for Yandex.Metrika API \u2014 counters, goals, reports, logs, traffic analysis. 15 t",
+   "cur": "MCP server for Yandex Metrika \u2014 web analytics, counters, goals, traffic (Russia)"
   },
   {
-   "server": "io.github.apurv101/memory-vault",
-   "pkg": "memory-vault",
-   "prev": "Claude-style memory over a local folder, served via MCP \u2014 per-project spaces plus a shared",
-   "cur": "Portable AI memory over a local folder or hosted vault, served via MCP \u2014 one memory shared"
+   "server": "io.github.edgarfloresguerra2011-a11y/marketnow",
+   "pkg": "marketnow-mcp",
+   "prev": "MarketNow MCP Server v1.10.2 \u2014 Revocation + Tool Fingerprinting release (roadmap v5.1). Ad",
+   "cur": "MarketNow MCP Server v1.10.3 \u2014 Security Hardening release: @modelcontextprotocol/sdk upgra"
   },
   {
-   "server": "io.github.dhanushs1912-svg/agent-receipts-mcp",
-   "pkg": "agent-receipts-mcp",
-   "prev": "Signed, independently verifiable receipts for AI agent actions. Hash-only privacy, offline",
-   "cur": "Prove what your AI agents did. Signed, tamper-evident audit receipts and exportable audit "
+   "server": "io.github.evidai/agent-payment",
+   "pkg": "agent-payment-mcp",
+   "prev": "Monetize any HTTP API or MCP server in one line \u2014 no monthly fee, 3,000 calls free, then 3",
+   "cur": "The x402 payment rail for AI agents, as an MCP server. An agent calls any paid HTTP API th"
   },
   {
-   "server": "io.github.ZLeventer/google-ads-mcp",
-   "pkg": "@zleventer/google-ads-mcp",
-   "prev": "MCP server for Google Ads API \u2014 20 tools for campaigns, keywords, RSAs, assets, audiences,",
-   "cur": "MCP server for Google Ads API \u2014 22 tools for campaigns, keywords, RSAs, assets, audiences,"
+   "server": "io.github.dingdawg/dingdawg-marketing-agent",
+   "pkg": "dingdawg-marketing-agent",
+   "prev": "Marketing that learns your brand voice over time. Content, SEO, campaigns, social \u2014 every ",
+   "cur": "Governance receipts for AI agents \u2014 marketing content, SEO, campaigns, and social that lea"
   },
   {
-   "server": "io.github.1picassoai/sticky",
-   "pkg": "sticky-mcp",
-   "prev": "A visual board your AI coding agent can write to. Ten active notes; the oldest tumbles to ",
-   "cur": "Agent memory that cannot bloat. The default MCP memory server grows unbounded - users repo"
+   "server": "io.github.firecrawl/firecrawl-mcp-server",
+   "pkg": "firecrawl-mcp",
+   "prev": "MCP server for Firecrawl \u2014 search, scrape, and interact with the web. Supports both cloud ",
+   "cur": "MCP server for Firecrawl \u2014 search, scrape, and interact with the web, and search scientifi"
   },
   {
-   "server": "ai.agenttrust/mcp-server",
-   "pkg": "@agenttrust/mcp-server",
-   "prev": "MCP server for AgentTrust \u2014 email, file storage, and instant messaging for AI agents",
-   "cur": "Free email for AI agents, instant messaging between agents, and cloud file storage \u2014 all t"
+   "server": "io.github.apitier/mcp-server",
+   "pkg": "@apitier/mcp-server",
+   "prev": "MCP server exposing all APITier utility APIs as AI agent tools",
+   "cur": "MCP server for UK KYC onboarding, address verification, business validation, EU/UK VAT com"
   },
   {
-   "server": "com.useweckr/weckr",
-   "pkg": "@weckr/mcp",
-   "prev": "Weckr MCP server \u2014 query your AI cost and margin data directly from Claude, Cursor, or any",
-   "cur": "Weckr MCP server. Query your AI cost and margin data directly from Claude, Cursor, or any "
+   "server": "io.github.smeet666/mcp-recipes",
+   "pkg": "mcp-recipes",
+   "prev": "MCP server that asks five recipe sites at once, in French and English, merges the answers,",
+   "cur": "MCP server that asks six recipe sites at once, in French, English and Spanish, merges the "
   }
  ]
 }

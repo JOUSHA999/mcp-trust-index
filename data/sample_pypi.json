@@ -1,53 +1,47 @@
 {
- "generated_at": "2026-09-12T03:40:27Z",
- "universe_declared_pypi": 3696,
+ "generated_at": "2026-09-13T03:42:29Z",
+ "universe_declared_pypi": 3709,
  "sample": {
   "n_sampled": 500,
-  "resolved": 498,
-  "unresolved": 2,
+  "resolved": 496,
+  "unresolved": 4,
   "version_desync": 113,
-  "desync_pct": 22.7,
+  "desync_pct": 22.8,
   "ci95": [
-   19.2,
-   26.6
+   19.3,
+   26.7
   ],
   "extrapolated_desync": [
-   710,
-   983
+   716,
+   990
   ],
-  "description_drift": 22,
-  "drift_pct": 4.4
+  "description_drift": 25,
+  "drift_pct": 5.0
  },
  "examples_drift": [
   {
-   "server": "io.github.vmware-skills/vmware-debug",
-   "pkg": "vmware-debug",
-   "prev": "VMware diagnostic brain \u2014 read-only incident triage, log/event correlation, and root-cause",
-   "cur": "VMware diagnostic brain \u2014 offline incident triage, log/event correlation, and root-cause r"
+   "server": "io.github.alyiox/mcp-walmart-marketplace",
+   "pkg": "mcp-walmart-marketplace",
+   "prev": "MCP server for Walmart Marketplace APIs (US, 3P seller)",
+   "cur": "Deprecated: merged into mcp-walmart-ads, which serves the Walmart Marketplace APIs"
   },
   {
-   "server": "io.github.vishaltorc/subconscious-mcp",
-   "pkg": "subconscious-mcp",
-   "prev": "Local-first semantic memory for MCP agents. Recall, remember, forget, stats over stdio.",
-   "cur": "Local-first semantic memory for MCP agents. Recall, remember, forget, echo, drift detectio"
+   "server": "com.undercurrentholdings/aegis",
+   "pkg": "aegis-governance",
+   "prev": "Quantitative AI governance \u2014 works immediately, no signup required. 10 free evaluations/da",
+   "cur": "AEGIS governance Python client, async client, and local MCP server. The hosted evaluation "
   },
   {
-   "server": "io.github.mgdsn/verify-api-mcp",
-   "pkg": "verify-api-mcp",
-   "prev": "MCP server for Verify API -- evidence-backed citation, URL, package, repo, case, SEC filin",
-   "cur": "MCP server for Verify API -- evidence-backed citation, URL, package, repo, case, SEC filin"
+   "server": "io.github.dokmatiq/docgen",
+   "pkg": "dokmatiq-docgen-mcp",
+   "prev": "MCP server for the Dokmatiq DocGen document generation API",
+   "cur": "MCP server for Dokmatiq DocGen \u2014 PDF/DOCX/Excel generation with stationery overlay, ZUGFeR"
   },
   {
-   "server": "io.github.LeandroPG19/cuba-memorys",
-   "pkg": "cuba-memorys",
-   "prev": "Persistent memory MCP server for AI agents. 28 tools, self-growing graph without MCP sampl",
-   "cur": "MemoryIndustry \u2014 Persistent memory MCP server for AI agents. 31 tools, self-growing graph "
-  },
-  {
-   "server": "io.github.gulmezeren2-byte/erp-report-engine",
-   "pkg": "erp-report-engine",
-   "prev": "Autonomous weekly reports straight from the SQL database behind your ERP - read-only by co",
-   "cur": "A read-only, self-verifying data layer for the SQL database behind your ERP - weekly repor"
+   "server": "io.github.ComplyEdge/complyedge",
+   "pkg": "complyedge",
+   "prev": "Python SDK for ComplyEdge Compliance API \u2014 runtime EU AI Act enforcement for AI agents",
+   "cur": "Runtime EU AI Act deny for agent I/O (Article 5, Article 50) \u2014 ComplyEdge Python SDK"
   },
   {
    "server": "io.github.seang1121/sports-betting-mcp",
@@ -56,28 +50,34 @@
    "cur": "Live sports betting MCP server \u2014 AI picks, odds, injuries, line movement across NBA, NHL, "
   },
   {
-   "server": "io.github.Solara-Snipe-Bot/solana-snipe-bot-mcp",
-   "pkg": "solana-snipe-bot-mcp",
-   "prev": "Solana Sniper Bot MCP Server \u2014 control an autonomous Solana trading bot via 281 MCP tools ",
-   "cur": "Solana Sniper Bot MCP Server \u2014 control an autonomous Solana trading bot via 328 MCP tools "
+   "server": "io.github.crunchtools/cloudflare",
+   "pkg": "mcp-cloudflare-crunchtools",
+   "prev": "Secure MCP server for Cloudflare DNS, Transform Rules, and Page Rules",
+   "cur": "Secure MCP server for Cloudflare DNS, Transform Rules, Page Rules, Cache, Analytics, and W"
   },
   {
-   "server": "io.github.atomno-mcp/mcp-newbuild",
-   "pkg": "atomno-mcp-newbuild",
-   "prev": "MCP server: check Russian new-build developers and projects from the official \u0415\u0418\u0421\u0416\u0421/\u043d\u0430\u0448.\u0434\u043e",
-   "cur": "MCP for Russian new-builds on the client's EISZHS contract. Method spec is closed; no inve"
+   "server": "io.github.hangeaiagent/kronos-mcp",
+   "pkg": "kronos-mcp",
+   "prev": "MCP server for Kronos stock price forecasting \u2014 A-shares, US and HK equities",
+   "cur": "MCP server for Kronos stock price forecasting \u2014 China A-shares"
   },
   {
-   "server": "com.mcparmory/google-drive",
-   "pkg": "mcparmory-google-drive",
-   "prev": "MCP server for Google Drive",
-   "cur": "Manage files, folders, permissions, and collaborative content in Google Drive"
+   "server": "io.github.BigJai/tokennuke",
+   "pkg": "tokennuke",
+   "prev": "Nuke your token usage. Intelligent code indexer with O(1) symbol retrieval, hybrid search,",
+   "cur": "Intelligent code indexing MCP server. Tree-sitter AST extraction, hybrid search (FTS5 + ve"
   },
   {
-   "server": "io.github.jayjodev/vivory-mcp-verification",
-   "pkg": "vivory-mcp-verification",
-   "prev": "MCP for verifiable AI: DOI/ORCID/OpenAlex, OpenCitations, PubPeer, Funder, salami screen, ",
-   "cur": "MCP for verifiable AI \u2014 the Vivory moat: Korean law/KYB verdicts (\uad6d\uac00\ubc95\ub839\uc815\ubcf4\uc13c\ud130 + \uc5f4\ub9b0\uad6d\ud68c\uc815\ubcf4 + NTS\u00d7"
+   "server": "io.github.ahmedEid1/forgejudge",
+   "pkg": "forgejudge",
+   "prev": "Reserved for ForgeJudge \u2014 open eval leaderboard + CI gate for autonomous coding agents.",
+   "cur": "Open, always-on leaderboard + CI gate for autonomous coding agents \u2014 every patch sandboxed"
+  },
+  {
+   "server": "io.github.WimSuenens/gs1belu-mpm",
+   "pkg": "gs1belu-mpm-mcp",
+   "prev": "FastMCP server exposing GS1 Belgium & Luxembourg My Product Manager (Upload + Download v17",
+   "cur": "Deprecated \u2014 split into gs1belu-mpm-upload-mcp and gs1belu-mpm-download-mcp. FastMCP serve"
   }
  ]
 }

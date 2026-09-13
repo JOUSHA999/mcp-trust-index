@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-09-12T03:40:23Z",
- "universe_declared_github_repos": 23817,
- "universe_declared_npm_packages": 8680,
+ "generated_at": "2026-09-13T03:42:24Z",
+ "universe_declared_github_repos": 23819,
+ "universe_declared_npm_packages": 8661,
  "github_sample": {
   "n": 1200,
-  "dead": 147,
-  "dead_pct": 12.2,
+  "dead": 174,
+  "dead_pct": 14.5,
   "ci95": [
-   10.5,
-   14.2
+   12.6,
+   16.6
   ],
-  "archived": 15,
-  "no_license": 228,
-  "stale_365d": 3,
+  "archived": 9,
+  "no_license": 211,
+  "stale_365d": 2,
   "extrapolated_dead": [
-   2501,
-   3382
+   3001,
+   3954
   ]
  },
  "npm_sample": {
   "n": 800,
   "resolved": 791,
   "unresolved": 9,
-  "version_desync": 233,
-  "desync_pct": 29.1,
+  "version_desync": 211,
+  "desync_pct": 26.4,
   "ci95": [
-   26.1,
-   32.4
+   23.4,
+   29.5
   ],
-  "description_drift": 60,
-  "drift_pct": 7.5,
-  "desc_mismatch_vs_registry": 687,
-  "mismatch_pct": 85.9,
+  "description_drift": 70,
+  "drift_pct": 8.8,
+  "desc_mismatch_vs_registry": 662,
+  "mismatch_pct": 82.8,
   "extrapolated_desync": [
-   2265,
-   2812
+   2027,
+   2555
   ]
  },
  "examples_dead_repo": [
-  "albertsabatemartinez/viatsy",
+  "infoinlet-marketplace/marketplace",
+  "companybetatel/core-services",
+  "joeetdev/venture-estate",
+  "philipeke/nuria-intelligence",
   "BadRooBot/python_mcp",
+  "travelwhiz-ltd/TravelWhizWebAPI",
+  "crabbitmq/crabbit_mq",
+  "iridite/bing-search-mcp",
+  "nsudhanva/sudhanva.me",
   "joeetdev/venture-estate",
-  "vajdap/commerce-validators-mcp",
-  "joeetdev/venture-estate",
-  "IzikLisbon/mufmuf",
-  "zero-intel/zero",
-  "rizwanqsf-sketch/APK-and-ABB-builder",
-  "Ai-Rook/x402-atm",
   "ee324/a2awire",
-  "entity-zero/entity-mcp",
-  "QualyHQ/docs",
-  "Ansvar-Systems/tanzanian-law-mcp",
-  "junter1989k-ai/luxembourg-invoice-mcp",
-  "LarsCowe/queue-pilot"
+  "lfhillesheim/calculadora",
+  "cgdev2019/comparefairly-mcp",
+  "simistern/ttw-chat",
+  "clone777/paperee"
  ],
  "examples_drift": [
   {
-   "server": "io.github.0nork/0nMCP",
-   "pkg": "0nmcp",
-   "prev": "Universal AI API Orchestrator \u2014 1,598 tools across 106 services. UCP (Universal Commerce P",
-   "cur": "Universal AI API Orchestrator \u2014 1,598 tools across 106 services. Go High Level (GoHighLeve"
+   "server": "io.github.OnChainAIIntel/pqs-mcp-server",
+   "pkg": "pqs-mcp-server",
+   "prev": "Score prompt quality across 8 dimensions before they reach a model. Pre-flight, not post-h",
+   "cur": "MCP server for PQS \u2014 score and optimize prompts before sending them to expensive LLMs. Fre"
   },
   {
-   "server": "io.github.somacoffeekyoto/imgx",
-   "pkg": "imgx-mcp",
-   "prev": "AI image generation and editing for Claude Code, Codex CLI, and MCP-compatible AI agents",
-   "cur": "AI image generation and editing MCP server with context-aware prompt optimization, 24 edit"
+   "server": "io.github.theYahia/elma365-mcp",
+   "pkg": "@theyahia/elma365-mcp",
+   "prev": "MCP server for ELMA365 API \u2014 app items, tasks, processes, users, comments. 9 tools.",
+   "cur": "MCP server for ELMA365 \u2014 BPM, low-code app items (Russia)"
   },
   {
-   "server": "io.github.AlexanderKaan/uisandbox",
-   "pkg": "uisandbox-mcp",
-   "prev": "UISandbox as an MCP server: open the real sandbox in your browser with your built web app ",
-   "cur": "UISandbox as an MCP server: open the real sandbox in your browser with your built web app "
+   "server": "io.github.diecoscai/hevy-mcp",
+   "pkg": "@diecoscai/hevy-mcp",
+   "prev": "Model Context Protocol server for the Hevy fitness API. Manage workouts, routines, exercis",
+   "cur": "Model Context Protocol server for the Hevy fitness API \u2014 schemas generated from Hevy's Ope"
   },
   {
-   "server": "io.github.theYahia/yandex-metrika-mcp",
-   "pkg": "@theyahia/yandex-metrika-mcp",
-   "prev": "MCP server for Yandex.Metrika API \u2014 counters, goals, reports, logs, traffic analysis. 15 t",
-   "cur": "MCP server for Yandex Metrika \u2014 web analytics, counters, goals, traffic (Russia)"
+   "server": "io.github.delentia-labs/delentia-mcp",
+   "pkg": "delentia-mcp",
+   "prev": "Official Public Client & Remote Connector for Delentia Sovereign AI Operating System MCP G",
+   "cur": "Stop rogue tool calls & hallucinations with deterministic mathematical guardrails. Zero-co"
   },
   {
-   "server": "io.github.edgarfloresguerra2011-a11y/marketnow",
-   "pkg": "marketnow-mcp",
-   "prev": "MarketNow MCP Server v1.10.2 \u2014 Revocation + Tool Fingerprinting release (roadmap v5.1). Ad",
-   "cur": "MarketNow MCP Server v1.10.3 \u2014 Security Hardening release: @modelcontextprotocol/sdk upgra"
+   "server": "io.github.eamwhite1/agent-trust",
+   "pkg": "@eamwhite1/agenttrust-sdk",
+   "prev": "Trustless AI oracle-mediated escrow on the XRP Ledger. Create jobs, verify work, release X",
+   "cur": "Node.js SDK for AgentTrust \u2014 job marketplace, trust scoring, XRPL escrow, and AI-verified "
   },
   {
-   "server": "io.github.evidai/agent-payment",
-   "pkg": "agent-payment-mcp",
-   "prev": "Monetize any HTTP API or MCP server in one line \u2014 no monthly fee, 3,000 calls free, then 3",
-   "cur": "The x402 payment rail for AI agents, as an MCP server. An agent calls any paid HTTP API th"
+   "server": "io.github.Fonteum/mcp-server",
+   "pkg": "@fonteum/mcp",
+   "prev": "Free, dated, source-traced US public records + global sanctions over MCP: 95 source-catalo",
+   "cur": "Dated US public records and sanctions-list screening over MCP. 111 active production sourc"
   },
   {
-   "server": "io.github.dingdawg/dingdawg-marketing-agent",
-   "pkg": "dingdawg-marketing-agent",
-   "prev": "Marketing that learns your brand voice over time. Content, SEO, campaigns, social \u2014 every ",
-   "cur": "Governance receipts for AI agents \u2014 marketing content, SEO, campaigns, and social that lea"
+   "server": "io.github.Invarato/jarroba-tools",
+   "pkg": "@jarroba/mcp",
+   "prev": "MCP server (stdio, local) exposing 90 deterministic tools from Jarroba Tools, reusing the ",
+   "cur": "MCP server (stdio, local) exposing 93 deterministic tools from Jarroba Tools, reusing the "
   },
   {
-   "server": "io.github.firecrawl/firecrawl-mcp-server",
-   "pkg": "firecrawl-mcp",
-   "prev": "MCP server for Firecrawl \u2014 search, scrape, and interact with the web. Supports both cloud ",
-   "cur": "MCP server for Firecrawl \u2014 search, scrape, and interact with the web, and search scientifi"
+   "server": "io.github.KeithWyatt/sundr-mcp",
+   "pkg": "sundr-mcp",
+   "prev": "MCP server for device repair decisions - should I repair or replace my phone, laptop, tabl",
+   "cur": "MCP server for device repair decisions - should I repair or replace my phone, laptop, tabl"
   },
   {
-   "server": "io.github.apitier/mcp-server",
-   "pkg": "@apitier/mcp-server",
-   "prev": "MCP server exposing all APITier utility APIs as AI agent tools",
-   "cur": "MCP server for UK KYC onboarding, address verification, business validation, EU/UK VAT com"
+   "server": "io.github.YawLabs/mcp-compliance",
+   "pkg": "@yawlabs/mcp-compliance",
+   "prev": "CLI tool and MCP server that tests MCP servers for spec compliance",
+   "cur": "MCP compliance testing: 88-test spec suite for any MCP server over HTTP or stdio, with A-F"
   },
   {
-   "server": "io.github.smeet666/mcp-recipes",
-   "pkg": "mcp-recipes",
-   "prev": "MCP server that asks five recipe sites at once, in French and English, merges the answers,",
-   "cur": "MCP server that asks six recipe sites at once, in French, English and Spanish, merges the "
+   "server": "io.github.rachitkumarrastogi/unity-mcp-server",
+   "pkg": "unity-mcp-server",
+   "prev": "Lightweight MCP server for Unity - project info, AI/ML discovery, agent skills, 110+ tools",
+   "cur": "Lightweight MCP server for Unity - project info, Unity 6 coverage, AI/ML discovery, 39 age"
   }
  ]
 }

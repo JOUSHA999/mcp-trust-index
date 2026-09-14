@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-09-13T03:42:24Z",
- "universe_declared_github_repos": 23819,
- "universe_declared_npm_packages": 8661,
+ "generated_at": "2026-09-14T03:45:06Z",
+ "universe_declared_github_repos": 23785,
+ "universe_declared_npm_packages": 8669,
  "github_sample": {
   "n": 1200,
-  "dead": 174,
-  "dead_pct": 14.5,
+  "dead": 172,
+  "dead_pct": 14.3,
   "ci95": [
-   12.6,
-   16.6
+   12.5,
+   16.4
   ],
-  "archived": 9,
-  "no_license": 211,
-  "stale_365d": 2,
+  "archived": 10,
+  "no_license": 215,
+  "stale_365d": 3,
   "extrapolated_dead": [
-   3001,
-   3954
+   2973,
+   3901
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 791,
-  "unresolved": 9,
-  "version_desync": 211,
-  "desync_pct": 26.4,
+  "resolved": 787,
+  "unresolved": 13,
+  "version_desync": 233,
+  "desync_pct": 29.1,
   "ci95": [
-   23.4,
-   29.5
+   26.1,
+   32.4
   ],
-  "description_drift": 70,
-  "drift_pct": 8.8,
-  "desc_mismatch_vs_registry": 662,
-  "mismatch_pct": 82.8,
+  "description_drift": 79,
+  "drift_pct": 9.9,
+  "desc_mismatch_vs_registry": 674,
+  "mismatch_pct": 84.2,
   "extrapolated_desync": [
-   2027,
-   2555
+   2263,
+   2809
   ]
  },
  "examples_dead_repo": [
-  "infoinlet-marketplace/marketplace",
-  "companybetatel/core-services",
+  "ee324/a2awire",
   "joeetdev/venture-estate",
-  "philipeke/nuria-intelligence",
-  "BadRooBot/python_mcp",
-  "travelwhiz-ltd/TravelWhizWebAPI",
-  "crabbitmq/crabbit_mq",
-  "iridite/bing-search-mcp",
-  "nsudhanva/sudhanva.me",
+  "accurecord/icd10-api",
+  "Carbonmark/carbon.fyi-new",
+  "Strutterai/StrutterAI",
+  "intelli-verse-x/router-mcp",
+  "DoughyJoeyD/friday-seller-tools",
+  "hananzlot/move-studios",
+  "JakeLiuMe/webpeel",
+  "filippogroppi/luviner",
   "joeetdev/venture-estate",
   "ee324/a2awire",
-  "lfhillesheim/calculadora",
-  "cgdev2019/comparefairly-mcp",
-  "simistern/ttw-chat",
-  "clone777/paperee"
+  "KeithWyatt/sundr",
+  "farid-trip2/ecovanmove",
+  "RCOLKITT/hardening-mcp"
  ],
  "examples_drift": [
   {
-   "server": "io.github.OnChainAIIntel/pqs-mcp-server",
-   "pkg": "pqs-mcp-server",
-   "prev": "Score prompt quality across 8 dimensions before they reach a model. Pre-flight, not post-h",
-   "cur": "MCP server for PQS \u2014 score and optimize prompts before sending them to expensive LLMs. Fre"
+   "server": "io.github.BrowseAI-HQ/browseai-dev",
+   "pkg": "browseai-dev",
+   "prev": "Grounded Intelligence for AI agents. MCP server with real-time web search, evidence extrac",
+   "cur": "DEPRECATED \u2014 BrowseAI Dev is now LastSearch. This package installs and launches lastsearch"
   },
   {
-   "server": "io.github.theYahia/elma365-mcp",
-   "pkg": "@theyahia/elma365-mcp",
-   "prev": "MCP server for ELMA365 API \u2014 app items, tasks, processes, users, comments. 9 tools.",
-   "cur": "MCP server for ELMA365 \u2014 BPM, low-code app items (Russia)"
+   "server": "io.github.alex13slem/openproject",
+   "pkg": "openproject-codex-plugin",
+   "prev": "Write-capable MCP server and Codex plugin for OpenProject API v3",
+   "cur": "Comprehensive write-capable MCP server for OpenProject projects, work packages, attachment"
   },
   {
-   "server": "io.github.diecoscai/hevy-mcp",
-   "pkg": "@diecoscai/hevy-mcp",
-   "prev": "Model Context Protocol server for the Hevy fitness API. Manage workouts, routines, exercis",
-   "cur": "Model Context Protocol server for the Hevy fitness API \u2014 schemas generated from Hevy's Ope"
+   "server": "io.github.digitamaz/clarvia",
+   "pkg": "clarvia-mcp-server",
+   "prev": "MCP quality scanner and tool discovery for autonomous agents. Search 27,831+ indexed tools",
+   "cur": "MCP quality scanner and tool discovery for autonomous agents. Search 27,843+ indexed tools"
   },
   {
-   "server": "io.github.delentia-labs/delentia-mcp",
-   "pkg": "delentia-mcp",
-   "prev": "Official Public Client & Remote Connector for Delentia Sovereign AI Operating System MCP G",
-   "cur": "Stop rogue tool calls & hallucinations with deterministic mathematical guardrails. Zero-co"
+   "server": "io.github.apurv101/memory-vault",
+   "pkg": "memory-vault",
+   "prev": "Claude-style memory over a local folder, served via MCP \u2014 per-project spaces plus a shared",
+   "cur": "Portable AI memory over a local folder or hosted vault, served via MCP \u2014 one memory shared"
   },
   {
-   "server": "io.github.eamwhite1/agent-trust",
-   "pkg": "@eamwhite1/agenttrust-sdk",
-   "prev": "Trustless AI oracle-mediated escrow on the XRP Ledger. Create jobs, verify work, release X",
-   "cur": "Node.js SDK for AgentTrust \u2014 job marketplace, trust scoring, XRPL escrow, and AI-verified "
+   "server": "com.bykaranteli/mcp",
+   "pkg": "bykaranteli-mcp",
+   "prev": "MCP server for live crypto derivatives data from bykaranteli.com: funding rates, funding a",
+   "cur": "MCP server for live crypto derivatives data from bykaranteli.com: funding rates, funding a"
   },
   {
-   "server": "io.github.Fonteum/mcp-server",
-   "pkg": "@fonteum/mcp",
-   "prev": "Free, dated, source-traced US public records + global sanctions over MCP: 95 source-catalo",
-   "cur": "Dated US public records and sanctions-list screening over MCP. 111 active production sourc"
+   "server": "io.github.MasterPlayspots/motionspec",
+   "pkg": "motionspec",
+   "prev": "Open-core trust layer for web motion: verifies and compiles reduced-motion-safe, on-budget",
+   "cur": "Open-core motion layer for the web: deterministic compiler + MCP server. Validates motion "
   },
   {
-   "server": "io.github.Invarato/jarroba-tools",
-   "pkg": "@jarroba/mcp",
-   "prev": "MCP server (stdio, local) exposing 90 deterministic tools from Jarroba Tools, reusing the ",
-   "cur": "MCP server (stdio, local) exposing 93 deterministic tools from Jarroba Tools, reusing the "
+   "server": "io.github.dingdawg/dingdawg-planning-agent",
+   "pkg": "dingdawg-planning-agent",
+   "prev": "Project planning that learns your team's velocity. Sprint estimation, task breakdown, risk",
+   "cur": "Governance receipts for AI agents \u2014 project planning with sprint estimation, task breakdow"
   },
   {
-   "server": "io.github.KeithWyatt/sundr-mcp",
-   "pkg": "sundr-mcp",
-   "prev": "MCP server for device repair decisions - should I repair or replace my phone, laptop, tabl",
-   "cur": "MCP server for device repair decisions - should I repair or replace my phone, laptop, tabl"
+   "server": "com.ai-rook.agents/trading-mcp",
+   "pkg": "ai-rook-trading-mcp",
+   "prev": "AI Rook MCP server \u2014 22 pay-per-call APIs (trading intelligence, web utilities, AI inferen",
+   "cur": "AI Rook MCP server \u2014 72 x402 endpoints (56 paid, 16 free): trading intelligence, local 456"
   },
   {
-   "server": "io.github.YawLabs/mcp-compliance",
-   "pkg": "@yawlabs/mcp-compliance",
-   "prev": "CLI tool and MCP server that tests MCP servers for spec compliance",
-   "cur": "MCP compliance testing: 88-test spec suite for any MCP server over HTTP or stdio, with A-F"
+   "server": "io.github.emergent-wisdom/understanding-graph",
+   "pkg": "understanding-graph",
+   "prev": "A recursive medium for persistent, revisable agent understanding",
+   "cur": "A persistent medium for recursive, revisable agent understanding"
   },
   {
-   "server": "io.github.rachitkumarrastogi/unity-mcp-server",
-   "pkg": "unity-mcp-server",
-   "prev": "Lightweight MCP server for Unity - project info, AI/ML discovery, agent skills, 110+ tools",
-   "cur": "Lightweight MCP server for Unity - project info, Unity 6 coverage, AI/ML discovery, 39 age"
+   "server": "io.github.vdappdev2/address",
+   "pkg": "@verusidx/address-mcp",
+   "prev": "MCP server for Verus address management \u2014 generate, validate, and list transparent and shi",
+   "cur": "MCP server for Verus addresses \u2014 generate, validate, list transparent and shielded address"
   }
  ]
 }

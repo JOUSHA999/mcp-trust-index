@@ -1,83 +1,83 @@
 {
- "generated_at": "2026-09-13T03:42:29Z",
- "universe_declared_pypi": 3709,
+ "generated_at": "2026-09-14T03:45:17Z",
+ "universe_declared_pypi": 3727,
  "sample": {
   "n_sampled": 500,
-  "resolved": 496,
-  "unresolved": 4,
-  "version_desync": 113,
-  "desync_pct": 22.8,
+  "resolved": 498,
+  "unresolved": 2,
+  "version_desync": 125,
+  "desync_pct": 25.1,
   "ci95": [
-   19.3,
-   26.7
+   21.5,
+   29.1
   ],
   "extrapolated_desync": [
-   716,
-   990
+   801,
+   1085
   ],
   "description_drift": 25,
   "drift_pct": 5.0
  },
  "examples_drift": [
   {
-   "server": "io.github.alyiox/mcp-walmart-marketplace",
-   "pkg": "mcp-walmart-marketplace",
-   "prev": "MCP server for Walmart Marketplace APIs (US, 3P seller)",
-   "cur": "Deprecated: merged into mcp-walmart-ads, which serves the Walmart Marketplace APIs"
+   "server": "io.github.jayjodev/vivory-mcp-verification",
+   "pkg": "vivory-mcp-verification",
+   "prev": "MCP for verifiable AI: DOI/ORCID/OpenAlex, OpenCitations, PubPeer, Funder, salami screen, ",
+   "cur": "MCP for verifiable AI \u2014 the Vivory moat: Korean law/KYB verdicts (\uad6d\uac00\ubc95\ub839\uc815\ubcf4\uc13c\ud130 + \uc5f4\ub9b0\uad6d\ud68c\uc815\ubcf4 + NTS\u00d7"
   },
   {
-   "server": "com.undercurrentholdings/aegis",
-   "pkg": "aegis-governance",
-   "prev": "Quantitative AI governance \u2014 works immediately, no signup required. 10 free evaluations/da",
-   "cur": "AEGIS governance Python client, async client, and local MCP server. The hosted evaluation "
+   "server": "com.tokeven/tokeven",
+   "pkg": "tokeven",
+   "prev": "Privacy first cost visibility for Claude, ChatGPT, and Gemini API calls. Metrics only, and",
+   "cur": "Privacy first cost visibility for Claude, ChatGPT, Gemini, and Grok (xAI) API calls. Metri"
   },
   {
-   "server": "io.github.dokmatiq/docgen",
-   "pkg": "dokmatiq-docgen-mcp",
-   "prev": "MCP server for the Dokmatiq DocGen document generation API",
-   "cur": "MCP server for Dokmatiq DocGen \u2014 PDF/DOCX/Excel generation with stationery overlay, ZUGFeR"
+   "server": "io.github.omniologynow-rgb/profitspot-mcp",
+   "pkg": "profitspot-mcp",
+   "prev": "Cross-chain DeFi intelligence for AI agents. Risk-scored yields, profit simulation, whale ",
+   "cur": "The DeFi Brain for AI agents \u2014 ask Claude to find safe yields, grade liquidity pool risk, "
   },
   {
-   "server": "io.github.ComplyEdge/complyedge",
-   "pkg": "complyedge",
-   "prev": "Python SDK for ComplyEdge Compliance API \u2014 runtime EU AI Act enforcement for AI agents",
-   "cur": "Runtime EU AI Act deny for agent I/O (Article 5, Article 50) \u2014 ComplyEdge Python SDK"
+   "server": "io.github.partymola/fitbit-mcp",
+   "pkg": "fitbit-mcp",
+   "prev": "MCP server for the Fitbit Web API with OAuth PKCE, local cache, and trend analysis.",
+   "cur": "Retired, superseded by google-health-mcp. MCP server for the Fitbit Web API, which shuts d"
   },
   {
-   "server": "io.github.seang1121/sports-betting-mcp",
-   "pkg": "sports-betting-mcp",
-   "prev": "MCP server for AI-powered sports betting analysis \u2014 NBA, NHL, NCAAB. 9 tools: picks, odds,",
-   "cur": "Live sports betting MCP server \u2014 AI picks, odds, injuries, line movement across NBA, NHL, "
+   "server": "io.github.Efistoffeles/boostedtravel",
+   "pkg": "boostedtravel",
+   "prev": "Agent-native flight search & booking. 400+ airlines, 75 direct airline connectors run loca",
+   "cur": "\u26a0\ufe0f This package has been renamed to 'letsfg'. Install letsfg instead: pip install letsfg \u2014"
   },
   {
-   "server": "io.github.crunchtools/cloudflare",
-   "pkg": "mcp-cloudflare-crunchtools",
-   "prev": "Secure MCP server for Cloudflare DNS, Transform Rules, and Page Rules",
-   "cur": "Secure MCP server for Cloudflare DNS, Transform Rules, Page Rules, Cache, Analytics, and W"
+   "server": "io.github.twzrd-sol/twzrd-agent-intel",
+   "pkg": "twzrd-agent-intel",
+   "prev": "Pre-spend x402 counterparty reputation from observed behavior, with free preflight, signed",
+   "cur": "Pre-spend x402 counterparty reputation from observed behavior, with free preflight, paid s"
   },
   {
-   "server": "io.github.hangeaiagent/kronos-mcp",
-   "pkg": "kronos-mcp",
-   "prev": "MCP server for Kronos stock price forecasting \u2014 A-shares, US and HK equities",
-   "cur": "MCP server for Kronos stock price forecasting \u2014 China A-shares"
+   "server": "io.github.simonsysun/seeklink",
+   "pkg": "seeklink",
+   "prev": "Local semantic search CLI for Markdown vaults. BM25 + vector + wikilink graph + source met",
+   "cur": "Local semantic search CLI and optional MCP stdio server for Markdown vaults. BM25 + vector"
   },
   {
-   "server": "io.github.BigJai/tokennuke",
-   "pkg": "tokennuke",
-   "prev": "Nuke your token usage. Intelligent code indexer with O(1) symbol retrieval, hybrid search,",
-   "cur": "Intelligent code indexing MCP server. Tree-sitter AST extraction, hybrid search (FTS5 + ve"
+   "server": "io.github.wesseltl/crypto-price-mcp",
+   "pkg": "hyperliquid-price-mcp",
+   "prev": "An MCP server that gives AI agents live crypto prices and candles. Data only, no trading a",
+   "cur": "An MCP server that gives AI agents live market prices and candles. Data only, no trading a"
   },
   {
-   "server": "io.github.ahmedEid1/forgejudge",
-   "pkg": "forgejudge",
-   "prev": "Reserved for ForgeJudge \u2014 open eval leaderboard + CI gate for autonomous coding agents.",
-   "cur": "Open, always-on leaderboard + CI gate for autonomous coding agents \u2014 every patch sandboxed"
+   "server": "io.github.scotia1973-bot/api-hub",
+   "pkg": "gadgethumans-api-hub-mcp",
+   "prev": "\ud83e\udde0 Memory Vault \u2014 persistent agent memory for MCP. 46 tools: agent_memory, memory_search, c",
+   "cur": "MCP server wrapping 330+ tools \u2014 calculators, health/fitness, text analysis, color tools, "
   },
   {
-   "server": "io.github.WimSuenens/gs1belu-mpm",
-   "pkg": "gs1belu-mpm-mcp",
-   "prev": "FastMCP server exposing GS1 Belgium & Luxembourg My Product Manager (Upload + Download v17",
-   "cur": "Deprecated \u2014 split into gs1belu-mpm-upload-mcp and gs1belu-mpm-download-mcp. FastMCP serve"
+   "server": "io.github.djautomd-lab/aipaygent",
+   "pkg": "aipaygent-mcp",
+   "prev": "65+ AI tools for Claude, Cursor, and any MCP-compatible agent \u2014 research, write, code, scr",
+   "cur": "85+ AI tools for Claude, Cursor, and any MCP-compatible agent \u2014 research, write, code, scr"
   }
  ]
 }

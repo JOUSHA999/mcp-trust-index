@@ -1,107 +1,65 @@
 {
- "generated_at": "2026-09-14T03:45:06Z",
- "universe_declared_github_repos": 23785,
- "universe_declared_npm_packages": 8669,
+ "generated_at": "2026-09-15T03:47:52Z",
+ "universe_declared_github_repos": 23744,
+ "universe_declared_npm_packages": 8674,
  "github_sample": {
   "n": 1200,
-  "dead": 172,
-  "dead_pct": 14.3,
+  "dead": 154,
+  "dead_pct": 12.8,
   "ci95": [
-   12.5,
-   16.4
+   11.1,
+   14.8
   ],
-  "archived": 10,
-  "no_license": 215,
+  "archived": 18,
+  "no_license": 210,
   "stale_365d": 3,
   "extrapolated_dead": [
-   2973,
-   3901
+   2636,
+   3514
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 787,
-  "unresolved": 13,
-  "version_desync": 233,
-  "desync_pct": 29.1,
+  "resolved": 788,
+  "unresolved": 12,
+  "version_desync": 255,
+  "desync_pct": 31.9,
   "ci95": [
-   26.1,
-   32.4
+   28.7,
+   35.2
   ],
-  "description_drift": 79,
-  "drift_pct": 9.9,
-  "desc_mismatch_vs_registry": 674,
-  "mismatch_pct": 84.2,
+  "description_drift": 71,
+  "drift_pct": 8.9,
+  "desc_mismatch_vs_registry": 659,
+  "mismatch_pct": 82.4,
   "extrapolated_desync": [
-   2263,
-   2809
+   2489,
+   3053
   ]
  },
  "examples_dead_repo": [
   "ee324/a2awire",
-  "joeetdev/venture-estate",
-  "accurecord/icd10-api",
-  "Carbonmark/carbon.fyi-new",
-  "Strutterai/StrutterAI",
-  "intelli-verse-x/router-mcp",
-  "DoughyJoeyD/friday-seller-tools",
-  "hananzlot/move-studios",
-  "JakeLiuMe/webpeel",
-  "filippogroppi/luviner",
-  "joeetdev/venture-estate",
+  "acrylicfiddle/x402-services",
+  "meok-ai-labs/meok-ai-psych-vuln-audit-mcp",
+  "people-analyst/bicycle-guide",
+  "pefman/nordicmcp.eu",
+  "contextser/nodecel-cli",
+  "pipeworx-io/mcp-fintech-intel",
+  "zikriz/ai-wallet-mcp",
   "ee324/a2awire",
-  "KeithWyatt/sundr",
-  "farid-trip2/ecovanmove",
-  "RCOLKITT/hardening-mcp"
+  "razikallayi/razikallayi.com",
+  "zoubirabde9a/marketplace-app",
+  "Fulcrum-Governance/fulcrum-io",
+  "junter1989k-ai/ireland-payments-mcp",
+  "isaacviannadev/Package-spike",
+  "gpartin/LFMAnomalyDetection"
  ],
  "examples_drift": [
   {
-   "server": "io.github.BrowseAI-HQ/browseai-dev",
-   "pkg": "browseai-dev",
-   "prev": "Grounded Intelligence for AI agents. MCP server with real-time web search, evidence extrac",
-   "cur": "DEPRECATED \u2014 BrowseAI Dev is now LastSearch. This package installs and launches lastsearch"
-  },
-  {
-   "server": "io.github.alex13slem/openproject",
-   "pkg": "openproject-codex-plugin",
-   "prev": "Write-capable MCP server and Codex plugin for OpenProject API v3",
-   "cur": "Comprehensive write-capable MCP server for OpenProject projects, work packages, attachment"
-  },
-  {
-   "server": "io.github.digitamaz/clarvia",
-   "pkg": "clarvia-mcp-server",
-   "prev": "MCP quality scanner and tool discovery for autonomous agents. Search 27,831+ indexed tools",
-   "cur": "MCP quality scanner and tool discovery for autonomous agents. Search 27,843+ indexed tools"
-  },
-  {
-   "server": "io.github.apurv101/memory-vault",
-   "pkg": "memory-vault",
-   "prev": "Claude-style memory over a local folder, served via MCP \u2014 per-project spaces plus a shared",
-   "cur": "Portable AI memory over a local folder or hosted vault, served via MCP \u2014 one memory shared"
-  },
-  {
-   "server": "com.bykaranteli/mcp",
-   "pkg": "bykaranteli-mcp",
-   "prev": "MCP server for live crypto derivatives data from bykaranteli.com: funding rates, funding a",
-   "cur": "MCP server for live crypto derivatives data from bykaranteli.com: funding rates, funding a"
-  },
-  {
-   "server": "io.github.MasterPlayspots/motionspec",
-   "pkg": "motionspec",
-   "prev": "Open-core trust layer for web motion: verifies and compiles reduced-motion-safe, on-budget",
-   "cur": "Open-core motion layer for the web: deterministic compiler + MCP server. Validates motion "
-  },
-  {
-   "server": "io.github.dingdawg/dingdawg-planning-agent",
-   "pkg": "dingdawg-planning-agent",
-   "prev": "Project planning that learns your team's velocity. Sprint estimation, task breakdown, risk",
-   "cur": "Governance receipts for AI agents \u2014 project planning with sprint estimation, task breakdow"
-  },
-  {
-   "server": "com.ai-rook.agents/trading-mcp",
-   "pkg": "ai-rook-trading-mcp",
-   "prev": "AI Rook MCP server \u2014 22 pay-per-call APIs (trading intelligence, web utilities, AI inferen",
-   "cur": "AI Rook MCP server \u2014 72 x402 endpoints (56 paid, 16 free): trading intelligence, local 456"
+   "server": "io.github.dan-fetch-studio/tidyports",
+   "pkg": "@tidyports/mcp",
+   "prev": "MCP server exposing the tidy-ports CLI (list / kill / alloc / free-port) as structured too",
+   "cur": "See and kill the dev servers your coding agents leave running, and get collision-free port"
   },
   {
    "server": "io.github.emergent-wisdom/understanding-graph",
@@ -110,10 +68,52 @@
    "cur": "A persistent medium for recursive, revisable agent understanding"
   },
   {
-   "server": "io.github.vdappdev2/address",
-   "pkg": "@verusidx/address-mcp",
-   "prev": "MCP server for Verus address management \u2014 generate, validate, and list transparent and shi",
-   "cur": "MCP server for Verus addresses \u2014 generate, validate, list transparent and shielded address"
+   "server": "io.github.fel123/quantoracle",
+   "pkg": "quantoracle-mcp",
+   "prev": "63 deterministic quant calculators + 10 composite workflows for AI agents via MCP. Options",
+   "cur": "Grounded quant finance math for AI agents over MCP. LLMs drift 5-30% on Black-Scholes Gree"
+  },
+  {
+   "server": "com.paxalabs/mcp",
+   "pkg": "@paxalabs/mcp",
+   "prev": "Official MCP server for the Paxa Labs API: Thai/English text to speech with local playback",
+   "cur": "Official MCP server for the Paxa Labs API: Thai/English text to speech with local playback"
+  },
+  {
+   "server": "io.github.Ptrgit1/agent-data-api",
+   "pkg": "agent-data-api-mcp",
+   "prev": "MCP server for Agent Data API: 21 pay-per-call agent tools across WEB (page/PDF to clean t",
+   "cur": "MCP server for Agent Data API: 22 pay-per-call agent tools across WEB (page/PDF to clean t"
+  },
+  {
+   "server": "io.github.Truebases/truebases-mcp",
+   "pkg": "truebases-mcp",
+   "prev": "MCP server for TrueBases.",
+   "cur": "MCP server for TrueBases. Find opportunities, track market activity, discover business sig"
+  },
+  {
+   "server": "com.bidsparq/mcp",
+   "pkg": "bidsparq-mcp-server",
+   "prev": "BidSparq MCP server \u2014 query federal RFPs, subaward primes, pricing percentiles, wired-RFP ",
+   "cur": "BidSparq MCP server \u2014 query federal RFPs, subaward primes, pricing percentiles, wired-RFP "
+  },
+  {
+   "server": "io.github.bmdhodl/agentguard47",
+   "pkg": "@agentguard47/mcp-server",
+   "prev": "MCP server for coding-agent traces, alerts, costs, usage, and budget health",
+   "cur": "Read-only MCP server for coding-agent traces, decision events, alerts, costs, usage, and b"
+  },
+  {
+   "server": "com.agishub/mcp",
+   "pkg": "@agishub/mcp",
+   "prev": "AgisHub MCP \u2014 34 pay-per-call tools for AI agents (x402, USDC on Base). Web scraping, craw",
+   "cur": "AgisHub MCP \u2014 34 pay-per-call tools for AI agents (x402, USDC on Base). Web scraping, craw"
+  },
+  {
+   "server": "io.github.AdityaSBisht/finance-mcp",
+   "pkg": "finance-data-mcp",
+   "prev": "MCP server giving any LLM agent live stock quotes, crypto prices, SEC filings, XBRL financ",
+   "cur": "MCP server giving any LLM agent live stock quotes, crypto prices, SEC filings, insider tra"
   }
  ]
 }

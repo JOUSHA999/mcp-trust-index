@@ -1,47 +1,71 @@
 {
- "generated_at": "2026-09-15T03:48:02Z",
- "universe_declared_pypi": 3728,
+ "generated_at": "2026-09-16T03:41:13Z",
+ "universe_declared_pypi": 3725,
  "sample": {
   "n_sampled": 500,
-  "resolved": 495,
-  "unresolved": 5,
-  "version_desync": 110,
-  "desync_pct": 22.2,
+  "resolved": 494,
+  "unresolved": 6,
+  "version_desync": 117,
+  "desync_pct": 23.7,
   "ci95": [
-   18.8,
-   26.1
+   20.1,
+   27.6
   ],
   "extrapolated_desync": [
-   701,
-   973
+   749,
+   1028
   ],
-  "description_drift": 34,
-  "drift_pct": 6.9
+  "description_drift": 19,
+  "drift_pct": 3.8
  },
  "examples_drift": [
   {
-   "server": "io.github.HorizunGroup/horizun-pbi-mcp",
-   "pkg": "horizun-pbi-mcp",
-   "prev": "MCP server for Power BI: live semantic model (DAX/TOM), .pbip projects (TMDL/PBIR), report",
-   "cur": "Build, audit, diagnose and repair Power BI Desktop models and PBIP reports through MCP usi"
+   "server": "io.github.atomno-mcp/mcp-erid",
+   "pkg": "atomno-mcp-erid",
+   "prev": "MCP server: Russian internet-ad marking (\u043c\u0430\u0440\u043a\u0438\u0440\u043e\u0432\u043a\u0430 \u0440\u0435\u043a\u043b\u0430\u043c\u044b, 38-\u0424\u0417) checker \u2014 validate an ",
+   "cur": "MCP for Russian ad marking: erid format check; ORD cabinet lookup on the client key. Advis"
   },
   {
-   "server": "io.github.attenlabs/hotato",
-   "pkg": "hotato",
-   "prev": "Find what broke in your agent calls. Pin it so it never ships again. Local call forensics ",
-   "cur": "Find what broke in your agent calls. Pin it and CI stays red until you fix it. Local call "
+   "server": "io.github.Treevu-ai/cli-market-world",
+   "pkg": "cli-market-world",
+   "prev": "mcp-name: io.github.Treevu-ai/cli-market-world - CLI Market: commerce API for AI agents. 4",
+   "cur": "mcp-name: io.github.Treevu-ai/cli-market-world - CLI Market: commerce API for AI agents. 4"
   },
   {
-   "server": "io.github.tracegazer/invgate-service-desk-mcp",
-   "pkg": "invgate-service-desk-mcp",
-   "prev": "MCP server for the InvGate Service Desk API \u2014 exposes InvGate SD operations as Model Conte",
-   "cur": "InvGate Service Desk MCP \u2014 96 tools across 11 domains (incidents, users, knowledge base, a"
+   "server": "io.github.cmendezs/mcp-einvoicing-in",
+   "pkg": "mcp-einvoicing-in",
+   "prev": "MCP server for India GST e-invoicing (FORM GST INV-01 schema v1.1 / IRP-IRN)",
+   "cur": "MCP server for India GST e-invoicing (FORM GST INV-01 schema v1.1 / IRP-IRN), vendor-neutr"
   },
   {
-   "server": "io.github.CSOAI-ORG/pdf-merge-ai-mcp",
-   "pkg": "pdf-merge-ai-mcp",
-   "prev": "AI-powered pdf merge ai MCP server for agents. Supports merge pdfs, split pdf, get pdf inf",
-   "cur": "Pdf Merge Ai Mcp: merge info (Plan a PDF merge operation. Provide file descriptions as JSO"
+   "server": "com.macaroonnetwork/mcp-server",
+   "pkg": "macaroonnetwork-mcp",
+   "prev": "MCP client for Macaroon Network -- discover and buy from a live marketplace where AI agent",
+   "cur": "MCP discovery router for Macaroon Network categories, sources, vertical MCPs, and x402 USD"
+  },
+  {
+   "server": "io.github.gokeshenzhen/traceweave",
+   "pkg": "traceweave-mcp",
+   "prev": "Evidence-driven MCP server for local RTL simulation debugging",
+   "cur": "Portable MCP runtime for evidence-driven RTL simulation debugging"
+  },
+  {
+   "server": "io.github.tracegazer/clockify-mcp",
+   "pkg": "clockify-mcp",
+   "prev": "Clockify time-tracking MCP: 112 tools across 18 domains, read-only by default with opt-in ",
+   "cur": "Full-coverage Clockify MCP \u2014 112 tools across 18 domains (incl. invoices, scheduling, time"
+  },
+  {
+   "server": "io.github.JonesRobM/physbound",
+   "pkg": "physbound",
+   "prev": "Physical Layer Linter \u2014 validates RF and physics calculations against hard physical limits",
+   "cur": "Physical Layer Linter \u2014 validates RF link budgets, Shannon capacity, noise floors, antenna"
+  },
+  {
+   "server": "dev.fly.veles-finance-gateway/veles-finance-mcp",
+   "pkg": "veles-finance-mcp",
+   "prev": "MCP server for Veles Finance Agent \u2014 AI-powered financial analysis via x402 micropayments ",
+   "cur": "Veles Finance Agent MCP server \u2014 institutional DD reports for Claude Desktop, Cursor, Wind"
   },
   {
    "server": "io.github.RudrenduPaul/agent-observability",
@@ -50,34 +74,10 @@
    "cur": "AI agent observability with deterministic record/replay \u2014 capture any LangGraph or OpenAI "
   },
   {
-   "server": "io.github.whyy9527/ariadne",
-   "pkg": "ariadne-mcp",
-   "prev": "Cross-service API dependency graph for microservice stacks. MCP stdio server + CLI for Cla",
-   "cur": "Fast local MCP server for deterministic cross-service API-chain discovery across REST, Gra"
-  },
-  {
-   "server": "io.github.Bortlesboat/bitcoin-mcp",
-   "pkg": "bitcoin-mcp",
-   "prev": "MCP server for Bitcoin \u2014 49 tools for AI agents to save money on fees. Zero config, works ",
-   "cur": "MCP server for Bitcoin \u2014 50 tools for AI agents using Bitcoin Core or a compatible API."
-  },
-  {
-   "server": "io.github.lorenzo-cambiaghi/lynx",
-   "pkg": "lynx-mcp",
-   "prev": "100% local MCP server for semantic + lexical code search: AST-aware chunking (tree-sitter)",
-   "cur": "LynxMCP: 100% local MCP server for the code questions grep can't answer. Call graph and bl"
-  },
-  {
-   "server": "io.github.ohad6k/ditto",
-   "pkg": "ditto-cli",
-   "prev": "Mine your local AI coding session logs into a personal profile your agent loads before eve",
-   "cur": "Deprecated: ditto is now emulo. Installs emulo and forwards to it."
-  },
-  {
-   "server": "io.github.ebeirne/lians",
-   "pkg": "lians-sdk",
-   "prev": "Bitemporal long-term memory for AI agents with point-in-time recall, tamper-evident audit ",
-   "cur": "Correct, temporal, and auditable memory infrastructure for AI agents"
+   "server": "io.github.alyiox/mcp-samsclub-ads",
+   "pkg": "mcp-samsclub-ads",
+   "prev": "MCP server for Sam's Club Sponsored Ads APIs",
+   "cur": "Deprecated: merged into mcp-walmart-ads, which serves the Sam's Club Sponsored Ads APIs"
   }
  ]
 }

@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-09-15T03:47:52Z",
- "universe_declared_github_repos": 23744,
- "universe_declared_npm_packages": 8674,
+ "generated_at": "2026-09-16T03:41:04Z",
+ "universe_declared_github_repos": 23739,
+ "universe_declared_npm_packages": 8673,
  "github_sample": {
   "n": 1200,
-  "dead": 154,
-  "dead_pct": 12.8,
+  "dead": 189,
+  "dead_pct": 15.8,
   "ci95": [
-   11.1,
-   14.8
+   13.8,
+   17.9
   ],
-  "archived": 18,
-  "no_license": 210,
-  "stale_365d": 3,
+  "archived": 4,
+  "no_license": 217,
+  "stale_365d": 2,
   "extrapolated_dead": [
-   2636,
-   3514
+   3276,
+   4249
   ]
  },
  "npm_sample": {
   "n": 800,
   "resolved": 788,
   "unresolved": 12,
-  "version_desync": 255,
-  "desync_pct": 31.9,
+  "version_desync": 210,
+  "desync_pct": 26.2,
   "ci95": [
-   28.7,
-   35.2
+   23.3,
+   29.4
   ],
-  "description_drift": 71,
-  "drift_pct": 8.9,
-  "desc_mismatch_vs_registry": 659,
-  "mismatch_pct": 82.4,
+  "description_drift": 74,
+  "drift_pct": 9.2,
+  "desc_mismatch_vs_registry": 668,
+  "mismatch_pct": 83.5,
   "extrapolated_desync": [
-   2489,
-   3053
+   2021,
+   2550
   ]
  },
  "examples_dead_repo": [
   "ee324/a2awire",
-  "acrylicfiddle/x402-services",
-  "meok-ai-labs/meok-ai-psych-vuln-audit-mcp",
+  "CSOAI-ORG/license-checker-ai-mcp",
   "people-analyst/bicycle-guide",
-  "pefman/nordicmcp.eu",
-  "contextser/nodecel-cli",
-  "pipeworx-io/mcp-fintech-intel",
-  "zikriz/ai-wallet-mcp",
+  "Ansvar-Systems/switzerland-law-mcp",
+  "joeetdev/venture-estate",
+  "followtz/openclaw",
+  "yujiseok/public-official-mcp",
   "ee324/a2awire",
-  "razikallayi/razikallayi.com",
-  "zoubirabde9a/marketplace-app",
-  "Fulcrum-Governance/fulcrum-io",
-  "junter1989k-ai/ireland-payments-mcp",
-  "isaacviannadev/Package-spike",
-  "gpartin/LFMAnomalyDetection"
+  "JonathanWeerakkody/Vectorise_Me",
+  "sawftware-apps/darkroom-gw",
+  "CSOAI-ORG/councilof-mcp",
+  "petropt/petro-mcp",
+  "junter1989k-ai/india-payments-mcp",
+  "Rswcf/v0-valuation-tool",
+  "CSOAI-ORG/basel-ai-overlay-mcp"
  ],
  "examples_drift": [
   {
-   "server": "io.github.dan-fetch-studio/tidyports",
-   "pkg": "@tidyports/mcp",
-   "prev": "MCP server exposing the tidy-ports CLI (list / kill / alloc / free-port) as structured too",
-   "cur": "See and kill the dev servers your coding agents leave running, and get collision-free port"
+   "server": "io.github.NomadBuilder/un-default",
+   "pkg": "anti-default",
+   "prev": "Un-Default \u2014 inclusive language review for AI-generated and human copy (CLI, MCP, GitHub A",
+   "cur": "Un-Default \u2014 catch racist, sexist & ableist defaults in AI and human copy (CLI, MCP, GitHu"
   },
   {
-   "server": "io.github.emergent-wisdom/understanding-graph",
-   "pkg": "understanding-graph",
-   "prev": "A recursive medium for persistent, revisable agent understanding",
-   "cur": "A persistent medium for recursive, revisable agent understanding"
+   "server": "io.github.lacausecrypto/poetrydb",
+   "pkg": "mcp-poetry",
+   "prev": "12-tool MCP server for classic poetry.",
+   "cur": "PoetryDB MCP server with 12 tools for poetry search and discovery."
   },
   {
-   "server": "io.github.fel123/quantoracle",
-   "pkg": "quantoracle-mcp",
-   "prev": "63 deterministic quant calculators + 10 composite workflows for AI agents via MCP. Options",
-   "cur": "Grounded quant finance math for AI agents over MCP. LLMs drift 5-30% on Black-Scholes Gree"
+   "server": "dev.cz-agents/realestate",
+   "pkg": "@czagents/realestate",
+   "prev": "BREAKING(0.2.0): Paid tools moved to hosted realestate-pro.cz-agents.dev. Free tier packag",
+   "cur": "Czech distressed real estate intelligence \u2014 anonymized district-level aggregates (insolven"
   },
   {
-   "server": "com.paxalabs/mcp",
-   "pkg": "@paxalabs/mcp",
-   "prev": "Official MCP server for the Paxa Labs API: Thai/English text to speech with local playback",
-   "cur": "Official MCP server for the Paxa Labs API: Thai/English text to speech with local playback"
+   "server": "io.github.aicayzer/companies-house",
+   "pkg": "companies-house-mcp",
+   "prev": "MCP server for the UK Companies House API \u2014 connects Claude, Cursor, Zed, and other AI too",
+   "cur": "MCP server for the UK Companies House public register \u2014 connects Claude, Codex, Cursor, Ze"
   },
   {
-   "server": "io.github.Ptrgit1/agent-data-api",
-   "pkg": "agent-data-api-mcp",
-   "prev": "MCP server for Agent Data API: 21 pay-per-call agent tools across WEB (page/PDF to clean t",
-   "cur": "MCP server for Agent Data API: 22 pay-per-call agent tools across WEB (page/PDF to clean t"
+   "server": "com.yaktool/pdf",
+   "pkg": "yaktool-pdf-mcp",
+   "prev": "PDF organisation as an MCP server: merge, split, compress image-heavy files, unlock passwo",
+   "cur": "PDF work as an MCP server: merge with the bookmarks preserved, split, compress image-heavy"
   },
   {
-   "server": "io.github.Truebases/truebases-mcp",
-   "pkg": "truebases-mcp",
-   "prev": "MCP server for TrueBases.",
-   "cur": "MCP server for TrueBases. Find opportunities, track market activity, discover business sig"
+   "server": "io.github.depixapp/depix-mcp",
+   "pkg": "@depixapp/mcp",
+   "prev": "The DePix App MCP server: hosted receive-only Pix gateway (26 tools), or local via npx wit",
+   "cur": "The DePix App MCP server: hosted receive-only Pix gateway (26 tools), or local via npx wit"
   },
   {
-   "server": "com.bidsparq/mcp",
-   "pkg": "bidsparq-mcp-server",
-   "prev": "BidSparq MCP server \u2014 query federal RFPs, subaward primes, pricing percentiles, wired-RFP ",
-   "cur": "BidSparq MCP server \u2014 query federal RFPs, subaward primes, pricing percentiles, wired-RFP "
+   "server": "io.github.donnywin85/arb-dex-mcp",
+   "pkg": "arb-dex-mcp",
+   "prev": "MCP server for the arb-dex-data API \u2014 live cross-DEX pool prices, liquidity and gross cros",
+   "cur": "MCP server for live cross-DEX crypto prices \u2014 per-venue pool price, liquidity and gross cr"
   },
   {
-   "server": "io.github.bmdhodl/agentguard47",
-   "pkg": "@agentguard47/mcp-server",
-   "prev": "MCP server for coding-agent traces, alerts, costs, usage, and budget health",
-   "cur": "Read-only MCP server for coding-agent traces, decision events, alerts, costs, usage, and b"
+   "server": "io.github.gomission/mcp",
+   "pkg": "@gomission/mcp",
+   "prev": "Open MCP interception adapter for exact-action Trust Graduation holds before consequential",
+   "cur": "Mission Trust Graduation gate for Claude Desktop. Claude can do more for you once Mission "
   },
   {
-   "server": "com.agishub/mcp",
-   "pkg": "@agishub/mcp",
-   "prev": "AgisHub MCP \u2014 34 pay-per-call tools for AI agents (x402, USDC on Base). Web scraping, craw",
-   "cur": "AgisHub MCP \u2014 34 pay-per-call tools for AI agents (x402, USDC on Base). Web scraping, craw"
+   "server": "io.github.Higangssh/homebutler",
+   "pkg": "homebutler",
+   "prev": "Homelab management CLI + MCP server \u2014 manage servers, Docker, ports, alerts via AI",
+   "cur": "What changed on your server, and only what's worth telling \u2014 CLI, dashboard and MCP server"
   },
   {
-   "server": "io.github.AdityaSBisht/finance-mcp",
-   "pkg": "finance-data-mcp",
-   "prev": "MCP server giving any LLM agent live stock quotes, crypto prices, SEC filings, XBRL financ",
-   "cur": "MCP server giving any LLM agent live stock quotes, crypto prices, SEC filings, insider tra"
+   "server": "io.github.p4stoboy/benchboss",
+   "pkg": "@benchboss/mcp-client",
+   "prev": "`@benchboss/mcp-client` connects an agent to the official platform. This package owns the ",
+   "cur": "Play Chess, RPS-N and Safehouse Protocol against other agents through MCP, with public sta"
   }
  ]
 }

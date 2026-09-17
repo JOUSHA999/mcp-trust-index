@@ -1,71 +1,107 @@
 {
- "generated_at": "2026-09-16T03:41:04Z",
- "universe_declared_github_repos": 23739,
- "universe_declared_npm_packages": 8673,
+ "generated_at": "2026-09-17T03:42:24Z",
+ "universe_declared_github_repos": 23792,
+ "universe_declared_npm_packages": 8639,
  "github_sample": {
   "n": 1200,
-  "dead": 189,
-  "dead_pct": 15.8,
+  "dead": 194,
+  "dead_pct": 16.2,
   "ci95": [
-   13.8,
-   17.9
+   14.2,
+   18.4
   ],
-  "archived": 4,
-  "no_license": 217,
+  "archived": 17,
+  "no_license": 197,
   "stale_365d": 2,
   "extrapolated_dead": [
-   3276,
-   4249
+   3378,
+   4378
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 788,
-  "unresolved": 12,
-  "version_desync": 210,
-  "desync_pct": 26.2,
+  "resolved": 793,
+  "unresolved": 7,
+  "version_desync": 221,
+  "desync_pct": 27.6,
   "ci95": [
-   23.3,
-   29.4
+   24.6,
+   30.8
   ],
-  "description_drift": 74,
-  "drift_pct": 9.2,
-  "desc_mismatch_vs_registry": 668,
-  "mismatch_pct": 83.5,
+  "description_drift": 79,
+  "drift_pct": 9.9,
+  "desc_mismatch_vs_registry": 684,
+  "mismatch_pct": 85.5,
   "extrapolated_desync": [
-   2021,
-   2550
+   2125,
+   2661
   ]
  },
  "examples_dead_repo": [
+  "clm-studios/nephyr-backtest",
   "ee324/a2awire",
-  "CSOAI-ORG/license-checker-ai-mcp",
-  "people-analyst/bicycle-guide",
-  "Ansvar-Systems/switzerland-law-mcp",
+  "sigaihealth/foodlogger",
   "joeetdev/venture-estate",
-  "followtz/openclaw",
-  "yujiseok/public-official-mcp",
+  "CSOAI-ORG/env-manager-ai-mcp",
+  "laurentknauss/bullionradar",
+  "hristovdimitri2-hub/kristo-travel-api",
+  "ffteema/Ghost-app",
+  "maxi-moss/medical-rag-mcp-test",
   "ee324/a2awire",
-  "JonathanWeerakkody/Vectorise_Me",
-  "sawftware-apps/darkroom-gw",
-  "CSOAI-ORG/councilof-mcp",
-  "petropt/petro-mcp",
-  "junter1989k-ai/india-payments-mcp",
-  "Rswcf/v0-valuation-tool",
-  "CSOAI-ORG/basel-ai-overlay-mcp"
+  "oaslananka/mcp-health-monitor",
+  "ee324/a2awire",
+  "joe-watkins/magentaa11y-mcp",
+  "lordbasilaiassistant-sudo/broke2built-skills-mcp",
+  "joeetdev/venture-estate"
  ],
  "examples_drift": [
   {
-   "server": "io.github.NomadBuilder/un-default",
-   "pkg": "anti-default",
-   "prev": "Un-Default \u2014 inclusive language review for AI-generated and human copy (CLI, MCP, GitHub A",
-   "cur": "Un-Default \u2014 catch racist, sexist & ableist defaults in AI and human copy (CLI, MCP, GitHu"
+   "server": "io.github.Nicodemus941/health-api",
+   "pkg": "@e-labus/mcp",
+   "prev": "E-Labus Health API \u2014 MCP server for AI-powered lab analysis, clinical insights, and biomar",
+   "cur": "E-Labus Health Intelligence MCP Server \u2014 AI-powered lab analysis, clinical insights, and b"
   },
   {
-   "server": "io.github.lacausecrypto/poetrydb",
-   "pkg": "mcp-poetry",
-   "prev": "12-tool MCP server for classic poetry.",
-   "cur": "PoetryDB MCP server with 12 tools for poetry search and discovery."
+   "server": "dev.cz-agents/cnb",
+   "pkg": "@czagents/cnb",
+   "prev": "MCP server for \u010cNB (Czech National Bank) \u2014 daily FX rates, currency conversion",
+   "cur": "Official Czech National Bank (\u010cNB) exchange rates \u2014 daily and historical CZK rates against"
+  },
+  {
+   "server": "io.github.agenticempire/axint",
+   "pkg": "@axint/compiler",
+   "prev": "Apple-native execution layer for AI coding agents: compile, validate, repair, and prove Sw",
+   "cur": "Proof and repair for Apple coding agents: validate Swift, run Xcode evidence, repair failu"
+  },
+  {
+   "server": "com.yaktool/image",
+   "pkg": "yaktool-image-mcp",
+   "prev": "Local image tools as an MCP server: compress PNG/JPEG (smart visually-guarded lossy, or tr",
+   "cur": "Local image tools as an MCP server: compress PNG/JPEG with a visually-guarded smart mode o"
+  },
+  {
+   "server": "io.github.suomimasuda/rightos-mcp",
+   "pkg": "@i-s3/rightos-mcp",
+   "prev": "MCP server for RightOS \u2014 queue/EV/pickup QR tickets for AI agents (Cursor, Claude). 18 too",
+   "cur": "MCP server for RightOS \u2014 queue/EV/pickup QR tickets for AI agents (Cursor, Claude). 20 too"
+  },
+  {
+   "server": "io.github.Eronmmer/bloomfilter",
+   "pkg": "@bloomfilter/mcp-server",
+   "prev": "MCP server for Bloomfilter domain registration API \u2014 register ICANN domains with AI agents",
+   "cur": "MCP server for Bloomfilter domain registration API \u2014 Service that lets AI Agents search, r"
+  },
+  {
+   "server": "io.github.edgarfloresguerra2011-a11y/marketnow",
+   "pkg": "marketnow-mcp",
+   "prev": "MarketNow MCP Server v1.12.0 \u2014 Audit-63 repair + ATC/1.4 unified verification: marketnow_g",
+   "cur": "MarketNow MCP Server v1.13.0 \u2014 ATC/3.0 unified credential profile (re-version of the inter"
+  },
+  {
+   "server": "io.github.eutech-directory/legis-link",
+   "pkg": "legis-link-mcp",
+   "prev": "Construction compliance MCP server. Wire sizing, load calc, battery clearance across AU, U",
+   "cur": "Construction compliance AI \u2014 9 tools, 87 regions, 10 trades. Instant code answers on mobil"
   },
   {
    "server": "dev.cz-agents/realestate",
@@ -74,46 +110,10 @@
    "cur": "Czech distressed real estate intelligence \u2014 anonymized district-level aggregates (insolven"
   },
   {
-   "server": "io.github.aicayzer/companies-house",
-   "pkg": "companies-house-mcp",
-   "prev": "MCP server for the UK Companies House API \u2014 connects Claude, Cursor, Zed, and other AI too",
-   "cur": "MCP server for the UK Companies House public register \u2014 connects Claude, Codex, Cursor, Ze"
-  },
-  {
-   "server": "com.yaktool/pdf",
-   "pkg": "yaktool-pdf-mcp",
-   "prev": "PDF organisation as an MCP server: merge, split, compress image-heavy files, unlock passwo",
-   "cur": "PDF work as an MCP server: merge with the bookmarks preserved, split, compress image-heavy"
-  },
-  {
-   "server": "io.github.depixapp/depix-mcp",
-   "pkg": "@depixapp/mcp",
-   "prev": "The DePix App MCP server: hosted receive-only Pix gateway (26 tools), or local via npx wit",
-   "cur": "The DePix App MCP server: hosted receive-only Pix gateway (26 tools), or local via npx wit"
-  },
-  {
-   "server": "io.github.donnywin85/arb-dex-mcp",
-   "pkg": "arb-dex-mcp",
-   "prev": "MCP server for the arb-dex-data API \u2014 live cross-DEX pool prices, liquidity and gross cros",
-   "cur": "MCP server for live cross-DEX crypto prices \u2014 per-venue pool price, liquidity and gross cr"
-  },
-  {
-   "server": "io.github.gomission/mcp",
-   "pkg": "@gomission/mcp",
-   "prev": "Open MCP interception adapter for exact-action Trust Graduation holds before consequential",
-   "cur": "Mission Trust Graduation gate for Claude Desktop. Claude can do more for you once Mission "
-  },
-  {
-   "server": "io.github.Higangssh/homebutler",
-   "pkg": "homebutler",
-   "prev": "Homelab management CLI + MCP server \u2014 manage servers, Docker, ports, alerts via AI",
-   "cur": "What changed on your server, and only what's worth telling \u2014 CLI, dashboard and MCP server"
-  },
-  {
-   "server": "io.github.p4stoboy/benchboss",
-   "pkg": "@benchboss/mcp-client",
-   "prev": "`@benchboss/mcp-client` connects an agent to the official platform. This package owns the ",
-   "cur": "Play Chess, RPS-N and Safehouse Protocol against other agents through MCP, with public sta"
+   "server": "io.github.SPAZIO-GENESI/attest-mcp",
+   "pkg": "@spazio-genesi/attest-mcp",
+   "prev": "MCP server + CLI for Spazio Genesi's attestation service \u2014 attest, verify, and check digit",
+   "cur": "MCP server + CLI for Spazio Genesi's digital attestation service \u2014 attest, verify and chec"
   }
  ]
 }

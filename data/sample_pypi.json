@@ -1,83 +1,83 @@
 {
- "generated_at": "2026-09-16T03:41:13Z",
- "universe_declared_pypi": 3725,
+ "generated_at": "2026-09-17T03:42:29Z",
+ "universe_declared_pypi": 3705,
  "sample": {
   "n_sampled": 500,
   "resolved": 494,
   "unresolved": 6,
-  "version_desync": 117,
-  "desync_pct": 23.7,
+  "version_desync": 107,
+  "desync_pct": 21.7,
   "ci95": [
-   20.1,
-   27.6
+   18.3,
+   25.5
   ],
   "extrapolated_desync": [
-   749,
-   1028
+   678,
+   945
   ],
-  "description_drift": 19,
-  "drift_pct": 3.8
+  "description_drift": 34,
+  "drift_pct": 6.9
  },
  "examples_drift": [
   {
-   "server": "io.github.atomno-mcp/mcp-erid",
-   "pkg": "atomno-mcp-erid",
-   "prev": "MCP server: Russian internet-ad marking (\u043c\u0430\u0440\u043a\u0438\u0440\u043e\u0432\u043a\u0430 \u0440\u0435\u043a\u043b\u0430\u043c\u044b, 38-\u0424\u0417) checker \u2014 validate an ",
-   "cur": "MCP for Russian ad marking: erid format check; ORD cabinet lookup on the client key. Advis"
+   "server": "io.github.gulmezeren2-byte/erp-report-engine",
+   "pkg": "erp-report-engine",
+   "prev": "Autonomous weekly reports straight from the SQL database behind your ERP - read-only by co",
+   "cur": "A read-only, self-verifying data layer for the SQL database behind your ERP - weekly repor"
   },
   {
-   "server": "io.github.Treevu-ai/cli-market-world",
-   "pkg": "cli-market-world",
-   "prev": "mcp-name: io.github.Treevu-ai/cli-market-world - CLI Market: commerce API for AI agents. 4",
-   "cur": "mcp-name: io.github.Treevu-ai/cli-market-world - CLI Market: commerce API for AI agents. 4"
+   "server": "io.github.presidio-v/presidio-hardened-x402-mcp",
+   "pkg": "presidio-hardened-x402-mcp",
+   "prev": "MCP server exposing presidio-hardened-x402 PII screening, policy, and replay-guard tools t",
+   "cur": "MCP server exposing presidio-hardened-x402 pre-payment PII screening, policy, and replay-g"
   },
   {
-   "server": "io.github.cmendezs/mcp-einvoicing-in",
-   "pkg": "mcp-einvoicing-in",
-   "prev": "MCP server for India GST e-invoicing (FORM GST INV-01 schema v1.1 / IRP-IRN)",
-   "cur": "MCP server for India GST e-invoicing (FORM GST INV-01 schema v1.1 / IRP-IRN), vendor-neutr"
+   "server": "io.github.thesanjeetc/parselbox",
+   "pkg": "parselbox",
+   "prev": "Secure Python sandbox for AI agents \u2014 tools as code, MCP bridging, JS interop, generative ",
+   "cur": "An embeddable Python runtime where AI agents call tools as code \u2014 MCP servers, APIs and sh"
   },
   {
-   "server": "com.macaroonnetwork/mcp-server",
-   "pkg": "macaroonnetwork-mcp",
-   "prev": "MCP client for Macaroon Network -- discover and buy from a live marketplace where AI agent",
-   "cur": "MCP discovery router for Macaroon Network categories, sources, vertical MCPs, and x402 USD"
+   "server": "io.github.omnislash157/graphyos",
+   "pkg": "graphyos",
+   "prev": "GraphyOS \u2014 compile any codebase into a walkable substrate, and generate the fan-out that m",
+   "cur": "Interactive code maps with recorded conversations linked to the symbols they discuss"
   },
   {
-   "server": "io.github.gokeshenzhen/traceweave",
-   "pkg": "traceweave-mcp",
-   "prev": "Evidence-driven MCP server for local RTL simulation debugging",
-   "cur": "Portable MCP runtime for evidence-driven RTL simulation debugging"
+   "server": "io.github.ArkNill/feedkit",
+   "pkg": "feedkit",
+   "prev": "RSS/Atom feed collection with 449 curated feeds. Python MCP server included.",
+   "cur": "RSS/Atom feed collection with 444 curated feeds. Python MCP server included."
   },
   {
-   "server": "io.github.tracegazer/clockify-mcp",
-   "pkg": "clockify-mcp",
-   "prev": "Clockify time-tracking MCP: 112 tools across 18 domains, read-only by default with opt-in ",
-   "cur": "Full-coverage Clockify MCP \u2014 112 tools across 18 domains (incl. invoices, scheduling, time"
+   "server": "com.kiprio/kiprio-mcp",
+   "pkg": "kiprio-mcp",
+   "prev": "MCP server giving AI agents 23 API tools: email validation, DNS/WHOIS, SSL inspection, web",
+   "cur": "MCP server giving AI agents 27 API tools: email/phone validation, geocoding, timezone conv"
   },
   {
-   "server": "io.github.JonesRobM/physbound",
-   "pkg": "physbound",
-   "prev": "Physical Layer Linter \u2014 validates RF and physics calculations against hard physical limits",
-   "cur": "Physical Layer Linter \u2014 validates RF link budgets, Shannon capacity, noise floors, antenna"
+   "server": "io.github.quantamixsol/graqle",
+   "pkg": "graqle",
+   "prev": "Give your AI tools architecture-aware reasoning. Build a knowledge graph from any codebase",
+   "cur": "Persistent organisational intelligence for AI agents. Turn codebases, documents, policies "
   },
   {
-   "server": "dev.fly.veles-finance-gateway/veles-finance-mcp",
-   "pkg": "veles-finance-mcp",
-   "prev": "MCP server for Veles Finance Agent \u2014 AI-powered financial analysis via x402 micropayments ",
-   "cur": "Veles Finance Agent MCP server \u2014 institutional DD reports for Claude Desktop, Cursor, Wind"
+   "server": "io.github.ExposureGuard/haldir",
+   "pkg": "haldir",
+   "prev": "The guardian layer for AI agents \u2014 identity, secrets, audit via MCP",
+   "cur": "The guardian layer for AI agents \u2014 scoped sessions, AES-256-GCM secrets, hash-chained audi"
   },
   {
-   "server": "io.github.RudrenduPaul/agent-observability",
-   "pkg": "agent-observability-trace-cli",
-   "prev": "Deterministic record and replay for LLM agent HTTP traffic. Capture a failing LangGraph, C",
-   "cur": "AI agent observability with deterministic record/replay \u2014 capture any LangGraph or OpenAI "
+   "server": "com.finerxfinder/finerx",
+   "pkg": "finerx-mcp",
+   "prev": "MCP server exposing FineRx drug-price data to AI agents (thin client over the FineRx publi",
+   "cur": "FineRx for AI assistants: observed US prescription prices by pharmacy with dates and the f"
   },
   {
-   "server": "io.github.alyiox/mcp-samsclub-ads",
-   "pkg": "mcp-samsclub-ads",
-   "prev": "MCP server for Sam's Club Sponsored Ads APIs",
-   "cur": "Deprecated: merged into mcp-walmart-ads, which serves the Sam's Club Sponsored Ads APIs"
+   "server": "io.github.partymola/fitbit-mcp",
+   "pkg": "fitbit-mcp",
+   "prev": "MCP server for the Fitbit Web API with OAuth PKCE, local cache, and trend analysis.",
+   "cur": "Retired, superseded by google-health-mcp. MCP server for the Fitbit Web API, which shuts d"
   }
  ]
 }

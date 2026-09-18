@@ -1,83 +1,83 @@
 {
- "generated_at": "2026-09-17T03:42:29Z",
- "universe_declared_pypi": 3705,
+ "generated_at": "2026-09-18T03:42:37Z",
+ "universe_declared_pypi": 3676,
  "sample": {
   "n_sampled": 500,
-  "resolved": 494,
-  "unresolved": 6,
-  "version_desync": 107,
-  "desync_pct": 21.7,
+  "resolved": 495,
+  "unresolved": 5,
+  "version_desync": 122,
+  "desync_pct": 24.6,
   "ci95": [
-   18.3,
-   25.5
+   21.1,
+   28.6
   ],
   "extrapolated_desync": [
-   678,
-   945
+   776,
+   1051
   ],
-  "description_drift": 34,
-  "drift_pct": 6.9
+  "description_drift": 28,
+  "drift_pct": 5.7
  },
  "examples_drift": [
   {
-   "server": "io.github.gulmezeren2-byte/erp-report-engine",
-   "pkg": "erp-report-engine",
-   "prev": "Autonomous weekly reports straight from the SQL database behind your ERP - read-only by co",
-   "cur": "A read-only, self-verifying data layer for the SQL database behind your ERP - weekly repor"
+   "server": "io.github.wesseltl/crypto-price-mcp",
+   "pkg": "hyperliquid-price-mcp",
+   "prev": "An MCP server that gives AI agents live crypto prices and candles. Data only, no trading a",
+   "cur": "An MCP server that gives AI agents live market prices and candles. Data only, no trading a"
   },
   {
-   "server": "io.github.presidio-v/presidio-hardened-x402-mcp",
-   "pkg": "presidio-hardened-x402-mcp",
-   "prev": "MCP server exposing presidio-hardened-x402 PII screening, policy, and replay-guard tools t",
-   "cur": "MCP server exposing presidio-hardened-x402 pre-payment PII screening, policy, and replay-g"
+   "server": "io.github.Raffaele86/seo-stack-mcp",
+   "pkg": "seo-stack-mcp",
+   "prev": "The complete open-source SEO data stack for AI agents \u2014 Google Search Console, GA4, Bing W",
+   "cur": "The complete open-source SEO data stack for AI agents \u2014 Google Search Console, GA4, Bing W"
   },
   {
-   "server": "io.github.thesanjeetc/parselbox",
-   "pkg": "parselbox",
-   "prev": "Secure Python sandbox for AI agents \u2014 tools as code, MCP bridging, JS interop, generative ",
-   "cur": "An embeddable Python runtime where AI agents call tools as code \u2014 MCP servers, APIs and sh"
+   "server": "io.github.tracegazer/invgate-service-desk-mcp",
+   "pkg": "invgate-service-desk-mcp",
+   "prev": "MCP server for the InvGate Service Desk API \u2014 exposes InvGate SD operations as Model Conte",
+   "cur": "InvGate Service Desk MCP \u2014 96 tools across 11 domains (incidents, users, knowledge base, a"
   },
   {
-   "server": "io.github.omnislash157/graphyos",
-   "pkg": "graphyos",
-   "prev": "GraphyOS \u2014 compile any codebase into a walkable substrate, and generate the fan-out that m",
-   "cur": "Interactive code maps with recorded conversations linked to the symbols they discuss"
+   "server": "io.github.thomasxm/crowdsentinel-mcp-server",
+   "pkg": "crowdsentinel-mcp-server",
+   "prev": "AI-powered threat hunting and incident response MCP server for Elasticsearch/OpenSearch wi",
+   "cur": "AI-powered threat hunting and incident response MCP server for Elasticsearch/OpenSearch wi"
   },
   {
-   "server": "io.github.ArkNill/feedkit",
-   "pkg": "feedkit",
-   "prev": "RSS/Atom feed collection with 449 curated feeds. Python MCP server included.",
-   "cur": "RSS/Atom feed collection with 444 curated feeds. Python MCP server included."
+   "server": "io.github.twzrd-sol/twzrd-agent-intel",
+   "pkg": "twzrd-agent-intel",
+   "prev": "Pre-spend x402 counterparty reputation from observed behavior, with free preflight, signed",
+   "cur": "Pre-spend x402 counterparty reputation from observed behavior, with free preflight, paid s"
   },
   {
-   "server": "com.kiprio/kiprio-mcp",
-   "pkg": "kiprio-mcp",
-   "prev": "MCP server giving AI agents 23 API tools: email validation, DNS/WHOIS, SSL inspection, web",
-   "cur": "MCP server giving AI agents 27 API tools: email/phone validation, geocoding, timezone conv"
+   "server": "io.github.mimersql/mimer-mcp",
+   "pkg": "mimer-mcp-server",
+   "prev": "A MCP server with Mimer SQL Database Connectivity",
+   "cur": "An MCP server with Mimer SQL Database Connectivity"
   },
   {
-   "server": "io.github.quantamixsol/graqle",
-   "pkg": "graqle",
-   "prev": "Give your AI tools architecture-aware reasoning. Build a knowledge graph from any codebase",
-   "cur": "Persistent organisational intelligence for AI agents. Turn codebases, documents, policies "
+   "server": "com.files/python-mcp",
+   "pkg": "files-com-mcp",
+   "prev": "MCP for the Files.com API",
+   "cur": "Local-only MCP server for the Files.com API"
   },
   {
-   "server": "io.github.ExposureGuard/haldir",
-   "pkg": "haldir",
-   "prev": "The guardian layer for AI agents \u2014 identity, secrets, audit via MCP",
-   "cur": "The guardian layer for AI agents \u2014 scoped sessions, AES-256-GCM secrets, hash-chained audi"
+   "server": "io.github.davidscoreal/univercity-mcp",
+   "pkg": "univercity-mcp",
+   "prev": "Holistic business intelligence engine \u2014 8-dimension diagnosis via any LLM. Triple option (",
+   "cur": "Holistic business intelligence engine \u2014 11-dimension diagnosis via any LLM. Triple option "
   },
   {
-   "server": "com.finerxfinder/finerx",
-   "pkg": "finerx-mcp",
-   "prev": "MCP server exposing FineRx drug-price data to AI agents (thin client over the FineRx publi",
-   "cur": "FineRx for AI assistants: observed US prescription prices by pharmacy with dates and the f"
+   "server": "io.github.BigJai/codemunch-pro",
+   "pkg": "codemunch-pro",
+   "prev": "Intelligent code indexing MCP server. Tree-sitter AST extraction, hybrid search (FTS5 + ve",
+   "cur": "DEPRECATED: renamed to tokennuke. Run: pip install tokennuke"
   },
   {
-   "server": "io.github.partymola/fitbit-mcp",
-   "pkg": "fitbit-mcp",
-   "prev": "MCP server for the Fitbit Web API with OAuth PKCE, local cache, and trend analysis.",
-   "cur": "Retired, superseded by google-health-mcp. MCP server for the Fitbit Web API, which shuts d"
+   "server": "io.github.CSOAI-ORG/quiz-generator-ai-mcp",
+   "pkg": "quiz-generator-ai-mcp",
+   "prev": "AI-powered quiz generator ai MCP server for agents. Supports generate quiz, validate answe",
+   "cur": "Quiz Generator Ai Mcp: generate quiz (Generate a quiz from provided content text.); valida"
   }
  ]
 }

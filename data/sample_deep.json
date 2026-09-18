@@ -1,65 +1,95 @@
 {
- "generated_at": "2026-09-17T03:42:24Z",
- "universe_declared_github_repos": 23792,
- "universe_declared_npm_packages": 8639,
+ "generated_at": "2026-09-18T03:42:26Z",
+ "universe_declared_github_repos": 23923,
+ "universe_declared_npm_packages": 8599,
  "github_sample": {
   "n": 1200,
-  "dead": 194,
-  "dead_pct": 16.2,
+  "dead": 189,
+  "dead_pct": 15.8,
   "ci95": [
-   14.2,
-   18.4
+   13.8,
+   17.9
   ],
-  "archived": 17,
-  "no_license": 197,
+  "archived": 14,
+  "no_license": 209,
   "stale_365d": 2,
   "extrapolated_dead": [
-   3378,
-   4378
+   3301,
+   4282
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 793,
-  "unresolved": 7,
-  "version_desync": 221,
-  "desync_pct": 27.6,
+  "resolved": 784,
+  "unresolved": 16,
+  "version_desync": 229,
+  "desync_pct": 28.6,
   "ci95": [
-   24.6,
-   30.8
+   25.6,
+   31.9
   ],
-  "description_drift": 79,
-  "drift_pct": 9.9,
-  "desc_mismatch_vs_registry": 684,
-  "mismatch_pct": 85.5,
+  "description_drift": 71,
+  "drift_pct": 8.9,
+  "desc_mismatch_vs_registry": 666,
+  "mismatch_pct": 83.2,
   "extrapolated_desync": [
-   2125,
-   2661
+   2201,
+   2743
   ]
  },
  "examples_dead_repo": [
-  "clm-studios/nephyr-backtest",
   "ee324/a2awire",
-  "sigaihealth/foodlogger",
+  "wowstorelive/mcp-server",
+  "CSOAI-ORG/councilof-ai",
+  "pefman/nordicmcp.eu",
+  "heungmangoo-art/saju-mcp-server",
   "joeetdev/venture-estate",
-  "CSOAI-ORG/env-manager-ai-mcp",
-  "laurentknauss/bullionradar",
-  "hristovdimitri2-hub/kristo-travel-api",
-  "ffteema/Ghost-app",
-  "maxi-moss/medical-rag-mcp-test",
+  "ZUHcYa/eu-food-regulatory-mcp",
   "ee324/a2awire",
-  "oaslananka/mcp-health-monitor",
   "ee324/a2awire",
-  "joe-watkins/magentaa11y-mcp",
-  "lordbasilaiassistant-sudo/broke2built-skills-mcp",
-  "joeetdev/venture-estate"
+  "Openfinanceorg/openfinance-app",
+  "jgsierra/veredicto-humano-x402",
+  "joeetdev/venture-estate",
+  "primitivedotdev/primitive-mono-repo",
+  "CCSTT-dev/callable-task-deck",
+  "junter1989k-ai/germany-logistics-mcp"
  ],
  "examples_drift": [
   {
-   "server": "io.github.Nicodemus941/health-api",
-   "pkg": "@e-labus/mcp",
-   "prev": "E-Labus Health API \u2014 MCP server for AI-powered lab analysis, clinical insights, and biomar",
-   "cur": "E-Labus Health Intelligence MCP Server \u2014 AI-powered lab analysis, clinical insights, and b"
+   "server": "io.github.fluttersdk/ai",
+   "pkg": "@fluttersdk/mcp",
+   "prev": "HTTP\u2194stdio bridge for the FlutterSDK Docs MCP server (mcp.fluttersdk.com)",
+   "cur": "HTTP to stdio bridge for the FlutterSDK Docs MCP server (mcp.fluttersdk.com)"
+  },
+  {
+   "server": "io.github.staminna/directus-mcp-server",
+   "pkg": "@staminna/directus-mcp-server",
+   "prev": "Enhanced MCP server for Directus 12.3 with TypeScript, WebSocket, and full API coverage",
+   "cur": "MCP server for Directus 12 \u2014 items, collections, files, flows, users, and schema tools"
+  },
+  {
+   "server": "io.github.ShieldZCash/mcp",
+   "pkg": "@shieldz/mcp",
+   "prev": "Model Context Protocol (MCP) server for Shieldz \u2014 let AI agents create and look up non-cus",
+   "cur": "Model Context Protocol (MCP) server for Shieldz. Let AI agents accept non-custodial crypto"
+  },
+  {
+   "server": "io.github.dockndevai/mcp-outlook",
+   "pkg": "@dockndevai/mcp-outlook",
+   "prev": "Model Context Protocol server for Microsoft Outlook mail (Microsoft Graph) \u2014 read, search,",
+   "cur": "Model Context Protocol server for Microsoft Outlook mail (Microsoft Graph) \u2014 read, search,"
+  },
+  {
+   "server": "io.github.cmcgrabby-hue/syndicate-links",
+   "pkg": "syndicate-links-mcp",
+   "prev": "MCP server for the Syndicate Links affiliate commission API \u2014 7 tools for AI agent attribu",
+   "cur": "MCP server for the Syndicate Links affiliate commission API - 11 tools for AI agent attrib"
+  },
+  {
+   "server": "ai.voxell/forge",
+   "pkg": "@voxell/forge-mcp",
+   "prev": "MCP server for Forge \u2014 Voxell's GA text-embedding API. Exposes embed + list_models tools t",
+   "cur": "MCP server for Forge \u2014 Voxell's text-embedding API (turbo\u2192ultra; ultra = Qwen3-Embedding-8"
   },
   {
    "server": "dev.cz-agents/cnb",
@@ -68,52 +98,22 @@
    "cur": "Official Czech National Bank (\u010cNB) exchange rates \u2014 daily and historical CZK rates against"
   },
   {
-   "server": "io.github.agenticempire/axint",
-   "pkg": "@axint/compiler",
-   "prev": "Apple-native execution layer for AI coding agents: compile, validate, repair, and prove Sw",
-   "cur": "Proof and repair for Apple coding agents: validate Swift, run Xcode evidence, repair failu"
+   "server": "com.orchyn/mcp",
+   "pkg": "@orchyn/mcp",
+   "prev": "MCP server for orchyn - fetch, discover and understand TikTok/Instagram/YouTube/X/LinkedIn",
+   "cur": "MCP server for orchyn - fetch, discover and understand TikTok/Instagram/YouTube/X/Reddit/L"
   },
   {
-   "server": "com.yaktool/image",
-   "pkg": "yaktool-image-mcp",
-   "prev": "Local image tools as an MCP server: compress PNG/JPEG (smart visually-guarded lossy, or tr",
-   "cur": "Local image tools as an MCP server: compress PNG/JPEG with a visually-guarded smart mode o"
+   "server": "com.balmasai/balmas-mcp",
+   "pkg": "balmas-mcp",
+   "prev": "BALMAS anonymization gateway for AI agents (MCP server): agents get cleaned copies of your",
+   "cur": "BALMAS anonymization gateway for AI agents (MCP server): agents get cleaned copies of your"
   },
   {
-   "server": "io.github.suomimasuda/rightos-mcp",
-   "pkg": "@i-s3/rightos-mcp",
-   "prev": "MCP server for RightOS \u2014 queue/EV/pickup QR tickets for AI agents (Cursor, Claude). 18 too",
-   "cur": "MCP server for RightOS \u2014 queue/EV/pickup QR tickets for AI agents (Cursor, Claude). 20 too"
-  },
-  {
-   "server": "io.github.Eronmmer/bloomfilter",
-   "pkg": "@bloomfilter/mcp-server",
-   "prev": "MCP server for Bloomfilter domain registration API \u2014 register ICANN domains with AI agents",
-   "cur": "MCP server for Bloomfilter domain registration API \u2014 Service that lets AI Agents search, r"
-  },
-  {
-   "server": "io.github.edgarfloresguerra2011-a11y/marketnow",
-   "pkg": "marketnow-mcp",
-   "prev": "MarketNow MCP Server v1.12.0 \u2014 Audit-63 repair + ATC/1.4 unified verification: marketnow_g",
-   "cur": "MarketNow MCP Server v1.13.0 \u2014 ATC/3.0 unified credential profile (re-version of the inter"
-  },
-  {
-   "server": "io.github.eutech-directory/legis-link",
-   "pkg": "legis-link-mcp",
-   "prev": "Construction compliance MCP server. Wire sizing, load calc, battery clearance across AU, U",
-   "cur": "Construction compliance AI \u2014 9 tools, 87 regions, 10 trades. Instant code answers on mobil"
-  },
-  {
-   "server": "dev.cz-agents/realestate",
-   "pkg": "@czagents/realestate",
-   "prev": "BREAKING(0.2.0): Paid tools moved to hosted realestate-pro.cz-agents.dev. Free tier packag",
-   "cur": "Czech distressed real estate intelligence \u2014 anonymized district-level aggregates (insolven"
-  },
-  {
-   "server": "io.github.SPAZIO-GENESI/attest-mcp",
-   "pkg": "@spazio-genesi/attest-mcp",
-   "prev": "MCP server + CLI for Spazio Genesi's attestation service \u2014 attest, verify, and check digit",
-   "cur": "MCP server + CLI for Spazio Genesi's digital attestation service \u2014 attest, verify and chec"
+   "server": "ai.agenttrust/mcp-server",
+   "pkg": "@agenttrust/mcp-server",
+   "prev": "MCP server for AgentTrust \u2014 email, file storage, and instant messaging for AI agents",
+   "cur": "Free email for AI agents, instant messaging between agents, and cloud file storage \u2014 all t"
   }
  ]
 }

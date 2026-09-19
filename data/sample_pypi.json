@@ -1,83 +1,83 @@
 {
- "generated_at": "2026-09-18T03:42:37Z",
- "universe_declared_pypi": 3676,
+ "generated_at": "2026-09-19T03:39:45Z",
+ "universe_declared_pypi": 3645,
  "sample": {
   "n_sampled": 500,
   "resolved": 495,
   "unresolved": 5,
-  "version_desync": 122,
-  "desync_pct": 24.6,
+  "version_desync": 114,
+  "desync_pct": 23.0,
   "ci95": [
-   21.1,
-   28.6
+   19.5,
+   26.9
   ],
   "extrapolated_desync": [
-   776,
-   1051
+   711,
+   981
   ],
-  "description_drift": 28,
-  "drift_pct": 5.7
+  "description_drift": 33,
+  "drift_pct": 6.7
  },
  "examples_drift": [
   {
-   "server": "io.github.wesseltl/crypto-price-mcp",
-   "pkg": "hyperliquid-price-mcp",
-   "prev": "An MCP server that gives AI agents live crypto prices and candles. Data only, no trading a",
-   "cur": "An MCP server that gives AI agents live market prices and candles. Data only, no trading a"
+   "server": "io.github.agenticempire/axint",
+   "pkg": "axint",
+   "prev": "Python SDK for Axint \u2014 define Apple App Intents, Views, Widgets, and Apps in Python.",
+   "cur": "Python SDK for Axint: define, validate, and generate inspectable Swift for App Intents, Sw"
   },
   {
-   "server": "io.github.Raffaele86/seo-stack-mcp",
-   "pkg": "seo-stack-mcp",
-   "prev": "The complete open-source SEO data stack for AI agents \u2014 Google Search Console, GA4, Bing W",
-   "cur": "The complete open-source SEO data stack for AI agents \u2014 Google Search Console, GA4, Bing W"
+   "server": "io.github.jaminben/secure-applemusic-mcp-for-osx",
+   "pkg": "secure-applemusic-mcp-for-osx",
+   "prev": "Hardened macOS-only MCP server for Apple Music: no Accessibility, no browser automation, n",
+   "cur": "Control Apple Music on macOS with Claude: play, search, build playlists, add music to your"
   },
   {
-   "server": "io.github.tracegazer/invgate-service-desk-mcp",
-   "pkg": "invgate-service-desk-mcp",
-   "prev": "MCP server for the InvGate Service Desk API \u2014 exposes InvGate SD operations as Model Conte",
-   "cur": "InvGate Service Desk MCP \u2014 96 tools across 11 domains (incidents, users, knowledge base, a"
+   "server": "io.github.nk3750/jitapi",
+   "pkg": "jitapi",
+   "prev": "Just-in-Time API Orchestration System for LLMs - An MCP server for dynamic API discovery a",
+   "cur": "Point Claude at any API. JitAPI figures out which endpoints to call and in what order \u2014 au"
   },
   {
-   "server": "io.github.thomasxm/crowdsentinel-mcp-server",
-   "pkg": "crowdsentinel-mcp-server",
-   "prev": "AI-powered threat hunting and incident response MCP server for Elasticsearch/OpenSearch wi",
-   "cur": "AI-powered threat hunting and incident response MCP server for Elasticsearch/OpenSearch wi"
+   "server": "io.github.nh4ttruong/secobserve-mcp",
+   "pkg": "secobserve-mcp",
+   "prev": "MCP server for SecObserve vulnerability management",
+   "cur": "MCP server for SecObserve: triage findings, import scan reports and SBOMs, generate VEX."
   },
   {
-   "server": "io.github.twzrd-sol/twzrd-agent-intel",
-   "pkg": "twzrd-agent-intel",
-   "prev": "Pre-spend x402 counterparty reputation from observed behavior, with free preflight, signed",
-   "cur": "Pre-spend x402 counterparty reputation from observed behavior, with free preflight, paid s"
+   "server": "com.undercurrentholdings/aegis",
+   "pkg": "aegis-governance",
+   "prev": "Quantitative AI governance \u2014 works immediately, no signup required. 10 free evaluations/da",
+   "cur": "AEGIS governance Python client, async client, and local MCP server. The hosted evaluation "
   },
   {
-   "server": "io.github.mimersql/mimer-mcp",
-   "pkg": "mimer-mcp-server",
-   "prev": "A MCP server with Mimer SQL Database Connectivity",
-   "cur": "An MCP server with Mimer SQL Database Connectivity"
+   "server": "io.github.CSOAI-ORG/pdf-merge-ai-mcp",
+   "pkg": "pdf-merge-ai-mcp",
+   "prev": "AI-powered pdf merge ai MCP server for agents. Supports merge pdfs, split pdf, get pdf inf",
+   "cur": "Pdf Merge Ai Mcp: merge info (Plan a PDF merge operation. Provide file descriptions as JSO"
   },
   {
-   "server": "com.files/python-mcp",
-   "pkg": "files-com-mcp",
-   "prev": "MCP for the Files.com API",
-   "cur": "Local-only MCP server for the Files.com API"
+   "server": "io.github.gokeshenzhen/traceweave",
+   "pkg": "traceweave-mcp",
+   "prev": "Evidence-driven MCP server for local RTL simulation debugging",
+   "cur": "Portable MCP runtime for evidence-driven RTL simulation debugging"
   },
   {
-   "server": "io.github.davidscoreal/univercity-mcp",
-   "pkg": "univercity-mcp",
-   "prev": "Holistic business intelligence engine \u2014 8-dimension diagnosis via any LLM. Triple option (",
-   "cur": "Holistic business intelligence engine \u2014 11-dimension diagnosis via any LLM. Triple option "
+   "server": "com.mcparmory/google-drive",
+   "pkg": "mcparmory-google-drive",
+   "prev": "MCP server for Google Drive",
+   "cur": "Manage files, folders, permissions, and collaborative content in Google Drive"
   },
   {
-   "server": "io.github.BigJai/codemunch-pro",
-   "pkg": "codemunch-pro",
-   "prev": "Intelligent code indexing MCP server. Tree-sitter AST extraction, hybrid search (FTS5 + ve",
-   "cur": "DEPRECATED: renamed to tokennuke. Run: pip install tokennuke"
+   "server": "io.github.genecell/piaso-mcp",
+   "pkg": "piaso-mcp",
+   "prev": "Local stdio MCP server for the PIASO single-cell omics ecosystem \u2014 serves knowledge and pu",
+   "cur": "Local stdio MCP server for the PIASO single-cell omics ecosystem (PIASO, COSG/COSGR, cytom"
   },
   {
-   "server": "io.github.CSOAI-ORG/quiz-generator-ai-mcp",
-   "pkg": "quiz-generator-ai-mcp",
-   "prev": "AI-powered quiz generator ai MCP server for agents. Supports generate quiz, validate answe",
-   "cur": "Quiz Generator Ai Mcp: generate quiz (Generate a quiz from provided content text.); valida"
+   "server": "io.github.synopsys0/postfader-fl-studio-mcp",
+   "pkg": "postfader-fl-studio-mcp",
+   "prev": "Verified AI control for FL Studio mixing, composition, arrangement, and audio analysis",
+   "cur": "AI copilot for FL Studio project control, mix analysis, plug-ins, composition, and arrange"
   }
  ]
 }

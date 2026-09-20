@@ -1,47 +1,29 @@
 {
- "generated_at": "2026-09-19T03:39:45Z",
- "universe_declared_pypi": 3645,
+ "generated_at": "2026-09-20T03:40:54Z",
+ "universe_declared_pypi": 3630,
  "sample": {
   "n_sampled": 500,
-  "resolved": 495,
-  "unresolved": 5,
-  "version_desync": 114,
-  "desync_pct": 23.0,
+  "resolved": 492,
+  "unresolved": 8,
+  "version_desync": 119,
+  "desync_pct": 24.2,
   "ci95": [
-   19.5,
-   26.9
+   20.6,
+   28.2
   ],
   "extrapolated_desync": [
-   711,
-   981
+   748,
+   1024
   ],
-  "description_drift": 33,
-  "drift_pct": 6.7
+  "description_drift": 25,
+  "drift_pct": 5.1
  },
  "examples_drift": [
   {
-   "server": "io.github.agenticempire/axint",
-   "pkg": "axint",
-   "prev": "Python SDK for Axint \u2014 define Apple App Intents, Views, Widgets, and Apps in Python.",
-   "cur": "Python SDK for Axint: define, validate, and generate inspectable Swift for App Intents, Sw"
-  },
-  {
-   "server": "io.github.jaminben/secure-applemusic-mcp-for-osx",
-   "pkg": "secure-applemusic-mcp-for-osx",
-   "prev": "Hardened macOS-only MCP server for Apple Music: no Accessibility, no browser automation, n",
-   "cur": "Control Apple Music on macOS with Claude: play, search, build playlists, add music to your"
-  },
-  {
-   "server": "io.github.nk3750/jitapi",
-   "pkg": "jitapi",
-   "prev": "Just-in-Time API Orchestration System for LLMs - An MCP server for dynamic API discovery a",
-   "cur": "Point Claude at any API. JitAPI figures out which endpoints to call and in what order \u2014 au"
-  },
-  {
-   "server": "io.github.nh4ttruong/secobserve-mcp",
-   "pkg": "secobserve-mcp",
-   "prev": "MCP server for SecObserve vulnerability management",
-   "cur": "MCP server for SecObserve: triage findings, import scan reports and SBOMs, generate VEX."
+   "server": "io.github.Treevu-ai/cli-market-world",
+   "pkg": "cli-market-world",
+   "prev": "mcp-name: io.github.Treevu-ai/cli-market-world - CLI Market: commerce API for AI agents. 4",
+   "cur": "mcp-name: io.github.Treevu-ai/cli-market-world - CLI Market: commerce API for AI agents. 4"
   },
   {
    "server": "com.undercurrentholdings/aegis",
@@ -56,28 +38,46 @@
    "cur": "Pdf Merge Ai Mcp: merge info (Plan a PDF merge operation. Provide file descriptions as JSO"
   },
   {
-   "server": "io.github.gokeshenzhen/traceweave",
-   "pkg": "traceweave-mcp",
-   "prev": "Evidence-driven MCP server for local RTL simulation debugging",
-   "cur": "Portable MCP runtime for evidence-driven RTL simulation debugging"
-  },
-  {
    "server": "com.mcparmory/google-drive",
    "pkg": "mcparmory-google-drive",
    "prev": "MCP server for Google Drive",
    "cur": "Manage files, folders, permissions, and collaborative content in Google Drive"
   },
   {
-   "server": "io.github.genecell/piaso-mcp",
-   "pkg": "piaso-mcp",
-   "prev": "Local stdio MCP server for the PIASO single-cell omics ecosystem \u2014 serves knowledge and pu",
-   "cur": "Local stdio MCP server for the PIASO single-cell omics ecosystem (PIASO, COSG/COSGR, cytom"
+   "server": "io.github.sbrunner-atx/serial-console-mcp",
+   "pkg": "serial-console-mcp",
+   "prev": "AI for the configuration of telecommunication equipment over its serial console: Juniper a",
+   "cur": "AI for the configuration of telecommunication equipment over its serial console: Juniper a"
   },
   {
-   "server": "io.github.synopsys0/postfader-fl-studio-mcp",
-   "pkg": "postfader-fl-studio-mcp",
-   "prev": "Verified AI control for FL Studio mixing, composition, arrangement, and audio analysis",
-   "cur": "AI copilot for FL Studio project control, mix analysis, plug-ins, composition, and arrange"
+   "server": "io.github.dheerajjha/blind-mcp",
+   "pkg": "blind-mcp",
+   "prev": "Find what a role actually pays, including where the employer publishes nothing -- reads pu",
+   "cur": "Renamed to payband-mcp. Installing this installs payband-mcp; please depend on that instea"
+  },
+  {
+   "server": "io.github.cmendezs/mcp-einvoicing-ae",
+   "pkg": "mcp-einvoicing-ae",
+   "prev": "MCP server for United Arab Emirates electronic invoicing",
+   "cur": "MCP server for United Arab Emirates electronic invoicing, vendor-neutral Peppol transport"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/gdpr-compliance-ai-mcp",
+   "pkg": "gdpr-compliance-ai-mcp",
+   "prev": "MCP server for gdpr compliance ai. Features classify processing, lawful basis assessment, ",
+   "cur": "GDPR measurement for AI agents. Processing classification, lawful basis assessment, DPIA g"
+  },
+  {
+   "server": "com.files/python-mcp",
+   "pkg": "files-com-mcp",
+   "prev": "MCP for the Files.com API",
+   "cur": "Local-only MCP server for the Files.com API"
+  },
+  {
+   "server": "io.github.Arun-kc/schemabrain",
+   "pkg": "schemabrain",
+   "prev": "The SQL firewall between AI agents and your production database.",
+   "cur": "The trust and intelligence layer between AI agents and your database."
   }
  ]
 }

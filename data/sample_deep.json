@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-09-19T03:39:41Z",
- "universe_declared_github_repos": 23961,
- "universe_declared_npm_packages": 8583,
+ "generated_at": "2026-09-20T03:40:49Z",
+ "universe_declared_github_repos": 23950,
+ "universe_declared_npm_packages": 8561,
  "github_sample": {
   "n": 1200,
-  "dead": 163,
-  "dead_pct": 13.6,
+  "dead": 175,
+  "dead_pct": 14.6,
   "ci95": [
-   11.8,
-   15.6
+   12.7,
+   16.7
   ],
-  "archived": 15,
-  "no_license": 198,
-  "stale_365d": 1,
+  "archived": 16,
+  "no_license": 201,
+  "stale_365d": 0,
   "extrapolated_dead": [
-   2827,
-   3738
+   3042,
+   4000
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 784,
-  "unresolved": 16,
-  "version_desync": 246,
-  "desync_pct": 30.8,
+  "resolved": 792,
+  "unresolved": 8,
+  "version_desync": 219,
+  "desync_pct": 27.4,
   "ci95": [
-   27.7,
-   34.0
+   24.4,
+   30.6
   ],
-  "description_drift": 80,
-  "drift_pct": 10.0,
-  "desc_mismatch_vs_registry": 660,
-  "mismatch_pct": 82.5,
+  "description_drift": 67,
+  "drift_pct": 8.4,
+  "desc_mismatch_vs_registry": 675,
+  "mismatch_pct": 84.4,
   "extrapolated_desync": [
-   2377,
-   2918
+   2089,
+   2620
   ]
  },
  "examples_dead_repo": [
   "ee324/a2awire",
-  "Delegueinu/onlyswaps",
-  "novica-ai/sendfast",
-  "joeetdev/venture-estate",
-  "KNambiarDJsc/Meridian",
-  "CSOAI-ORG/airspace-monitor-mcp",
-  "sercanmetalore/API-MCP",
-  "haoyun18881-beep/universal-brute-workpack",
-  "Creator-API/creator-api-mcp",
-  "BeyondFolder/beyondfolder-landing-page",
+  "CSOAI-ORG/agent-negotiation-mcp",
+  "Ansvar-Systems/Moroccan-law-mcp",
+  "Correctover/mcp-server",
+  "emidlabs/emidlabs-backtest-mcp",
+  "Larshiensch99/priceparse",
   "ee324/a2awire",
-  "nickjazz/product-lock-mcp",
   "ee324/a2awire",
-  "surp-renz/sekichi",
-  "PANDeveloper001/vend"
+  "meltingpixelsai/relayzero",
+  "agentbuilders/cli",
+  "NormiHQ/Normi",
+  "stevebutterworth/govping-mcp",
+  "rabyavalla/bonsai-api",
+  "Vertical-Flows/verticalflows",
+  "junter1989k-ai/ecuador-invoice-mcp"
  ],
  "examples_drift": [
   {
-   "server": "io.github.adididitagain/finance-mcp",
-   "pkg": "finance-data-mcp",
-   "prev": "MCP server giving any LLM agent live stock quotes, crypto prices, SEC filings, XBRL financ",
-   "cur": "MCP server giving any LLM agent live stock quotes, crypto prices, SEC filings, insider tra"
+   "server": "io.github.khalidsaidi/a2abench",
+   "pkg": "@khalidsaidi/a2abench-mcp",
+   "prev": "Agent-native StackOverflow MCP server (local) \u2014 search, fetch, grounded answer with citati",
+   "cur": "A2ABench MCP server for public agent Q&A benchmarking: list questions, submit runs, and fe"
   },
   {
-   "server": "com.kage-core/kage",
-   "pkg": "@kage-core/kage-graph-mcp",
-   "prev": "Agent memory on Google's Open Knowledge Format (OKF). Kage maintains your coding agents' O",
-   "cur": "Kage manages your memory and agents. It briefs and runs agents in isolated git worktrees f"
+   "server": "com.worldcitisim/mcp-esim",
+   "pkg": "@worldcitisim/mcp-esim",
+   "prev": "MCP server for the WorldCitiSim eSIM API \u2014 lets Claude and other MCP-compatible agents sea",
+   "cur": "MCP server for the Worldcitisim eSIM API \u2014 lets Claude and other MCP-compatible agents sea"
   },
   {
-   "server": "io.github.BamaCharanChhandogi/blogcaster-mcp",
-   "pkg": "blogcaster-mcp",
-   "prev": "Cloud-hosted MCP server that lets you **publish, list, and delete posts across multiple bl",
-   "cur": "An MCP server for the BlogCaster project - publish, list, and delete posts across multiple"
+   "server": "io.github.cuthongthai-vn/vimo-stock-intelligence",
+   "pkg": "@vimo.cuthongthai.vn/mcp-server",
+   "prev": "VIMO Financial Intelligence MCP Server \u2014 Vietnam's first MCP server for financial AI agent",
+   "cur": "VIMO Financial Intelligence \u2014 MCP Server for Vietnamese stock market data and AI analysis."
   },
   {
-   "server": "io.github.attestifyagent/attestify-os",
-   "pkg": "attestify-os",
-   "prev": "The only agent execution layer that enforces governance before consequences land. x402-nat",
-   "cur": "The only agent execution layer that enforces governance before consequences land. x402-nat"
+   "server": "io.github.alttextai/alttext-mcp",
+   "pkg": "@alttext_ai/alttext-mcp",
+   "prev": "MCP server for AltText.ai \u2014 generate alt text, manage image libraries, and audit web pages",
+   "cur": "Generate alt text, translate descriptions, and manage your AltText.ai image library."
   },
   {
-   "server": "io.github.spuentesp/lain",
-   "pkg": "@spuentesp/lain-mcp",
-   "prev": "Wird - Architectural code intelligence for AI coding agents",
-   "cur": "High-performance knowledge graph MCP server for AI coding agents with semantic search."
+   "server": "io.github.ArasPasha/botwire-mcp",
+   "pkg": "botwire-mcp",
+   "prev": "The Bot Wire as MCP tools: 301 real-time data wires for AI agents (Claude Code, Claude Des",
+   "cur": "301 real-time data wires for AI agents. Paid per call via x402 (USDC on Base), no API key,"
   },
   {
-   "server": "io.github.hiroshic9-png/japan-business-operations",
-   "pkg": "edition-mcp-server",
-   "prev": "EDITION \u2014 Japan Knowledge Gateway for AI agents. 20 knowledge domains, 8 Skills Packs, 43 ",
-   "cur": "EDITION \u2014 Japan Knowledge Gateway for AI agents. 20 knowledge domains, 7 Skills Packs, 43 "
+   "server": "ai.voxell/forge",
+   "pkg": "@voxell/forge-mcp",
+   "prev": "MCP server for Forge \u2014 Voxell's GA text-embedding API. Exposes embed + list_models tools t",
+   "cur": "MCP server for Forge \u2014 Voxell's text-embedding API (turbo\u2192ultra; ultra = Qwen3-Embedding-8"
   },
   {
-   "server": "io.github.oaslananka/health-monitor-mcp",
-   "pkg": "health-monitor-mcp",
-   "prev": "Monitor MCP servers, GitHub Actions workflows, and GitLab CI/CD pipelines with health hist",
-   "cur": "Monitor MCP servers, CI workflows, and HTTP endpoints with health history, TLS expiry, res"
+   "server": "io.github.RoninForge/ai-price-index-mcp",
+   "pkg": "ai-price-index-mcp",
+   "prev": "Read-only, zero-key MCP server for the open AI Price Index: query dated, first-party-sourc",
+   "cur": "Read-only, zero-key MCP server over the AI Price Index. AI model prices for when quality m"
   },
   {
-   "server": "eu.ansvar/kenya-law-mcp",
-   "pkg": "@ansvar/kenya-law-mcp",
-   "prev": "Kenya law database covering data protection, cybercrimes, ICT, companies, and consumer pro",
-   "cur": "Kenya law database \u2014 494 Acts, 21K+ provisions from Kenya Law (kenyalaw.org) with full-tex"
+   "server": "io.github.MLTCorp/convertfilefast",
+   "pkg": "convertfilefast-mcp",
+   "prev": "Convert 50+ file formats, run PDF/image operations, and report feedback via the ConvertFil",
+   "cur": "Convert 50+ file formats, run PDF/image operations, create billing links, and report feedb"
   },
   {
-   "server": "io.github.Iteksmart/mcp-server",
-   "pkg": "@itechsmart/mcp-server",
-   "prev": "iTechSmart UAIO MCP Server \u2014 connect any AI agent to ProofLink verification and autonomous",
-   "cur": "iTechSmart UAIO MCP Server - connect any AI agent to ProofLink verification and autonomous"
+   "server": "io.github.mysplitifi/splitifi-mcp",
+   "pkg": "splitifi-mcp",
+   "prev": "Splitifi Intelligence MCP \u2014 outcome predictions, judge profiles, and legal workflows power",
+   "cur": "Splitifi Intelligence MCP \u2014 outcome predictions, judge profiles, and legal workflows power"
   },
   {
-   "server": "io.github.hanjialeGit/mcp-server",
-   "pkg": "@apocdata-info/mcp-server",
-   "prev": "\u5929\u542f\u81f3\u6570 ApocData - MCP Server for A-share market data (46 free, no-auth endpoints)",
-   "cur": "\u5929\u542f\u81f3\u6570 Apocdata MCP Server \u2014 46 tools, AI-native A-share data (announcements, quotes, financ"
+   "server": "io.github.theYahia/calltouch-mcp",
+   "pkg": "@theyahia/calltouch-mcp",
+   "prev": "MCP server for Calltouch API \u2014 call tracking, leads, sources, tags, statistics. Token auth",
+   "cur": "MCP server for Calltouch \u2014 call tracking, attribution analytics (Russia)"
   }
  ]
 }

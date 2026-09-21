@@ -1,83 +1,83 @@
 {
- "generated_at": "2026-09-20T03:40:54Z",
- "universe_declared_pypi": 3630,
+ "generated_at": "2026-09-21T03:44:15Z",
+ "universe_declared_pypi": 3595,
  "sample": {
   "n_sampled": 500,
-  "resolved": 492,
-  "unresolved": 8,
-  "version_desync": 119,
-  "desync_pct": 24.2,
+  "resolved": 496,
+  "unresolved": 4,
+  "version_desync": 113,
+  "desync_pct": 22.8,
   "ci95": [
-   20.6,
-   28.2
+   19.3,
+   26.7
   ],
   "extrapolated_desync": [
-   748,
-   1024
+   694,
+   960
   ],
-  "description_drift": 25,
-  "drift_pct": 5.1
+  "description_drift": 30,
+  "drift_pct": 6.0
  },
  "examples_drift": [
   {
-   "server": "io.github.Treevu-ai/cli-market-world",
-   "pkg": "cli-market-world",
-   "prev": "mcp-name: io.github.Treevu-ai/cli-market-world - CLI Market: commerce API for AI agents. 4",
-   "cur": "mcp-name: io.github.Treevu-ai/cli-market-world - CLI Market: commerce API for AI agents. 4"
+   "server": "io.github.chaoz23/charactercheck",
+   "pkg": "charactercheck",
+   "prev": "Deterministic D&D Beyond character-sheet derivation with provenance \u2014 every stat computed ",
+   "cur": "Experimental read-only derivation of selected D&D Beyond character fields with provenance "
   },
   {
-   "server": "com.undercurrentholdings/aegis",
-   "pkg": "aegis-governance",
-   "prev": "Quantitative AI governance \u2014 works immediately, no signup required. 10 free evaluations/da",
-   "cur": "AEGIS governance Python client, async client, and local MCP server. The hosted evaluation "
+   "server": "io.github.invigil/invigil",
+   "pkg": "invigil",
+   "prev": "A CI quality gate that grades a repo against a product-quality doctrine \u2014 not code style.",
+   "cur": "Linters check your code. Invigil checks whether your repo is legible \u2014 to newcomers and to"
   },
   {
-   "server": "io.github.CSOAI-ORG/pdf-merge-ai-mcp",
-   "pkg": "pdf-merge-ai-mcp",
-   "prev": "AI-powered pdf merge ai MCP server for agents. Supports merge pdfs, split pdf, get pdf inf",
-   "cur": "Pdf Merge Ai Mcp: merge info (Plan a PDF merge operation. Provide file descriptions as JSO"
+   "server": "io.github.JonesRobM/physbound",
+   "pkg": "physbound",
+   "prev": "Physical Layer Linter \u2014 validates RF and physics calculations against hard physical limits",
+   "cur": "Physical Layer Linter \u2014 validates RF link budgets, Shannon capacity, noise floors, antenna"
   },
   {
-   "server": "com.mcparmory/google-drive",
-   "pkg": "mcparmory-google-drive",
-   "prev": "MCP server for Google Drive",
-   "cur": "Manage files, folders, permissions, and collaborative content in Google Drive"
+   "server": "io.github.Bortlesboat/bitcoin-mcp",
+   "pkg": "bitcoin-mcp",
+   "prev": "MCP server for Bitcoin \u2014 49 tools for AI agents to save money on fees. Zero config, works ",
+   "cur": "MCP server for Bitcoin \u2014 50 tools for AI agents using Bitcoin Core or a compatible API."
   },
   {
-   "server": "io.github.sbrunner-atx/serial-console-mcp",
-   "pkg": "serial-console-mcp",
-   "prev": "AI for the configuration of telecommunication equipment over its serial console: Juniper a",
-   "cur": "AI for the configuration of telecommunication equipment over its serial console: Juniper a"
+   "server": "io.github.CSOAI-ORG/pdf-document-mcp",
+   "pkg": "pdf-document-mcp",
+   "prev": "AI-powered pdf document MCP server for agents. Supports extract text from pdf, convert pdf",
+   "cur": "Pdf Document Mcp: extract text from pdf (Extract text content from a PDF file. Optionally "
   },
   {
-   "server": "io.github.dheerajjha/blind-mcp",
-   "pkg": "blind-mcp",
-   "prev": "Find what a role actually pays, including where the employer publishes nothing -- reads pu",
-   "cur": "Renamed to payband-mcp. Installing this installs payband-mcp; please depend on that instea"
+   "server": "io.github.Hylouis233/bibverify",
+   "pkg": "bibverify",
+   "prev": "Bibverify: A Multi-Platform BibTeX Reference Verification Tool",
+   "cur": "Verify, repair, and enrich BibTeX references across academic metadata providers"
   },
   {
-   "server": "io.github.cmendezs/mcp-einvoicing-ae",
-   "pkg": "mcp-einvoicing-ae",
-   "prev": "MCP server for United Arab Emirates electronic invoicing",
-   "cur": "MCP server for United Arab Emirates electronic invoicing, vendor-neutral Peppol transport"
+   "server": "io.github.nk3750/jitapi",
+   "pkg": "jitapi",
+   "prev": "Just-in-Time API Orchestration System for LLMs - An MCP server for dynamic API discovery a",
+   "cur": "Point Claude at any API. JitAPI figures out which endpoints to call and in what order \u2014 au"
   },
   {
-   "server": "io.github.CSOAI-ORG/gdpr-compliance-ai-mcp",
-   "pkg": "gdpr-compliance-ai-mcp",
-   "prev": "MCP server for gdpr compliance ai. Features classify processing, lawful basis assessment, ",
-   "cur": "GDPR measurement for AI agents. Processing classification, lawful basis assessment, DPIA g"
+   "server": "io.github.cmendezs/mcp-invoicenow-sg",
+   "pkg": "mcp-invoicenow-sg",
+   "prev": "MCP server for Singapore electronic invoicing (InvoiceNow)",
+   "cur": "MCP server for Singapore electronic invoicing (InvoiceNow), vendor-neutral Peppol transpor"
   },
   {
-   "server": "com.files/python-mcp",
-   "pkg": "files-com-mcp",
-   "prev": "MCP for the Files.com API",
-   "cur": "Local-only MCP server for the Files.com API"
+   "server": "io.actionlayer/actionlayer",
+   "pkg": "actionlayer",
+   "prev": "MCP server for ActionLayer \u2014 give Claude Code and other MCP hosts access to ActionLayer's ",
+   "cur": "MCP server for ActionLayer \u2014 the concierge that lets Claude Code and other MCP hosts take "
   },
   {
-   "server": "io.github.Arun-kc/schemabrain",
-   "pkg": "schemabrain",
-   "prev": "The SQL firewall between AI agents and your production database.",
-   "cur": "The trust and intelligence layer between AI agents and your database."
+   "server": "io.github.omnislash157/graphyos",
+   "pkg": "graphyos",
+   "prev": "GraphyOS \u2014 compile any codebase into a walkable substrate, and generate the fan-out that m",
+   "cur": "Interactive code maps with recorded conversations linked to the symbols they discuss"
   }
  ]
 }

@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-09-20T03:40:49Z",
- "universe_declared_github_repos": 23950,
- "universe_declared_npm_packages": 8561,
+ "generated_at": "2026-09-21T03:44:05Z",
+ "universe_declared_github_repos": 23833,
+ "universe_declared_npm_packages": 8518,
  "github_sample": {
   "n": 1200,
-  "dead": 175,
-  "dead_pct": 14.6,
+  "dead": 173,
+  "dead_pct": 14.4,
   "ci95": [
-   12.7,
-   16.7
+   12.5,
+   16.5
   ],
-  "archived": 16,
-  "no_license": 201,
-  "stale_365d": 0,
+  "archived": 21,
+  "no_license": 215,
+  "stale_365d": 3,
   "extrapolated_dead": [
-   3042,
-   4000
+   2979,
+   3932
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 792,
-  "unresolved": 8,
-  "version_desync": 219,
-  "desync_pct": 27.4,
+  "resolved": 788,
+  "unresolved": 12,
+  "version_desync": 231,
+  "desync_pct": 28.9,
   "ci95": [
-   24.4,
-   30.6
+   25.8,
+   32.1
   ],
-  "description_drift": 67,
-  "drift_pct": 8.4,
-  "desc_mismatch_vs_registry": 675,
-  "mismatch_pct": 84.4,
+  "description_drift": 69,
+  "drift_pct": 8.6,
+  "desc_mismatch_vs_registry": 665,
+  "mismatch_pct": 83.1,
   "extrapolated_desync": [
-   2089,
-   2620
+   2198,
+   2734
   ]
  },
  "examples_dead_repo": [
+  "machiasturner/simmon-core",
   "ee324/a2awire",
-  "CSOAI-ORG/agent-negotiation-mcp",
-  "Ansvar-Systems/Moroccan-law-mcp",
-  "Correctover/mcp-server",
-  "emidlabs/emidlabs-backtest-mcp",
-  "Larshiensch99/priceparse",
+  "UnCooe/garden-agent-platform",
+  "joeetdev/venture-estate",
   "ee324/a2awire",
+  "Autonomad1/autonomad1",
   "ee324/a2awire",
-  "meltingpixelsai/relayzero",
-  "agentbuilders/cli",
-  "NormiHQ/Normi",
-  "stevebutterworth/govping-mcp",
-  "rabyavalla/bonsai-api",
-  "Vertical-Flows/verticalflows",
-  "junter1989k-ai/ecuador-invoice-mcp"
+  "NicolaiJohannesen/global_trading_timeline",
+  "barangaroo/crosstabs-lite",
+  "ANHQ280/myinvois-compliance-rules-feed",
+  "seojeom/seojeom-mcp",
+  "junter1989k-ai/costa-rica-invoice-mcp",
+  "iamalvisng/career-os-multifaceted",
+  "mitchellOpZero/agentwork",
+  "joeetdev/venture-estate"
  ],
  "examples_drift": [
   {
-   "server": "io.github.khalidsaidi/a2abench",
-   "pkg": "@khalidsaidi/a2abench-mcp",
-   "prev": "Agent-native StackOverflow MCP server (local) \u2014 search, fetch, grounded answer with citati",
-   "cur": "A2ABench MCP server for public agent Q&A benchmarking: list questions, submit runs, and fe"
+   "server": "io.github.MukundaKatta/diff-mcp",
+   "pkg": "@mukundakatta/diff-mcp",
+   "prev": "MCP server for character-precise unified diffs and patch application. For code-review agen",
+   "cur": "MCP server: structured text diff (line/word/char) between two strings."
   },
   {
-   "server": "com.worldcitisim/mcp-esim",
-   "pkg": "@worldcitisim/mcp-esim",
-   "prev": "MCP server for the WorldCitiSim eSIM API \u2014 lets Claude and other MCP-compatible agents sea",
-   "cur": "MCP server for the Worldcitisim eSIM API \u2014 lets Claude and other MCP-compatible agents sea"
+   "server": "io.github.cnohall/emptyinbox",
+   "pkg": "emptyinbox-mcp",
+   "prev": "MCP server for EmptyInbox \u2014 disposable email inboxes for AI agents. Zero config: auto-regi",
+   "cur": "MCP server for EmptyInbox \u2014 disposable email inboxes for AI agents. Zero config: auto-regi"
   },
   {
-   "server": "io.github.cuthongthai-vn/vimo-stock-intelligence",
-   "pkg": "@vimo.cuthongthai.vn/mcp-server",
-   "prev": "VIMO Financial Intelligence MCP Server \u2014 Vietnam's first MCP server for financial AI agent",
-   "cur": "VIMO Financial Intelligence \u2014 MCP Server for Vietnamese stock market data and AI analysis."
+   "server": "com.voyagier/cli",
+   "pkg": "@voyagier/cli",
+   "prev": "Agent-ready travel CLI \u2014 search, plan, quote, and book real trips (flights, hotels, activi",
+   "cur": "Command-line shell for the Voyagier MCP server: one command per tool to search, plan, quot"
   },
   {
-   "server": "io.github.alttextai/alttext-mcp",
-   "pkg": "@alttext_ai/alttext-mcp",
-   "prev": "MCP server for AltText.ai \u2014 generate alt text, manage image libraries, and audit web pages",
-   "cur": "Generate alt text, translate descriptions, and manage your AltText.ai image library."
+   "server": "io.github.cyanheads/open-meteo-mcp-server",
+   "pkg": "@cyanheads/open-meteo-mcp-server",
+   "prev": "Geocode places, fetch global weather forecasts, ERA5 historical climate, marine conditions",
+   "cur": "Geocode places, fetch global weather forecasts, historical climate, marine conditions, air"
   },
   {
-   "server": "io.github.ArasPasha/botwire-mcp",
-   "pkg": "botwire-mcp",
-   "prev": "The Bot Wire as MCP tools: 301 real-time data wires for AI agents (Claude Code, Claude Des",
-   "cur": "301 real-time data wires for AI agents. Paid per call via x402 (USDC on Base), no API key,"
+   "server": "io.github.hepter/i18n-codelens-mcp",
+   "pkg": "i18n-codelens-mcp",
+   "prev": "MCP server for i18n translation management \u2014 scan, diff, upsert, rename, and validate loca",
+   "cur": "MCP server for i18n translation management: inspect, audit and safely edit locale JSON fil"
   },
   {
-   "server": "ai.voxell/forge",
-   "pkg": "@voxell/forge-mcp",
-   "prev": "MCP server for Forge \u2014 Voxell's GA text-embedding API. Exposes embed + list_models tools t",
-   "cur": "MCP server for Forge \u2014 Voxell's text-embedding API (turbo\u2192ultra; ultra = Qwen3-Embedding-8"
+   "server": "io.github.Influship/sponsorbook-mcp",
+   "pkg": "@sponsorbook/mcp",
+   "prev": "stdio proxy to Sponsorbook MCP. Clerk login, no API key.",
+   "cur": "Research YouTube sponsors, inspect sponsorship evidence, and manage Sponsorbook lists from"
   },
   {
-   "server": "io.github.RoninForge/ai-price-index-mcp",
-   "pkg": "ai-price-index-mcp",
-   "prev": "Read-only, zero-key MCP server for the open AI Price Index: query dated, first-party-sourc",
-   "cur": "Read-only, zero-key MCP server over the AI Price Index. AI model prices for when quality m"
+   "server": "io.github.Ostico/bruno-mcp-studio",
+   "pkg": "@ostico/bruno-mcp",
+   "prev": "Author, edit and run Bruno API collections from an AI agent: non-destructive .bru/.yml edi",
+   "cur": "An MCP server that turns an agent's API testing into files you keep: it authors and edits "
   },
   {
-   "server": "io.github.MLTCorp/convertfilefast",
-   "pkg": "convertfilefast-mcp",
-   "prev": "Convert 50+ file formats, run PDF/image operations, and report feedback via the ConvertFil",
-   "cur": "Convert 50+ file formats, run PDF/image operations, create billing links, and report feedb"
+   "server": "io.apixies/mcp-server",
+   "pkg": "@apixies/mcp-server",
+   "prev": "MCP server for Apixies.io - 52+ developer utility APIs as AI tools",
+   "cur": "MCP server for Apixies.io - 50 developer utility APIs as AI tools"
   },
   {
-   "server": "io.github.mysplitifi/splitifi-mcp",
-   "pkg": "splitifi-mcp",
-   "prev": "Splitifi Intelligence MCP \u2014 outcome predictions, judge profiles, and legal workflows power",
-   "cur": "Splitifi Intelligence MCP \u2014 outcome predictions, judge profiles, and legal workflows power"
+   "server": "ai.agenttrust/mcp-server",
+   "pkg": "@agenttrust/mcp-server",
+   "prev": "MCP server for AgentTrust \u2014 email, file storage, and instant messaging for AI agents",
+   "cur": "Free email for AI agents, instant messaging between agents, and cloud file storage \u2014 all t"
   },
   {
-   "server": "io.github.theYahia/calltouch-mcp",
-   "pkg": "@theyahia/calltouch-mcp",
-   "prev": "MCP server for Calltouch API \u2014 call tracking, leads, sources, tags, statistics. Token auth",
-   "cur": "MCP server for Calltouch \u2014 call tracking, attribution analytics (Russia)"
+   "server": "io.github.dan-fetch-studio/tidyports",
+   "pkg": "@tidyports/mcp",
+   "prev": "MCP server exposing the tidy-ports CLI (list / kill / alloc / free-port) as structured too",
+   "cur": "See and kill the dev servers your coding agents leave running, and get collision-free port"
   }
  ]
 }

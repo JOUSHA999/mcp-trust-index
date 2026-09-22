@@ -1,29 +1,65 @@
 {
- "generated_at": "2026-09-21T03:44:15Z",
- "universe_declared_pypi": 3595,
+ "generated_at": "2026-09-22T03:43:14Z",
+ "universe_declared_pypi": 3563,
  "sample": {
   "n_sampled": 500,
-  "resolved": 496,
-  "unresolved": 4,
-  "version_desync": 113,
-  "desync_pct": 22.8,
+  "resolved": 497,
+  "unresolved": 3,
+  "version_desync": 115,
+  "desync_pct": 23.1,
   "ci95": [
-   19.3,
-   26.7
+   19.6,
+   27.0
   ],
   "extrapolated_desync": [
-   694,
-   960
+   698,
+   962
   ],
-  "description_drift": 30,
-  "drift_pct": 6.0
+  "description_drift": 23,
+  "drift_pct": 4.6
  },
  "examples_drift": [
   {
-   "server": "io.github.chaoz23/charactercheck",
-   "pkg": "charactercheck",
-   "prev": "Deterministic D&D Beyond character-sheet derivation with provenance \u2014 every stat computed ",
-   "cur": "Experimental read-only derivation of selected D&D Beyond character fields with provenance "
+   "server": "io.github.activeing123/mcptoon",
+   "pkg": "mcptoon",
+   "prev": "MCP client for every AI agent, with no hand-written config. Sync MCP servers across agents",
+   "cur": "MCP tools + agent skills for every AI agent, with no hand-written config. Sync both across"
+  },
+  {
+   "server": "io.github.Buggy1111/wrapper-mcp",
+   "pkg": "wrapper-mcp",
+   "prev": "MCP server wrapping LINDAT NLP tools \u2014 production-grade anonymization, multilingual NER (3",
+   "cur": "DEPRECATED \u2014 renamed to anonymize-mcp. Run: pip install anonymize-mcp"
+  },
+  {
+   "server": "io.github.grzgrzgrz3/pingwa",
+   "pkg": "pingwa",
+   "prev": "WhatsApp notifications + human-in-the-loop for AI agents and scripts \u2014 curl to WhatsApp in",
+   "cur": "WhatsApp notifications for AI agents with zero setup \u2014 no Meta account, no templates, curl"
+  },
+  {
+   "server": "io.github.atomno-mcp/mcp-erid",
+   "pkg": "atomno-mcp-erid",
+   "prev": "MCP server: Russian internet-ad marking (\u043c\u0430\u0440\u043a\u0438\u0440\u043e\u0432\u043a\u0430 \u0440\u0435\u043a\u043b\u0430\u043c\u044b, 38-\u0424\u0417) checker \u2014 validate an ",
+   "cur": "MCP for Russian ad marking: erid format check; ORD cabinet lookup on the client key. Advis"
+  },
+  {
+   "server": "io.github.scotia1973-bot/api-hub",
+   "pkg": "gadgethumans-api-hub-mcp",
+   "prev": "\ud83e\udde0 Memory Vault \u2014 persistent agent memory for MCP. 46 tools: agent_memory, memory_search, c",
+   "cur": "MCP server wrapping 330+ tools \u2014 calculators, health/fitness, text analysis, color tools, "
+  },
+  {
+   "server": "io.github.quantamixsol/graqle",
+   "pkg": "graqle",
+   "prev": "Give your AI tools architecture-aware reasoning. Build a knowledge graph from any codebase",
+   "cur": "Persistent organisational intelligence for AI agents. Turn codebases, documents, policies "
+  },
+  {
+   "server": "io.github.openkash/abap-accelerator",
+   "pkg": "abap-accelerator",
+   "prev": "SAP ADT API MCP server - fork of AWS ABAP Accelerator MCP Server. mcp-name: io.github.open",
+   "cur": "SAP ADT API MCP server - fork of AWS ABAP Accelerator MCP Server. mcp-name: io.github.kash"
   },
   {
    "server": "io.github.invigil/invigil",
@@ -32,52 +68,16 @@
    "cur": "Linters check your code. Invigil checks whether your repo is legible \u2014 to newcomers and to"
   },
   {
-   "server": "io.github.JonesRobM/physbound",
-   "pkg": "physbound",
-   "prev": "Physical Layer Linter \u2014 validates RF and physics calculations against hard physical limits",
-   "cur": "Physical Layer Linter \u2014 validates RF link budgets, Shannon capacity, noise floors, antenna"
+   "server": "io.github.Raffaele86/seo-stack-mcp",
+   "pkg": "seo-stack-mcp",
+   "prev": "The complete open-source SEO data stack for AI agents \u2014 Google Search Console, GA4, Bing W",
+   "cur": "The complete open-source SEO data stack for AI agents \u2014 Google Search Console, GA4, Bing W"
   },
   {
-   "server": "io.github.Bortlesboat/bitcoin-mcp",
-   "pkg": "bitcoin-mcp",
-   "prev": "MCP server for Bitcoin \u2014 49 tools for AI agents to save money on fees. Zero config, works ",
-   "cur": "MCP server for Bitcoin \u2014 50 tools for AI agents using Bitcoin Core or a compatible API."
-  },
-  {
-   "server": "io.github.CSOAI-ORG/pdf-document-mcp",
-   "pkg": "pdf-document-mcp",
-   "prev": "AI-powered pdf document MCP server for agents. Supports extract text from pdf, convert pdf",
-   "cur": "Pdf Document Mcp: extract text from pdf (Extract text content from a PDF file. Optionally "
-  },
-  {
-   "server": "io.github.Hylouis233/bibverify",
-   "pkg": "bibverify",
-   "prev": "Bibverify: A Multi-Platform BibTeX Reference Verification Tool",
-   "cur": "Verify, repair, and enrich BibTeX references across academic metadata providers"
-  },
-  {
-   "server": "io.github.nk3750/jitapi",
-   "pkg": "jitapi",
-   "prev": "Just-in-Time API Orchestration System for LLMs - An MCP server for dynamic API discovery a",
-   "cur": "Point Claude at any API. JitAPI figures out which endpoints to call and in what order \u2014 au"
-  },
-  {
-   "server": "io.github.cmendezs/mcp-invoicenow-sg",
-   "pkg": "mcp-invoicenow-sg",
-   "prev": "MCP server for Singapore electronic invoicing (InvoiceNow)",
-   "cur": "MCP server for Singapore electronic invoicing (InvoiceNow), vendor-neutral Peppol transpor"
-  },
-  {
-   "server": "io.actionlayer/actionlayer",
-   "pkg": "actionlayer",
-   "prev": "MCP server for ActionLayer \u2014 give Claude Code and other MCP hosts access to ActionLayer's ",
-   "cur": "MCP server for ActionLayer \u2014 the concierge that lets Claude Code and other MCP hosts take "
-  },
-  {
-   "server": "io.github.omnislash157/graphyos",
-   "pkg": "graphyos",
-   "prev": "GraphyOS \u2014 compile any codebase into a walkable substrate, and generate the fan-out that m",
-   "cur": "Interactive code maps with recorded conversations linked to the symbols they discuss"
+   "server": "io.github.thomasxm/crowdsentinel-mcp-server",
+   "pkg": "crowdsentinel-mcp-server",
+   "prev": "AI-powered threat hunting and incident response MCP server for Elasticsearch/OpenSearch wi",
+   "cur": "AI-powered threat hunting and incident response MCP server for Elasticsearch/OpenSearch wi"
   }
  ]
 }

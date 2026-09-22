@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-09-21T03:44:05Z",
- "universe_declared_github_repos": 23833,
- "universe_declared_npm_packages": 8518,
+ "generated_at": "2026-09-22T03:43:03Z",
+ "universe_declared_github_repos": 24289,
+ "universe_declared_npm_packages": 9050,
  "github_sample": {
   "n": 1200,
-  "dead": 173,
-  "dead_pct": 14.4,
+  "dead": 196,
+  "dead_pct": 16.3,
   "ci95": [
-   12.5,
-   16.5
+   14.3,
+   18.5
   ],
-  "archived": 21,
-  "no_license": 215,
-  "stale_365d": 3,
+  "archived": 14,
+  "no_license": 220,
+  "stale_365d": 1,
   "extrapolated_dead": [
-   2979,
-   3932
+   3473,
+   4493
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 788,
-  "unresolved": 12,
-  "version_desync": 231,
-  "desync_pct": 28.9,
+  "resolved": 791,
+  "unresolved": 9,
+  "version_desync": 215,
+  "desync_pct": 26.9,
   "ci95": [
-   25.8,
-   32.1
+   23.9,
+   30.1
   ],
   "description_drift": 69,
   "drift_pct": 8.6,
-  "desc_mismatch_vs_registry": 665,
-  "mismatch_pct": 83.1,
+  "desc_mismatch_vs_registry": 634,
+  "mismatch_pct": 79.2,
   "extrapolated_desync": [
-   2198,
-   2734
+   2163,
+   2724
   ]
  },
  "examples_dead_repo": [
-  "machiasturner/simmon-core",
   "ee324/a2awire",
-  "UnCooe/garden-agent-platform",
-  "joeetdev/venture-estate",
+  "mrfentmen/blockchair-mcp",
+  "Ansvar-Systems/botswana-law-mcp",
+  "meshpop/vssh",
+  "Galanai/aiwebsignals-api",
+  "djtellado/nexus-finance-prod",
+  "Klawdik/forex-mobile",
   "ee324/a2awire",
   "Autonomad1/autonomad1",
-  "ee324/a2awire",
-  "NicolaiJohannesen/global_trading_timeline",
-  "barangaroo/crosstabs-lite",
-  "ANHQ280/myinvois-compliance-rules-feed",
-  "seojeom/seojeom-mcp",
-  "junter1989k-ai/costa-rica-invoice-mcp",
+  "oogdevs/clawtube-mcp",
+  "mrfentmen/bikeindex-mcp",
+  "jithinlalk25/NoteMCP",
   "iamalvisng/career-os-multifaceted",
-  "mitchellOpZero/agentwork",
-  "joeetdev/venture-estate"
+  "mrfentmen/luchtmeetnet-mcp",
+  "mrfentmen/disney-mcp"
  ],
  "examples_drift": [
   {
-   "server": "io.github.MukundaKatta/diff-mcp",
-   "pkg": "@mukundakatta/diff-mcp",
-   "prev": "MCP server for character-precise unified diffs and patch application. For code-review agen",
-   "cur": "MCP server: structured text diff (line/word/char) between two strings."
+   "server": "io.github.FurlPay/furlpay-cli",
+   "pkg": "@furlpay/cli",
+   "prev": "FurlPay CLI \u2014 stablecoin payments, investing, travel booking, yield and webhook tooling fr",
+   "cur": "FurlPay CLI \u00e2\u20ac\u201d stablecoin payments, investing, travel booking, yield and webhook tooling "
   },
   {
-   "server": "io.github.cnohall/emptyinbox",
-   "pkg": "emptyinbox-mcp",
-   "prev": "MCP server for EmptyInbox \u2014 disposable email inboxes for AI agents. Zero config: auto-regi",
-   "cur": "MCP server for EmptyInbox \u2014 disposable email inboxes for AI agents. Zero config: auto-regi"
+   "server": "io.github.Cyberweasel777/botindex-mcp-server",
+   "pkg": "botindex-mcp-server",
+   "prev": "BotIndex + Agorion MCP Server \u2014 AI signal intelligence API + agent service discovery netwo",
+   "cur": "MCP server for BotIndex \u2014 Crypto market intelligence API. Predictive signals, whale diverg"
   },
   {
-   "server": "com.voyagier/cli",
-   "pkg": "@voyagier/cli",
-   "prev": "Agent-ready travel CLI \u2014 search, plan, quote, and book real trips (flights, hotels, activi",
-   "cur": "Command-line shell for the Voyagier MCP server: one command per tool to search, plan, quot"
+   "server": "io.github.SPOC-App/mcp-bridge",
+   "pkg": "@spocapp/mcp-bridge",
+   "prev": "stdio \u2194 HTTP+SSE bridge for the SPOC MCP server. Lets Claude Desktop, Cursor, Zed and othe",
+   "cur": "stdio bridge for the SPOC MCP server \u2014 for Claude Desktop, Cursor, Zed"
   },
   {
-   "server": "io.github.cyanheads/open-meteo-mcp-server",
-   "pkg": "@cyanheads/open-meteo-mcp-server",
-   "prev": "Geocode places, fetch global weather forecasts, ERA5 historical climate, marine conditions",
-   "cur": "Geocode places, fetch global weather forecasts, historical climate, marine conditions, air"
+   "server": "io.github.jwwd-repos/modusop-mcp",
+   "pkg": "@modusop/mcp-server",
+   "prev": "MCP server for ModusOp \u2014 projects, tasks, time tracking, and retainers for AI assistants.",
+   "cur": "Stdio\u2192HTTP proxy for Modus Brain \u2014 gives any MCP-aware AI client access to your ModusOp or"
   },
   {
-   "server": "io.github.hepter/i18n-codelens-mcp",
-   "pkg": "i18n-codelens-mcp",
-   "prev": "MCP server for i18n translation management \u2014 scan, diff, upsert, rename, and validate loca",
-   "cur": "MCP server for i18n translation management: inspect, audit and safely edit locale JSON fil"
+   "server": "io.github.lennney/agent-search-mcp",
+   "pkg": "agent-search-mcp",
+   "prev": "Free, lightweight MCP search for AI agents \u2014 no API keys required, 8 zero-key engines, com",
+   "cur": "Free-first Chinese and English web search MCP using zero-key sources and inspectable evide"
   },
   {
-   "server": "io.github.Influship/sponsorbook-mcp",
-   "pkg": "@sponsorbook/mcp",
-   "prev": "stdio proxy to Sponsorbook MCP. Clerk login, no API key.",
-   "cur": "Research YouTube sponsors, inspect sponsorship evidence, and manage Sponsorbook lists from"
+   "server": "io.github.kobuta23/cabin-flights",
+   "pkg": "cabin-flights",
+   "prev": "MCP server for searching and booking flights with USDC. Give your AI agent the power of fl",
+   "cur": "AI-first travel booking for assistants and agents. Search and book real flights with natur"
   },
   {
-   "server": "io.github.Ostico/bruno-mcp-studio",
-   "pkg": "@ostico/bruno-mcp",
-   "prev": "Author, edit and run Bruno API collections from an AI agent: non-destructive .bru/.yml edi",
-   "cur": "An MCP server that turns an agent's API testing into files you keep: it authors and edits "
+   "server": "com.jamesrosingmd/tebra",
+   "pkg": "tebra-mcp-server",
+   "prev": "MCP server for Tebra/Kareo practice management \u2014 47 tools covering patients, appointments,",
+   "cur": "Independent MCP server for Tebra/Kareo practice management (not affiliated with Tebra) \u2014 4"
   },
   {
-   "server": "io.apixies/mcp-server",
-   "pkg": "@apixies/mcp-server",
-   "prev": "MCP server for Apixies.io - 52+ developer utility APIs as AI tools",
-   "cur": "MCP server for Apixies.io - 50 developer utility APIs as AI tools"
+   "server": "io.github.alex13slem/openproject",
+   "pkg": "openproject-codex-plugin",
+   "prev": "Write-capable MCP server and Codex plugin for OpenProject API v3",
+   "cur": "Comprehensive write-capable MCP server for OpenProject projects, work packages, attachment"
   },
   {
-   "server": "ai.agenttrust/mcp-server",
-   "pkg": "@agenttrust/mcp-server",
-   "prev": "MCP server for AgentTrust \u2014 email, file storage, and instant messaging for AI agents",
-   "cur": "Free email for AI agents, instant messaging between agents, and cloud file storage \u2014 all t"
+   "server": "com.bidsparq/mcp",
+   "pkg": "bidsparq-mcp-server",
+   "prev": "BidSparq MCP server \u2014 query federal RFPs, subaward primes, pricing percentiles, wired-RFP ",
+   "cur": "BidSparq MCP server \u2014 query federal RFPs, subaward primes, pricing percentiles, wired-RFP "
   },
   {
-   "server": "io.github.dan-fetch-studio/tidyports",
-   "pkg": "@tidyports/mcp",
-   "prev": "MCP server exposing the tidy-ports CLI (list / kill / alloc / free-port) as structured too",
-   "cur": "See and kill the dev servers your coding agents leave running, and get collision-free port"
+   "server": "io.github.Garl-Protocol/mcp-server",
+   "pkg": "@garl-protocol/mcp-server",
+   "prev": "GARL Protocol MCP Server \u2014 cryptographic verification for AI agent actions. 28 named tools",
+   "cur": "GARL Protocol MCP Server \u2014 cryptographic verification for AI agent actions. 29 named tools"
   }
  ]
 }

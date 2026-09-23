@@ -1,83 +1,83 @@
 {
- "generated_at": "2026-09-22T03:43:14Z",
- "universe_declared_pypi": 3563,
+ "generated_at": "2026-09-23T03:40:57Z",
+ "universe_declared_pypi": 3555,
  "sample": {
   "n_sampled": 500,
   "resolved": 497,
   "unresolved": 3,
-  "version_desync": 115,
-  "desync_pct": 23.1,
+  "version_desync": 117,
+  "desync_pct": 23.5,
   "ci95": [
-   19.6,
-   27.0
+   20.0,
+   27.5
   ],
   "extrapolated_desync": [
-   698,
-   962
+   711,
+   978
   ],
-  "description_drift": 23,
-  "drift_pct": 4.6
+  "description_drift": 24,
+  "drift_pct": 4.8
  },
  "examples_drift": [
   {
-   "server": "io.github.activeing123/mcptoon",
-   "pkg": "mcptoon",
-   "prev": "MCP client for every AI agent, with no hand-written config. Sync MCP servers across agents",
-   "cur": "MCP tools + agent skills for every AI agent, with no hand-written config. Sync both across"
+   "server": "io.github.ignatenkofi/memshelf-mcp",
+   "pkg": "memshelf-mcp",
+   "prev": "Working-memory shelf for AI agents \u2014 offload closed topics to a docshelf shelf as digest-i",
+   "cur": "Working memory for AI agents: digest-indexed episodes on a git shelf, recalled a section a"
   },
   {
-   "server": "io.github.Buggy1111/wrapper-mcp",
-   "pkg": "wrapper-mcp",
-   "prev": "MCP server wrapping LINDAT NLP tools \u2014 production-grade anonymization, multilingual NER (3",
-   "cur": "DEPRECATED \u2014 renamed to anonymize-mcp. Run: pip install anonymize-mcp"
+   "server": "io.github.davet47/heddle",
+   "pkg": "heddle-mcp",
+   "prev": "Content-addressed contracts with a hash-keyed verification cache for spec-driven agent loo",
+   "cur": "RENAMED: this project continues as 'hashloom' on PyPI. Final release under this name. Cont"
   },
   {
-   "server": "io.github.grzgrzgrz3/pingwa",
-   "pkg": "pingwa",
-   "prev": "WhatsApp notifications + human-in-the-loop for AI agents and scripts \u2014 curl to WhatsApp in",
-   "cur": "WhatsApp notifications for AI agents with zero setup \u2014 no Meta account, no templates, curl"
+   "server": "io.github.CSOAI-ORG/quiz-generator-ai-mcp",
+   "pkg": "quiz-generator-ai-mcp",
+   "prev": "AI-powered quiz generator ai MCP server for agents. Supports generate quiz, validate answe",
+   "cur": "Quiz Generator Ai Mcp: generate quiz (Generate a quiz from provided content text.); valida"
   },
   {
-   "server": "io.github.atomno-mcp/mcp-erid",
-   "pkg": "atomno-mcp-erid",
-   "prev": "MCP server: Russian internet-ad marking (\u043c\u0430\u0440\u043a\u0438\u0440\u043e\u0432\u043a\u0430 \u0440\u0435\u043a\u043b\u0430\u043c\u044b, 38-\u0424\u0417) checker \u2014 validate an ",
-   "cur": "MCP for Russian ad marking: erid format check; ORD cabinet lookup on the client key. Advis"
+   "server": "io.github.NSF-Simons-CosmicAI-Institute/manna",
+   "pkg": "manna-mcp",
+   "prev": "MANNA \u2014 MCP Architecture for NOIRLab and NRAO Archives",
+   "cur": "MANNA \u2014 MCP Architecture for NOIRLab, NRAO, and Additional Archives"
   },
   {
-   "server": "io.github.scotia1973-bot/api-hub",
-   "pkg": "gadgethumans-api-hub-mcp",
-   "prev": "\ud83e\udde0 Memory Vault \u2014 persistent agent memory for MCP. 46 tools: agent_memory, memory_search, c",
-   "cur": "MCP server wrapping 330+ tools \u2014 calculators, health/fitness, text analysis, color tools, "
+   "server": "com.tokeven/tokeven",
+   "pkg": "tokeven",
+   "prev": "Privacy first cost visibility for Claude, ChatGPT, and Gemini API calls. Metrics only, and",
+   "cur": "Privacy first cost visibility for Claude, ChatGPT, Gemini, and Grok (xAI) API calls. Metri"
   },
   {
-   "server": "io.github.quantamixsol/graqle",
-   "pkg": "graqle",
-   "prev": "Give your AI tools architecture-aware reasoning. Build a knowledge graph from any codebase",
-   "cur": "Persistent organisational intelligence for AI agents. Turn codebases, documents, policies "
+   "server": "io.github.brunovicco/openfinance-br-mcp",
+   "pkg": "openfinance-br-mcp",
+   "prev": "MCP server exposing Brazilian Open Finance (Banco Central do Brasil) APIs as tools for Cla",
+   "cur": "Experimental MCP server for Open Finance Brasil with typed tools and secure consent flows"
   },
   {
-   "server": "io.github.openkash/abap-accelerator",
-   "pkg": "abap-accelerator",
-   "prev": "SAP ADT API MCP server - fork of AWS ABAP Accelerator MCP Server. mcp-name: io.github.open",
-   "cur": "SAP ADT API MCP server - fork of AWS ABAP Accelerator MCP Server. mcp-name: io.github.kash"
+   "server": "io.github.Hylouis233/bibverify",
+   "pkg": "bibverify",
+   "prev": "Bibverify: A Multi-Platform BibTeX Reference Verification Tool",
+   "cur": "Verify, repair, and enrich BibTeX references across academic metadata providers"
   },
   {
-   "server": "io.github.invigil/invigil",
-   "pkg": "invigil",
-   "prev": "A CI quality gate that grades a repo against a product-quality doctrine \u2014 not code style.",
-   "cur": "Linters check your code. Invigil checks whether your repo is legible \u2014 to newcomers and to"
+   "server": "io.github.phasespace-labs/palinode",
+   "pkg": "palinode",
+   "prev": "The memory substrate for AI agents and developer tools. Git-versioned, file-native, MCP-fi",
+   "cur": "Inspectable, correctable project memory in git-versioned Markdown for AI agents."
   },
   {
-   "server": "io.github.Raffaele86/seo-stack-mcp",
-   "pkg": "seo-stack-mcp",
-   "prev": "The complete open-source SEO data stack for AI agents \u2014 Google Search Console, GA4, Bing W",
-   "cur": "The complete open-source SEO data stack for AI agents \u2014 Google Search Console, GA4, Bing W"
+   "server": "io.github.LeandroPG19/cuba-memorys",
+   "pkg": "cuba-memorys",
+   "prev": "Persistent memory MCP server for AI agents. 28 tools, self-growing graph without MCP sampl",
+   "cur": "MemoryIndustry \u2014 Persistent memory MCP server for AI agents. 31 tools, self-growing graph "
   },
   {
-   "server": "io.github.thomasxm/crowdsentinel-mcp-server",
-   "pkg": "crowdsentinel-mcp-server",
-   "prev": "AI-powered threat hunting and incident response MCP server for Elasticsearch/OpenSearch wi",
-   "cur": "AI-powered threat hunting and incident response MCP server for Elasticsearch/OpenSearch wi"
+   "server": "io.github.TheRealDataBoss/contextkeeper",
+   "pkg": "contextkeeper",
+   "prev": "Zero model drift between AI agents. Universal session continuity CLI and Python library fo",
+   "cur": "DEPRECATED: contextkeeper is now vaultit. Install: pip install vaultit"
   }
  ]
 }

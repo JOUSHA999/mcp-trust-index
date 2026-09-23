@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-09-22T03:43:03Z",
- "universe_declared_github_repos": 24289,
- "universe_declared_npm_packages": 9050,
+ "generated_at": "2026-09-23T03:40:51Z",
+ "universe_declared_github_repos": 24335,
+ "universe_declared_npm_packages": 9105,
  "github_sample": {
   "n": 1200,
-  "dead": 196,
-  "dead_pct": 16.3,
+  "dead": 187,
+  "dead_pct": 15.6,
   "ci95": [
-   14.3,
-   18.5
+   13.6,
+   17.7
   ],
-  "archived": 14,
-  "no_license": 220,
-  "stale_365d": 1,
+  "archived": 15,
+  "no_license": 225,
+  "stale_365d": 2,
   "extrapolated_dead": [
-   3473,
-   4493
+   3310,
+   4307
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 791,
-  "unresolved": 9,
-  "version_desync": 215,
-  "desync_pct": 26.9,
+  "resolved": 792,
+  "unresolved": 8,
+  "version_desync": 205,
+  "desync_pct": 25.6,
   "ci95": [
-   23.9,
-   30.1
+   22.7,
+   28.8
   ],
-  "description_drift": 69,
-  "drift_pct": 8.6,
-  "desc_mismatch_vs_registry": 634,
-  "mismatch_pct": 79.2,
+  "description_drift": 55,
+  "drift_pct": 6.9,
+  "desc_mismatch_vs_registry": 601,
+  "mismatch_pct": 75.1,
   "extrapolated_desync": [
-   2163,
-   2724
+   2067,
+   2622
   ]
  },
  "examples_dead_repo": [
   "ee324/a2awire",
-  "mrfentmen/blockchair-mcp",
-  "Ansvar-Systems/botswana-law-mcp",
-  "meshpop/vssh",
-  "Galanai/aiwebsignals-api",
-  "djtellado/nexus-finance-prod",
-  "Klawdik/forex-mobile",
+  "morebetterclaw/forge",
+  "getstack-run/stack",
+  "ChanghuLiu/cqc-provider-mcp",
+  "softvoyagers/linkshrink-api",
+  "RoyAzran/Marketing-Mcp",
+  "physics-star-cat/databutler",
+  "KazKozDev/mcp-search-server",
   "ee324/a2awire",
-  "Autonomad1/autonomad1",
-  "oogdevs/clawtube-mcp",
-  "mrfentmen/bikeindex-mcp",
-  "jithinlalk25/NoteMCP",
-  "iamalvisng/career-os-multifaceted",
-  "mrfentmen/luchtmeetnet-mcp",
-  "mrfentmen/disney-mcp"
+  "cabbageandtea/sqlguard",
+  "HarleyCoops/WorkspaceAlberta",
+  "Cymosoft/cymosoft.github.io",
+  "joeetdev/venture-estate",
+  "mrfentmen/bluesky-mcp",
+  "junter1989k-ai/austria-payments-mcp"
  ],
  "examples_drift": [
   {
-   "server": "io.github.FurlPay/furlpay-cli",
-   "pkg": "@furlpay/cli",
-   "prev": "FurlPay CLI \u2014 stablecoin payments, investing, travel booking, yield and webhook tooling fr",
-   "cur": "FurlPay CLI \u00e2\u20ac\u201d stablecoin payments, investing, travel booking, yield and webhook tooling "
+   "server": "io.github.mohanagy/madar",
+   "pkg": "@lubab/madar",
+   "prev": "Give AI coding agents a small, authenticated evidence path through large TypeScript and Ja",
+   "cur": "Stop AI coding agents from rediscovering large TypeScript/Node repos. Madar compiles task-"
   },
   {
-   "server": "io.github.Cyberweasel777/botindex-mcp-server",
-   "pkg": "botindex-mcp-server",
-   "prev": "BotIndex + Agorion MCP Server \u2014 AI signal intelligence API + agent service discovery netwo",
-   "cur": "MCP server for BotIndex \u2014 Crypto market intelligence API. Predictive signals, whale diverg"
+   "server": "io.github.PonzuTech/ponzu",
+   "pkg": "@ponzu_app/mcp",
+   "prev": "MCP server for Ponzu \u2014 deploy tokens, buy presales, swap, and farm on Ethereum via AI agen",
+   "cur": "MCP server for Ponzu \u2014 deploy tokens, buy presales, swap, and farm on Ethereum, Sepolia, a"
   },
   {
-   "server": "io.github.SPOC-App/mcp-bridge",
-   "pkg": "@spocapp/mcp-bridge",
-   "prev": "stdio \u2194 HTTP+SSE bridge for the SPOC MCP server. Lets Claude Desktop, Cursor, Zed and othe",
-   "cur": "stdio bridge for the SPOC MCP server \u2014 for Claude Desktop, Cursor, Zed"
+   "server": "io.github.kenzotp/mcp-server-zuuna",
+   "pkg": "mcp-server-zuuna",
+   "prev": "MCP server for Zuuna \u2014 agent-native board access for Claude Code, Cursor and Codex. Read b",
+   "cur": "MCP server for Zuuna \u2014 agent-native board access for Claude Code, Cursor and Codex. 67 too"
   },
   {
-   "server": "io.github.jwwd-repos/modusop-mcp",
-   "pkg": "@modusop/mcp-server",
-   "prev": "MCP server for ModusOp \u2014 projects, tasks, time tracking, and retainers for AI assistants.",
-   "cur": "Stdio\u2192HTTP proxy for Modus Brain \u2014 gives any MCP-aware AI client access to your ModusOp or"
+   "server": "io.github.foxdavidson/property-mortgage-mcp",
+   "pkg": "@foxdavidson/property-mortgage-mcp",
+   "prev": "MCP server exposing UK mortgage calculators from Fox Davidson. UK stamp duty (SDLT/LBTT/LT",
+   "cur": "MCP server exposing UK mortgage calculators from Fox Davidson. UK stamp duty (SDLT/LBTT/LT"
   },
   {
-   "server": "io.github.lennney/agent-search-mcp",
-   "pkg": "agent-search-mcp",
-   "prev": "Free, lightweight MCP search for AI agents \u2014 no API keys required, 8 zero-key engines, com",
-   "cur": "Free-first Chinese and English web search MCP using zero-key sources and inspectable evide"
+   "server": "com.yaktool/invoice",
+   "pkg": "yaktool-invoice-mcp",
+   "prev": "E-invoice fields as an MCP server: check an invoice against the mandatory fields of EN 169",
+   "cur": "E-invoice fields as an MCP server: check an invoice against the mandatory fields of EN 169"
   },
   {
-   "server": "io.github.kobuta23/cabin-flights",
-   "pkg": "cabin-flights",
-   "prev": "MCP server for searching and booking flights with USDC. Give your AI agent the power of fl",
-   "cur": "AI-first travel booking for assistants and agents. Search and book real flights with natur"
+   "server": "io.github.noteflowai/dsh-skills-anywhere",
+   "pkg": "dsh-skills-anywhere",
+   "prev": "Your skills, anywhere. A live Agent Skills provider for DeepSeek Harness: every other agen",
+   "cur": "Discover Agent Skills in configured local directories, plugin marketplaces and Git sources"
   },
   {
-   "server": "com.jamesrosingmd/tebra",
-   "pkg": "tebra-mcp-server",
-   "prev": "MCP server for Tebra/Kareo practice management \u2014 47 tools covering patients, appointments,",
-   "cur": "Independent MCP server for Tebra/Kareo practice management (not affiliated with Tebra) \u2014 4"
+   "server": "io.github.quantustik/mcp",
+   "pkg": "@quantustik/mcp-server",
+   "prev": "Thin stdio proxy to Quantustik's hosted MCP server (https://quantustik.com/mcp) \u2014 S&P 500 ",
+   "cur": "Quantustik: quantum-model S&P 500 analytics for AI agents \u2014 risk-first BUY/WAIT/AVOID/EXIT"
   },
   {
-   "server": "io.github.alex13slem/openproject",
-   "pkg": "openproject-codex-plugin",
-   "prev": "Write-capable MCP server and Codex plugin for OpenProject API v3",
-   "cur": "Comprehensive write-capable MCP server for OpenProject projects, work packages, attachment"
+   "server": "com.getmcpads/google-analytics",
+   "pkg": "@getmcpads/google-analytics-mcp-server",
+   "prev": "Open-source MCP server for Google Analytics 4. 27 read-only tools across the Data API and ",
+   "cur": "Google Analytics 4 MCP server: 27 read tools."
   },
   {
-   "server": "com.bidsparq/mcp",
-   "pkg": "bidsparq-mcp-server",
-   "prev": "BidSparq MCP server \u2014 query federal RFPs, subaward primes, pricing percentiles, wired-RFP ",
-   "cur": "BidSparq MCP server \u2014 query federal RFPs, subaward primes, pricing percentiles, wired-RFP "
+   "server": "ai.agenttrust/mcp-server",
+   "pkg": "@agenttrust/mcp-server",
+   "prev": "MCP server for AgentTrust \u2014 email, file storage, and instant messaging for AI agents",
+   "cur": "Free email for AI agents, instant messaging between agents, and cloud file storage \u2014 all t"
   },
   {
-   "server": "io.github.Garl-Protocol/mcp-server",
-   "pkg": "@garl-protocol/mcp-server",
-   "prev": "GARL Protocol MCP Server \u2014 cryptographic verification for AI agent actions. 28 named tools",
-   "cur": "GARL Protocol MCP Server \u2014 cryptographic verification for AI agent actions. 29 named tools"
+   "server": "io.github.dma9527/irs-taxpayer",
+   "pkg": "irs-taxpayer-mcp",
+   "prev": "Privacy-first local MCP server for deterministic US individual tax estimates and planning ",
+   "cur": "Deterministic local US individual tax engine with direct no-model CLI and MCP adapters for"
   }
  ]
 }

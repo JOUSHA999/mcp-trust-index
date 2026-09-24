@@ -1,29 +1,53 @@
 {
- "generated_at": "2026-09-23T03:40:57Z",
- "universe_declared_pypi": 3555,
+ "generated_at": "2026-09-24T03:43:30Z",
+ "universe_declared_pypi": 3571,
  "sample": {
   "n_sampled": 500,
-  "resolved": 497,
-  "unresolved": 3,
-  "version_desync": 117,
-  "desync_pct": 23.5,
+  "resolved": 496,
+  "unresolved": 4,
+  "version_desync": 115,
+  "desync_pct": 23.2,
   "ci95": [
-   20.0,
-   27.5
+   19.7,
+   27.1
   ],
   "extrapolated_desync": [
-   711,
-   978
+   703,
+   968
   ],
-  "description_drift": 24,
-  "drift_pct": 4.8
+  "description_drift": 29,
+  "drift_pct": 5.8
  },
  "examples_drift": [
   {
-   "server": "io.github.ignatenkofi/memshelf-mcp",
-   "pkg": "memshelf-mcp",
-   "prev": "Working-memory shelf for AI agents \u2014 offload closed topics to a docshelf shelf as digest-i",
-   "cur": "Working memory for AI agents: digest-indexed episodes on a git shelf, recalled a section a"
+   "server": "io.github.Aitherium/aither-adk",
+   "pkg": "aither-adk",
+   "prev": "Build AI agents with real memory + faculties on any backend, local or cloud. Open-core: fr",
+   "cur": "Deprecated alias for awdk - installs awdk, which provides the same `adk` commands."
+  },
+  {
+   "server": "io.github.JonesRobM/physbound",
+   "pkg": "physbound",
+   "prev": "Physical Layer Linter \u2014 validates RF and physics calculations against hard physical limits",
+   "cur": "Physical Layer Linter \u2014 validates RF link budgets, Shannon capacity, noise floors, antenna"
+  },
+  {
+   "server": "io.github.DanceNitra/mnemo",
+   "pkg": "agora-mnemo",
+   "prev": "The self-correcting memory layer for AI agents: when a fact is corrected, mnemo serves the",
+   "cur": "DEPRECATED - renamed to `inspeximus`. This release forwards to it; install `inspeximus` in"
+  },
+  {
+   "server": "io.github.spyyps/menus-recommender",
+   "pkg": "menus-mcp",
+   "prev": "\u5168\u7403\u7f8e\u98df\u63a8\u8350 MCP server\uff1a\u57fa\u4e8e 462 \u9053\u83dc\u7684\u77e5\u8bc6\u5e93\u505a\u52a0\u6743\u968f\u673a\u63a8\u8350",
+   "cur": "\u5168\u7403\u7f8e\u98df\u63a8\u8350 MCP server\uff1a\u57fa\u4e8e 493 \u9053\u83dc\u7684\u77e5\u8bc6\u5e93\u505a\u52a0\u6743\u968f\u673a\u63a8\u8350"
+  },
+  {
+   "server": "io.github.jlucasmcrell/apify-scrapers",
+   "pkg": "apify-data-scrapers",
+   "prev": "MCP server exposing 39 Apify public-data scrapers as tools (Google Maps, news, SEO, jobs, ",
+   "cur": "MCP server exposing 40 Apify public-data scrapers as tools (Google Maps, news, SEO, jobs, "
   },
   {
    "server": "io.github.davet47/heddle",
@@ -32,52 +56,28 @@
    "cur": "RENAMED: this project continues as 'hashloom' on PyPI. Final release under this name. Cont"
   },
   {
-   "server": "io.github.CSOAI-ORG/quiz-generator-ai-mcp",
-   "pkg": "quiz-generator-ai-mcp",
-   "prev": "AI-powered quiz generator ai MCP server for agents. Supports generate quiz, validate answe",
-   "cur": "Quiz Generator Ai Mcp: generate quiz (Generate a quiz from provided content text.); valida"
-  },
-  {
-   "server": "io.github.NSF-Simons-CosmicAI-Institute/manna",
-   "pkg": "manna-mcp",
-   "prev": "MANNA \u2014 MCP Architecture for NOIRLab and NRAO Archives",
-   "cur": "MANNA \u2014 MCP Architecture for NOIRLab, NRAO, and Additional Archives"
-  },
-  {
    "server": "com.tokeven/tokeven",
    "pkg": "tokeven",
    "prev": "Privacy first cost visibility for Claude, ChatGPT, and Gemini API calls. Metrics only, and",
    "cur": "Privacy first cost visibility for Claude, ChatGPT, Gemini, and Grok (xAI) API calls. Metri"
   },
   {
-   "server": "io.github.brunovicco/openfinance-br-mcp",
-   "pkg": "openfinance-br-mcp",
-   "prev": "MCP server exposing Brazilian Open Finance (Banco Central do Brasil) APIs as tools for Cla",
-   "cur": "Experimental MCP server for Open Finance Brasil with typed tools and secure consent flows"
+   "server": "io.github.jxbaoxiaodong/ftirfun-mcp",
+   "pkg": "ftirfun-mcp",
+   "prev": "FTIR.fun MCP server - FTIR spectral search and material identification for AI agents",
+   "cur": "Public MCP wrapper for the hosted FTIR.fun FTIR API and MCP-compatible lookup tools."
   },
   {
-   "server": "io.github.Hylouis233/bibverify",
-   "pkg": "bibverify",
-   "prev": "Bibverify: A Multi-Platform BibTeX Reference Verification Tool",
-   "cur": "Verify, repair, and enrich BibTeX references across academic metadata providers"
+   "server": "io.github.TranThienTrong/asset-auto-picker",
+   "pkg": "asset-auto-picker",
+   "prev": "Add your description here",
+   "cur": "The MCP Server use for auto pick file"
   },
   {
-   "server": "io.github.phasespace-labs/palinode",
-   "pkg": "palinode",
-   "prev": "The memory substrate for AI agents and developer tools. Git-versioned, file-native, MCP-fi",
-   "cur": "Inspectable, correctable project memory in git-versioned Markdown for AI agents."
-  },
-  {
-   "server": "io.github.LeandroPG19/cuba-memorys",
-   "pkg": "cuba-memorys",
-   "prev": "Persistent memory MCP server for AI agents. 28 tools, self-growing graph without MCP sampl",
-   "cur": "MemoryIndustry \u2014 Persistent memory MCP server for AI agents. 31 tools, self-growing graph "
-  },
-  {
-   "server": "io.github.TheRealDataBoss/contextkeeper",
-   "pkg": "contextkeeper",
-   "prev": "Zero model drift between AI agents. Universal session continuity CLI and Python library fo",
-   "cur": "DEPRECATED: contextkeeper is now vaultit. Install: pip install vaultit"
+   "server": "io.github.nitin27may/ms-graph-mcp",
+   "pkg": "ms-graph-mcp",
+   "prev": "Microsoft Graph MCP server \u2014 50+ tools across calendar, email, meetings, Teams, files, peo",
+   "cur": "Microsoft Graph MCP server \u2014 85 tools across mail, calendar, meetings, Teams chat, files, "
   }
  ]
 }

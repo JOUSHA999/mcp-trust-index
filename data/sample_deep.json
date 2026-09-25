@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-09-24T03:43:18Z",
- "universe_declared_github_repos": 24352,
- "universe_declared_npm_packages": 9126,
+ "generated_at": "2026-09-25T03:42:35Z",
+ "universe_declared_github_repos": 23983,
+ "universe_declared_npm_packages": 8875,
  "github_sample": {
   "n": 1200,
-  "dead": 182,
-  "dead_pct": 15.2,
+  "dead": 193,
+  "dead_pct": 16.1,
   "ci95": [
-   13.2,
-   17.3
+   14.1,
+   18.3
   ],
-  "archived": 9,
-  "no_license": 227,
-  "stale_365d": 3,
+  "archived": 10,
+  "no_license": 233,
+  "stale_365d": 2,
   "extrapolated_dead": [
-   3214,
-   4213
+   3382,
+   4389
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 791,
-  "unresolved": 9,
-  "version_desync": 212,
-  "desync_pct": 26.5,
+  "resolved": 790,
+  "unresolved": 10,
+  "version_desync": 203,
+  "desync_pct": 25.4,
   "ci95": [
-   23.6,
-   29.7
+   22.5,
+   28.5
   ],
-  "description_drift": 54,
-  "drift_pct": 6.8,
-  "desc_mismatch_vs_registry": 625,
-  "mismatch_pct": 78.1,
+  "description_drift": 57,
+  "drift_pct": 7.1,
+  "desc_mismatch_vs_registry": 608,
+  "mismatch_pct": 76.0,
   "extrapolated_desync": [
-   2154,
-   2710
+   1997,
+   2529
   ]
  },
  "examples_dead_repo": [
-  "v20x/scrollport",
-  "TeamK2K/app-apphandoff",
-  "barneywohl/hugging-bay",
-  "Statelode/statelode",
-  "CSOAI-ORG/tone-rewriter-ai-mcp",
-  "Edward-CH-Wang/The-Restaurant-Universe",
+  "bernie-b1stAI/B1Brain-Wiki",
+  "rssatlas/rssatlas",
+  "Strutterai/StrutterAI",
+  "INJprotocol/mauritius-oracle-",
+  "civicteam/civic-mcp",
+  "CSOAI-ORG/meok-vehicle-handover-mcp",
+  "digitalweb33333-creator/x402-endpoints",
+  "joeetdev/venture-estate",
+  "r3dz4r/malaysia-data-engine",
+  "jcjamet/ia-qa",
+  "joeetdev/venture-estate",
   "ee324/a2awire",
-  "Delegueinu/onlyswaps",
-  "narrativai/forage",
-  "bwalvoord/gumball",
-  "mrfentmen/swift-bic-mcp",
-  "mrfentmen/chocolatey-mcp",
-  "salemalem/npmscan",
-  "CSOAI-ORG/stripe-billing-mcp",
-  "junter1989k-ai/australia-logistics-mcp"
+  "ipezygj/numguard",
+  "blackcow4234-lab/blackcow4234",
+  "mrfentmen/openf1-mcp"
  ],
  "examples_drift": [
   {
-   "server": "io.github.inavi-systems/inavi-mcp",
-   "pkg": "@inavi-maps/mcp-server",
-   "prev": "MCP Server for iNavi Maps API - Geocoding, POI Search, Route Planning for Claude AI",
-   "cur": "Documentation MCP server for iNavi Maps (South Korea) - API specifications, Web JS SDK ref"
+   "server": "eu.ansvar/spanish-law-mcp",
+   "pkg": "@ansvar/spanish-law-mcp",
+   "prev": "Spanish law database covering data protection (LOPDGDD), national security framework (ENS)",
+   "cur": "Complete Spanish law database \u2014 12,191 consolidated statutes (300K+ provisions) from BOE c"
   },
   {
-   "server": "io.github.RooneyTech/dendro-react",
-   "pkg": "dendro-react-mcp",
-   "prev": "MCP server for React and React Native codebase analysis \u2014 34 free tools: component trees, ",
-   "cur": "React codebase semantics for AI agents \u2014 component contracts, blast radius, rerender risk,"
+   "server": "io.github.Arjun0606/smolanalytics",
+   "pkg": "smolanalytics",
+   "prev": "End-to-end tests without test code. One sentence, a real browser, a verdict \u2014 no account, ",
+   "cur": "End-to-end tests without test code. Write one sentence, an agent drives a real browser and"
   },
   {
-   "server": "io.github.ZLeventer/google-ads-mcp",
-   "pkg": "@zleventer/google-ads-mcp",
-   "prev": "MCP server for Google Ads API \u2014 20 tools for campaigns, keywords, RSAs, assets, audiences,",
-   "cur": "MCP server for Google Ads API \u2014 22 tools for campaigns, keywords, RSAs, assets, audiences,"
+   "server": "io.github.cmoonagent/vocce-agent",
+   "pkg": "vocce-transcribe-mcp",
+   "prev": "MCP server for vocce \u2014 transcribe local audio/video to text + SRT/VTT via hosted Whisper l",
+   "cur": "MCP server for vocce's hosted media tools: transcription, summaries, study notes, flashcar"
   },
   {
-   "server": "io.github.gordonkjlee/facthouse",
-   "pkg": "@facthouse/mcp",
-   "prev": "A local memory engine any AI tool can use.",
-   "cur": "Local AI memory: neuroscience-inspired Data\u2192Information\u2192Knowledge in SQLite you own."
+   "server": "io.github.MeltFlexDevs/techdrawai",
+   "pkg": "techdrawai-mcp",
+   "prev": "TechDraw AI: turn a product photo into a dimensioned 2D technical drawing, a CAD-ready DXF",
+   "cur": "TechDraw AI: turn a product photo into a dimensioned 2D technical drawing, a CAD-ready DXF"
   },
   {
-   "server": "io.github.defdone/payaion",
-   "pkg": "@payaion/mcp",
-   "prev": "MCP server for Payaion \u2014 file uploads, marketplace listings, and paid downloads for AI age",
-   "cur": "MCP server for Payaion \u2014 file uploads, storage folders, marketplace listings, and paid dow"
+   "server": "io.github.elevasyncsolutions-jpg/cryptoboss-mcp",
+   "pkg": "@mrsscs/cryptoboss-mcp",
+   "prev": "CryptoBoss MCP server \u2014 43 tools",
+   "cur": "CryptoBoss MCP server \u2014 43 tools: prices, DeFi, NFTs, Solana swaps. 11 tools free."
   },
   {
-   "server": "io.github.kynto2001-ctrl/xrplriskscore-mcp",
-   "pkg": "@xrplriskscore/mcp",
-   "prev": "MCP server for xrplriskscore.ai \u2014 exposes XRPL wallet risk scoring as Claude tools",
-   "cur": "XRPL wallet risk scoring MCP server. 31-signal analysis with behavioral tags, sub-scores, "
+   "server": "io.github.CDCStream/captapi",
+   "pkg": "@captapi/mcp",
+   "prev": "Official Captapi MCP server \u2014 give Claude, Cursor, and any MCP-compatible AI agent access ",
+   "cur": "Official Captapi MCP server \u2014 give Claude, Cursor, and any MCP-compatible AI agent access "
   },
   {
-   "server": "co.whooshly/whooshly-mcp",
-   "pkg": "whooshly-mcp",
-   "prev": "Create short links, dynamic QR codes, UTM templates, and hosted vCards from your AI assist",
-   "cur": "Create short links, dynamic QR codes, UTM templates, hosted vCards, and landing pages with"
+   "server": "io.github.cmcgrabby-hue/syndicate-links",
+   "pkg": "syndicate-links-mcp",
+   "prev": "MCP server for the Syndicate Links affiliate commission API \u2014 7 tools for AI agent attribu",
+   "cur": "MCP server for the Syndicate Links affiliate commission API - 11 tools for AI agent attrib"
   },
   {
-   "server": "io.github.A0Nexus-bit/a0nexus-bitcoin-mcp",
-   "pkg": "a0nexus-bitcoin-mcp",
-   "prev": "Live Bitcoin network, mempool, fees, and AI price/fee forecasts as MCP tools for Claude an",
-   "cur": "Predictive data as MCP tools for Claude and other AI apps: live Bitcoin + Ethereum on-chai"
+   "server": "io.github.juh5ng/korea-stock-research-mcp",
+   "pkg": "k-data-mcp",
+   "prev": "MCP server for Korean market data \u2014 kimchi premium on a tradeable USDT basis, premium hist",
+   "cur": "MCP server for Korean equity research and market data \u2014 analyst ratings, target-price revi"
   },
   {
-   "server": "io.github.den-indance/network-diagram-mcp",
-   "pkg": "@den.dance/network-diagram-mcp",
-   "prev": "Visual network topology editor with AI agent integration via MCP. One-click SSH + web-serv",
-   "cur": "Visual network topology editor with AI-agent MCP integration plus a cross-platform URL han"
+   "server": "com.ikeytz/website",
+   "pkg": "@ikeytz/mcp",
+   "prev": "Official CLI + MCP stdio proxy for Schl\u00fcsseldienst Ludwigsburg ikeytz \u2014 45 read-only tools",
+   "cur": "Official CLI + MCP stdio proxy for Schl\u00fcsseldienst Ludwigsburg ikeytz \u2014 47 read-only tools"
   },
   {
-   "server": "ai.agenttrust/mcp-server",
-   "pkg": "@agenttrust/mcp-server",
-   "prev": "MCP server for AgentTrust \u2014 email, file storage, and instant messaging for AI agents",
-   "cur": "Free email for AI agents, instant messaging between agents, and cloud file storage \u2014 all t"
+   "server": "io.github.dan-fetch-studio/tidyports",
+   "pkg": "@tidyports/mcp",
+   "prev": "MCP server exposing the tidy-ports CLI (list / kill / alloc / free-port) as structured too",
+   "cur": "See and kill the dev servers your coding agents leave running, and get collision-free port"
   }
  ]
 }

@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-09-24T03:43:30Z",
- "universe_declared_pypi": 3571,
+ "generated_at": "2026-09-25T03:42:45Z",
+ "universe_declared_pypi": 3447,
  "sample": {
   "n_sampled": 500,
-  "resolved": 496,
-  "unresolved": 4,
-  "version_desync": 115,
-  "desync_pct": 23.2,
+  "resolved": 497,
+  "unresolved": 3,
+  "version_desync": 126,
+  "desync_pct": 25.4,
   "ci95": [
-   19.7,
-   27.1
+   21.7,
+   29.4
   ],
   "extrapolated_desync": [
-   703,
-   968
+   748,
+   1013
   ],
-  "description_drift": 29,
-  "drift_pct": 5.8
+  "description_drift": 23,
+  "drift_pct": 4.6
  },
  "examples_drift": [
   {
@@ -26,58 +26,58 @@
    "cur": "Deprecated alias for awdk - installs awdk, which provides the same `adk` commands."
   },
   {
-   "server": "io.github.JonesRobM/physbound",
-   "pkg": "physbound",
-   "prev": "Physical Layer Linter \u2014 validates RF and physics calculations against hard physical limits",
-   "cur": "Physical Layer Linter \u2014 validates RF link budgets, Shannon capacity, noise floors, antenna"
+   "server": "io.github.danielcregg/rosettahub-mcp-server",
+   "pkg": "rosettahub-mcp-server",
+   "prev": "MCP server for managing RosettaHUB student AWS cloud accounts via SOAP API",
+   "cur": "MCP server for managing RosettaHUB user AWS cloud accounts via SOAP API"
   },
   {
-   "server": "io.github.DanceNitra/mnemo",
-   "pkg": "agora-mnemo",
-   "prev": "The self-correcting memory layer for AI agents: when a fact is corrected, mnemo serves the",
-   "cur": "DEPRECATED - renamed to `inspeximus`. This release forwards to it; install `inspeximus` in"
+   "server": "io.github.GabMJ23/nyambot-mcp",
+   "pkg": "nyambot-mcp",
+   "prev": "L'administration fran\u00e7aise pour vos agents IA \u2014 serveur MCP (communes, g\u00e9ocodage, risques ",
+   "cur": "La couche d'intelligence qui rend la donn\u00e9e publique fran\u00e7aise exploitable par vos agents "
   },
   {
-   "server": "io.github.spyyps/menus-recommender",
-   "pkg": "menus-mcp",
-   "prev": "\u5168\u7403\u7f8e\u98df\u63a8\u8350 MCP server\uff1a\u57fa\u4e8e 462 \u9053\u83dc\u7684\u77e5\u8bc6\u5e93\u505a\u52a0\u6743\u968f\u673a\u63a8\u8350",
-   "cur": "\u5168\u7403\u7f8e\u98df\u63a8\u8350 MCP server\uff1a\u57fa\u4e8e 493 \u9053\u83dc\u7684\u77e5\u8bc6\u5e93\u505a\u52a0\u6743\u968f\u673a\u63a8\u8350"
+   "server": "io.github.cmendezs/mcp-einvoicing-de",
+   "pkg": "mcp-einvoicing-de",
+   "prev": "MCP server for German electronic invoicing (ZUGFeRD 2.x, XRechnung 3.x, EN 16931)",
+   "cur": "MCP server for German electronic invoicing (ZUGFeRD 2.x, XRechnung 3.x, EN 16931), vendor-"
   },
   {
-   "server": "io.github.jlucasmcrell/apify-scrapers",
-   "pkg": "apify-data-scrapers",
-   "prev": "MCP server exposing 39 Apify public-data scrapers as tools (Google Maps, news, SEO, jobs, ",
-   "cur": "MCP server exposing 40 Apify public-data scrapers as tools (Google Maps, news, SEO, jobs, "
+   "server": "io.github.paulieb89/uk-due-diligence-mcp",
+   "pkg": "uk-due-diligence-mcp",
+   "prev": "UK due diligence MCP server \u2014 Companies House, Charity Commission, HMLR, Gazette, HMRC VAT",
+   "cur": "UK due diligence MCP server \u2014 Companies House, Charity Commission, HMLR, Gazette, sanction"
   },
   {
-   "server": "io.github.davet47/heddle",
-   "pkg": "heddle-mcp",
-   "prev": "Content-addressed contracts with a hash-keyed verification cache for spec-driven agent loo",
-   "cur": "RENAMED: this project continues as 'hashloom' on PyPI. Final release under this name. Cont"
+   "server": "io.github.openkash/abap-accelerator",
+   "pkg": "abap-accelerator",
+   "prev": "SAP ADT API MCP server - fork of AWS ABAP Accelerator MCP Server. mcp-name: io.github.open",
+   "cur": "SAP ADT API MCP server - fork of AWS ABAP Accelerator MCP Server. mcp-name: io.github.kash"
   },
   {
-   "server": "com.tokeven/tokeven",
-   "pkg": "tokeven",
-   "prev": "Privacy first cost visibility for Claude, ChatGPT, and Gemini API calls. Metrics only, and",
-   "cur": "Privacy first cost visibility for Claude, ChatGPT, Gemini, and Grok (xAI) API calls. Metri"
+   "server": "io.github.crosstabs/crosstabs",
+   "pkg": "crosstabs",
+   "prev": "MCP package with 39 statistical tools and runtime status plus 33 headless workflow tools",
+   "cur": "MCP package with 39 statistical tools and runtime status plus 35 headless workflow tools"
   },
   {
-   "server": "io.github.jxbaoxiaodong/ftirfun-mcp",
-   "pkg": "ftirfun-mcp",
-   "prev": "FTIR.fun MCP server - FTIR spectral search and material identification for AI agents",
-   "cur": "Public MCP wrapper for the hosted FTIR.fun FTIR API and MCP-compatible lookup tools."
+   "server": "io.github.attenlabs/hotato",
+   "pkg": "hotato",
+   "prev": "Find what broke in your agent calls. Pin it so it never ships again. Local call forensics ",
+   "cur": "Find what broke in your agent calls. Pin it and CI stays red until you fix it. Local call "
   },
   {
-   "server": "io.github.TranThienTrong/asset-auto-picker",
-   "pkg": "asset-auto-picker",
-   "prev": "Add your description here",
-   "cur": "The MCP Server use for auto pick file"
+   "server": "io.github.jaminben/secure-applemusic-mcp-for-osx",
+   "pkg": "secure-applemusic-mcp-for-osx",
+   "prev": "Hardened macOS-only MCP server for Apple Music: no Accessibility, no browser automation, n",
+   "cur": "Control Apple Music on macOS with Claude: play, search, build playlists, add music to your"
   },
   {
-   "server": "io.github.nitin27may/ms-graph-mcp",
-   "pkg": "ms-graph-mcp",
-   "prev": "Microsoft Graph MCP server \u2014 50+ tools across calendar, email, meetings, Teams, files, peo",
-   "cur": "Microsoft Graph MCP server \u2014 85 tools across mail, calendar, meetings, Teams chat, files, "
+   "server": "io.github.atomno-mcp/mcp-pharma",
+   "pkg": "atomno-mcp-pharma",
+   "prev": "MCP server: Russian drug reference \u2014 check \u0413\u0420\u041b\u0421 registration status, get a drug card (form",
+   "cur": "MCP client for Russian drug reference: official GRLS, VEDL prices and Roszdravnadzor serie"
   }
  ]
 }

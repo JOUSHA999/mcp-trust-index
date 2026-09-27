@@ -1,35 +1,41 @@
 {
- "generated_at": "2026-09-26T03:40:22Z",
- "universe_declared_pypi": 3383,
+ "generated_at": "2026-09-27T03:40:18Z",
+ "universe_declared_pypi": 3398,
  "sample": {
   "n_sampled": 500,
   "resolved": 496,
   "unresolved": 4,
-  "version_desync": 113,
-  "desync_pct": 22.8,
+  "version_desync": 111,
+  "desync_pct": 22.4,
   "ci95": [
-   19.3,
-   26.7
+   18.9,
+   26.3
   ],
   "extrapolated_desync": [
-   653,
-   903
+   642,
+   894
   ],
-  "description_drift": 22,
-  "drift_pct": 4.4
+  "description_drift": 18,
+  "drift_pct": 3.6
  },
  "examples_drift": [
   {
-   "server": "io.github.jaysinailabs/aperture-mcp",
-   "pkg": "aperture-mcp",
-   "prev": "A commitment tripwire for AI-edited decision docs: flags when a tracked commitment disappe",
-   "cur": "A commitment tripwire for AI-edited decision docs: flags when a tracked commitment disappe"
+   "server": "io.github.malkreide/eth-library-mcp",
+   "pkg": "eth-library-mcp",
+   "prev": "MCP Server for ETH Library Zurich \u2014 Access 30M+ resources (books, maps, images, archives) ",
+   "cur": "MCP Server for ETH Library Zurich \u2014 Access 30M+ resources (books, maps, images, archives) "
   },
   {
-   "server": "io.github.hangeaiagent/kronos-mcp",
-   "pkg": "kronos-mcp",
-   "prev": "MCP server for Kronos stock price forecasting \u2014 A-shares, US and HK equities",
-   "cur": "MCP server for Kronos stock price forecasting \u2014 China A-shares"
+   "server": "io.github.Samuelfmedeiros/arachne-mcp",
+   "pkg": "arachne-mcp",
+   "prev": "\ud83d\udd77\ufe0f MCP server for Arachne \u2014 48 tools: search, scrape, browser, vision, transcribe, RAG, So",
+   "cur": "\ud83d\udd77\ufe0f MCP server for Arachne \u2014 56 tools: search, scrape, browser, vision, transcribe, RAG, So"
+  },
+  {
+   "server": "io.github.phasespace-labs/palinode",
+   "pkg": "palinode",
+   "prev": "The memory substrate for AI agents and developer tools. Git-versioned, file-native, MCP-fi",
+   "cur": "Inspectable, correctable project memory in git-versioned Markdown for AI agents."
   },
   {
    "server": "io.github.Arun-kc/schemabrain",
@@ -38,28 +44,16 @@
    "cur": "The trust and intelligence layer between AI agents and your database."
   },
   {
-   "server": "io.github.JonesRobM/physbound",
-   "pkg": "physbound",
-   "prev": "Physical Layer Linter \u2014 validates RF and physics calculations against hard physical limits",
-   "cur": "Physical Layer Linter \u2014 validates RF link budgets, Shannon capacity, noise floors, antenna"
+   "server": "io.github.chopmob-cloud/algovoi-mcp-server",
+   "pkg": "algovoi-mcp",
+   "prev": "MCP server for AlgoVoi \u2014 create crypto payment links, verify payments, probe MPP endpoints",
+   "cur": "MCP server for AlgoVoi \u2014 create crypto payment links, verify payments, probe MPP endpoints"
   },
   {
-   "server": "io.github.brunovicco/openfinance-br-mcp",
-   "pkg": "openfinance-br-mcp",
-   "prev": "MCP server exposing Brazilian Open Finance (Banco Central do Brasil) APIs as tools for Cla",
-   "cur": "Experimental MCP server for Open Finance Brasil with typed tools and secure consent flows"
-  },
-  {
-   "server": "io.github.pgalyen1987/nodeproxy",
-   "pkg": "nodeproxy-tools",
-   "prev": "LangChain/CrewAI integrations for the NodeProxy x402 web surface markdown parser",
-   "cur": "Python clients for NodeProxy, TokenSqueezer, and VectorCache x402 agent APIs"
-  },
-  {
-   "server": "io.github.domondi1/inferrail",
-   "pkg": "inferrail",
-   "prev": "Decides whether an invoice-extraction exception gets one machine retry or human review, ex",
-   "cur": "Self-hosted, OpenAI- and Anthropic-compatible LLM gateway that turns every request into a "
+   "server": "io.github.Srinivasan-78/repo2graph",
+   "pkg": "repo2graph",
+   "prev": "Turn any repository into a code graph + graph-aware RAG chunks",
+   "cur": "Give coding agents cited, budget-bounded answers about any codebase \u2014 code graph + MCP ser"
   },
   {
    "server": "io.github.AIops-tools/ot-aiops",
@@ -68,16 +62,22 @@
    "cur": "Governed, vendor-neutral OT data tap + intelligent troubleshooting for AI agents (OPC-UA /"
   },
   {
-   "server": "io.github.lutfizp/keel",
-   "pkg": "keel-pentest",
-   "prev": "Control plane MCP for scoped recon, triage, and bounded proofs.",
-   "cur": "Control plane MCP that dedups scanner output, rate-limits hosts, and runs non-destructive "
+   "server": "io.github.RudrenduPaul/agent-observability",
+   "pkg": "agent-observability-trace-cli",
+   "prev": "Deterministic record and replay for LLM agent HTTP traffic. Capture a failing LangGraph, C",
+   "cur": "AI agent observability with deterministic record/replay \u2014 capture any LangGraph or OpenAI "
   },
   {
-   "server": "io.github.Buggy1111/wrapper-mcp",
-   "pkg": "wrapper-mcp",
-   "prev": "MCP server wrapping LINDAT NLP tools \u2014 production-grade anonymization, multilingual NER (3",
-   "cur": "DEPRECATED \u2014 renamed to anonymize-mcp. Run: pip install anonymize-mcp"
+   "server": "io.github.gowrishankar-infra/sabline",
+   "pkg": "sabline-lang",
+   "prev": "The language where you can trust code you didn't write - signatures declare types, effects",
+   "cur": "Run code an AI wrote without handing it everything you can reach. Each function declares w"
+  },
+  {
+   "server": "io.github.jasonko/psquare",
+   "pkg": "psquare-mcp",
+   "prev": "MCP server that gives Claude AI access to ParentSquare \u2014 feeds, calendar events, messages,",
+   "cur": "Renamed: this project is now published as parentsquare-mcp"
   }
  ]
 }

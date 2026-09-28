@@ -1,83 +1,83 @@
 {
- "generated_at": "2026-09-27T03:40:18Z",
- "universe_declared_pypi": 3398,
+ "generated_at": "2026-09-28T03:43:56Z",
+ "universe_declared_pypi": 3410,
  "sample": {
   "n_sampled": 500,
-  "resolved": 496,
-  "unresolved": 4,
-  "version_desync": 111,
-  "desync_pct": 22.4,
+  "resolved": 497,
+  "unresolved": 3,
+  "version_desync": 107,
+  "desync_pct": 21.5,
   "ci95": [
-   18.9,
-   26.3
+   18.1,
+   25.4
   ],
   "extrapolated_desync": [
-   642,
-   894
+   617,
+   866
   ],
-  "description_drift": 18,
-  "drift_pct": 3.6
+  "description_drift": 28,
+  "drift_pct": 5.6
  },
  "examples_drift": [
   {
-   "server": "io.github.malkreide/eth-library-mcp",
-   "pkg": "eth-library-mcp",
-   "prev": "MCP Server for ETH Library Zurich \u2014 Access 30M+ resources (books, maps, images, archives) ",
-   "cur": "MCP Server for ETH Library Zurich \u2014 Access 30M+ resources (books, maps, images, archives) "
+   "server": "io.github.grzgrzgrz3/pingwa",
+   "pkg": "pingwa",
+   "prev": "WhatsApp notifications + human-in-the-loop for AI agents and scripts \u2014 curl to WhatsApp in",
+   "cur": "WhatsApp notifications for AI agents with zero setup \u2014 no Meta account, no templates, curl"
   },
   {
-   "server": "io.github.Samuelfmedeiros/arachne-mcp",
-   "pkg": "arachne-mcp",
-   "prev": "\ud83d\udd77\ufe0f MCP server for Arachne \u2014 48 tools: search, scrape, browser, vision, transcribe, RAG, So",
-   "cur": "\ud83d\udd77\ufe0f MCP server for Arachne \u2014 56 tools: search, scrape, browser, vision, transcribe, RAG, So"
+   "server": "io.github.cmendezs/mcp-einvoicing-de",
+   "pkg": "mcp-einvoicing-de",
+   "prev": "MCP server for German electronic invoicing (ZUGFeRD 2.x, XRechnung 3.x, EN 16931)",
+   "cur": "MCP server for German electronic invoicing (ZUGFeRD 2.x, XRechnung 3.x, EN 16931), vendor-"
   },
   {
-   "server": "io.github.phasespace-labs/palinode",
-   "pkg": "palinode",
-   "prev": "The memory substrate for AI agents and developer tools. Git-versioned, file-native, MCP-fi",
-   "cur": "Inspectable, correctable project memory in git-versioned Markdown for AI agents."
+   "server": "io.github.markoblogo/id",
+   "pkg": "id-protocol",
+   "prev": "Git-like protocol and tooling for portable human-AI identity context",
+   "cur": "Owner-controlled, privacy-filtered context for AI tools"
   },
   {
-   "server": "io.github.Arun-kc/schemabrain",
-   "pkg": "schemabrain",
-   "prev": "The SQL firewall between AI agents and your production database.",
-   "cur": "The trust and intelligence layer between AI agents and your database."
+   "server": "io.github.chaoz23/charactercheck",
+   "pkg": "charactercheck",
+   "prev": "Deterministic D&D Beyond character-sheet derivation with provenance \u2014 every stat computed ",
+   "cur": "Experimental read-only derivation of selected D&D Beyond character fields with provenance "
   },
   {
-   "server": "io.github.chopmob-cloud/algovoi-mcp-server",
-   "pkg": "algovoi-mcp",
-   "prev": "MCP server for AlgoVoi \u2014 create crypto payment links, verify payments, probe MPP endpoints",
-   "cur": "MCP server for AlgoVoi \u2014 create crypto payment links, verify payments, probe MPP endpoints"
+   "server": "io.github.crosstabs/crosstabs",
+   "pkg": "crosstabs",
+   "prev": "MCP package with 39 statistical tools and runtime status plus 33 headless workflow tools",
+   "cur": "MCP package with 39 statistical tools and runtime status plus 35 headless workflow tools"
   },
   {
-   "server": "io.github.Srinivasan-78/repo2graph",
-   "pkg": "repo2graph",
-   "prev": "Turn any repository into a code graph + graph-aware RAG chunks",
-   "cur": "Give coding agents cited, budget-bounded answers about any codebase \u2014 code graph + MCP ser"
+   "server": "io.github.Astrix-Labs/genesys-memory",
+   "pkg": "genesys-memory",
+   "prev": "The intelligence layer for AI memory \u2014 scoring, causal inference, lifecycle management, an",
+   "cur": "genesys-memory has been renamed to papez. This package installs papez and keeps `import ge"
   },
   {
-   "server": "io.github.AIops-tools/ot-aiops",
-   "pkg": "ot-aiops",
-   "prev": "Governed, vendor-neutral OT data tap + intelligent troubleshooting for AI agents (OPC-UA /",
-   "cur": "Governed, vendor-neutral OT data tap + intelligent troubleshooting for AI agents (OPC-UA /"
+   "server": "io.github.Jason26214/omni-computer-use",
+   "pkg": "omni-computer-use-mcp",
+   "prev": "Windows computer-use MCP for the Claude Code CLI \u2014 a 1:1 replica of Claude Desktop's compu",
+   "cur": "Windows computer-use MCP server: a 1:1 replica of Anthropic's computer-use tool surface, f"
   },
   {
-   "server": "io.github.RudrenduPaul/agent-observability",
-   "pkg": "agent-observability-trace-cli",
-   "prev": "Deterministic record and replay for LLM agent HTTP traffic. Capture a failing LangGraph, C",
-   "cur": "AI agent observability with deterministic record/replay \u2014 capture any LangGraph or OpenAI "
+   "server": "io.github.mrnh/rigor-mcp",
+   "pkg": "rigor-mcp",
+   "prev": "Verified statistical inference for AI agents -- classical and non-parametric hypothesis te",
+   "cur": "Verified statistical inference for AI agents -- classical and non-parametric hypothesis te"
   },
   {
-   "server": "io.github.gowrishankar-infra/sabline",
-   "pkg": "sabline-lang",
-   "prev": "The language where you can trust code you didn't write - signatures declare types, effects",
-   "cur": "Run code an AI wrote without handing it everything you can reach. Each function declares w"
+   "server": "io.github.demos-ra/text-spreadsheet",
+   "pkg": "text-spreadsheet",
+   "prev": "Let your AI read a whole spreadsheet as tab-separated text \u2014 Excel, ODS, SQLite and more",
+   "cur": "Read and filter Excel, CSV, ODS, SQLite, Parquet and MTSV files \u2014 or a folder \u2014 as plain t"
   },
   {
-   "server": "io.github.jasonko/psquare",
-   "pkg": "psquare-mcp",
-   "prev": "MCP server that gives Claude AI access to ParentSquare \u2014 feeds, calendar events, messages,",
-   "cur": "Renamed: this project is now published as parentsquare-mcp"
+   "server": "io.github.partymola/fitbit-mcp",
+   "pkg": "fitbit-mcp",
+   "prev": "MCP server for the Fitbit Web API with OAuth PKCE, local cache, and trend analysis.",
+   "cur": "Retired, superseded by google-health-mcp. MCP server for the Fitbit Web API, which shuts d"
   }
  ]
 }

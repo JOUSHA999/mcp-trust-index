@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-09-27T03:40:12Z",
- "universe_declared_github_repos": 22348,
- "universe_declared_npm_packages": 8739,
+ "generated_at": "2026-09-28T03:43:51Z",
+ "universe_declared_github_repos": 21509,
+ "universe_declared_npm_packages": 8731,
  "github_sample": {
   "n": 1200,
-  "dead": 217,
-  "dead_pct": 18.1,
+  "dead": 255,
+  "dead_pct": 21.2,
   "ci95": [
-   16.0,
-   20.4
+   19.0,
+   23.7
   ],
-  "archived": 14,
-  "no_license": 163,
+  "archived": 20,
+  "no_license": 116,
   "stale_365d": 3,
   "extrapolated_dead": [
-   3576,
-   4559
+   4087,
+   5098
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 789,
-  "unresolved": 11,
-  "version_desync": 230,
-  "desync_pct": 28.7,
+  "resolved": 790,
+  "unresolved": 10,
+  "version_desync": 248,
+  "desync_pct": 31.0,
   "ci95": [
-   25.7,
-   32.0
+   27.9,
+   34.3
   ],
-  "description_drift": 47,
-  "drift_pct": 5.9,
-  "desc_mismatch_vs_registry": 623,
-  "mismatch_pct": 77.9,
+  "description_drift": 66,
+  "drift_pct": 8.2,
+  "desc_mismatch_vs_registry": 603,
+  "mismatch_pct": 75.4,
   "extrapolated_desync": [
-   2246,
-   2796
+   2436,
+   2995
   ]
  },
  "examples_dead_repo": [
-  "chiaha-ai/reliastats-site",
-  "andrewjgaber-commits/empire-distribution",
-  "Ooak21/cortex402",
-  "CSOAI-ORG/habit-tracker-ai-mcp",
+  "emresemercioglu/Signal-labs-cix-platform",
+  "lightbrushproject/autonomous-prime-new",
   "joeetdev/venture-estate",
-  "joeetdev/venture-estate",
+  "Vico86/redditreach",
+  "choosemylo/mind-of-mylo-chatbot",
+  "Odyssey365App/odyssey30_60",
+  "CSOAI-ORG/eu-ai-act-compliance-mcp",
+  "mrfentmen/dragonball-mcp",
+  "applivery/docs-front",
   "ee324/a2awire",
   "autoblocksai/ctxl",
-  "PixelCove/topic-scorer",
-  "CSOAI-ORG/weather-ai-mcp",
-  "cgallic/connorgallic.com",
-  "mrfentmen/enrico-mcp",
-  "CSOAI-ORG/fsa-food-safety-mcp",
-  "Ansvar-Systems/uk-land-woodland-mcp",
-  "internexio/cos"
+  "mrfentmen/awesome-mcps",
+  "davidlg/openwebhook",
+  "CSOAI-ORG/stock-analyzer-ai-mcp",
+  "joeetdev/venture-estate"
  ],
  "examples_drift": [
   {
-   "server": "io.github.EmperorMew/voidly-mcp-server",
-   "pkg": "@voidly/mcp-server",
-   "prev": "84-tool MCP server: censorship intelligence (119 countries, 19.6M measurements) + E2E encr",
-   "cur": "MCP server for Voidly's internet censorship data and Sentinel forecasts, plus agent relay "
+   "server": "io.github.ox31461/robyn",
+   "pkg": "anygas-mcp",
+   "prev": "Robyn MCP server \u2014 gasless cross-chain for AI agents. Quote and execute gasless moves acro",
+   "cur": "Robyn AnyGas + NULL MCP server \u2014 85 tools, private by default (reads ride the BATMAN OHTTP"
   },
   {
-   "server": "io.github.Shawn5cents/agentskin",
-   "pkg": "agentskin",
-   "prev": "AgentSkin Suite: Three-layer token optimization stack \u2014 AgentSkin SSS (JSON pruning) + Tok",
-   "cur": "Context middleware for AI agents: prune API and JSON responses and compact CLI output befo"
+   "server": "io.github.raphasouthall/neurostack",
+   "pkg": "neurostack",
+   "prev": "Build, maintain, and search your knowledge vault with AI",
+   "cur": "Local retrieval layer and optimizer for your Markdown knowledge base. CLI + MCP server: ra"
   },
   {
-   "server": "io.github.oscout/scout",
-   "pkg": "@openscout/scout",
-   "prev": "Local-first control plane for discovering, messaging, and coordinating AI agents across Cl",
-   "cur": "Coordinate Claude Code, Codex, Cursor, OpenCode, Kimi, Grok, Pi, and Devin agents with loc"
+   "server": "io.github.rdanieli/tentra",
+   "pkg": "tentra-mcp",
+   "prev": "Memory for AI coding agents. Structural answers grep can't give (fan-in, call graphs, shor",
+   "cur": "Tentra MCP \u2014 AI-native architecture platform for engineering teams. Describe systems in na"
   },
   {
-   "server": "io.github.delentia-labs/delentia-mcp",
-   "pkg": "delentia-mcp",
-   "prev": "Official Public Client & Remote Connector for Delentia Sovereign AI Operating System MCP G",
-   "cur": "Stop rogue tool calls & hallucinations with deterministic mathematical guardrails. Zero-co"
+   "server": "dev.flarehq/security",
+   "pkg": "flarehq-mcp",
+   "prev": "Flare MCP server: let Claude Code, Cursor or Windsurf scan your running app and repo for l",
+   "cur": "Flare MCP server: let Claude Code, Cursor or Windsurf scan your running app and repo for l"
   },
   {
-   "server": "io.github.mohanagy/madar",
-   "pkg": "@lubab/madar",
-   "prev": "Give AI coding agents a small, authenticated evidence path through large TypeScript and Ja",
-   "cur": "Stop AI coding agents from rediscovering large TypeScript/Node repos. Madar compiles task-"
+   "server": "io.github.BlueWaterCorp/riskmodels",
+   "pkg": "@riskmodels/mcp",
+   "prev": "MCP server for RiskModels: decompose US equities into four-bet variance shares with ETF he",
+   "cur": "MCP server for RiskModels: clean dividend-adjusted US equity total returns, risk decomposi"
   },
   {
-   "server": "io.github.invapi-org/invapi-mcp",
-   "pkg": "@invapi/mcp-server",
-   "prev": "MCP server for the Invapi E-Invoicing API - conversion, validation, and extraction",
-   "cur": "Invoice MCP server \u2014 extract structured data from PDF & image invoices, create e-invoices "
+   "server": "io.github.lennney/agent-search-mcp",
+   "pkg": "agent-search-mcp",
+   "prev": "Free, lightweight MCP search for AI agents \u2014 no API keys required, 8 zero-key engines, com",
+   "cur": "Free-first Chinese and English web search MCP using zero-key sources and inspectable evide"
   },
   {
-   "server": "com.jamesrosingmd/tebra",
-   "pkg": "tebra-mcp-server",
-   "prev": "MCP server for Tebra/Kareo practice management \u2014 47 tools covering patients, appointments,",
-   "cur": "Independent MCP server for Tebra/Kareo practice management (not affiliated with Tebra) \u2014 4"
+   "server": "io.apixies/mcp-server",
+   "pkg": "@apixies/mcp-server",
+   "prev": "MCP server for Apixies.io - 52+ developer utility APIs as AI tools",
+   "cur": "MCP server for Apixies.io - 50 developer utility APIs as AI tools"
   },
   {
-   "server": "io.github.RoninForge/ai-price-index-mcp",
-   "pkg": "ai-price-index-mcp",
-   "prev": "Read-only, zero-key MCP server for the open AI Price Index: query dated, first-party-sourc",
-   "cur": "Read-only, zero-key MCP server over the AI Price Index. AI model prices for when quality m"
+   "server": "io.github.levelsofself/nervous-system",
+   "pkg": "mcp-nervous-system",
+   "prev": "Governance framework for LLM agents: the 7 mechanically-enforced rules plus read-only refe",
+   "cur": "Deterministic governance lint for MCP server configurations, plus reference tools for the "
   },
   {
-   "server": "io.github.agentc22/x402engine-mcp",
-   "pkg": "x402engine-mcp",
-   "prev": "agent-friendly MCP wrapper for x402engine, exposing curated pay-per-call tools over x402 m",
-   "cur": "Agent-friendly MCP wrapper for x402engine with automatic capped USDC payments on Base and "
+   "server": "com.orchyn/mcp",
+   "pkg": "@orchyn/mcp",
+   "prev": "MCP server for orchyn - fetch, discover and understand TikTok/Instagram/YouTube/X/LinkedIn",
+   "cur": "MCP server for orchyn - fetch, discover and understand TikTok/Instagram/YouTube/X/Reddit/L"
   },
   {
-   "server": "io.github.codevanmoose/vanmoose-mcp-server",
-   "pkg": "@vanmoose/mcp-server",
-   "prev": "197 MCP tools from 74 developer utility APIs \u2014 one key, one server",
-   "cur": "211 MCP tools across 76 developer APIs (192 VanMoose + Truncus, obqo, TenScore, WebIntel) "
+   "server": "io.github.charmshots/mcp-server",
+   "pkg": "charmshots-mcp",
+   "prev": "Charmshots MCP connector for Claude Desktop and other stdio clients",
+   "cur": "Read-only MCP connector for Charmshots photoshoots, photo metadata and owner-authenticated"
   }
  ]
 }

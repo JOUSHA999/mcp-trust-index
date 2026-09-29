@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-09-28T03:43:51Z",
- "universe_declared_github_repos": 21509,
- "universe_declared_npm_packages": 8731,
+ "generated_at": "2026-09-29T03:44:40Z",
+ "universe_declared_github_repos": 21395,
+ "universe_declared_npm_packages": 8655,
  "github_sample": {
   "n": 1200,
-  "dead": 255,
-  "dead_pct": 21.2,
+  "dead": 250,
+  "dead_pct": 20.8,
   "ci95": [
-   19.0,
-   23.7
+   18.6,
+   23.2
   ],
-  "archived": 20,
+  "archived": 15,
   "no_license": 116,
-  "stale_365d": 3,
+  "stale_365d": 2,
   "extrapolated_dead": [
-   4087,
-   5098
+   3979,
+   4964
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 790,
-  "unresolved": 10,
-  "version_desync": 248,
-  "desync_pct": 31.0,
+  "resolved": 786,
+  "unresolved": 14,
+  "version_desync": 291,
+  "desync_pct": 36.4,
   "ci95": [
-   27.9,
-   34.3
+   33.1,
+   39.8
   ],
-  "description_drift": 66,
-  "drift_pct": 8.2,
-  "desc_mismatch_vs_registry": 603,
-  "mismatch_pct": 75.4,
+  "description_drift": 61,
+  "drift_pct": 7.6,
+  "desc_mismatch_vs_registry": 596,
+  "mismatch_pct": 74.5,
   "extrapolated_desync": [
-   2436,
-   2995
+   2865,
+   3445
   ]
  },
  "examples_dead_repo": [
-  "emresemercioglu/Signal-labs-cix-platform",
-  "lightbrushproject/autonomous-prime-new",
+  "Galax-ai/ReadyPermit.AI-v2",
+  "GRU-953/gru953-crew",
   "joeetdev/venture-estate",
-  "Vico86/redditreach",
-  "choosemylo/mind-of-mylo-chatbot",
-  "Odyssey365App/odyssey30_60",
-  "CSOAI-ORG/eu-ai-act-compliance-mcp",
-  "mrfentmen/dragonball-mcp",
-  "applivery/docs-front",
-  "ee324/a2awire",
+  "CSOAI-ORG/changelog-ai-mcp",
+  "joeetdev/venture-estate",
+  "ShaliniAnandaPhD/ffn",
+  "mrfentmen/biorxiv-mcp",
+  "CryptoLibertus/myvideogift",
   "autoblocksai/ctxl",
   "mrfentmen/awesome-mcps",
-  "davidlg/openwebhook",
-  "CSOAI-ORG/stock-analyzer-ai-mcp",
-  "joeetdev/venture-estate"
+  "mrfentmen/luchtmeetnet-mcp",
+  "mustafasalimerek-bit/launchtrust-mcp",
+  "CSOAI-ORG/meok-tacho-audit-mcp",
+  "joeetdev/venture-estate",
+  "motiveflowllc/agentvault-gen2"
  ],
  "examples_drift": [
   {
-   "server": "io.github.ox31461/robyn",
-   "pkg": "anygas-mcp",
-   "prev": "Robyn MCP server \u2014 gasless cross-chain for AI agents. Quote and execute gasless moves acro",
-   "cur": "Robyn AnyGas + NULL MCP server \u2014 85 tools, private by default (reads ride the BATMAN OHTTP"
+   "server": "com.findagencyhq/agency-pricing-index",
+   "pkg": "@ellul-estate/findagencyhq-com-agency-pricing-index-mcp",
+   "prev": "FindAgency HQ: the median advertised marketing retainer starting price per month, read fro",
+   "cur": "FindAgency HQ: the median advertised marketing retainer starting price per month, read fro"
   },
   {
-   "server": "io.github.raphasouthall/neurostack",
-   "pkg": "neurostack",
-   "prev": "Build, maintain, and search your knowledge vault with AI",
-   "cur": "Local retrieval layer and optimizer for your Markdown knowledge base. CLI + MCP server: ra"
+   "server": "io.github.Wyrdsekai/codezaiku",
+   "pkg": "@wyrdsekai/codezaiku-mcp",
+   "prev": "Starts CodeZaiku, the coding and development harness for local models and hosted APIs, as ",
+   "cur": "Runs CodeZaiku, a coding and development harness on local models (Ollama, llama.cpp) or ho"
   },
   {
-   "server": "io.github.rdanieli/tentra",
-   "pkg": "tentra-mcp",
-   "prev": "Memory for AI coding agents. Structural answers grep can't give (fan-in, call graphs, shor",
-   "cur": "Tentra MCP \u2014 AI-native architecture platform for engineering teams. Describe systems in na"
+   "server": "io.github.mrfentmen/pingdom-mcp",
+   "pkg": "pingdom-mcp",
+   "prev": "Pingdom API: uptime checks, results, credits. Needs API token.",
+   "cur": "Measure site performance and catch broken links - no API key."
   },
   {
-   "server": "dev.flarehq/security",
-   "pkg": "flarehq-mcp",
-   "prev": "Flare MCP server: let Claude Code, Cursor or Windsurf scan your running app and repo for l",
-   "cur": "Flare MCP server: let Claude Code, Cursor or Windsurf scan your running app and repo for l"
+   "server": "io.github.0nork/0nMCP",
+   "pkg": "0nmcp",
+   "prev": "Universal AI API Orchestrator \u2014 1,598 tools across 106 services. UCP (Universal Commerce P",
+   "cur": "Universal AI API Orchestrator \u2014 1,598 tools across 106 services. Go High Level (GoHighLeve"
   },
   {
-   "server": "io.github.BlueWaterCorp/riskmodels",
-   "pkg": "@riskmodels/mcp",
-   "prev": "MCP server for RiskModels: decompose US equities into four-bet variance shares with ETF he",
-   "cur": "MCP server for RiskModels: clean dividend-adjusted US equity total returns, risk decomposi"
+   "server": "io.github.agenticempire/axint",
+   "pkg": "@axint/compiler",
+   "prev": "Apple-native execution layer for AI coding agents: compile, validate, repair, and prove Sw",
+   "cur": "Proof and repair for Apple coding agents: validate Swift, run Xcode evidence, repair failu"
   },
   {
-   "server": "io.github.lennney/agent-search-mcp",
-   "pkg": "agent-search-mcp",
-   "prev": "Free, lightweight MCP search for AI agents \u2014 no API keys required, 8 zero-key engines, com",
-   "cur": "Free-first Chinese and English web search MCP using zero-key sources and inspectable evide"
+   "server": "com.attestwire/en16931",
+   "pkg": "@attestwire/mcp",
+   "prev": "stdio bridge to the Attestwire MCP server \u2014 thirteen e-invoicing tools, including reviewed",
+   "cur": "stdio bridge to the Attestwire MCP server \u2014 fourteen e-invoicing tools, including reviewed"
   },
   {
-   "server": "io.apixies/mcp-server",
-   "pkg": "@apixies/mcp-server",
-   "prev": "MCP server for Apixies.io - 52+ developer utility APIs as AI tools",
-   "cur": "MCP server for Apixies.io - 50 developer utility APIs as AI tools"
+   "server": "io.github.metago-ai/metago",
+   "pkg": "@metago-ai/mcp-server",
+   "prev": "MetaGO Agent Harness\uff08\u667a\u80fd\u4f53\u8fd0\u884c\u65f6\u63a7\u5236\u5c42\u5957\u4ef6 \u00b7 \u9a6d\u667a\u5c42\uff09MCP Server \u2014 55 tools (22 \u601d\u7ef4\u5de5\u5177 + 32 \u6838\u5fc3\u6280\u80fd + 1 \u4e8b\u4ef6\u4e0a\u62a5) ",
+   "cur": "MetaGO Agent Harness\uff08\u667a\u80fd\u4f53\u8fd0\u884c\u65f6\u63a7\u5236\u5c42\u5957\u4ef6 \u00b7 \u9a6d\u667a\u5c42\uff09MCP Server \u2014 55 tools (22 \u601d\u7ef4\u5de5\u5177 + 32 \u6838\u5fc3\u6280\u80fd + 1 \u4e8b\u4ef6\u4e0a\u62a5) "
   },
   {
-   "server": "io.github.levelsofself/nervous-system",
-   "pkg": "mcp-nervous-system",
-   "prev": "Governance framework for LLM agents: the 7 mechanically-enforced rules plus read-only refe",
-   "cur": "Deterministic governance lint for MCP server configurations, plus reference tools for the "
+   "server": "io.github.neptun2000/heor-agent",
+   "pkg": "heor-agent-mcp",
+   "prev": "AI-powered Health Economics and Outcomes Research (HEOR) MCP server \u2014 28 tools across lite",
+   "cur": "AI-powered Health Economics and Outcomes Research (HEOR) MCP server \u2014 49 tools across lite"
   },
   {
-   "server": "com.orchyn/mcp",
-   "pkg": "@orchyn/mcp",
-   "prev": "MCP server for orchyn - fetch, discover and understand TikTok/Instagram/YouTube/X/LinkedIn",
-   "cur": "MCP server for orchyn - fetch, discover and understand TikTok/Instagram/YouTube/X/Reddit/L"
+   "server": "io.github.MukundaKatta/timezone-mcp",
+   "pkg": "@mukundakatta/timezone-mcp",
+   "prev": "MCP server for IANA timezone math. Real DST rules, real offsets, no LLM hallucination.",
+   "cur": "MCP server: convert times between IANA timezones, list zones, get current offset."
   },
   {
-   "server": "io.github.charmshots/mcp-server",
-   "pkg": "charmshots-mcp",
-   "prev": "Charmshots MCP connector for Claude Desktop and other stdio clients",
-   "cur": "Read-only MCP connector for Charmshots photoshoots, photo metadata and owner-authenticated"
+   "server": "io.github.kynto2001-ctrl/xrplriskscore-mcp",
+   "pkg": "@xrplriskscore/mcp",
+   "prev": "MCP server for xrplriskscore.ai \u2014 exposes XRPL wallet risk scoring as Claude tools",
+   "cur": "XRPL wallet risk scoring MCP server. 31-signal analysis with behavioral tags, sub-scores, "
   }
  ]
 }

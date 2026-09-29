@@ -1,62 +1,62 @@
 {
- "generated_at": "2026-09-28T03:42:47Z",
- "unique_servers": 28741,
+ "generated_at": "2026-09-29T03:43:24Z",
+ "unique_servers": 28736,
  "raw_entries": 100000,
- "declares_repository": 21543,
- "declares_package": 12952,
- "declares_any_source": 22149,
- "declares_no_source": 6542,
+ "declares_repository": 21431,
+ "declares_package": 12849,
+ "declares_any_source": 22040,
+ "declares_no_source": 6646,
  "metadata_only": 50,
- "has_remote_endpoint": 16862,
- "has_website": 15255,
+ "has_remote_endpoint": 17015,
+ "has_website": 15374,
  "plain_http_endpoints": 0,
  "remote_transport_types": {
-  "streamable-http": 16326,
-  "sse": 947
+  "streamable-http": 16488,
+  "sse": 935
  },
  "package_registry_types": {
-  "npm": 8731,
-  "pypi": 3410,
-  "mcpb": 1008,
-  "oci": 821,
+  "npm": 8655,
+  "pypi": 3393,
+  "mcpb": 1000,
+  "oci": 816,
   "nuget": 117,
-  "cargo": 50
+  "cargo": 51
  },
  "top_namespaces": {
-  "io": 19231,
-  "com": 5535,
-  "ai": 1573,
-  "dev": 618,
-  "app": 571,
-  "co": 183,
-  "eu": 164,
+  "io": 19068,
+  "com": 5624,
+  "ai": 1595,
+  "dev": 627,
+  "app": 579,
+  "co": 185,
+  "eu": 165,
   "de": 74,
-  "fr": 67,
+  "fr": 68,
+  "cloud": 43,
   "guide": 42,
-  "cloud": 39,
   "ca": 35,
   "ch": 33,
-  "br": 29,
-  "au": 27,
-  "cn": 25,
+  "au": 30,
+  "br": 30,
+  "cn": 26,
   "in": 25,
   "cc": 21,
-  "cz": 18,
+  "cz": 19,
   "fyi": 14,
+  "art": 13,
   "es": 13,
   "global": 13,
-  "finance": 12,
-  "info": 12,
-  "bot": 11
+  "bot": 12,
+  "finance": 12
  },
  "statuses": {
-  "active": 28390,
-  "deprecated": 351
+  "active": 28382,
+  "deprecated": 354
  },
  "pct": {
-  "declares_any_source": 77.1,
-  "declares_no_source": 22.8,
+  "declares_any_source": 76.7,
+  "declares_no_source": 23.1,
   "metadata_only": 0.2,
-  "has_remote_endpoint": 58.7
+  "has_remote_endpoint": 59.2
  }
 }

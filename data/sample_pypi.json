@@ -1,83 +1,83 @@
 {
- "generated_at": "2026-09-28T03:43:56Z",
- "universe_declared_pypi": 3410,
+ "generated_at": "2026-09-29T03:44:52Z",
+ "universe_declared_pypi": 3393,
  "sample": {
   "n_sampled": 500,
-  "resolved": 497,
-  "unresolved": 3,
-  "version_desync": 107,
-  "desync_pct": 21.5,
+  "resolved": 496,
+  "unresolved": 4,
+  "version_desync": 104,
+  "desync_pct": 21.0,
   "ci95": [
-   18.1,
-   25.4
+   17.6,
+   24.8
   ],
   "extrapolated_desync": [
-   617,
-   866
+   597,
+   841
   ],
-  "description_drift": 28,
-  "drift_pct": 5.6
+  "description_drift": 23,
+  "drift_pct": 4.6
  },
  "examples_drift": [
   {
-   "server": "io.github.grzgrzgrz3/pingwa",
-   "pkg": "pingwa",
-   "prev": "WhatsApp notifications + human-in-the-loop for AI agents and scripts \u2014 curl to WhatsApp in",
-   "cur": "WhatsApp notifications for AI agents with zero setup \u2014 no Meta account, no templates, curl"
+   "server": "io.github.JoaoBerne/cli-bridge-mcp",
+   "pkg": "cli-bridge-mcp",
+   "prev": "Consult a council of AI CLIs (Gemini, GPT, Claude, Mistral, Qwen, Copilot, OpenCode\u2026) from",
+   "cur": "Expose the other AI CLIs installed on your machine (Gemini, Codex, Claude Code, Mistral, o"
   },
   {
-   "server": "io.github.cmendezs/mcp-einvoicing-de",
-   "pkg": "mcp-einvoicing-de",
-   "prev": "MCP server for German electronic invoicing (ZUGFeRD 2.x, XRechnung 3.x, EN 16931)",
-   "cur": "MCP server for German electronic invoicing (ZUGFeRD 2.x, XRechnung 3.x, EN 16931), vendor-"
+   "server": "io.github.cmendezs/mcp-einvoicing-ae",
+   "pkg": "mcp-einvoicing-ae",
+   "prev": "MCP server for United Arab Emirates electronic invoicing",
+   "cur": "MCP server for United Arab Emirates electronic invoicing, vendor-neutral Peppol transport"
   },
   {
-   "server": "io.github.markoblogo/id",
-   "pkg": "id-protocol",
-   "prev": "Git-like protocol and tooling for portable human-AI identity context",
-   "cur": "Owner-controlled, privacy-filtered context for AI tools"
+   "server": "io.github.CSOAI-ORG/pdf-document-mcp",
+   "pkg": "pdf-document-mcp",
+   "prev": "AI-powered pdf document MCP server for agents. Supports extract text from pdf, convert pdf",
+   "cur": "Pdf Document Mcp: extract text from pdf (Extract text content from a PDF file. Optionally "
   },
   {
-   "server": "io.github.chaoz23/charactercheck",
-   "pkg": "charactercheck",
-   "prev": "Deterministic D&D Beyond character-sheet derivation with provenance \u2014 every stat computed ",
-   "cur": "Experimental read-only derivation of selected D&D Beyond character fields with provenance "
+   "server": "io.github.cmendezs/mcp-invoicenow-sg",
+   "pkg": "mcp-invoicenow-sg",
+   "prev": "MCP server for Singapore electronic invoicing (InvoiceNow)",
+   "cur": "MCP server for Singapore electronic invoicing (InvoiceNow), vendor-neutral Peppol transpor"
   },
   {
-   "server": "io.github.crosstabs/crosstabs",
-   "pkg": "crosstabs",
-   "prev": "MCP package with 39 statistical tools and runtime status plus 33 headless workflow tools",
-   "cur": "MCP package with 39 statistical tools and runtime status plus 35 headless workflow tools"
+   "server": "io.github.atomadictech/atomadic-forge",
+   "pkg": "atomadic-forge",
+   "prev": "Atomadic Forge ? absorb, enforce, emerge. Polyglot (Python ? JavaScript/TypeScript ? Rust ",
+   "cur": "DEPRECATED \u2014 atomadic-forge retired; use the atomadic SDK and Lattice Omega engine."
   },
   {
-   "server": "io.github.Astrix-Labs/genesys-memory",
-   "pkg": "genesys-memory",
-   "prev": "The intelligence layer for AI memory \u2014 scoring, causal inference, lifecycle management, an",
-   "cur": "genesys-memory has been renamed to papez. This package installs papez and keeps `import ge"
+   "server": "io.github.n0Sp00n/clipmaster-mcp",
+   "pkg": "clipmaster-mcp",
+   "prev": "MCP server exposing the ClipMaster public API as tools for Claude and other MCP clients",
+   "cur": "MCP server for ClipMaster (clipmaster.app) \u2014 AI video clipping, editing, exporting and soc"
   },
   {
-   "server": "io.github.Jason26214/omni-computer-use",
-   "pkg": "omni-computer-use-mcp",
-   "prev": "Windows computer-use MCP for the Claude Code CLI \u2014 a 1:1 replica of Claude Desktop's compu",
-   "cur": "Windows computer-use MCP server: a 1:1 replica of Anthropic's computer-use tool surface, f"
+   "server": "io.github.Codeturion/codesurface",
+   "pkg": "codesurface",
+   "prev": "MCP server that indexes a codebase's public API at startup and serves it via compact tool ",
+   "cur": "MCP server that indexes a codebase's public API at startup and serves it via compact tool "
   },
   {
-   "server": "io.github.mrnh/rigor-mcp",
-   "pkg": "rigor-mcp",
-   "prev": "Verified statistical inference for AI agents -- classical and non-parametric hypothesis te",
-   "cur": "Verified statistical inference for AI agents -- classical and non-parametric hypothesis te"
+   "server": "io.github.paulo2tab/certidao",
+   "pkg": "cartorio-certidao-mcp",
+   "prev": "MCP server para gerenciamento de certidoes de cartorio - permite que IAs solicitem, altere",
+   "cur": "MCP server para gerenciamento de certidoes de cartorio via IA."
   },
   {
-   "server": "io.github.demos-ra/text-spreadsheet",
-   "pkg": "text-spreadsheet",
-   "prev": "Let your AI read a whole spreadsheet as tab-separated text \u2014 Excel, ODS, SQLite and more",
-   "cur": "Read and filter Excel, CSV, ODS, SQLite, Parquet and MTSV files \u2014 or a folder \u2014 as plain t"
+   "server": "io.github.cmendezs/mcp-einvoicing-be",
+   "pkg": "mcp-einvoicing-be",
+   "prev": "MCP server for Belgian electronic invoicing (Peppol BIS 3.0, UBL 2.1, PINT-EU, Mercurius)",
+   "cur": "MCP server for Belgian electronic invoicing (Peppol BIS 3.0, UBL 2.1, PINT-EU, Mercurius),"
   },
   {
-   "server": "io.github.partymola/fitbit-mcp",
-   "pkg": "fitbit-mcp",
-   "prev": "MCP server for the Fitbit Web API with OAuth PKCE, local cache, and trend analysis.",
-   "cur": "Retired, superseded by google-health-mcp. MCP server for the Fitbit Web API, which shuts d"
+   "server": "io.github.atomno-mcp/mcp-erid",
+   "pkg": "atomno-mcp-erid",
+   "prev": "MCP server: Russian internet-ad marking (\u043c\u0430\u0440\u043a\u0438\u0440\u043e\u0432\u043a\u0430 \u0440\u0435\u043a\u043b\u0430\u043c\u044b, 38-\u0424\u0417) checker \u2014 validate an ",
+   "cur": "MCP for Russian ad marking: erid format check; ORD cabinet lookup on the client key. Advis"
   }
  ]
 }

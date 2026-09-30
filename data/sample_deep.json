@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-09-29T03:44:40Z",
- "universe_declared_github_repos": 21395,
- "universe_declared_npm_packages": 8655,
+ "generated_at": "2026-09-30T03:44:17Z",
+ "universe_declared_github_repos": 21286,
+ "universe_declared_npm_packages": 8582,
  "github_sample": {
   "n": 1200,
-  "dead": 250,
-  "dead_pct": 20.8,
+  "dead": 246,
+  "dead_pct": 20.5,
   "ci95": [
-   18.6,
-   23.2
+   18.3,
+   22.9
   ],
-  "archived": 15,
-  "no_license": 116,
-  "stale_365d": 2,
+  "archived": 9,
+  "no_license": 104,
+  "stale_365d": 4,
   "extrapolated_dead": [
-   3979,
-   4964
+   3895,
+   4874
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 786,
-  "unresolved": 14,
-  "version_desync": 291,
-  "desync_pct": 36.4,
+  "resolved": 797,
+  "unresolved": 3,
+  "version_desync": 279,
+  "desync_pct": 34.9,
   "ci95": [
-   33.1,
-   39.8
+   31.7,
+   38.2
   ],
-  "description_drift": 61,
-  "drift_pct": 7.6,
-  "desc_mismatch_vs_registry": 596,
-  "mismatch_pct": 74.5,
+  "description_drift": 72,
+  "drift_pct": 9.0,
+  "desc_mismatch_vs_registry": 612,
+  "mismatch_pct": 76.5,
   "extrapolated_desync": [
-   2865,
-   3445
+   2720,
+   3278
   ]
  },
  "examples_dead_repo": [
+  "dropthis-dev/dropthis-mcp",
   "Galax-ai/ReadyPermit.AI-v2",
-  "GRU-953/gru953-crew",
+  "FoundryNet/fact-check-mcp",
+  "dwixom/rcs-agent-mvp",
+  "NOTTIBOY137/mcp-open-registry-poc",
+  "CSOAI-ORG/agent-data-residency-mcp",
+  "RiptideZ/swedish-haven-stays",
+  "janleitner/agentic-workflows",
+  "CourtimusPrime/Gopher.it",
   "joeetdev/venture-estate",
-  "CSOAI-ORG/changelog-ai-mcp",
   "joeetdev/venture-estate",
-  "ShaliniAnandaPhD/ffn",
-  "mrfentmen/biorxiv-mcp",
-  "CryptoLibertus/myvideogift",
   "autoblocksai/ctxl",
-  "mrfentmen/awesome-mcps",
-  "mrfentmen/luchtmeetnet-mcp",
-  "mustafasalimerek-bit/launchtrust-mcp",
-  "CSOAI-ORG/meok-tacho-audit-mcp",
-  "joeetdev/venture-estate",
-  "motiveflowllc/agentvault-gen2"
+  "mrfentmen/sunrise-sunset-mcp",
+  "mrfentmen/gitignore-mcp",
+  "jhibird/HeySpark-MCP"
  ],
  "examples_drift": [
   {
-   "server": "com.findagencyhq/agency-pricing-index",
-   "pkg": "@ellul-estate/findagencyhq-com-agency-pricing-index-mcp",
-   "prev": "FindAgency HQ: the median advertised marketing retainer starting price per month, read fro",
-   "cur": "FindAgency HQ: the median advertised marketing retainer starting price per month, read fro"
+   "server": "com.gadgethumans.swarm/x402-middleware",
+   "pkg": "@gadgethumans/x402",
+   "prev": "x402 payment protocol \u2014 pay-per-call for AI agents via USDC on Base. No signup, no API key",
+   "cur": "x402 pay-per-call for AI agents \u2014 USDC on Base + Stripe. 3 free calls, then \u20ac0.50/100. No "
   },
   {
-   "server": "io.github.Wyrdsekai/codezaiku",
-   "pkg": "@wyrdsekai/codezaiku-mcp",
-   "prev": "Starts CodeZaiku, the coding and development harness for local models and hosted APIs, as ",
-   "cur": "Runs CodeZaiku, a coding and development harness on local models (Ollama, llama.cpp) or ho"
+   "server": "io.github.mrfentmen/playcanvas-mcp",
+   "pkg": "playcanvas-mcp",
+   "prev": "PlayCanvas projects: assets, rate limits. Needs token.",
+   "cur": "Query the PlayCanvas REST API: list project assets, get asset metadata, and check API rate"
   },
   {
-   "server": "io.github.mrfentmen/pingdom-mcp",
-   "pkg": "pingdom-mcp",
-   "prev": "Pingdom API: uptime checks, results, credits. Needs API token.",
-   "cur": "Measure site performance and catch broken links - no API key."
+   "server": "eu.ansvar/portuguese-law-mcp",
+   "pkg": "@ansvar/portuguese-law-mcp",
+   "prev": "Portuguese law database covering Lei 58/2019 (GDPR implementation), Lei 46/2018 (NIS trans",
+   "cur": "Portuguese law database with 1,130 statutes and 56,955 provisions covering full Portuguese"
   },
   {
-   "server": "io.github.0nork/0nMCP",
-   "pkg": "0nmcp",
-   "prev": "Universal AI API Orchestrator \u2014 1,598 tools across 106 services. UCP (Universal Commerce P",
-   "cur": "Universal AI API Orchestrator \u2014 1,598 tools across 106 services. Go High Level (GoHighLeve"
+   "server": "io.github.ThomasGorisse/sceneview",
+   "pkg": "sceneview-mcp",
+   "prev": "MCP server for SceneView \u2014 cross-platform 3D & AR SDK for Android and iOS. Give Claude the",
+   "cur": "MCP server for SceneView \u2014 cross-platform 3D & AR SDK for Android and iOS. Gives your AI c"
   },
   {
-   "server": "io.github.agenticempire/axint",
-   "pkg": "@axint/compiler",
-   "prev": "Apple-native execution layer for AI coding agents: compile, validate, repair, and prove Sw",
-   "cur": "Proof and repair for Apple coding agents: validate Swift, run Xcode evidence, repair failu"
+   "server": "dev.cz-agents/realestate",
+   "pkg": "@czagents/realestate",
+   "prev": "BREAKING(0.2.0): Paid tools moved to hosted realestate-pro.cz-agents.dev. Free tier packag",
+   "cur": "Czech distressed real estate intelligence \u2014 anonymized district-level aggregates (insolven"
   },
   {
-   "server": "com.attestwire/en16931",
-   "pkg": "@attestwire/mcp",
-   "prev": "stdio bridge to the Attestwire MCP server \u2014 thirteen e-invoicing tools, including reviewed",
-   "cur": "stdio bridge to the Attestwire MCP server \u2014 fourteen e-invoicing tools, including reviewed"
+   "server": "io.frase/mcp-server",
+   "pkg": "@frase/mcp-server",
+   "prev": "Frase MCP Server \u2014 The complete content platform for AI agents. Research, write, optimize,",
+   "cur": "Frase MCP Server \u2014 The complete content platform for AI agents. Research, write, optimize,"
   },
   {
-   "server": "io.github.metago-ai/metago",
-   "pkg": "@metago-ai/mcp-server",
-   "prev": "MetaGO Agent Harness\uff08\u667a\u80fd\u4f53\u8fd0\u884c\u65f6\u63a7\u5236\u5c42\u5957\u4ef6 \u00b7 \u9a6d\u667a\u5c42\uff09MCP Server \u2014 55 tools (22 \u601d\u7ef4\u5de5\u5177 + 32 \u6838\u5fc3\u6280\u80fd + 1 \u4e8b\u4ef6\u4e0a\u62a5) ",
-   "cur": "MetaGO Agent Harness\uff08\u667a\u80fd\u4f53\u8fd0\u884c\u65f6\u63a7\u5236\u5c42\u5957\u4ef6 \u00b7 \u9a6d\u667a\u5c42\uff09MCP Server \u2014 55 tools (22 \u601d\u7ef4\u5de5\u5177 + 32 \u6838\u5fc3\u6280\u80fd + 1 \u4e8b\u4ef6\u4e0a\u62a5) "
+   "server": "io.github.agentbodegastore/agentbodega-mcp",
+   "pkg": "@agentbodega/mcp",
+   "prev": "Discover AgentBodega paid data tools, contracts, and x402 HTTP call snippets.",
+   "cur": "Discover AgentBodega paid data tools, task plans, contracts, and x402 HTTP call snippets."
   },
   {
-   "server": "io.github.neptun2000/heor-agent",
-   "pkg": "heor-agent-mcp",
-   "prev": "AI-powered Health Economics and Outcomes Research (HEOR) MCP server \u2014 28 tools across lite",
-   "cur": "AI-powered Health Economics and Outcomes Research (HEOR) MCP server \u2014 49 tools across lite"
+   "server": "eu.ansvar/costa-rican-law-mcp",
+   "pkg": "@ansvar/costa-rican-law-mcp",
+   "prev": "Costa Rican law database with 12,091 laws and 75,793 provisions from SCIJ via Model Contex",
+   "cur": "Costa Rican law database with 16,724 laws and 120,455 provisions from SCIJ via Model Conte"
   },
   {
-   "server": "io.github.MukundaKatta/timezone-mcp",
-   "pkg": "@mukundakatta/timezone-mcp",
-   "prev": "MCP server for IANA timezone math. Real DST rules, real offsets, no LLM hallucination.",
-   "cur": "MCP server: convert times between IANA timezones, list zones, get current offset."
+   "server": "io.github.lordbasilaiassistant-sudo/thryx-mcp-server",
+   "pkg": "@thryx/mcp-server",
+   "prev": "ThryxProtocol v3.1 MCP Server \u2014 gasless AI agent launchpad + trading platform on Base. 21 ",
+   "cur": "ThryxProtocol v3.1.1 MCP Server \u2014 gasless AI agent launchpad + trading platform on Base. 2"
   },
   {
-   "server": "io.github.kynto2001-ctrl/xrplriskscore-mcp",
-   "pkg": "@xrplriskscore/mcp",
-   "prev": "MCP server for xrplriskscore.ai \u2014 exposes XRPL wallet risk scoring as Claude tools",
-   "cur": "XRPL wallet risk scoring MCP server. 31-signal analysis with behavioral tags, sub-scores, "
+   "server": "io.github.BrowseAI-HQ/browseai-dev",
+   "pkg": "browseai-dev",
+   "prev": "Grounded Intelligence for AI agents. MCP server with real-time web search, evidence extrac",
+   "cur": "DEPRECATED \u2014 BrowseAI Dev is now LastSearch. This package installs and launches lastsearch"
   }
  ]
 }

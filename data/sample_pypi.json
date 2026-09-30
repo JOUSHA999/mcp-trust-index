@@ -1,83 +1,83 @@
 {
- "generated_at": "2026-09-29T03:44:52Z",
- "universe_declared_pypi": 3393,
+ "generated_at": "2026-09-30T03:44:28Z",
+ "universe_declared_pypi": 3345,
  "sample": {
   "n_sampled": 500,
   "resolved": 496,
   "unresolved": 4,
-  "version_desync": 104,
-  "desync_pct": 21.0,
+  "version_desync": 118,
+  "desync_pct": 23.8,
   "ci95": [
-   17.6,
-   24.8
+   20.3,
+   27.7
   ],
   "extrapolated_desync": [
-   597,
-   841
+   679,
+   927
   ],
   "description_drift": 23,
   "drift_pct": 4.6
  },
  "examples_drift": [
   {
-   "server": "io.github.JoaoBerne/cli-bridge-mcp",
-   "pkg": "cli-bridge-mcp",
-   "prev": "Consult a council of AI CLIs (Gemini, GPT, Claude, Mistral, Qwen, Copilot, OpenCode\u2026) from",
-   "cur": "Expose the other AI CLIs installed on your machine (Gemini, Codex, Claude Code, Mistral, o"
+   "server": "io.github.AgentTools-Cloud/agent-tools-mcp",
+   "pkg": "agent-tools-mcp",
+   "prev": "Search and call x402 paid services from any MCP-compatible agent (Claude, Cursor, Cline).",
+   "cur": "Discover x402 paid services, MCP servers and A2A agents from any MCP-compatible agent (Cla"
   },
   {
-   "server": "io.github.cmendezs/mcp-einvoicing-ae",
-   "pkg": "mcp-einvoicing-ae",
-   "prev": "MCP server for United Arab Emirates electronic invoicing",
-   "cur": "MCP server for United Arab Emirates electronic invoicing, vendor-neutral Peppol transport"
+   "server": "com.1102tools/bls-oews-mcp",
+   "pkg": "bls-oews-mcp",
+   "prev": "MCP server for the BLS Occupational Employment and Wage Statistics (OEWS) API. Market wage",
+   "cur": "MCP server for BLS Occupational Employment and Wage Statistics (OEWS) market wages for IGC"
   },
   {
-   "server": "io.github.CSOAI-ORG/pdf-document-mcp",
-   "pkg": "pdf-document-mcp",
-   "prev": "AI-powered pdf document MCP server for agents. Supports extract text from pdf, convert pdf",
-   "cur": "Pdf Document Mcp: extract text from pdf (Extract text content from a PDF file. Optionally "
+   "server": "io.github.omniologynow-rgb/profitspot-mcp",
+   "pkg": "profitspot-mcp",
+   "prev": "Cross-chain DeFi intelligence for AI agents. Risk-scored yields, profit simulation, whale ",
+   "cur": "The DeFi Brain for AI agents \u2014 ask Claude to find safe yields, grade liquidity pool risk, "
   },
   {
-   "server": "io.github.cmendezs/mcp-invoicenow-sg",
-   "pkg": "mcp-invoicenow-sg",
-   "prev": "MCP server for Singapore electronic invoicing (InvoiceNow)",
-   "cur": "MCP server for Singapore electronic invoicing (InvoiceNow), vendor-neutral Peppol transpor"
+   "server": "io.github.SaravananJaichandar/world-model-mcp",
+   "pkg": "world-model-mcp",
+   "prev": "MCP server that builds a world model for codebases to prevent hallucinations, repeated mis",
+   "cur": "MCP world-model memory server for coding agents; ships the etch-verify offline audit-chain"
   },
   {
-   "server": "io.github.atomadictech/atomadic-forge",
-   "pkg": "atomadic-forge",
-   "prev": "Atomadic Forge ? absorb, enforce, emerge. Polyglot (Python ? JavaScript/TypeScript ? Rust ",
-   "cur": "DEPRECATED \u2014 atomadic-forge retired; use the atomadic SDK and Lattice Omega engine."
+   "server": "io.github.CSOAI-ORG/c2pa-watermark-mcp",
+   "pkg": "c2pa-watermark-mcp",
+   "prev": "C2PA Content Credentials MCP server for EU AI Act Article 50 compliance.",
+   "cur": "C2PA Watermark & Provenance MCP server. Built with c2pa-python."
   },
   {
-   "server": "io.github.n0Sp00n/clipmaster-mcp",
-   "pkg": "clipmaster-mcp",
-   "prev": "MCP server exposing the ClipMaster public API as tools for Claude and other MCP clients",
-   "cur": "MCP server for ClipMaster (clipmaster.app) \u2014 AI video clipping, editing, exporting and soc"
+   "server": "io.github.alyiox/mcp-atlassian-attachments",
+   "pkg": "mcp-atlassian-attachments",
+   "prev": "MCP server for downloading Jira and Confluence Cloud attachments",
+   "cur": "MCP server for downloading Jira and Confluence Cloud attachments and uploading Jira attach"
   },
   {
-   "server": "io.github.Codeturion/codesurface",
-   "pkg": "codesurface",
-   "prev": "MCP server that indexes a codebase's public API at startup and serves it via compact tool ",
-   "cur": "MCP server that indexes a codebase's public API at startup and serves it via compact tool "
+   "server": "io.github.cmendezs/mcp-cfdi-mx",
+   "pkg": "mcp-cfdi-mx",
+   "prev": "MCP server for Mexican electronic invoicing (CFDI 4.0, Complemento de Pagos 2.0)",
+   "cur": "MCP server for Mexican electronic invoicing (CFDI 4.0, Complemento de Pagos 2.0), PAC-agno"
   },
   {
-   "server": "io.github.paulo2tab/certidao",
-   "pkg": "cartorio-certidao-mcp",
-   "prev": "MCP server para gerenciamento de certidoes de cartorio - permite que IAs solicitem, altere",
-   "cur": "MCP server para gerenciamento de certidoes de cartorio via IA."
+   "server": "io.github.SuperAngryMonkey/iris",
+   "pkg": "iris-mcp",
+   "prev": "A Microsoft 365 mail MCP server that drafts into Outlook. Sending is off by default and op",
+   "cur": "A Microsoft 365 mail MCP server that reads your mailbox and drafts into Outlook. Sending i"
   },
   {
-   "server": "io.github.cmendezs/mcp-einvoicing-be",
-   "pkg": "mcp-einvoicing-be",
-   "prev": "MCP server for Belgian electronic invoicing (Peppol BIS 3.0, UBL 2.1, PINT-EU, Mercurius)",
-   "cur": "MCP server for Belgian electronic invoicing (Peppol BIS 3.0, UBL 2.1, PINT-EU, Mercurius),"
+   "server": "io.github.ahmedEid1/forgejudge",
+   "pkg": "forgejudge",
+   "prev": "Reserved for ForgeJudge \u2014 open eval leaderboard + CI gate for autonomous coding agents.",
+   "cur": "Open, always-on leaderboard + CI gate for autonomous coding agents \u2014 every patch sandboxed"
   },
   {
-   "server": "io.github.atomno-mcp/mcp-erid",
-   "pkg": "atomno-mcp-erid",
-   "prev": "MCP server: Russian internet-ad marking (\u043c\u0430\u0440\u043a\u0438\u0440\u043e\u0432\u043a\u0430 \u0440\u0435\u043a\u043b\u0430\u043c\u044b, 38-\u0424\u0417) checker \u2014 validate an ",
-   "cur": "MCP for Russian ad marking: erid format check; ORD cabinet lookup on the client key. Advis"
+   "server": "io.github.astrogilda/tsbootstrap",
+   "pkg": "tsbootstrap",
+   "prev": "A Python package to generate bootstrapped time series",
+   "cur": "Fast, dependence-aware resampling and uncertainty for time series and panels"
   }
  ]
 }

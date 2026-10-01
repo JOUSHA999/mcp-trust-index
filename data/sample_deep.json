@@ -1,90 +1,60 @@
 {
- "generated_at": "2026-09-30T03:44:17Z",
- "universe_declared_github_repos": 21286,
- "universe_declared_npm_packages": 8582,
+ "generated_at": "2026-10-01T03:44:32Z",
+ "universe_declared_github_repos": 21252,
+ "universe_declared_npm_packages": 8566,
  "github_sample": {
   "n": 1200,
-  "dead": 246,
-  "dead_pct": 20.5,
+  "dead": 220,
+  "dead_pct": 18.3,
   "ci95": [
-   18.3,
-   22.9
+   16.2,
+   20.6
   ],
-  "archived": 9,
-  "no_license": 104,
-  "stale_365d": 4,
+  "archived": 13,
+  "no_license": 117,
+  "stale_365d": 9,
   "extrapolated_dead": [
-   3895,
-   4874
+   3443,
+   4378
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 797,
-  "unresolved": 3,
-  "version_desync": 279,
-  "desync_pct": 34.9,
+  "resolved": 789,
+  "unresolved": 11,
+  "version_desync": 272,
+  "desync_pct": 34.0,
   "ci95": [
-   31.7,
-   38.2
+   30.8,
+   37.4
   ],
-  "description_drift": 72,
-  "drift_pct": 9.0,
+  "description_drift": 60,
+  "drift_pct": 7.5,
   "desc_mismatch_vs_registry": 612,
   "mismatch_pct": 76.5,
   "extrapolated_desync": [
-   2720,
-   3278
+   2638,
+   3204
   ]
  },
  "examples_dead_repo": [
-  "dropthis-dev/dropthis-mcp",
-  "Galax-ai/ReadyPermit.AI-v2",
-  "FoundryNet/fact-check-mcp",
-  "dwixom/rcs-agent-mvp",
-  "NOTTIBOY137/mcp-open-registry-poc",
-  "CSOAI-ORG/agent-data-residency-mcp",
-  "RiptideZ/swedish-haven-stays",
-  "janleitner/agentic-workflows",
-  "CourtimusPrime/Gopher.it",
   "joeetdev/venture-estate",
+  "devcham/jacktrade",
+  "dmurashi/ai.westerncontainersales.com",
+  "jhicks935-lab/resolution-ai",
+  "CyberMax-tools/product-factory",
+  "mrfentmen/awesome-mcps",
+  "mrfentmen/plos-mcp",
+  "mrfentmen/dexscreener-mcp",
+  "apolocine/mosta-orm-mcp",
+  "CSOAI-ORG/hl7-fhir-bridge-mcp",
+  "mikeslone/skilimone",
+  "mrrobey/sit-atlas",
+  "elevasyncsolutions-jpg/cryptodata-api",
   "joeetdev/venture-estate",
-  "autoblocksai/ctxl",
-  "mrfentmen/sunrise-sunset-mcp",
-  "mrfentmen/gitignore-mcp",
-  "jhibird/HeySpark-MCP"
+  "ChanghuLiu/opc-ua-nodeset-compatibility-gate"
  ],
  "examples_drift": [
-  {
-   "server": "com.gadgethumans.swarm/x402-middleware",
-   "pkg": "@gadgethumans/x402",
-   "prev": "x402 payment protocol \u2014 pay-per-call for AI agents via USDC on Base. No signup, no API key",
-   "cur": "x402 pay-per-call for AI agents \u2014 USDC on Base + Stripe. 3 free calls, then \u20ac0.50/100. No "
-  },
-  {
-   "server": "io.github.mrfentmen/playcanvas-mcp",
-   "pkg": "playcanvas-mcp",
-   "prev": "PlayCanvas projects: assets, rate limits. Needs token.",
-   "cur": "Query the PlayCanvas REST API: list project assets, get asset metadata, and check API rate"
-  },
-  {
-   "server": "eu.ansvar/portuguese-law-mcp",
-   "pkg": "@ansvar/portuguese-law-mcp",
-   "prev": "Portuguese law database covering Lei 58/2019 (GDPR implementation), Lei 46/2018 (NIS trans",
-   "cur": "Portuguese law database with 1,130 statutes and 56,955 provisions covering full Portuguese"
-  },
-  {
-   "server": "io.github.ThomasGorisse/sceneview",
-   "pkg": "sceneview-mcp",
-   "prev": "MCP server for SceneView \u2014 cross-platform 3D & AR SDK for Android and iOS. Give Claude the",
-   "cur": "MCP server for SceneView \u2014 cross-platform 3D & AR SDK for Android and iOS. Gives your AI c"
-  },
-  {
-   "server": "dev.cz-agents/realestate",
-   "pkg": "@czagents/realestate",
-   "prev": "BREAKING(0.2.0): Paid tools moved to hosted realestate-pro.cz-agents.dev. Free tier packag",
-   "cur": "Czech distressed real estate intelligence \u2014 anonymized district-level aggregates (insolven"
-  },
   {
    "server": "io.frase/mcp-server",
    "pkg": "@frase/mcp-server",
@@ -92,28 +62,58 @@
    "cur": "Frase MCP Server \u2014 The complete content platform for AI agents. Research, write, optimize,"
   },
   {
-   "server": "io.github.agentbodegastore/agentbodega-mcp",
-   "pkg": "@agentbodega/mcp",
-   "prev": "Discover AgentBodega paid data tools, contracts, and x402 HTTP call snippets.",
-   "cur": "Discover AgentBodega paid data tools, task plans, contracts, and x402 HTTP call snippets."
+   "server": "io.github.cyanheads/openfoodfacts-mcp-server",
+   "pkg": "@cyanheads/openfoodfacts-mcp-server",
+   "prev": "Look up food products by barcode, search by ingredient or nutrition filter, compare produc",
+   "cur": "Look up food products by barcode, search by keyword, tag, allergen, or nutrition filter, c"
   },
   {
-   "server": "eu.ansvar/costa-rican-law-mcp",
-   "pkg": "@ansvar/costa-rican-law-mcp",
-   "prev": "Costa Rican law database with 12,091 laws and 75,793 provisions from SCIJ via Model Contex",
-   "cur": "Costa Rican law database with 16,724 laws and 120,455 provisions from SCIJ via Model Conte"
+   "server": "io.github.Garl-Protocol/agent-trust",
+   "pkg": "@garl-protocol/mcp-server",
+   "prev": "GARL Protocol MCP Server \u2014 cryptographic verification for AI agent actions. 28 named tools",
+   "cur": "GARL Protocol MCP Server \u2014 cryptographic verification for AI agent actions. 29 named tools"
   },
   {
-   "server": "io.github.lordbasilaiassistant-sudo/thryx-mcp-server",
-   "pkg": "@thryx/mcp-server",
-   "prev": "ThryxProtocol v3.1 MCP Server \u2014 gasless AI agent launchpad + trading platform on Base. 21 ",
-   "cur": "ThryxProtocol v3.1.1 MCP Server \u2014 gasless AI agent launchpad + trading platform on Base. 2"
+   "server": "com.homecoverhq/rates-index",
+   "pkg": "@ellul-estate/homecoverhq-com-rates-index-mcp",
+   "prev": "HomeCover HQ: the average annual renters insurance premium, read from renter households (2",
+   "cur": "HomeCover HQ: the average annual renters insurance premium, read from renter households (2"
   },
   {
-   "server": "io.github.BrowseAI-HQ/browseai-dev",
-   "pkg": "browseai-dev",
-   "prev": "Grounded Intelligence for AI agents. MCP server with real-time web search, evidence extrac",
-   "cur": "DEPRECATED \u2014 BrowseAI Dev is now LastSearch. This package installs and launches lastsearch"
+   "server": "io.github.kimbobmarley03/devpick",
+   "pkg": "@devpick/mcp-server",
+   "prev": "43 developer tools for AI agents \u2014 PDF merge/split, subnet calc, regex tester, JSON diff, ",
+   "cur": "Developer tools for AI agents. Merge PDFs, calculate subnets, test regex, diff JSON \u2014 thin"
+  },
+  {
+   "server": "io.github.Thingscorp/thatmgmt-mcp",
+   "pkg": "@thatmgmt/mcp",
+   "prev": "MCP server wrapping the ThatMgmt domain reseller API: check availability, suggest names, g",
+   "cur": "MCP server for ThatMgmt \u2014 buy domains with crypto, no signup, no subscription. Check avail"
+  },
+  {
+   "server": "io.github.ZachDreamZ/agent-api-gateway",
+   "pkg": "agent-api-gateway-mcp",
+   "prev": "MCP server for Agent API Gateway \u2014 extract structured web data (product, article, company)",
+   "cur": "MCP server for Agent API Gateway - extract structured web data (product, article, company)"
+  },
+  {
+   "server": "com.rebilder/mcp-server",
+   "pkg": "@rebilder/mcp-server",
+   "prev": "Website readability checks and actionable improvement guidance for your AI assistant. A lo",
+   "cur": "MCP server that lets your AI assistant check how well AI agents can read a web page. Runs "
+  },
+  {
+   "server": "com.arena-predictions/arena",
+   "pkg": "arena-mcp-server",
+   "prev": "Arena's local MCP server (Track 1, stdio). Runs on the user's machine against the credenti",
+   "cur": "MCP server for Arena Predictions, paper trading for prediction markets at live prices. Loo"
+  },
+  {
+   "server": "io.github.daleweaver1981/cockpit-mcp",
+   "pkg": "cockpit-mcp",
+   "prev": "Operator's Cockpit \u2014 40 AI prompts + self-hosted ops dashboard for homelab, Proxmox, Docke",
+   "cur": "Operator's Cockpit MCP server \u2014 40 LLM ops prompts (backup-gap audits, migration risk, sec"
   }
  ]
 }

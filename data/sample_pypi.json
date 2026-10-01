@@ -1,30 +1,24 @@
 {
- "generated_at": "2026-09-30T03:44:28Z",
- "universe_declared_pypi": 3345,
+ "generated_at": "2026-10-01T03:44:37Z",
+ "universe_declared_pypi": 3314,
  "sample": {
   "n_sampled": 500,
-  "resolved": 496,
-  "unresolved": 4,
-  "version_desync": 118,
-  "desync_pct": 23.8,
+  "resolved": 494,
+  "unresolved": 6,
+  "version_desync": 100,
+  "desync_pct": 20.2,
   "ci95": [
-   20.3,
-   27.7
+   16.9,
+   24.0
   ],
   "extrapolated_desync": [
-   679,
-   927
+   560,
+   795
   ],
-  "description_drift": 23,
-  "drift_pct": 4.6
+  "description_drift": 24,
+  "drift_pct": 4.9
  },
  "examples_drift": [
-  {
-   "server": "io.github.AgentTools-Cloud/agent-tools-mcp",
-   "pkg": "agent-tools-mcp",
-   "prev": "Search and call x402 paid services from any MCP-compatible agent (Claude, Cursor, Cline).",
-   "cur": "Discover x402 paid services, MCP servers and A2A agents from any MCP-compatible agent (Cla"
-  },
   {
    "server": "com.1102tools/bls-oews-mcp",
    "pkg": "bls-oews-mcp",
@@ -32,52 +26,58 @@
    "cur": "MCP server for BLS Occupational Employment and Wage Statistics (OEWS) market wages for IGC"
   },
   {
-   "server": "io.github.omniologynow-rgb/profitspot-mcp",
-   "pkg": "profitspot-mcp",
-   "prev": "Cross-chain DeFi intelligence for AI agents. Risk-scored yields, profit simulation, whale ",
-   "cur": "The DeFi Brain for AI agents \u2014 ask Claude to find safe yields, grade liquidity pool risk, "
+   "server": "io.github.ohad6k/emulo",
+   "pkg": "emulo",
+   "prev": "Mine your local AI coding session logs into a personal profile your agent loads before eve",
+   "cur": "Mine the messages you typed in local AI coding sessions into a you.md profile with dated r"
   },
   {
-   "server": "io.github.SaravananJaichandar/world-model-mcp",
-   "pkg": "world-model-mcp",
-   "prev": "MCP server that builds a world model for codebases to prevent hallucinations, repeated mis",
-   "cur": "MCP world-model memory server for coding agents; ships the etch-verify offline audit-chain"
+   "server": "io.github.masondelan/selvedge",
+   "pkg": "selvedge",
+   "prev": "Decision provenance for AI-coded codebases: the why, and what was already tried and reject",
+   "cur": "Persistent decision memory for AI coding agents: rationale, rejected approaches, and entit"
   },
   {
-   "server": "io.github.CSOAI-ORG/c2pa-watermark-mcp",
-   "pkg": "c2pa-watermark-mcp",
-   "prev": "C2PA Content Credentials MCP server for EU AI Act Article 50 compliance.",
-   "cur": "C2PA Watermark & Provenance MCP server. Built with c2pa-python."
+   "server": "io.github.lorenzo-cambiaghi/lynx",
+   "pkg": "lynx-mcp",
+   "prev": "100% local MCP server for semantic + lexical code search: AST-aware chunking (tree-sitter)",
+   "cur": "LynxMCP: 100% local MCP server for the code questions grep can't answer. Call graph and bl"
   },
   {
-   "server": "io.github.alyiox/mcp-atlassian-attachments",
-   "pkg": "mcp-atlassian-attachments",
-   "prev": "MCP server for downloading Jira and Confluence Cloud attachments",
-   "cur": "MCP server for downloading Jira and Confluence Cloud attachments and uploading Jira attach"
+   "server": "io.github.bawbel/scanner",
+   "pkg": "bawbel-scanner",
+   "prev": "Agentic AI component security scanner. Detects AVE vulnerabilities. Produces OWASP AIVSS v",
+   "cur": "Security linter and scanner for MCP servers and AI skill files. Detects toxic flows, promp"
   },
   {
-   "server": "io.github.cmendezs/mcp-cfdi-mx",
-   "pkg": "mcp-cfdi-mx",
-   "prev": "MCP server for Mexican electronic invoicing (CFDI 4.0, Complemento de Pagos 2.0)",
-   "cur": "MCP server for Mexican electronic invoicing (CFDI 4.0, Complemento de Pagos 2.0), PAC-agno"
+   "server": "io.github.CSOAI-ORG/dora-compliance-mcp",
+   "pkg": "dora-compliance-mcp",
+   "prev": "DORA (EU Digital Operational Resilience Act) compliance for AI agents. 5-pillar audit, inc",
+   "cur": "DORA measurement for AI agents. 5-pillar audit, incident classification, Article 28 Regist"
   },
   {
-   "server": "io.github.SuperAngryMonkey/iris",
-   "pkg": "iris-mcp",
-   "prev": "A Microsoft 365 mail MCP server that drafts into Outlook. Sending is off by default and op",
-   "cur": "A Microsoft 365 mail MCP server that reads your mailbox and drafts into Outlook. Sending i"
+   "server": "io.github.kar-thik/openproject-mcp-server",
+   "pkg": "openproject-mcp-server",
+   "prev": "MCP server for OpenProject: 88 tools for work packages, attachments, git activity, time tr",
+   "cur": "MCP server for OpenProject: 89 tools for work packages, attachments, git activity, time tr"
   },
   {
-   "server": "io.github.ahmedEid1/forgejudge",
-   "pkg": "forgejudge",
-   "prev": "Reserved for ForgeJudge \u2014 open eval leaderboard + CI gate for autonomous coding agents.",
-   "cur": "Open, always-on leaderboard + CI gate for autonomous coding agents \u2014 every patch sandboxed"
+   "server": "io.github.invigil/invigil",
+   "pkg": "invigil",
+   "prev": "A CI quality gate that grades a repo against a product-quality doctrine \u2014 not code style.",
+   "cur": "Linters check your code. Invigil checks whether your repo is legible \u2014 to newcomers and to"
   },
   {
-   "server": "io.github.astrogilda/tsbootstrap",
-   "pkg": "tsbootstrap",
-   "prev": "A Python package to generate bootstrapped time series",
-   "cur": "Fast, dependence-aware resampling and uncertainty for time series and panels"
+   "server": "io.github.jaysinailabs/aperture-mcp",
+   "pkg": "aperture-mcp",
+   "prev": "A commitment tripwire for AI-edited decision docs: flags when a tracked commitment disappe",
+   "cur": "A commitment tripwire for AI-edited decision docs: flags when a tracked commitment disappe"
+  },
+  {
+   "server": "io.github.flytohub/flyto-core",
+   "pkg": "flyto-core",
+   "prev": "The open-source execution engine for AI agents. 480 modules, MCP-native, triggers, queue, ",
+   "cur": "The open-source execution engine for AI agents. 481 modules, MCP-native, triggers, queue, "
   }
  ]
 }

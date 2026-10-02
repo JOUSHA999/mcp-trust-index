@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-10-01T03:44:37Z",
- "universe_declared_pypi": 3314,
+ "generated_at": "2026-10-02T03:46:48Z",
+ "universe_declared_pypi": 3304,
  "sample": {
   "n_sampled": 500,
-  "resolved": 494,
-  "unresolved": 6,
-  "version_desync": 100,
-  "desync_pct": 20.2,
+  "resolved": 496,
+  "unresolved": 4,
+  "version_desync": 107,
+  "desync_pct": 21.6,
   "ci95": [
-   16.9,
-   24.0
+   18.2,
+   25.4
   ],
   "extrapolated_desync": [
-   560,
-   795
+   601,
+   839
   ],
-  "description_drift": 24,
-  "drift_pct": 4.9
+  "description_drift": 32,
+  "drift_pct": 6.5
  },
  "examples_drift": [
   {
@@ -26,58 +26,58 @@
    "cur": "MCP server for BLS Occupational Employment and Wage Statistics (OEWS) market wages for IGC"
   },
   {
+   "server": "io.github.nveil-ai/nveil",
+   "pkg": "nveil",
+   "prev": "AI-powered data visualization \u2014 describe what you want, get production charts. Data stays ",
+   "cur": "AI-powered data visualization toolkit. Describe your data, get production charts, locally."
+  },
+  {
+   "server": "io.github.marcorusc/MaBoSS",
+   "pkg": "mcp-biomodelling-servers",
+   "prev": "MCP servers for NeKo signalling-network construction, MaBoSS Boolean simulation, and Physi",
+   "cur": "MCP servers for NeKo signalling-network construction, MaBoSS Boolean simulation, PhysiCell"
+  },
+  {
    "server": "io.github.ohad6k/emulo",
    "pkg": "emulo",
    "prev": "Mine your local AI coding session logs into a personal profile your agent loads before eve",
    "cur": "Mine the messages you typed in local AI coding sessions into a you.md profile with dated r"
   },
   {
-   "server": "io.github.masondelan/selvedge",
-   "pkg": "selvedge",
-   "prev": "Decision provenance for AI-coded codebases: the why, and what was already tried and reject",
-   "cur": "Persistent decision memory for AI coding agents: rationale, rejected approaches, and entit"
+   "server": "io.github.esrisaudiarabia/arcgis-mcp-server",
+   "pkg": "arcgis-mcp-server",
+   "prev": "A unified MCP server for ArcGIS that works for both local agent and MCP registry publishin",
+   "cur": "Intelligent ArcGIS content search for Portal and Online."
   },
   {
-   "server": "io.github.lorenzo-cambiaghi/lynx",
-   "pkg": "lynx-mcp",
-   "prev": "100% local MCP server for semantic + lexical code search: AST-aware chunking (tree-sitter)",
-   "cur": "LynxMCP: 100% local MCP server for the code questions grep can't answer. Call graph and bl"
+   "server": "io.github.liveplex-cpu/fiber",
+   "pkg": "fiber-mcp",
+   "prev": "FIBER \u2014 Optical operations platform MCP server for AI datacenters (gNMI telemetry, ML pred",
+   "cur": "FIBER \u2014 Optical operations platform MCP server for AI datacenters (gNMI telemetry, ML pred"
   },
   {
-   "server": "io.github.bawbel/scanner",
-   "pkg": "bawbel-scanner",
-   "prev": "Agentic AI component security scanner. Detects AVE vulnerabilities. Produces OWASP AIVSS v",
-   "cur": "Security linter and scanner for MCP servers and AI skill files. Detects toxic flows, promp"
+   "server": "io.github.malkreide/seco-labor-mcp",
+   "pkg": "seco-labor-mcp",
+   "prev": "MCP server for Swiss labor market data (SECO/AMSTAT) \u2013 Arbeitsmarkt & Stellensuche",
+   "cur": "MCP server for Swiss labour market and occupational-accident data (SECO/AMSTAT/BFS, UVG)"
   },
   {
-   "server": "io.github.CSOAI-ORG/dora-compliance-mcp",
-   "pkg": "dora-compliance-mcp",
-   "prev": "DORA (EU Digital Operational Resilience Act) compliance for AI agents. 5-pillar audit, inc",
-   "cur": "DORA measurement for AI agents. 5-pillar audit, incident classification, Article 28 Regist"
+   "server": "io.github.marcorusc/BioMASS",
+   "pkg": "mcp-biomodelling-servers",
+   "prev": "MCP servers for NeKo signalling-network construction, MaBoSS Boolean simulation, and Physi",
+   "cur": "MCP servers for NeKo signalling-network construction, MaBoSS Boolean simulation, PhysiCell"
   },
   {
-   "server": "io.github.kar-thik/openproject-mcp-server",
-   "pkg": "openproject-mcp-server",
-   "prev": "MCP server for OpenProject: 88 tools for work packages, attachments, git activity, time tr",
-   "cur": "MCP server for OpenProject: 89 tools for work packages, attachments, git activity, time tr"
+   "server": "io.github.jlucasmcrell/apify-scrapers",
+   "pkg": "apify-data-scrapers",
+   "prev": "MCP server exposing 39 Apify public-data scrapers as tools (Google Maps, news, SEO, jobs, ",
+   "cur": "MCP server exposing 40 Apify public-data scrapers as tools (Google Maps, news, SEO, jobs, "
   },
   {
-   "server": "io.github.invigil/invigil",
-   "pkg": "invigil",
-   "prev": "A CI quality gate that grades a repo against a product-quality doctrine \u2014 not code style.",
-   "cur": "Linters check your code. Invigil checks whether your repo is legible \u2014 to newcomers and to"
-  },
-  {
-   "server": "io.github.jaysinailabs/aperture-mcp",
-   "pkg": "aperture-mcp",
-   "prev": "A commitment tripwire for AI-edited decision docs: flags when a tracked commitment disappe",
-   "cur": "A commitment tripwire for AI-edited decision docs: flags when a tracked commitment disappe"
-  },
-  {
-   "server": "io.github.flytohub/flyto-core",
-   "pkg": "flyto-core",
-   "prev": "The open-source execution engine for AI agents. 480 modules, MCP-native, triggers, queue, ",
-   "cur": "The open-source execution engine for AI agents. 481 modules, MCP-native, triggers, queue, "
+   "server": "io.github.barangaroo/crosstabs",
+   "pkg": "crosstabs",
+   "prev": "MCP package with 39 statistical tools and runtime status plus 33 headless workflow tools",
+   "cur": "MCP package with 39 statistical tools and runtime status plus 35 headless workflow tools"
   }
  ]
 }

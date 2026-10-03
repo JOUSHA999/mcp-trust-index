@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-10-02T03:46:48Z",
- "universe_declared_pypi": 3304,
+ "generated_at": "2026-10-03T03:49:38Z",
+ "universe_declared_pypi": 3326,
  "sample": {
   "n_sampled": 500,
-  "resolved": 496,
-  "unresolved": 4,
-  "version_desync": 107,
-  "desync_pct": 21.6,
+  "resolved": 490,
+  "unresolved": 10,
+  "version_desync": 88,
+  "desync_pct": 18.0,
   "ci95": [
-   18.2,
-   25.4
+   14.8,
+   21.6
   ],
   "extrapolated_desync": [
-   601,
-   839
+   492,
+   718
   ],
-  "description_drift": 32,
-  "drift_pct": 6.5
+  "description_drift": 28,
+  "drift_pct": 5.7
  },
  "examples_drift": [
   {
@@ -26,58 +26,58 @@
    "cur": "MCP server for BLS Occupational Employment and Wage Statistics (OEWS) market wages for IGC"
   },
   {
+   "server": "io.github.markoblogo/id",
+   "pkg": "id-protocol",
+   "prev": "Git-like protocol and tooling for portable human-AI identity context",
+   "cur": "Owner-controlled, privacy-filtered context for AI tools"
+  },
+  {
+   "server": "io.github.Astrix-Labs/genesys-memory",
+   "pkg": "genesys-memory",
+   "prev": "The intelligence layer for AI memory \u2014 scoring, causal inference, lifecycle management, an",
+   "cur": "genesys-memory has been renamed to papez. This package installs papez and keeps `import ge"
+  },
+  {
+   "server": "io.github.GabMJ23/nyambot-mcp",
+   "pkg": "nyambot-mcp",
+   "prev": "L'administration fran\u00e7aise pour vos agents IA \u2014 serveur MCP (communes, g\u00e9ocodage, risques ",
+   "cur": "La couche d'intelligence qui rend la donn\u00e9e publique fran\u00e7aise exploitable par vos agents "
+  },
+  {
    "server": "io.github.nveil-ai/nveil",
    "pkg": "nveil",
    "prev": "AI-powered data visualization \u2014 describe what you want, get production charts. Data stays ",
    "cur": "AI-powered data visualization toolkit. Describe your data, get production charts, locally."
   },
   {
-   "server": "io.github.marcorusc/MaBoSS",
-   "pkg": "mcp-biomodelling-servers",
-   "prev": "MCP servers for NeKo signalling-network construction, MaBoSS Boolean simulation, and Physi",
-   "cur": "MCP servers for NeKo signalling-network construction, MaBoSS Boolean simulation, PhysiCell"
+   "server": "io.github.ArkNill/feedkit",
+   "pkg": "feedkit",
+   "prev": "RSS/Atom feed collection with 449 curated feeds. Python MCP server included.",
+   "cur": "RSS/Atom feed collection with 444 curated feeds. Python MCP server included."
   },
   {
-   "server": "io.github.ohad6k/emulo",
-   "pkg": "emulo",
-   "prev": "Mine your local AI coding session logs into a personal profile your agent loads before eve",
-   "cur": "Mine the messages you typed in local AI coding sessions into a you.md profile with dated r"
+   "server": "io.github.kiwoongeom/gmc-mcp",
+   "pkg": "gmc-mcp",
+   "prev": "Google Merchant Center MCP \u2014 the first free, open-source, self-hosted MCP server for Googl",
+   "cur": "MCP server for Google Merchant Center on Merchant API v1. MIT-licensed, pip install-able, "
   },
   {
-   "server": "io.github.esrisaudiarabia/arcgis-mcp-server",
-   "pkg": "arcgis-mcp-server",
-   "prev": "A unified MCP server for ArcGIS that works for both local agent and MCP registry publishin",
-   "cur": "Intelligent ArcGIS content search for Portal and Online."
+   "server": "io.github.atomno-mcp/mcp-zakupki",
+   "pkg": "atomno-mcp-zakupki",
+   "prev": "MCP-\u0441\u0435\u0440\u0432\u0435\u0440 \u0434\u043b\u044f \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0445 \u0433\u043e\u0441\u0437\u0430\u043a\u0443\u043f\u043e\u043a (zakupki.gov.ru, 44-\u0424\u0417 / 223-\u0424\u0417 / 615-\u041f\u041f): \u043f\u043e\u0438\u0441\u043a \u0442\u0435\u043d\u0434",
+   "cur": "MCP-\u0441\u0435\u0440\u0432\u0435\u0440 \u0434\u043b\u044f \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0445 \u0433\u043e\u0441\u0437\u0430\u043a\u0443\u043f\u043e\u043a (zakupki.gov.ru, 44-\u0424\u0417 / 223-\u0424\u0417 / 615-\u041f\u041f): \u043f\u043e\u0438\u0441\u043a, \u043a\u0430\u0440"
   },
   {
-   "server": "io.github.liveplex-cpu/fiber",
-   "pkg": "fiber-mcp",
-   "prev": "FIBER \u2014 Optical operations platform MCP server for AI datacenters (gNMI telemetry, ML pred",
-   "cur": "FIBER \u2014 Optical operations platform MCP server for AI datacenters (gNMI telemetry, ML pred"
+   "server": "io.github.gzchenhao/openhire",
+   "pkg": "openhire",
+   "prev": "MCP server + CLI: job postings with the employer's real posting date, pulled from Greenhou",
+   "cur": "MCP server + CLI: job postings with the employer's real posting date, pulled from Greenhou"
   },
   {
-   "server": "io.github.malkreide/seco-labor-mcp",
-   "pkg": "seco-labor-mcp",
-   "prev": "MCP server for Swiss labor market data (SECO/AMSTAT) \u2013 Arbeitsmarkt & Stellensuche",
-   "cur": "MCP server for Swiss labour market and occupational-accident data (SECO/AMSTAT/BFS, UVG)"
-  },
-  {
-   "server": "io.github.marcorusc/BioMASS",
-   "pkg": "mcp-biomodelling-servers",
-   "prev": "MCP servers for NeKo signalling-network construction, MaBoSS Boolean simulation, and Physi",
-   "cur": "MCP servers for NeKo signalling-network construction, MaBoSS Boolean simulation, PhysiCell"
-  },
-  {
-   "server": "io.github.jlucasmcrell/apify-scrapers",
-   "pkg": "apify-data-scrapers",
-   "prev": "MCP server exposing 39 Apify public-data scrapers as tools (Google Maps, news, SEO, jobs, ",
-   "cur": "MCP server exposing 40 Apify public-data scrapers as tools (Google Maps, news, SEO, jobs, "
-  },
-  {
-   "server": "io.github.barangaroo/crosstabs",
-   "pkg": "crosstabs",
-   "prev": "MCP package with 39 statistical tools and runtime status plus 33 headless workflow tools",
-   "cur": "MCP package with 39 statistical tools and runtime status plus 35 headless workflow tools"
+   "server": "io.github.Buggy1111/wrapper-mcp",
+   "pkg": "wrapper-mcp",
+   "prev": "MCP server wrapping LINDAT NLP tools \u2014 production-grade anonymization, multilingual NER (3",
+   "cur": "DEPRECATED \u2014 renamed to anonymize-mcp. Run: pip install anonymize-mcp"
   }
  ]
 }

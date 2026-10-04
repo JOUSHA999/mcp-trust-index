@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-10-03T03:49:38Z",
- "universe_declared_pypi": 3326,
+ "generated_at": "2026-10-04T05:39:35Z",
+ "universe_declared_pypi": 3342,
  "sample": {
   "n_sampled": 500,
-  "resolved": 490,
-  "unresolved": 10,
-  "version_desync": 88,
-  "desync_pct": 18.0,
+  "resolved": 494,
+  "unresolved": 6,
+  "version_desync": 95,
+  "desync_pct": 19.2,
   "ci95": [
-   14.8,
-   21.6
+   16.0,
+   22.9
   ],
   "extrapolated_desync": [
-   492,
-   718
+   535,
+   765
   ],
-  "description_drift": 28,
-  "drift_pct": 5.7
+  "description_drift": 29,
+  "drift_pct": 5.9
  },
  "examples_drift": [
   {
@@ -26,28 +26,40 @@
    "cur": "MCP server for BLS Occupational Employment and Wage Statistics (OEWS) market wages for IGC"
   },
   {
-   "server": "io.github.markoblogo/id",
-   "pkg": "id-protocol",
-   "prev": "Git-like protocol and tooling for portable human-AI identity context",
-   "cur": "Owner-controlled, privacy-filtered context for AI tools"
+   "server": "io.github.Massed-Compute/mcp",
+   "pkg": "massed-compute-mcp",
+   "prev": "MCP server for the Massed Compute API.",
+   "cur": "Stdio bridge to the hosted Massed Compute MCP endpoint \u2014 a verbatim JSON-RPC pass-through."
   },
   {
-   "server": "io.github.Astrix-Labs/genesys-memory",
-   "pkg": "genesys-memory",
-   "prev": "The intelligence layer for AI memory \u2014 scoring, causal inference, lifecycle management, an",
-   "cur": "genesys-memory has been renamed to papez. This package installs papez and keeps `import ge"
+   "server": "io.github.defdone/payaion",
+   "pkg": "payaion-mcp",
+   "prev": "MCP server for Payaion \u2014 file uploads, marketplace listings, and paid downloads for AI age",
+   "cur": "MCP server for Payaion \u2014 file uploads, storage folders, marketplace listings, and paid dow"
   },
   {
-   "server": "io.github.GabMJ23/nyambot-mcp",
-   "pkg": "nyambot-mcp",
-   "prev": "L'administration fran\u00e7aise pour vos agents IA \u2014 serveur MCP (communes, g\u00e9ocodage, risques ",
-   "cur": "La couche d'intelligence qui rend la donn\u00e9e publique fran\u00e7aise exploitable par vos agents "
+   "server": "io.github.agenticempire/axint",
+   "pkg": "axint",
+   "prev": "Python SDK for Axint \u2014 define Apple App Intents, Views, Widgets, and Apps in Python.",
+   "cur": "Python SDK for Axint: define, validate, and generate inspectable Swift for App Intents, Sw"
   },
   {
-   "server": "io.github.nveil-ai/nveil",
-   "pkg": "nveil",
-   "prev": "AI-powered data visualization \u2014 describe what you want, get production charts. Data stays ",
-   "cur": "AI-powered data visualization toolkit. Describe your data, get production charts, locally."
+   "server": "io.github.flytohub/flyto-core",
+   "pkg": "flyto-core",
+   "prev": "The open-source execution engine for AI agents. 480 modules, MCP-native, triggers, queue, ",
+   "cur": "The open-source execution engine for AI agents. 481 modules, MCP-native, triggers, queue, "
+  },
+  {
+   "server": "io.github.chopmob-cloud/algovoi-mcp-server",
+   "pkg": "algovoi-mcp",
+   "prev": "MCP server for AlgoVoi \u2014 create crypto payment links, verify payments, probe MPP endpoints",
+   "cur": "MCP server for AlgoVoi \u2014 create crypto payment links, verify payments, probe MPP endpoints"
+  },
+  {
+   "server": "io.github.chaoz23/charactercheck",
+   "pkg": "charactercheck",
+   "prev": "Deterministic D&D Beyond character-sheet derivation with provenance \u2014 every stat computed ",
+   "cur": "Experimental read-only derivation of selected D&D Beyond character fields with provenance "
   },
   {
    "server": "io.github.ArkNill/feedkit",
@@ -56,28 +68,16 @@
    "cur": "RSS/Atom feed collection with 444 curated feeds. Python MCP server included."
   },
   {
-   "server": "io.github.kiwoongeom/gmc-mcp",
-   "pkg": "gmc-mcp",
-   "prev": "Google Merchant Center MCP \u2014 the first free, open-source, self-hosted MCP server for Googl",
-   "cur": "MCP server for Google Merchant Center on Merchant API v1. MIT-licensed, pip install-able, "
+   "server": "com.undercurrentholdings/aegis",
+   "pkg": "aegis-governance",
+   "prev": "Quantitative AI governance \u2014 works immediately, no signup required. 10 free evaluations/da",
+   "cur": "AEGIS governance Python client, async client, and local MCP server. The hosted evaluation "
   },
   {
-   "server": "io.github.atomno-mcp/mcp-zakupki",
-   "pkg": "atomno-mcp-zakupki",
-   "prev": "MCP-\u0441\u0435\u0440\u0432\u0435\u0440 \u0434\u043b\u044f \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0445 \u0433\u043e\u0441\u0437\u0430\u043a\u0443\u043f\u043e\u043a (zakupki.gov.ru, 44-\u0424\u0417 / 223-\u0424\u0417 / 615-\u041f\u041f): \u043f\u043e\u0438\u0441\u043a \u0442\u0435\u043d\u0434",
-   "cur": "MCP-\u0441\u0435\u0440\u0432\u0435\u0440 \u0434\u043b\u044f \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0445 \u0433\u043e\u0441\u0437\u0430\u043a\u0443\u043f\u043e\u043a (zakupki.gov.ru, 44-\u0424\u0417 / 223-\u0424\u0417 / 615-\u041f\u041f): \u043f\u043e\u0438\u0441\u043a, \u043a\u0430\u0440"
-  },
-  {
-   "server": "io.github.gzchenhao/openhire",
-   "pkg": "openhire",
-   "prev": "MCP server + CLI: job postings with the employer's real posting date, pulled from Greenhou",
-   "cur": "MCP server + CLI: job postings with the employer's real posting date, pulled from Greenhou"
-  },
-  {
-   "server": "io.github.Buggy1111/wrapper-mcp",
-   "pkg": "wrapper-mcp",
-   "prev": "MCP server wrapping LINDAT NLP tools \u2014 production-grade anonymization, multilingual NER (3",
-   "cur": "DEPRECATED \u2014 renamed to anonymize-mcp. Run: pip install anonymize-mcp"
+   "server": "io.github.LGDiMaggio/predictive-maintenance-mcp",
+   "pkg": "predictive-maintenance-mcp",
+   "prev": "AI agent for predictive maintenance & condition monitoring \u2014 Open-source MCP server and Cl",
+   "cur": "AI agent for predictive maintenance & condition monitoring \u2014 Open-source MCP server and Cl"
   }
  ]
 }

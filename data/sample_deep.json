@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-10-03T03:49:29Z",
- "universe_declared_github_repos": 20833,
- "universe_declared_npm_packages": 8611,
+ "generated_at": "2026-10-04T05:39:24Z",
+ "universe_declared_github_repos": 20196,
+ "universe_declared_npm_packages": 8655,
  "github_sample": {
   "n": 1200,
-  "dead": 227,
-  "dead_pct": 18.9,
+  "dead": 217,
+  "dead_pct": 18.1,
   "ci95": [
-   16.8,
-   21.2
+   16.0,
+   20.4
   ],
-  "archived": 24,
-  "no_license": 123,
-  "stale_365d": 6,
+  "archived": 13,
+  "no_license": 118,
+  "stale_365d": 10,
   "extrapolated_dead": [
-   3500,
-   4417
+   3231,
+   4120
   ]
  },
  "npm_sample": {
   "n": 800,
   "resolved": 790,
   "unresolved": 10,
-  "version_desync": 266,
-  "desync_pct": 33.2,
+  "version_desync": 275,
+  "desync_pct": 34.4,
   "ci95": [
-   30.1,
-   36.6
+   31.2,
+   37.7
   ],
-  "description_drift": 51,
-  "drift_pct": 6.4,
-  "desc_mismatch_vs_registry": 609,
-  "mismatch_pct": 76.1,
+  "description_drift": 64,
+  "drift_pct": 8.0,
+  "desc_mismatch_vs_registry": 597,
+  "mismatch_pct": 74.6,
   "extrapolated_desync": [
-   2592,
-   3152
+   2700,
+   3263
   ]
  },
  "examples_dead_repo": [
-  "dharun-rd/mcp-weather-server",
-  "ahutto87/parsel",
-  "joeetdev/venture-estate",
-  "scosemicolon/blocklottos-agent-tools",
-  "Melusi-M/pdf-editor-front-end",
-  "keen-mcp/mindmap-app",
-  "mrfentmen/nix-packages-mcp",
-  "GRU-953/dev953",
-  "mrfentmen/http-inspector-mcp",
-  "mosaro0224/averis-protocol",
-  "msanchezgrice/agentready",
-  "people-analyst/bicycle-guide",
-  "RoyAzran/Marketing-Mcp",
-  "joeetdev/venture-estate",
-  "junct-bot/coinbase-mcp"
+  "eitsedna/genesis",
+  "Senpi-Station/x402-mcp-web-extract",
+  "ama353-arch/Journi-Ai",
+  "dungeonroll0/dungeon-roll",
+  "mrfentmen/awesome-mcps",
+  "davidlg/openwebhook",
+  "mrfentmen/awesome-mcps",
+  "mrfentmen/awesome-mcps",
+  "DaniloNunesMelo/zugle",
+  "tokcloner/tokcloner",
+  "people-analyst/performix-site",
+  "vanmoose/truncus-mcp-server",
+  "CyberMax-tools/product-factory",
+  "SpiderIQ/SpiderIQ",
+  "ee324/a2awire"
  ],
  "examples_drift": [
   {
-   "server": "io.github.gudlab/ads-mcp",
-   "pkg": "@gudlab/ads-mcp",
-   "prev": "MCP server for Google Ads and Meta Ads, wrapping the Google Ads API and Meta Marketing API",
-   "cur": "MCP server for Google Ads and Meta Ads. Wraps both APIs directly to manage Search campaign"
+   "server": "io.github.Invarato/jarroba-tools",
+   "pkg": "@jarroba/mcp",
+   "prev": "MCP server (stdio, local) exposing 120 deterministic tools from Jarroba Tools, reusing the",
+   "cur": "MCP server (stdio, local) exposing 128 deterministic tools from Jarroba Tools, reusing the"
   },
   {
-   "server": "io.github.izworskic/openclaw-registry",
-   "pkg": "agentbase-mcp",
-   "prev": "MCP server for the OpenClaw agent instruction registry \u2014 search and retrieve agent instruc",
-   "cur": "MCP server for the AgentBase agent instruction registry \u2014 search and retrieve system promp"
+   "server": "io.github.Gareth1953/agent-services-mcp",
+   "pkg": "agent-services-mcp",
+   "prev": "Thin MCP server exposing provenance-receipts, quality-gate and agent-action-audit as disco",
+   "cur": "MCP server exposing paid (x402) and free tools for AI agents \u2014 content provenance, quality"
   },
   {
-   "server": "eu.ansvar/india-law-mcp",
-   "pkg": "@ansvar/india-law-mcp",
-   "prev": "India Law MCP \u2014 Indian legislation via Model Context Protocol",
-   "cur": "Complete Indian law database \u2014 846 Central Acts from India Code (indiacode.nic.in) with fu"
+   "server": "io.github.mrfentmen/gucci-mcp",
+   "pkg": "gucci-mcp",
+   "prev": "Gucci resale listings from Fashionphile and Rebag. Keyless.",
+   "cur": "Gucci resale listings aggregated from Fashionphile and Rebag public catalogs (prices in US"
   },
   {
-   "server": "com.myrmigo/myrmigo",
-   "pkg": "myrmigo-mcp",
-   "prev": "Myrmigo: shared, verified guides that help AI agents do tasks people are allowed to do on ",
-   "cur": "Myrmigo over stdio for MCP hosts: a proxy to the hosted Myrmigo server (travel and rental "
+   "server": "io.github.florentine-ai/mcp",
+   "pkg": "@florentine-ai/mcp",
+   "prev": "MCP server for Florentine.ai - Natural language to MongoDB aggregations",
+   "cur": "Florentine.ai MCP server \u2013 query MongoDB & MySQL databases in natural language"
   },
   {
-   "server": "com.balmasai/balmas-mcp",
-   "pkg": "balmas-mcp",
-   "prev": "BALMAS anonymization gateway for AI agents (MCP server): agents get cleaned copies of your",
-   "cur": "BALMAS anonymization gateway for AI agents (MCP server): agents get cleaned copies of your"
+   "server": "io.github.andysalvo/supership-scan",
+   "pkg": "supership-scan",
+   "prev": "Buy any x402 API or data on Base, Solana, or Polygon without a wallet on the seller's chai",
+   "cur": "supership indexes the entire x402 economy (52,000 services) so an AI agent can find and bu"
   },
   {
-   "server": "io.github.GemachDAO/gdex-mcp-server",
-   "pkg": "@gemachdao/gdex-mcp-server",
-   "prev": "MCP server for GDEX Trading SDK \u2014 full trading execution + documentation tools for AI agen",
-   "cur": "MCP server for GDEX (gdex.pro): trading execution and documentation tools for AI agents on"
+   "server": "io.github.om-tajne/pkgdiet",
+   "pkg": "pkgdiet",
+   "prev": "Put your node_modules on a diet \u2014 find unused dependencies, analyze package health, and re",
+   "cur": "Check any npm package in 2 seconds \u2014 ALLOW/WARN/BLOCK verdict, health score, size, cost, a"
   },
   {
-   "server": "io.github.Alessandro114/scala-score",
-   "pkg": "scala-mcp-server",
-   "prev": "MCP server for S.C.A.L.A. Score API \u2014 let Claude, ChatGPT, and AI agents search 250M+ comp",
-   "cur": "MCP server for S.C.A.L.A. AI OS \u2014 run your entire business from Claude. CRM, invoicing, bo"
+   "server": "io.github.BotHireAgent/bothire",
+   "pkg": "bothire-mcp",
+   "prev": "MCP server for BotHire \u2014 the machine-to-machine labor market where AI agents hire each oth",
+   "cur": "MCP server for BotHire \u2014 the machine-to-machine labor market where AI agents hire each oth"
   },
   {
-   "server": "io.github.defdone/payaion",
-   "pkg": "@payaion/mcp",
-   "prev": "MCP server for Payaion \u2014 file uploads, marketplace listings, and paid downloads for AI age",
-   "cur": "MCP server for Payaion \u2014 file uploads, storage folders, marketplace listings, and paid dow"
+   "server": "io.github.CDCStream/captapi",
+   "pkg": "@captapi/mcp",
+   "prev": "Official Captapi MCP server \u2014 give Claude, Cursor, and any MCP-compatible AI agent access ",
+   "cur": "Official Captapi MCP server \u2014 give Claude, Cursor, and any MCP-compatible AI agent access "
   },
   {
-   "server": "com.wontopos/mcp",
-   "pkg": "wontopos-mcp",
-   "prev": "Wontopos (WOS) long-term memory as an MCP server \u2014 one memory across Claude Code, Claude D",
-   "cur": "(beta) Wontopos (WOS) long-term memory as an MCP server \u2014 one memory across Claude Code, C"
+   "server": "io.github.dev-jackson/androidbuild-mcp",
+   "pkg": "@asjackson/androidbuild-mcp",
+   "prev": "MCP server exposing Android development tools (Gradle builds, emulators, adb, logcat, UI a",
+   "cur": "MCP server to build, deploy, drive and debug Android apps: Gradle, emulators, adb, logcat,"
   },
   {
-   "server": "io.github.SPOC-App/mcp-bridge",
-   "pkg": "@spocapp/mcp-bridge",
-   "prev": "stdio \u2194 HTTP+SSE bridge for the SPOC MCP server. Lets Claude Desktop, Cursor, Zed and othe",
-   "cur": "stdio bridge for the SPOC MCP server \u2014 for Claude Desktop, Cursor, Zed"
+   "server": "com.ai-rook.agents/trading-mcp",
+   "pkg": "ai-rook-trading-mcp",
+   "prev": "AI Rook MCP server \u2014 22 pay-per-call APIs (trading intelligence, web utilities, AI inferen",
+   "cur": "AI Rook MCP server \u2014 72 x402 endpoints (56 paid, 16 free): trading intelligence, local 456"
   }
  ]
 }

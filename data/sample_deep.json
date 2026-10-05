@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-10-04T05:39:24Z",
- "universe_declared_github_repos": 20196,
- "universe_declared_npm_packages": 8655,
+ "generated_at": "2026-10-05T03:47:10Z",
+ "universe_declared_github_repos": 19959,
+ "universe_declared_npm_packages": 8695,
  "github_sample": {
   "n": 1200,
-  "dead": 217,
-  "dead_pct": 18.1,
+  "dead": 202,
+  "dead_pct": 16.8,
   "ci95": [
-   16.0,
-   20.4
+   14.8,
+   19.1
   ],
-  "archived": 13,
-  "no_license": 118,
-  "stale_365d": 10,
+  "archived": 12,
+  "no_license": 129,
+  "stale_365d": 5,
   "extrapolated_dead": [
-   3231,
-   4120
+   2954,
+   3812
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 790,
-  "unresolved": 10,
-  "version_desync": 275,
-  "desync_pct": 34.4,
+  "resolved": 796,
+  "unresolved": 4,
+  "version_desync": 256,
+  "desync_pct": 32.0,
   "ci95": [
-   31.2,
-   37.7
+   28.9,
+   35.3
   ],
-  "description_drift": 64,
-  "drift_pct": 8.0,
-  "desc_mismatch_vs_registry": 597,
-  "mismatch_pct": 74.6,
+  "description_drift": 66,
+  "drift_pct": 8.2,
+  "desc_mismatch_vs_registry": 615,
+  "mismatch_pct": 76.9,
   "extrapolated_desync": [
-   2700,
-   3263
+   2513,
+   3069
   ]
  },
  "examples_dead_repo": [
-  "eitsedna/genesis",
-  "Senpi-Station/x402-mcp-web-extract",
-  "ama353-arch/Journi-Ai",
-  "dungeonroll0/dungeon-roll",
+  "Ryvonetwork/ryvo-gateway-agentic",
+  "projectdata-io/mpp-poweautomate-connector",
+  "people-analyst/devplane-site",
+  "NeetPatel/devops-mcp",
+  "Openfinanceorg/openfinance-app",
+  "mrfentmen/opendota-mcp",
   "mrfentmen/awesome-mcps",
-  "davidlg/openwebhook",
-  "mrfentmen/awesome-mcps",
-  "mrfentmen/awesome-mcps",
-  "DaniloNunesMelo/zugle",
-  "tokcloner/tokcloner",
-  "people-analyst/performix-site",
-  "vanmoose/truncus-mcp-server",
-  "CyberMax-tools/product-factory",
-  "SpiderIQ/SpiderIQ",
+  "mrfentmen/premium-mcps",
+  "Kingtriton92/sagechimp",
+  "medley/fda-data",
+  "Antmanbuilds/ARI",
+  "entityadam/comfyui-mcp",
+  "Im5tu/haus",
+  "joeetdev/venture-estate",
   "ee324/a2awire"
  ],
  "examples_drift": [
   {
-   "server": "io.github.Invarato/jarroba-tools",
-   "pkg": "@jarroba/mcp",
-   "prev": "MCP server (stdio, local) exposing 120 deterministic tools from Jarroba Tools, reusing the",
-   "cur": "MCP server (stdio, local) exposing 128 deterministic tools from Jarroba Tools, reusing the"
+   "server": "io.github.andrewschristison/pondlog-garden",
+   "pkg": "@pondlog/mcp-garden",
+   "prev": "Garden-planning MCP server with USDA hardiness zone lookup, a frost-anchored planting cale",
+   "cur": "DEPRECATED: use @cropgraph/mcp instead. Garden planning moved to CropGraph. Install: npx @"
   },
   {
-   "server": "io.github.Gareth1953/agent-services-mcp",
-   "pkg": "agent-services-mcp",
-   "prev": "Thin MCP server exposing provenance-receipts, quality-gate and agent-action-audit as disco",
-   "cur": "MCP server exposing paid (x402) and free tools for AI agents \u2014 content provenance, quality"
+   "server": "io.github.Influship/sponsorbook-mcp",
+   "pkg": "@sponsorbook/mcp",
+   "prev": "stdio proxy to Sponsorbook MCP. Clerk login, no API key.",
+   "cur": "Research YouTube sponsors, inspect sponsorship evidence, and manage Sponsorbook lists from"
   },
   {
-   "server": "io.github.mrfentmen/gucci-mcp",
-   "pkg": "gucci-mcp",
-   "prev": "Gucci resale listings from Fashionphile and Rebag. Keyless.",
-   "cur": "Gucci resale listings aggregated from Fashionphile and Rebag public catalogs (prices in US"
+   "server": "io.github.Anwani-app/anwani-mcp",
+   "pkg": "anwani-mcp",
+   "prev": "Anwani (\u0639\u0646\u0648\u0627\u0646\u064a) MCP \u2014 local stdio bridge + remote HTTP for digital address codes after OAu",
+   "cur": "MCP client for Anwani (9code.app) \u2014 create and manage permanent 9-digit address codes thro"
   },
   {
-   "server": "io.github.florentine-ai/mcp",
-   "pkg": "@florentine-ai/mcp",
-   "prev": "MCP server for Florentine.ai - Natural language to MongoDB aggregations",
-   "cur": "Florentine.ai MCP server \u2013 query MongoDB & MySQL databases in natural language"
+   "server": "io.github.hypark5540/discord-mcp",
+   "pkg": "@hypark5540/discord-mcp",
+   "prev": "Bootstrap marker for Discord MCP trusted publishing; install version 0.1.0 or later",
+   "cur": "A safe, configurable Model Context Protocol server for Discord"
   },
   {
-   "server": "io.github.andysalvo/supership-scan",
-   "pkg": "supership-scan",
-   "prev": "Buy any x402 API or data on Base, Solana, or Polygon without a wallet on the seller's chai",
-   "cur": "supership indexes the entire x402 economy (52,000 services) so an AI agent can find and bu"
+   "server": "io.github.dingdawg/dingdawg-data-agent",
+   "pkg": "dingdawg-data-agent",
+   "prev": "Data analysis that learns your schema. Query optimization, anomaly detection, pipeline mon",
+   "cur": "Governance receipts for AI agents \u2014 data analysis with query optimization, anomaly detecti"
   },
   {
-   "server": "io.github.om-tajne/pkgdiet",
-   "pkg": "pkgdiet",
-   "prev": "Put your node_modules on a diet \u2014 find unused dependencies, analyze package health, and re",
-   "cur": "Check any npm package in 2 seconds \u2014 ALLOW/WARN/BLOCK verdict, health score, size, cost, a"
+   "server": "io.github.finalburner/rankfabrik-mcp",
+   "pkg": "rankfabrik-mcp",
+   "prev": "Canal MCP de RankFabrik : les APIs de donn\u00e9es publiques expos\u00e9es comme outils MCP. Serveur",
+   "cur": "Canal MCP de RankFabrik : les 4 APIs de donn\u00e9es publiques (Captions/transcription YouTube,"
   },
   {
-   "server": "io.github.BotHireAgent/bothire",
-   "pkg": "bothire-mcp",
-   "prev": "MCP server for BotHire \u2014 the machine-to-machine labor market where AI agents hire each oth",
-   "cur": "MCP server for BotHire \u2014 the machine-to-machine labor market where AI agents hire each oth"
+   "server": "io.github.cmoonagent/vocce-agent",
+   "pkg": "vocce-transcribe-mcp",
+   "prev": "MCP server for vocce \u2014 transcribe local audio/video to text + SRT/VTT via hosted Whisper l",
+   "cur": "MCP server for vocce's hosted media tools: transcription, summaries, study notes, flashcar"
   },
   {
-   "server": "io.github.CDCStream/captapi",
-   "pkg": "@captapi/mcp",
-   "prev": "Official Captapi MCP server \u2014 give Claude, Cursor, and any MCP-compatible AI agent access ",
-   "cur": "Official Captapi MCP server \u2014 give Claude, Cursor, and any MCP-compatible AI agent access "
+   "server": "com.dechonet/mcp",
+   "pkg": "dechonet-mcp",
+   "prev": "Domain security reconnaissance MCP server \u2014 20 tools for AI agents. DNS, SSL, HTTP headers",
+   "cur": "Domain security reconnaissance MCP server \u2014 21 tools for AI agents. DNS, SSL, post-quantum"
   },
   {
-   "server": "io.github.dev-jackson/androidbuild-mcp",
-   "pkg": "@asjackson/androidbuild-mcp",
-   "prev": "MCP server exposing Android development tools (Gradle builds, emulators, adb, logcat, UI a",
-   "cur": "MCP server to build, deploy, drive and debug Android apps: Gradle, emulators, adb, logcat,"
+   "server": "io.github.mahdibrr/dev-error-explainers",
+   "pkg": "dev-error-explainers",
+   "prev": "Paste an error, get a deterministic explanation and the fix. Offline, zero-dependency expl",
+   "cur": "Paste an error, get a deterministic explanation and the fix. Offline, zero-dependency expl"
   },
   {
-   "server": "com.ai-rook.agents/trading-mcp",
-   "pkg": "ai-rook-trading-mcp",
-   "prev": "AI Rook MCP server \u2014 22 pay-per-call APIs (trading intelligence, web utilities, AI inferen",
-   "cur": "AI Rook MCP server \u2014 72 x402 endpoints (56 paid, 16 free): trading intelligence, local 456"
+   "server": "io.github.moon0825/jbnu-lms-student",
+   "pkg": "jbnu-lms-mcp",
+   "prev": "\uc804\ubd81\ub300\ud559\uad50 LMS \ud559\uc0dd\uc6a9 \uc870\ud68c\u00b7\ud559\uc5c5\uc9c0\uc6d0\u00b7\ud53c\ub4dc\ubc31 MCP \uc11c\ubc84 (Windows \ub85c\uceec STDIO)",
+   "cur": "\uc804\ubd81\ub300\ud559\uad50 LMS \ud559\uc0dd\uc6a9 \uc870\ud68c\u00b7\ud559\uc5c5\uc9c0\uc6d0\u00b7\ud53c\ub4dc\ubc31 MCP \uc11c\ubc84 (Windows/macOS \ub85c\uceec STDIO)"
   }
  ]
 }

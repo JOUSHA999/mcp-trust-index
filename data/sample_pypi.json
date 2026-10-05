@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-10-04T05:39:35Z",
- "universe_declared_pypi": 3342,
+ "generated_at": "2026-10-05T03:47:21Z",
+ "universe_declared_pypi": 3366,
  "sample": {
   "n_sampled": 500,
-  "resolved": 494,
-  "unresolved": 6,
-  "version_desync": 95,
-  "desync_pct": 19.2,
+  "resolved": 495,
+  "unresolved": 5,
+  "version_desync": 109,
+  "desync_pct": 22.0,
   "ci95": [
-   16.0,
-   22.9
+   18.6,
+   25.9
   ],
   "extrapolated_desync": [
-   535,
-   765
+   626,
+   872
   ],
-  "description_drift": 29,
-  "drift_pct": 5.9
+  "description_drift": 30,
+  "drift_pct": 6.1
  },
  "examples_drift": [
   {
@@ -26,34 +26,46 @@
    "cur": "MCP server for BLS Occupational Employment and Wage Statistics (OEWS) market wages for IGC"
   },
   {
-   "server": "io.github.Massed-Compute/mcp",
-   "pkg": "massed-compute-mcp",
-   "prev": "MCP server for the Massed Compute API.",
-   "cur": "Stdio bridge to the hosted Massed Compute MCP endpoint \u2014 a verbatim JSON-RPC pass-through."
+   "server": "io.github.neo4j-labs/neo4j-mcp-canary",
+   "pkg": "neo4j-mcp-canary",
+   "prev": "Neo4j official MCP Server version 0.7.0 \u2014 packaged as a Python wheel",
+   "cur": "Neo4j official MCP Server version 0.7.1 \u2014 packaged as a Python wheel"
   },
   {
-   "server": "io.github.defdone/payaion",
-   "pkg": "payaion-mcp",
-   "prev": "MCP server for Payaion \u2014 file uploads, marketplace listings, and paid downloads for AI age",
-   "cur": "MCP server for Payaion \u2014 file uploads, storage folders, marketplace listings, and paid dow"
+   "server": "io.github.marcorusc/BioMASS",
+   "pkg": "mcp-biomodelling-servers",
+   "prev": "MCP servers for NeKo signalling-network construction, MaBoSS Boolean simulation, and Physi",
+   "cur": "MCP servers for NeKo signalling-network construction, MaBoSS Boolean simulation, PhysiCell"
   },
   {
-   "server": "io.github.agenticempire/axint",
-   "pkg": "axint",
-   "prev": "Python SDK for Axint \u2014 define Apple App Intents, Views, Widgets, and Apps in Python.",
-   "cur": "Python SDK for Axint: define, validate, and generate inspectable Swift for App Intents, Sw"
+   "server": "io.github.lyf-wxy/spomory",
+   "pkg": "spomory",
+   "prev": "Persistent memory for AI agents via MCP \u2014 entity/relation knowledge graph, HippoRAG-style ",
+   "cur": "AI\u4e2a\u4eba\u8bb0\u5fc6\u4ea7\u54c1 \u2014 \u68c0\u7d22+\u8bb0\u5fc6\u7ba1\u7406\u5185\u6838"
   },
   {
-   "server": "io.github.flytohub/flyto-core",
-   "pkg": "flyto-core",
-   "prev": "The open-source execution engine for AI agents. 480 modules, MCP-native, triggers, queue, ",
-   "cur": "The open-source execution engine for AI agents. 481 modules, MCP-native, triggers, queue, "
+   "server": "io.github.dheerajjha/blind-mcp",
+   "pkg": "blind-mcp",
+   "prev": "Find what a role actually pays, including where the employer publishes nothing -- reads pu",
+   "cur": "Renamed to payband-mcp. Installing this installs payband-mcp; please depend on that instea"
   },
   {
-   "server": "io.github.chopmob-cloud/algovoi-mcp-server",
-   "pkg": "algovoi-mcp",
-   "prev": "MCP server for AlgoVoi \u2014 create crypto payment links, verify payments, probe MPP endpoints",
-   "cur": "MCP server for AlgoVoi \u2014 create crypto payment links, verify payments, probe MPP endpoints"
+   "server": "io.github.RudiRegenwurm/notanda",
+   "pkg": "notanda-mcp",
+   "prev": "Beta local MCP server for provenance-aware Notanda literature retrieval.",
+   "cur": "Every OpenAlex search stores its request, response and checksums so sources can be checked"
+  },
+  {
+   "server": "io.github.heubme2020/datasinking",
+   "pkg": "datasinking",
+   "prev": "Python client for DataSinking \u2014 full-text Asian financial reports (China, Korea, Japan, Ta",
+   "cur": "Python client for DataSinking \u2014 full-text financial reports (US, China, Japan, Korea, Taiw"
+  },
+  {
+   "server": "io.github.horustechltd/horus-flow-mcp",
+   "pkg": "horus-flow-mcp",
+   "prev": "Real-time orderflow intelligence for crypto & equities \u2014 whale detection, spoofing alerts,",
+   "cur": "Cognitive Market Brain for Autonomous AI Trading Agents (Orderflow Physics, Liquidation Gr"
   },
   {
    "server": "io.github.chaoz23/charactercheck",
@@ -62,22 +74,10 @@
    "cur": "Experimental read-only derivation of selected D&D Beyond character fields with provenance "
   },
   {
-   "server": "io.github.ArkNill/feedkit",
-   "pkg": "feedkit",
-   "prev": "RSS/Atom feed collection with 449 curated feeds. Python MCP server included.",
-   "cur": "RSS/Atom feed collection with 444 curated feeds. Python MCP server included."
-  },
-  {
-   "server": "com.undercurrentholdings/aegis",
-   "pkg": "aegis-governance",
-   "prev": "Quantitative AI governance \u2014 works immediately, no signup required. 10 free evaluations/da",
-   "cur": "AEGIS governance Python client, async client, and local MCP server. The hosted evaluation "
-  },
-  {
-   "server": "io.github.LGDiMaggio/predictive-maintenance-mcp",
-   "pkg": "predictive-maintenance-mcp",
-   "prev": "AI agent for predictive maintenance & condition monitoring \u2014 Open-source MCP server and Cl",
-   "cur": "AI agent for predictive maintenance & condition monitoring \u2014 Open-source MCP server and Cl"
+   "server": "io.github.hangeaiagent/kronos-mcp",
+   "pkg": "kronos-mcp",
+   "prev": "MCP server for Kronos stock price forecasting \u2014 A-shares, US and HK equities",
+   "cur": "MCP server for Kronos stock price forecasting \u2014 China A-shares"
   }
  ]
 }

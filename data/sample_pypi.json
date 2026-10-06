@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-10-05T03:47:21Z",
- "universe_declared_pypi": 3366,
+ "generated_at": "2026-10-06T03:45:33Z",
+ "universe_declared_pypi": 3360,
  "sample": {
   "n_sampled": 500,
-  "resolved": 495,
-  "unresolved": 5,
-  "version_desync": 109,
-  "desync_pct": 22.0,
+  "resolved": 497,
+  "unresolved": 3,
+  "version_desync": 113,
+  "desync_pct": 22.7,
   "ci95": [
-   18.6,
-   25.9
+   19.3,
+   26.6
   ],
   "extrapolated_desync": [
-   626,
-   872
+   648,
+   894
   ],
-  "description_drift": 30,
-  "drift_pct": 6.1
+  "description_drift": 26,
+  "drift_pct": 5.2
  },
  "examples_drift": [
   {
@@ -26,58 +26,58 @@
    "cur": "MCP server for BLS Occupational Employment and Wage Statistics (OEWS) market wages for IGC"
   },
   {
-   "server": "io.github.neo4j-labs/neo4j-mcp-canary",
-   "pkg": "neo4j-mcp-canary",
-   "prev": "Neo4j official MCP Server version 0.7.0 \u2014 packaged as a Python wheel",
-   "cur": "Neo4j official MCP Server version 0.7.1 \u2014 packaged as a Python wheel"
+   "server": "io.github.CSOAI-ORG/dora-compliance-mcp",
+   "pkg": "dora-compliance-mcp",
+   "prev": "DORA (EU Digital Operational Resilience Act) compliance for AI agents. 5-pillar audit, inc",
+   "cur": "DORA measurement for AI agents. 5-pillar audit, incident classification, Article 28 Regist"
   },
   {
-   "server": "io.github.marcorusc/BioMASS",
+   "server": "io.github.liveplex-cpu/fiber",
+   "pkg": "fiber-mcp",
+   "prev": "FIBER \u2014 Optical operations platform MCP server for AI datacenters (gNMI telemetry, ML pred",
+   "cur": "FIBER \u2014 Optical operations platform MCP server for AI datacenters (gNMI telemetry, ML pred"
+  },
+  {
+   "server": "io.github.malkreide/eth-library-mcp",
+   "pkg": "eth-library-mcp",
+   "prev": "MCP Server for ETH Library Zurich \u2014 Access 30M+ resources (books, maps, images, archives) ",
+   "cur": "MCP Server for ETH Library Zurich \u2014 Access 30M+ resources (books, maps, images, archives) "
+  },
+  {
+   "server": "io.github.IONIS-AI/ionis-mcp",
+   "pkg": "ionis-mcp",
+   "prev": "MCP server for IONIS HF propagation analytics \u2014 175M signatures from WSPR, RBN, Contest, D",
+   "cur": "MCP server for IONIS-AI HF propagation analytics \u2014 175M signatures from WSPR, RBN, Contest"
+  },
+  {
+   "server": "io.github.DanceNitra/mnemo",
+   "pkg": "agora-mnemo",
+   "prev": "The self-correcting memory layer for AI agents: when a fact is corrected, mnemo serves the",
+   "cur": "DEPRECATED - renamed to `inspeximus`. This release forwards to it; install `inspeximus` in"
+  },
+  {
+   "server": "io.github.Z-Han-Z/apple-music-playlists",
+   "pkg": "apple-music-playlists",
+   "prev": "Deep Apple Music playlist curation via MCP: grounded selection, narrative arcs, and flow-a",
+   "cur": "Deep Apple Music playlist curation via MCP: language-led selection, catalog grounding, and"
+  },
+  {
+   "server": "io.github.OpenOSINT/openosint",
+   "pkg": "openosint",
+   "prev": "AI-powered OSINT agent, MCP server, and CLI. Interactive REPL + 19 tools. Anthropic Claude",
+   "cur": "AI-powered OSINT agent, MCP server, and CLI. Interactive REPL + 20 tools. Anthropic Claude"
+  },
+  {
+   "server": "io.github.chopmob-cloud/algovoi-mcp-server",
+   "pkg": "algovoi-mcp",
+   "prev": "MCP server for AlgoVoi \u2014 create crypto payment links, verify payments, probe MPP endpoints",
+   "cur": "MCP server for AlgoVoi \u2014 create crypto payment links, verify payments, probe MPP endpoints"
+  },
+  {
+   "server": "io.github.marcorusc/NeKo",
    "pkg": "mcp-biomodelling-servers",
    "prev": "MCP servers for NeKo signalling-network construction, MaBoSS Boolean simulation, and Physi",
    "cur": "MCP servers for NeKo signalling-network construction, MaBoSS Boolean simulation, PhysiCell"
-  },
-  {
-   "server": "io.github.lyf-wxy/spomory",
-   "pkg": "spomory",
-   "prev": "Persistent memory for AI agents via MCP \u2014 entity/relation knowledge graph, HippoRAG-style ",
-   "cur": "AI\u4e2a\u4eba\u8bb0\u5fc6\u4ea7\u54c1 \u2014 \u68c0\u7d22+\u8bb0\u5fc6\u7ba1\u7406\u5185\u6838"
-  },
-  {
-   "server": "io.github.dheerajjha/blind-mcp",
-   "pkg": "blind-mcp",
-   "prev": "Find what a role actually pays, including where the employer publishes nothing -- reads pu",
-   "cur": "Renamed to payband-mcp. Installing this installs payband-mcp; please depend on that instea"
-  },
-  {
-   "server": "io.github.RudiRegenwurm/notanda",
-   "pkg": "notanda-mcp",
-   "prev": "Beta local MCP server for provenance-aware Notanda literature retrieval.",
-   "cur": "Every OpenAlex search stores its request, response and checksums so sources can be checked"
-  },
-  {
-   "server": "io.github.heubme2020/datasinking",
-   "pkg": "datasinking",
-   "prev": "Python client for DataSinking \u2014 full-text Asian financial reports (China, Korea, Japan, Ta",
-   "cur": "Python client for DataSinking \u2014 full-text financial reports (US, China, Japan, Korea, Taiw"
-  },
-  {
-   "server": "io.github.horustechltd/horus-flow-mcp",
-   "pkg": "horus-flow-mcp",
-   "prev": "Real-time orderflow intelligence for crypto & equities \u2014 whale detection, spoofing alerts,",
-   "cur": "Cognitive Market Brain for Autonomous AI Trading Agents (Orderflow Physics, Liquidation Gr"
-  },
-  {
-   "server": "io.github.chaoz23/charactercheck",
-   "pkg": "charactercheck",
-   "prev": "Deterministic D&D Beyond character-sheet derivation with provenance \u2014 every stat computed ",
-   "cur": "Experimental read-only derivation of selected D&D Beyond character fields with provenance "
-  },
-  {
-   "server": "io.github.hangeaiagent/kronos-mcp",
-   "pkg": "kronos-mcp",
-   "prev": "MCP server for Kronos stock price forecasting \u2014 A-shares, US and HK equities",
-   "cur": "MCP server for Kronos stock price forecasting \u2014 China A-shares"
   }
  ]
 }

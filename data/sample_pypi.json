@@ -1,83 +1,83 @@
 {
- "generated_at": "2026-10-06T03:45:33Z",
- "universe_declared_pypi": 3360,
+ "generated_at": "2026-10-07T03:45:36Z",
+ "universe_declared_pypi": 3321,
  "sample": {
   "n_sampled": 500,
-  "resolved": 497,
-  "unresolved": 3,
-  "version_desync": 113,
-  "desync_pct": 22.7,
+  "resolved": 496,
+  "unresolved": 4,
+  "version_desync": 122,
+  "desync_pct": 24.6,
   "ci95": [
-   19.3,
-   26.6
+   21.0,
+   28.6
   ],
   "extrapolated_desync": [
-   648,
-   894
+   697,
+   950
   ],
-  "description_drift": 26,
-  "drift_pct": 5.2
+  "description_drift": 23,
+  "drift_pct": 4.6
  },
  "examples_drift": [
   {
-   "server": "com.1102tools/bls-oews-mcp",
-   "pkg": "bls-oews-mcp",
-   "prev": "MCP server for the BLS Occupational Employment and Wage Statistics (OEWS) API. Market wage",
-   "cur": "MCP server for BLS Occupational Employment and Wage Statistics (OEWS) market wages for IGC"
+   "server": "io.github.CSOAI-ORG/pdf-merge-ai-mcp",
+   "pkg": "pdf-merge-ai-mcp",
+   "prev": "AI-powered pdf merge ai MCP server for agents. Supports merge pdfs, split pdf, get pdf inf",
+   "cur": "Pdf Merge Ai Mcp: merge info (Plan a PDF merge operation. Provide file descriptions as JSO"
   },
   {
-   "server": "io.github.CSOAI-ORG/dora-compliance-mcp",
-   "pkg": "dora-compliance-mcp",
-   "prev": "DORA (EU Digital Operational Resilience Act) compliance for AI agents. 5-pillar audit, inc",
-   "cur": "DORA measurement for AI agents. 5-pillar audit, incident classification, Article 28 Regist"
+   "server": "io.github.Arun-kc/schemabrain",
+   "pkg": "schemabrain",
+   "prev": "The SQL firewall between AI agents and your production database.",
+   "cur": "The trust and intelligence layer between AI agents and your database."
   },
   {
-   "server": "io.github.liveplex-cpu/fiber",
-   "pkg": "fiber-mcp",
-   "prev": "FIBER \u2014 Optical operations platform MCP server for AI datacenters (gNMI telemetry, ML pred",
-   "cur": "FIBER \u2014 Optical operations platform MCP server for AI datacenters (gNMI telemetry, ML pred"
+   "server": "io.github.lyf-wxy/spomory",
+   "pkg": "spomory",
+   "prev": "Persistent memory for AI agents via MCP \u2014 entity/relation knowledge graph, HippoRAG-style ",
+   "cur": "AI\u4e2a\u4eba\u8bb0\u5fc6\u4ea7\u54c1 \u2014 \u68c0\u7d22+\u8bb0\u5fc6\u7ba1\u7406\u5185\u6838"
   },
   {
-   "server": "io.github.malkreide/eth-library-mcp",
-   "pkg": "eth-library-mcp",
-   "prev": "MCP Server for ETH Library Zurich \u2014 Access 30M+ resources (books, maps, images, archives) ",
-   "cur": "MCP Server for ETH Library Zurich \u2014 Access 30M+ resources (books, maps, images, archives) "
+   "server": "io.github.invigil/invigil",
+   "pkg": "invigil",
+   "prev": "A CI quality gate that grades a repo against a product-quality doctrine \u2014 not code style.",
+   "cur": "Linters check your code. Invigil checks whether your repo is legible \u2014 to newcomers and to"
   },
   {
-   "server": "io.github.IONIS-AI/ionis-mcp",
-   "pkg": "ionis-mcp",
-   "prev": "MCP server for IONIS HF propagation analytics \u2014 175M signatures from WSPR, RBN, Contest, D",
-   "cur": "MCP server for IONIS-AI HF propagation analytics \u2014 175M signatures from WSPR, RBN, Contest"
+   "server": "io.github.cmendezs/mcp-einvoicing-be",
+   "pkg": "mcp-einvoicing-be",
+   "prev": "MCP server for Belgian electronic invoicing (Peppol BIS 3.0, UBL 2.1, PINT-EU, Mercurius)",
+   "cur": "MCP server for Belgian electronic invoicing (Peppol BIS 3.0, UBL 2.1, PINT-EU, Mercurius),"
   },
   {
-   "server": "io.github.DanceNitra/mnemo",
-   "pkg": "agora-mnemo",
-   "prev": "The self-correcting memory layer for AI agents: when a fact is corrected, mnemo serves the",
-   "cur": "DEPRECATED - renamed to `inspeximus`. This release forwards to it; install `inspeximus` in"
+   "server": "com.coinrailz/mcp",
+   "pkg": "coinrailz-mcp",
+   "prev": "MCP server exposing 63 Coin Railz x402 micropayment services via USDC",
+   "cur": "MCP server exposing 63 Coin Railz x402 micropayment services \u2014 crypto analytics, trading s"
   },
   {
-   "server": "io.github.Z-Han-Z/apple-music-playlists",
-   "pkg": "apple-music-playlists",
-   "prev": "Deep Apple Music playlist curation via MCP: grounded selection, narrative arcs, and flow-a",
-   "cur": "Deep Apple Music playlist curation via MCP: language-led selection, catalog grounding, and"
+   "server": "ai.nexustoken/nexustoken-sdk",
+   "pkg": "nexustoken-sdk",
+   "prev": "Python SDK + MCP server for NexusToken \u2014 a SaaS API for AI-powered structured data process",
+   "cur": "Python SDK + MCP server for NexusToken \u2014 an agent-to-agent capability network"
   },
   {
-   "server": "io.github.OpenOSINT/openosint",
-   "pkg": "openosint",
-   "prev": "AI-powered OSINT agent, MCP server, and CLI. Interactive REPL + 19 tools. Anthropic Claude",
-   "cur": "AI-powered OSINT agent, MCP server, and CLI. Interactive REPL + 20 tools. Anthropic Claude"
+   "server": "io.github.danielcregg/rosettahub-mcp-server",
+   "pkg": "rosettahub-mcp-server",
+   "prev": "MCP server for managing RosettaHUB student AWS cloud accounts via SOAP API",
+   "cur": "MCP server for managing RosettaHUB user AWS cloud accounts via SOAP API"
   },
   {
-   "server": "io.github.chopmob-cloud/algovoi-mcp-server",
-   "pkg": "algovoi-mcp",
-   "prev": "MCP server for AlgoVoi \u2014 create crypto payment links, verify payments, probe MPP endpoints",
-   "cur": "MCP server for AlgoVoi \u2014 create crypto payment links, verify payments, probe MPP endpoints"
+   "server": "io.github.d00mus/mcp-ssh-gateway",
+   "pkg": "mcp-ssh-gateway",
+   "prev": "MCP server for a whole fleet of SSH hosts: persistent sessions with scrollback, explicit e",
+   "cur": "MCP server that gives an AI agent real SSH terminals: sessions that return the moment a co"
   },
   {
-   "server": "io.github.marcorusc/NeKo",
-   "pkg": "mcp-biomodelling-servers",
-   "prev": "MCP servers for NeKo signalling-network construction, MaBoSS Boolean simulation, and Physi",
-   "cur": "MCP servers for NeKo signalling-network construction, MaBoSS Boolean simulation, PhysiCell"
+   "server": "io.github.ahmedEid1/forgejudge",
+   "pkg": "forgejudge",
+   "prev": "Reserved for ForgeJudge \u2014 open eval leaderboard + CI gate for autonomous coding agents.",
+   "cur": "Open, always-on leaderboard + CI gate for autonomous coding agents \u2014 every patch sandboxed"
   }
  ]
 }

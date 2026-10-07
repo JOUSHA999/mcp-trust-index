@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-10-06T03:45:27Z",
- "universe_declared_github_repos": 19708,
- "universe_declared_npm_packages": 8705,
+ "generated_at": "2026-10-07T03:45:27Z",
+ "universe_declared_github_repos": 19621,
+ "universe_declared_npm_packages": 8632,
  "github_sample": {
   "n": 1200,
-  "dead": 219,
-  "dead_pct": 18.2,
+  "dead": 220,
+  "dead_pct": 18.3,
   "ci95": [
    16.2,
-   20.5
+   20.6
   ],
-  "archived": 18,
-  "no_license": 109,
-  "stale_365d": 9,
+  "archived": 11,
+  "no_license": 132,
+  "stale_365d": 5,
   "extrapolated_dead": [
-   3193,
-   4040
+   3179,
+   4042
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 795,
-  "unresolved": 5,
-  "version_desync": 299,
-  "desync_pct": 37.4,
+  "resolved": 791,
+  "unresolved": 9,
+  "version_desync": 272,
+  "desync_pct": 34.0,
   "ci95": [
-   34.1,
-   40.8
+   30.8,
+   37.4
   ],
-  "description_drift": 61,
-  "drift_pct": 7.6,
-  "desc_mismatch_vs_registry": 596,
-  "mismatch_pct": 74.5,
+  "description_drift": 53,
+  "drift_pct": 6.6,
+  "desc_mismatch_vs_registry": 617,
+  "mismatch_pct": 77.1,
   "extrapolated_desync": [
-   2968,
-   3552
+   2659,
+   3228
   ]
  },
  "examples_dead_repo": [
-  "dharun-rd/mcp-weather-server",
-  "HiveClaw-AI/hiveclaw",
-  "blendduck/wooply",
-  "FoundryNet/patent-intel-mcp",
-  "Ryvonetwork/ryvo-gateway-agentic",
-  "ajithisaac/world-resolver-mcp",
-  "joeetdev/venture-estate",
-  "jayjex/earn-dataset-mcp",
-  "RiptideZ/swedish-haven-stays",
-  "mrfentmen/ipapi-mcp",
-  "PPDSJosh/engagement-studio",
-  "mrfentmen/endoflife-mcp",
-  "majrdotapp/majr-services",
-  "Dr-Deploy/drdeploy",
-  "mrfentmen/premium-mcps"
+  "RayNCooper/grocery-delivery-mcp",
+  "markchiang/go-agents",
+  "aoki-h-jp/benriscore",
+  "gbude-sudo/dreameros-scs-gateway",
+  "dexcom-inc/ai-agents",
+  "S-CurveLabs/sqlglass",
+  "infoinlet-marketplace/marketplace",
+  "CyberMax-tools/product-factory",
+  "mrfentmen/electricitymap-mcp",
+  "Wildsdesign/Atlier",
+  "mrfentmen/bluesky-mcp",
+  "Direccion360/picale-mcp-api",
+  "mrfentmen/awesome-mcps",
+  "nanocorp-hq/agentarena",
+  "Kylewilson04/acta-mcp"
  ],
  "examples_drift": [
   {
-   "server": "io.github.mrfentmen/mastodon-mcp",
-   "pkg": "@mrfentmen/mastodon-mcp",
-   "prev": "Mastodon trends. Keyless.",
-   "cur": "Mastodon instance info and trends. No key required."
+   "server": "io.github.HurleySk/can-see",
+   "pkg": "can-see",
+   "prev": "MCP server that lets AI agents see and interact with terminal/CLI apps via virtual termina",
+   "cur": "MCP server that gives AI agents eyes on your terminal \u2014 PNG screenshots, visual diffs, GIF"
   },
   {
-   "server": "dev.routebase/routebase",
-   "pkg": "routebase-mcp",
-   "prev": "Routebase MCP server CLI \u2014 connect AI agents (Claude Code, Cursor, VS Code) to your Routeb",
-   "cur": "stdio MCP server for Routebase. AI agents in Claude Code, Cursor, Codex and other MCP clie"
+   "server": "com.arena-predictions/arena",
+   "pkg": "arena-mcp-server",
+   "prev": "Arena's local MCP server (Track 1, stdio). Runs on the user's machine against the credenti",
+   "cur": "MCP server for Arena Predictions, paper trading for prediction markets at live prices. Loo"
   },
   {
-   "server": "io.github.Nizoka/zipnative-mcp",
-   "pkg": "zipnative-mcp",
-   "prev": "Reserved package name.",
-   "cur": "Model Context Protocol (MCP) server for ZIP archives: create deterministic, reproducible a"
+   "server": "io.github.mrfentmen/stadiumgoods-mcp",
+   "pkg": "stadiumgoods-mcp",
+   "prev": "Stadium Goods sneakers: search, products, prices. Keyless.",
+   "cur": "Query the Stadium Goods catalog (stadiumgoods.com, NYC): search sneakers and streetwear, n"
   },
   {
-   "server": "io.github.ellmos-ai/ellmos-blender-use-mcp",
-   "pkg": "ellmos-blender-use-mcp",
-   "prev": "Local-first, add-on-free MCP asset-QA tool for headless Blender: FBX reimport verification",
-   "cur": "Local-first, add-on-free MCP asset QA for headless Blender: executable discovery, bounded "
+   "server": "io.github.cuthongthai-vn/vimo-stock-intelligence",
+   "pkg": "@vimo.cuthongthai.vn/mcp-server",
+   "prev": "VIMO Financial Intelligence MCP Server \u2014 Vietnam's first MCP server for financial AI agent",
+   "cur": "VIMO Financial Intelligence \u2014 MCP Server for Vietnamese stock market data and AI analysis."
   },
   {
-   "server": "io.github.capan/isochrone",
-   "pkg": "isochrone-mcp",
-   "prev": "MCP server for pedestrian isochrones: the street network reachable on foot (walk / strolle",
-   "cur": "MCP server for reachability: streets and places you can reach on foot, by stroller, wheelc"
+   "server": "io.github.jacobsd32-cpu/djd-agent-score",
+   "pkg": "djd-agent-score-mcp",
+   "prev": "MCP server for DJD Agent Score \u2014 on-chain reputation lookup for AI agents",
+   "cur": "MCP server for DJD Agent Score \u2014 wallet screening for payouts and paid agent workflows"
   },
   {
-   "server": "com.utilsforagents/utilsforagents-mcp",
-   "pkg": "utilsforagents-mcp",
-   "prev": "MCP server for AI agents \u2014 JSON diff, HTML\u2192Markdown, EXIF extraction, metadata scrubbing, ",
-   "cur": "MCP server for UtilsForAgents with eight paid x402 utility tools plus one free feedback to"
+   "server": "host.snapy/snapy",
+   "pkg": "snapy-mcp",
+   "prev": "MCP server to publish files and pages to snapy and get a shareable link.",
+   "cur": "MCP server to publish files and pages to Snapy.host and get a shareable link."
   },
   {
-   "server": "io.github.PonzuTech/ponzu",
-   "pkg": "@ponzu_app/mcp",
-   "prev": "MCP server for Ponzu \u2014 deploy tokens, buy presales, swap, and farm on Ethereum via AI agen",
-   "cur": "MCP server for Ponzu \u2014 deploy tokens, buy presales, swap, and farm on Ethereum, Sepolia, a"
+   "server": "com.mylinedchart/chart-context",
+   "pkg": "@mylinedchart/mcp-chart-context",
+   "prev": "Read-only MCP server exposing your live MyLinedChart desktop chart/workspace context to lo",
+   "cur": "MCP server exposing your live MyLinedChart desktop chart/workspace context to local AI age"
   },
   {
-   "server": "io.github.giancarloerra/januscope",
-   "pkg": "januscope",
-   "prev": "JanuScope: the local MCP policy proxy. One YAML wraps any MCP server with policy, redactio",
-   "cur": "Local MCP policy proxy with response redaction, call auditing, tool restrictions, and sche"
+   "server": "io.github.mrfentmen/gitlab-mcp",
+   "pkg": "@mrfentmen/gitlab-mcp",
+   "prev": "Query GitLab (token; set GITLAB_PRIVATE_TOKEN, PRIVATE-TOKEN header; optional GITLAB_BASE_",
+   "cur": "Public GitLab projects and users. No key required."
   },
   {
-   "server": "io.github.Cyberweasel777/botindex-mcp-server",
-   "pkg": "botindex-mcp-server",
-   "prev": "BotIndex + Agorion MCP Server \u2014 AI signal intelligence API + agent service discovery netwo",
-   "cur": "MCP server for BotIndex \u2014 Crypto market intelligence API. Predictive signals, whale diverg"
+   "server": "io.github.florentine-ai/mcp",
+   "pkg": "@florentine-ai/mcp",
+   "prev": "MCP server for Florentine.ai - Natural language to MongoDB aggregations",
+   "cur": "Florentine.ai MCP server \u2013 query MongoDB & MySQL databases in natural language"
   },
   {
-   "server": "io.github.leonardosepulvedat/mcp-n8n",
-   "pkg": "mcp-n8n",
-   "prev": "MCP server for n8n: operate the instance and build validated workflows",
-   "cur": "MCP server for n8n: full 560-node catalog with real schemas, validated workflow building, "
+   "server": "io.github.Shawn5cents/agentskin",
+   "pkg": "agentskin",
+   "prev": "AgentSkin Suite: Three-layer token optimization stack \u2014 AgentSkin SSS (JSON pruning) + Tok",
+   "cur": "Context middleware for AI agents: prune API and JSON responses and compact CLI output befo"
   }
  ]
 }

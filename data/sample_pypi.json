@@ -1,71 +1,29 @@
 {
- "generated_at": "2026-10-07T03:45:36Z",
- "universe_declared_pypi": 3321,
+ "generated_at": "2026-10-08T11:23:27Z",
+ "universe_declared_pypi": 3253,
  "sample": {
   "n_sampled": 500,
-  "resolved": 496,
-  "unresolved": 4,
-  "version_desync": 122,
-  "desync_pct": 24.6,
+  "resolved": 498,
+  "unresolved": 2,
+  "version_desync": 106,
+  "desync_pct": 21.3,
   "ci95": [
-   21.0,
-   28.6
+   17.9,
+   25.1
   ],
   "extrapolated_desync": [
-   697,
-   950
+   582,
+   817
   ],
-  "description_drift": 23,
-  "drift_pct": 4.6
+  "description_drift": 36,
+  "drift_pct": 7.2
  },
  "examples_drift": [
   {
-   "server": "io.github.CSOAI-ORG/pdf-merge-ai-mcp",
-   "pkg": "pdf-merge-ai-mcp",
-   "prev": "AI-powered pdf merge ai MCP server for agents. Supports merge pdfs, split pdf, get pdf inf",
-   "cur": "Pdf Merge Ai Mcp: merge info (Plan a PDF merge operation. Provide file descriptions as JSO"
-  },
-  {
-   "server": "io.github.Arun-kc/schemabrain",
-   "pkg": "schemabrain",
-   "prev": "The SQL firewall between AI agents and your production database.",
-   "cur": "The trust and intelligence layer between AI agents and your database."
-  },
-  {
-   "server": "io.github.lyf-wxy/spomory",
-   "pkg": "spomory",
-   "prev": "Persistent memory for AI agents via MCP \u2014 entity/relation knowledge graph, HippoRAG-style ",
-   "cur": "AI\u4e2a\u4eba\u8bb0\u5fc6\u4ea7\u54c1 \u2014 \u68c0\u7d22+\u8bb0\u5fc6\u7ba1\u7406\u5185\u6838"
-  },
-  {
-   "server": "io.github.invigil/invigil",
-   "pkg": "invigil",
-   "prev": "A CI quality gate that grades a repo against a product-quality doctrine \u2014 not code style.",
-   "cur": "Linters check your code. Invigil checks whether your repo is legible \u2014 to newcomers and to"
-  },
-  {
-   "server": "io.github.cmendezs/mcp-einvoicing-be",
-   "pkg": "mcp-einvoicing-be",
-   "prev": "MCP server for Belgian electronic invoicing (Peppol BIS 3.0, UBL 2.1, PINT-EU, Mercurius)",
-   "cur": "MCP server for Belgian electronic invoicing (Peppol BIS 3.0, UBL 2.1, PINT-EU, Mercurius),"
-  },
-  {
-   "server": "com.coinrailz/mcp",
-   "pkg": "coinrailz-mcp",
-   "prev": "MCP server exposing 63 Coin Railz x402 micropayment services via USDC",
-   "cur": "MCP server exposing 63 Coin Railz x402 micropayment services \u2014 crypto analytics, trading s"
-  },
-  {
-   "server": "ai.nexustoken/nexustoken-sdk",
-   "pkg": "nexustoken-sdk",
-   "prev": "Python SDK + MCP server for NexusToken \u2014 a SaaS API for AI-powered structured data process",
-   "cur": "Python SDK + MCP server for NexusToken \u2014 an agent-to-agent capability network"
-  },
-  {
-   "server": "io.github.danielcregg/rosettahub-mcp-server",
-   "pkg": "rosettahub-mcp-server",
-   "prev": "MCP server for managing RosettaHUB student AWS cloud accounts via SOAP API",
-   "cur": "MCP server for managing RosettaHUB user AWS cloud accounts via SOAP API"
+   "server": "io.github.MauroDruwel/smartschool-mcp",
+   "pkg": "smartschool-mcp",
+   "prev": "Access Smartschool courses, grades, assignments, and messages through the Model Context Pr",
+   "cur": "Access Smartschool courses, grades, assignments, messages, schedule, reports and more thro"
   },
   {
    "server": "io.github.d00mus/mcp-ssh-gateway",
@@ -74,10 +32,52 @@
    "cur": "MCP server that gives an AI agent real SSH terminals: sessions that return the moment a co"
   },
   {
-   "server": "io.github.ahmedEid1/forgejudge",
-   "pkg": "forgejudge",
-   "prev": "Reserved for ForgeJudge \u2014 open eval leaderboard + CI gate for autonomous coding agents.",
-   "cur": "Open, always-on leaderboard + CI gate for autonomous coding agents \u2014 every patch sandboxed"
+   "server": "io.github.heubme2020/datasinking",
+   "pkg": "datasinking",
+   "prev": "Python client for DataSinking \u2014 full-text Asian financial reports (China, Korea, Japan, Ta",
+   "cur": "Python client for DataSinking \u2014 full-text financial reports (US, China, Japan, Korea, Taiw"
+  },
+  {
+   "server": "com.coinrailz/mcp",
+   "pkg": "coinrailz-mcp",
+   "prev": "MCP server exposing 63 Coin Railz x402 micropayment services via USDC",
+   "cur": "MCP server exposing 63 Coin Railz x402 micropayment services \u2014 crypto analytics, trading s"
+  },
+  {
+   "server": "io.github.gowrishankar-infra/velaris",
+   "pkg": "velaris-lang",
+   "prev": "The language where you can trust code you didn't write - signatures declare types, effects",
+   "cur": "Renamed: Velaris is now Sabline. Installing this installs sabline-lang."
+  },
+  {
+   "server": "ai.nexustoken/nexustoken-sdk",
+   "pkg": "nexustoken-sdk",
+   "prev": "Python SDK + MCP server for NexusToken \u2014 a SaaS API for AI-powered structured data process",
+   "cur": "Python SDK + MCP server for NexusToken \u2014 an agent-to-agent capability network"
+  },
+  {
+   "server": "io.github.agentgraph-co/agentgraph-trust",
+   "pkg": "agentgraph-trust",
+   "prev": "MCP server for AgentGraph \u2014 trust verification, security scanning, and identity lookup for",
+   "cur": "Renamed to agentavow-trust. This is a pointer release that installs agentavow-trust (the A"
+  },
+  {
+   "server": "io.github.Michael-WhiteCapData/WhiteCapData-Dev",
+   "pkg": "whitecapdata-dev",
+   "prev": "WhiteCapData-Dev \u2014 an MCP server to operate a k3s / Kubernetes cluster (health, logs, and ",
+   "cur": "WhiteCapData-Dev \u00e2\u20ac\u201d an MCP server to operate a k3s / Kubernetes cluster (health, logs, an"
+  },
+  {
+   "server": "io.github.OpenOSINT/openosint",
+   "pkg": "openosint",
+   "prev": "AI-powered OSINT agent, MCP server, and CLI. Interactive REPL + 20 tools. Anthropic Claude",
+   "cur": "AI-powered OSINT agent, MCP server, and CLI. Interactive REPL + 21 tools. Anthropic Claude"
+  },
+  {
+   "server": "ca.clevertech/clevertech-mcp-server",
+   "pkg": "clevertech-mcp-server",
+   "prev": "MCP Server for CleverTech Canadian government data APIs",
+   "cur": "CleverTech MCP server \u2014 Canadian government data for AI agents: property, permits, zoning,"
   }
  ]
 }

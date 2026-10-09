@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-10-08T11:23:21Z",
- "universe_declared_github_repos": 19324,
- "universe_declared_npm_packages": 8445,
+ "generated_at": "2026-10-09T10:48:48Z",
+ "universe_declared_github_repos": 1183,
+ "universe_declared_npm_packages": 277,
  "github_sample": {
-  "n": 1200,
-  "dead": 204,
-  "dead_pct": 17.0,
+  "n": 1183,
+  "dead": 372,
+  "dead_pct": 31.4,
   "ci95": [
-   15.0,
-   19.2
+   28.9,
+   34.1
   ],
-  "archived": 15,
-  "no_license": 143,
-  "stale_365d": 7,
+  "archived": 11,
+  "no_license": 138,
+  "stale_365d": 77,
   "extrapolated_dead": [
-   2899,
-   3710
+   342,
+   403
   ]
  },
  "npm_sample": {
-  "n": 800,
-  "resolved": 789,
+  "n": 277,
+  "resolved": 266,
   "unresolved": 11,
-  "version_desync": 268,
-  "desync_pct": 33.5,
+  "version_desync": 83,
+  "desync_pct": 30.0,
   "ci95": [
-   30.3,
-   36.8
+   24.9,
+   35.6
   ],
-  "description_drift": 81,
+  "description_drift": 28,
   "drift_pct": 10.1,
-  "desc_mismatch_vs_registry": 612,
-  "mismatch_pct": 76.5,
+  "desc_mismatch_vs_registry": 230,
+  "mismatch_pct": 83.0,
   "extrapolated_desync": [
-   2559,
-   3108
+   69,
+   99
   ]
  },
  "examples_dead_repo": [
-  "Direccion360/vivento-mcp",
-  "ClaudioGodoyB/ponlo-ai",
-  "infraveilhq/infraveil-guard",
-  "Centrify-Internal/hubspot-mcp-server",
-  "mrfentmen/binance-market-mcp",
-  "Wildsdesign/Atlier",
-  "lfhillesheim/calculadora",
-  "mrfentmen/lorem-mcp",
-  "Yarmoluk/ckg-nvidia-nemoclaw",
-  "carson-see/ArkovaCarson",
-  "ee324/a2awire",
-  "manoftheworldmedia/brand-intelligence-mcp",
-  "ee324/a2awire",
-  "mrfentmen/awesome-mcps",
-  "Scytalex-LLC/pcrzero-mcp"
+  "jonnonz1/shipyard",
+  "rooz21/x402",
+  "DynamicEndpoints/PowerShell-Exec-MCP-Server",
+  "weihermans/VOLO",
+  "filegraph/docconvert",
+  "scamverifyai/scamverify-ai",
+  "ravidsrk/marketintell",
+  "appstackllc/decibelshieldwebsite",
+  "junter1989k-ai/dominican-republic-invoice-mcp",
+  "junter1989k-ai/nigeria-payments-mcp",
+  "cmunkres/bcited-cf",
+  "junter1989k-ai/malta-payments-mcp",
+  "junter1989k-ai/indonesia-logistics-mcp",
+  "appmashop/MaShop-App",
+  "Bankee-ai/inferventis"
  ],
  "examples_drift": [
   {
-   "server": "io.github.mrfentmen/savvycal-mcp",
-   "pkg": "savvycal-mcp",
-   "prev": "SavvyCal scheduling links, events, user. Needs token.",
-   "cur": "Timezone, business-day and meeting-slot maths - no API key."
+   "server": "ai.maxwellinternational/data",
+   "pkg": "@maxwellintl/x402-mcp",
+   "prev": "MCP server for Maxwell International's pay-per-call x402 data API: ski and travel, public ",
+   "cur": "Maxwell Directory (x402 + MCP): local providers worldwide, plus travel and public data. Fr"
   },
   {
-   "server": "io.github.mizukaizen/x402-tools-mcp",
-   "pkg": "@melis-ai/x402-tools-mcp",
-   "prev": "16 x402-paid utility tools for AI agents \u2014 scrape, validate, notify, transcode, summarise.",
-   "cur": "22 x402 pay-per-call utility tools for AI agents \u2014 scrape, validate, embed, store, moderat"
+   "server": "ai.shippp/mcp",
+   "pkg": "@shippp/mcp",
+   "prev": "Shippp MCP server \u2014 pull deterministic, production-perfect Chakra UI code from your Shippp",
+   "cur": "Shippp MCP server + local sync runner \u2014 pull deterministic, production-perfect UI code fro"
   },
   {
-   "server": "co.instavision/instagram-discovery",
-   "pkg": "instavision-mcp",
-   "prev": "Run Instavision Instagram niche discovery from any MCP-compatible AI agent (Claude Code, C",
-   "cur": "InstaVision \u2014 Instagram niche discovery for AI agents. MCP bridge for Claude Desktop, Clau"
+   "server": "ai.snapdiff/mcp",
+   "pkg": "@corralimited/snapdiff-mcp",
+   "prev": "Standalone MCP server for SnapDiff. Exposes visual-diff, screenshot capture, change detect",
+   "cur": "Standalone MCP server for SnapDiff. Exposes visual-diff, screenshot capture, change detect"
   },
   {
-   "server": "io.github.mrfentmen/fendi-mcp",
-   "pkg": "fendi-mcp",
-   "prev": "Fendi resale listings from Fashionphile and Rebag. Keyless.",
-   "cur": "Fendi resale listings aggregated from Fashionphile and Rebag public catalogs (prices in US"
+   "server": "ai.auten/mcp",
+   "pkg": "@autenai/mcp",
+   "prev": "Computer use MCP server: give Claude Code, Codex, Cursor or any MCP client hands on your M",
+   "cur": "Computer-use MCP server: give Claude Code, Codex, Cursor or any MCP client hands on a real"
   },
   {
-   "server": "io.github.alexcgodwin/cloud-devops-mcp-server",
-   "pkg": "cloud-devops-mcp-server",
-   "prev": "Cloud DevOps MCP server with guarded operations and optional private OpsChugex root-cause,",
-   "cur": "Cloud DevOps MCP server with guarded operations and optional private OpsChugex root-cause,"
+   "server": "ai.spiderbrain/spiderbrain",
+   "pkg": "spiderbrain",
+   "prev": "A committed understanding layer for your repo: give it one (create) and read it (blast rad",
+   "cur": "A deterministic context layer for your repo, committed beside the code: blast radius, keys"
   },
   {
-   "server": "io.github.dongdongbh/mindwtr",
-   "pkg": "mindwtr-mcp",
-   "prev": "Stdio MCP server for Mindwtr local and self-hosted Cloud task access.",
-   "cur": "MCP server for Mindwtr SQLite, desktop Local API, and self-hosted Cloud task access."
+   "server": "ai.eonik/mcp",
+   "pkg": "eonik-mcp",
+   "prev": "eonik MCP Server for Claude",
+   "cur": "Connect Claude, Cursor, or Codex to eonik: brand, competitor research, and creative briefs"
   },
   {
-   "server": "io.github.dynatrace-oss/Dynatrace-mcp",
-   "pkg": "@dynatrace-oss/dynatrace-mcp-server",
-   "prev": "Model Context Protocol (MCP) server for Dynatrace",
-   "cur": "[DEPRECATED] Model Context Protocol (MCP) server for Dynatrace. Migrate to dynatrace-for-a"
+   "server": "ai.tanvo/tanvo-mcp",
+   "pkg": "tanvo-mcp",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "MCP server for Tanvo (tanvo.ai): run 80 ready-made AI photo, video and song apps on your o"
   },
   {
-   "server": "com.quanttogo/quanttogo-mcp",
-   "pkg": "quanttogo-mcp",
-   "prev": "QuantToGo MCP Server \u2014 macro-factor quantitative signal source for AI agents. Forward-trac",
-   "cur": "MCP Server for AI trading signals \u2014 8 live strategies across US and China markets. Free 30"
+   "server": "app.onvaou/itineraires",
+   "pkg": "onvaou-itineraires-mcp",
+   "prev": "MCP server for the \u00ab On va o\u00f9 ? \u00bb Routing API: bike, e-bike, kick scooter, motorcycle, whe",
+   "cur": "MCP server for the \u00ab On va o\u00f9 ? \u00bb Routing API: address geocoding, and bike, e-bike, kick s"
   },
   {
-   "server": "io.github.daochild/aifinpay",
-   "pkg": "@aifinpay/mcp",
-   "prev": "AiFinPay MCP: persistent agent wallets, discovery and owner-enabled verified native Polygo",
-   "cur": "AiFinPay MCP: persistent local agent wallets, owner-configured EVM and Solana payment adap"
+   "server": "ai.getvet/vet",
+   "pkg": "@getvetai/mcp",
+   "prev": "An MCP server that discovers MCP servers \u2014 search 136K+ AI tools with verification, securi",
+   "cur": "An MCP server that discovers MCP servers \u2014 search 200K+ AI tools with verification, securi"
   },
   {
-   "server": "io.github.Muse-Nexus/socialfanout-mcp",
-   "pkg": "socialfanout-mcp",
-   "prev": "Local MCP server for Social Fanout \u2014 one safe tool for your AI agent to publish to every s",
-   "cur": "Local MCP server for Social Fanout \u2014 a focused, zero-dependency toolset for publishing, sc"
+   "server": "ai.agent-bev/bev-door",
+   "pkg": "@agent-bev/mcp-server",
+   "prev": "AI Agent B2B hub for beer, wine and spirits across Europe \u2014 MCP server",
+   "cur": "The world's largest agentic B2B hub for beer, wine and spirits. Powered by CUVEE. Trade on"
   }
  ]
 }

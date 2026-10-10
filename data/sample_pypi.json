@@ -1,47 +1,83 @@
 {
- "generated_at": "2026-10-09T10:48:49Z",
- "universe_declared_pypi": 42,
+ "generated_at": "2026-10-10T10:25:17Z",
+ "universe_declared_pypi": 3190,
  "sample": {
-  "n_sampled": 42,
-  "resolved": 42,
-  "unresolved": 0,
-  "version_desync": 9,
-  "desync_pct": 21.4,
+  "n_sampled": 500,
+  "resolved": 493,
+  "unresolved": 7,
+  "version_desync": 86,
+  "desync_pct": 17.4,
   "ci95": [
-   11.7,
-   35.9
+   14.3,
+   21.0
   ],
   "extrapolated_desync": [
-   5,
-   15
+   456,
+   670
   ],
-  "description_drift": 4,
-  "drift_pct": 9.5
+  "description_drift": 28,
+  "drift_pct": 5.7
  },
  "examples_drift": [
   {
-   "server": "ai.nexustoken/nexustoken-sdk",
-   "pkg": "nexustoken-sdk",
-   "prev": "Python SDK + MCP server for NexusToken \u2014 a SaaS API for AI-powered structured data process",
-   "cur": "Python SDK + MCP server for NexusToken \u2014 an agent-to-agent capability network"
+   "server": "io.github.Liyux3/scholar-mcp",
+   "pkg": "scholar-mcp",
+   "prev": "Scholar MCP: federated academic paper search (OpenAlex, Semantic Scholar, arXiv, PubMed), ",
+   "cur": "Scholar MCP: multi-source academic search, citation traversal, and deep research"
   },
   {
-   "server": "ai.sovantica/engrava",
-   "pkg": "engrava-mcp",
-   "prev": "Model Context Protocol server for Engrava \u2014 expose an agent memory database to any MCP cli",
-   "cur": "Model Context Protocol server for Engrava - expose an agent memory database to any MCP cli"
+   "server": "io.github.Elmoaid/tempograph",
+   "pkg": "tempograph",
+   "prev": "Code graph context engine for AI coding agents \u2014 structural dependency graph with adaptive",
+   "cur": "Your AI agent finds the right files. Code graph context engine with 24 MCP tools, 170+ lan"
   },
   {
-   "server": "ai.lbrain/lbrain",
-   "pkg": "lbrain-coding-agents",
-   "prev": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start.",
-   "cur": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start."
+   "server": "io.github.defdone/payaion",
+   "pkg": "payaion-mcp",
+   "prev": "MCP server for Payaion \u2014 file uploads, marketplace listings, and paid downloads for AI age",
+   "cur": "MCP server for Payaion \u2014 file uploads, storage folders, marketplace listings, and paid dow"
   },
   {
-   "server": "app.srift/srift",
-   "pkg": "srift",
-   "prev": "Zero-config, end-to-end encrypted peer-to-peer file transfer CLI, MCP server and Python SD",
-   "cur": "Send any file as a download link from the CLI, Python or an AI agent (MCP server). Encrypt"
+   "server": "io.github.lutfizp/keel",
+   "pkg": "keel-pentest",
+   "prev": "Control plane MCP for scoped recon, triage, and bounded proofs.",
+   "cur": "Control plane MCP that dedups scanner output, rate-limits hosts, and runs non-destructive "
+  },
+  {
+   "server": "io.github.bzsasson/screaming-frog-mcp",
+   "pkg": "screaming-frog-mcp",
+   "prev": "Headless MCP server for Screaming Frog SEO Spider \u2014 run crawls, export and analyze crawl d",
+   "cur": "Headless MCP server for Screaming Frog SEO Spider: run crawls, export and analyze crawl da"
+  },
+  {
+   "server": "io.github.Z-Han-Z/apple-music-playlists",
+   "pkg": "apple-music-playlists",
+   "prev": "Deep Apple Music playlist curation via MCP: grounded selection, narrative arcs, and flow-a",
+   "cur": "Deep Apple Music playlist curation via MCP: language-led selection, catalog grounding, and"
+  },
+  {
+   "server": "io.github.lyf-wxy/spomory",
+   "pkg": "spomory",
+   "prev": "Persistent memory for AI agents via MCP \u2014 entity/relation knowledge graph, HippoRAG-style ",
+   "cur": "AI\u4e2a\u4eba\u8bb0\u5fc6\u4ea7\u54c1 \u2014 \u68c0\u7d22+\u8bb0\u5fc6\u7ba1\u7406\u5185\u6838"
+  },
+  {
+   "server": "io.github.iowarp/compression-mcp",
+   "pkg": "clio-kit",
+   "prev": "CLIO Kit - MCP Servers, Clients, and Tools for AI Agents",
+   "cur": "CLIO Kit - A meta-marketplace for scientific MCP servers, skills, plugins, agents, and com"
+  },
+  {
+   "server": "io.github.bawbel/scanner",
+   "pkg": "bawbel-scanner",
+   "prev": "Agentic AI component security scanner. Detects AVE vulnerabilities. Produces OWASP AIVSS v",
+   "cur": "Security linter and scanner for MCP servers and AI skill files. Detects toxic flows, promp"
+  },
+  {
+   "server": "io.github.almega-ai/almega-mcp",
+   "pkg": "almega-mcp",
+   "prev": "A wallet & guardrail for AI agents: per-agent spending limits, allow-listed categories, 1-",
+   "cur": "The immutable delegation frame for AI agents \u2014 set boundaries once, agents run free inside"
   }
  ]
 }

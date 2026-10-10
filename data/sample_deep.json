@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-10-09T10:48:48Z",
- "universe_declared_github_repos": 1183,
- "universe_declared_npm_packages": 277,
+ "generated_at": "2026-10-10T10:25:13Z",
+ "universe_declared_github_repos": 19140,
+ "universe_declared_npm_packages": 8252,
  "github_sample": {
-  "n": 1183,
-  "dead": 372,
-  "dead_pct": 31.4,
+  "n": 1200,
+  "dead": 246,
+  "dead_pct": 20.5,
   "ci95": [
-   28.9,
-   34.1
+   18.3,
+   22.9
   ],
-  "archived": 11,
-  "no_license": 138,
-  "stale_365d": 77,
+  "archived": 20,
+  "no_license": 119,
+  "stale_365d": 10,
   "extrapolated_dead": [
-   342,
-   403
+   3503,
+   4383
   ]
  },
  "npm_sample": {
-  "n": 277,
-  "resolved": 266,
-  "unresolved": 11,
-  "version_desync": 83,
-  "desync_pct": 30.0,
+  "n": 800,
+  "resolved": 790,
+  "unresolved": 10,
+  "version_desync": 265,
+  "desync_pct": 33.1,
   "ci95": [
-   24.9,
-   35.6
+   30.0,
+   36.5
   ],
-  "description_drift": 28,
-  "drift_pct": 10.1,
-  "desc_mismatch_vs_registry": 230,
-  "mismatch_pct": 83.0,
+  "description_drift": 66,
+  "drift_pct": 8.2,
+  "desc_mismatch_vs_registry": 630,
+  "mismatch_pct": 78.8,
   "extrapolated_desync": [
-   69,
-   99
+   2476,
+   3012
   ]
  },
  "examples_dead_repo": [
-  "jonnonz1/shipyard",
-  "rooz21/x402",
-  "DynamicEndpoints/PowerShell-Exec-MCP-Server",
-  "weihermans/VOLO",
-  "filegraph/docconvert",
-  "scamverifyai/scamverify-ai",
-  "ravidsrk/marketintell",
-  "appstackllc/decibelshieldwebsite",
-  "junter1989k-ai/dominican-republic-invoice-mcp",
-  "junter1989k-ai/nigeria-payments-mcp",
-  "cmunkres/bcited-cf",
-  "junter1989k-ai/malta-payments-mcp",
-  "junter1989k-ai/indonesia-logistics-mcp",
-  "appmashop/MaShop-App",
-  "Bankee-ai/inferventis"
+  "ivanaka/pondchat",
+  "lucasinclair/matflow-website",
+  "joeetdev/venture-estate",
+  "audioeye/testing-sdk",
+  "LouisVanh/TutorPlatform",
+  "BenjoNX/iso20022generator",
+  "joeetdev/venture-estate",
+  "ee324/a2awire",
+  "Wildsdesign/Atlier",
+  "metamorphosis-sre/devdrops",
+  "earonesty/captcha",
+  "CueCrux/VaultCrux",
+  "mrfentmen/coinlore-mcp",
+  "mrfentmen/swift-bic-mcp",
+  "BaltoCodes/vintage-postcard"
  ],
  "examples_drift": [
   {
-   "server": "ai.maxwellinternational/data",
-   "pkg": "@maxwellintl/x402-mcp",
-   "prev": "MCP server for Maxwell International's pay-per-call x402 data API: ski and travel, public ",
-   "cur": "Maxwell Directory (x402 + MCP): local providers worldwide, plus travel and public data. Fr"
+   "server": "com.orchyn/mcp",
+   "pkg": "@orchyn/mcp",
+   "prev": "MCP server for orchyn - fetch, discover and understand TikTok/Instagram/YouTube/X/LinkedIn",
+   "cur": "MCP server for orchyn - fetch, discover and understand TikTok/Instagram/YouTube/X/Reddit/L"
   },
   {
-   "server": "ai.shippp/mcp",
-   "pkg": "@shippp/mcp",
-   "prev": "Shippp MCP server \u2014 pull deterministic, production-perfect Chakra UI code from your Shippp",
-   "cur": "Shippp MCP server + local sync runner \u2014 pull deterministic, production-perfect UI code fro"
+   "server": "io.github.johnInarti/fractalai",
+   "pkg": "fractalai-mcp-server",
+   "prev": "Model Context Protocol (MCP) server for FractalAI: verify post-quantum (Dilithium-2 / NIST",
+   "cur": "Model Context Protocol (MCP) server for FractalAI: verify post-quantum (ML-DSA-65 / Dilith"
   },
   {
-   "server": "ai.snapdiff/mcp",
-   "pkg": "@corralimited/snapdiff-mcp",
-   "prev": "Standalone MCP server for SnapDiff. Exposes visual-diff, screenshot capture, change detect",
-   "cur": "Standalone MCP server for SnapDiff. Exposes visual-diff, screenshot capture, change detect"
+   "server": "io.github.mrfentmen/gucci-mcp",
+   "pkg": "gucci-mcp",
+   "prev": "Gucci resale listings from Fashionphile and Rebag. Keyless.",
+   "cur": "Gucci resale listings aggregated from Fashionphile and Rebag public catalogs (prices in US"
   },
   {
-   "server": "ai.auten/mcp",
-   "pkg": "@autenai/mcp",
-   "prev": "Computer use MCP server: give Claude Code, Codex, Cursor or any MCP client hands on your M",
-   "cur": "Computer-use MCP server: give Claude Code, Codex, Cursor or any MCP client hands on a real"
+   "server": "io.github.ArasPasha/botwire-mcp",
+   "pkg": "botwire-mcp",
+   "prev": "The Bot Wire as MCP tools: 301 real-time data wires for AI agents (Claude Code, Claude Des",
+   "cur": "301 real-time data wires for AI agents. Paid per call via x402 (USDC on Base), no API key,"
   },
   {
-   "server": "ai.spiderbrain/spiderbrain",
-   "pkg": "spiderbrain",
-   "prev": "A committed understanding layer for your repo: give it one (create) and read it (blast rad",
-   "cur": "A deterministic context layer for your repo, committed beside the code: blast radius, keys"
-  },
-  {
-   "server": "ai.eonik/mcp",
-   "pkg": "eonik-mcp",
-   "prev": "eonik MCP Server for Claude",
-   "cur": "Connect Claude, Cursor, or Codex to eonik: brand, competitor research, and creative briefs"
-  },
-  {
-   "server": "ai.tanvo/tanvo-mcp",
-   "pkg": "tanvo-mcp",
+   "server": "io.github.jkambo1986-collab/stb-giftcards",
+   "pkg": "@spendthebits/mcp-giftcards",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for Tanvo (tanvo.ai): run 80 ready-made AI photo, video and song apps on your o"
+   "cur": "MCP server that lets an AI agent search, price and buy SpendTheBits gift cards over x402, "
   },
   {
-   "server": "app.onvaou/itineraires",
-   "pkg": "onvaou-itineraires-mcp",
-   "prev": "MCP server for the \u00ab On va o\u00f9 ? \u00bb Routing API: bike, e-bike, kick scooter, motorcycle, whe",
-   "cur": "MCP server for the \u00ab On va o\u00f9 ? \u00bb Routing API: address geocoding, and bike, e-bike, kick s"
+   "server": "com.companydata/mcp",
+   "pkg": "@companydata/mcp-server",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "MCP server for the CompanyData API: company search, enrichment and city lookup from offici"
   },
   {
-   "server": "ai.getvet/vet",
-   "pkg": "@getvetai/mcp",
-   "prev": "An MCP server that discovers MCP servers \u2014 search 136K+ AI tools with verification, securi",
-   "cur": "An MCP server that discovers MCP servers \u2014 search 200K+ AI tools with verification, securi"
+   "server": "io.github.mizcausevic-dev/mcp-kinetic-gain",
+   "pkg": "mcp-kinetic-gain",
+   "prev": "MCP server and CLI for all twelve Kinetic Gain Protocol Suite specs + DefenseTech 6-pack t",
+   "cur": "MCP server and CLI for all twelve Kinetic Gain Protocol Suite specs + DefenseTech 6-pack s"
   },
   {
-   "server": "ai.agent-bev/bev-door",
-   "pkg": "@agent-bev/mcp-server",
-   "prev": "AI Agent B2B hub for beer, wine and spirits across Europe \u2014 MCP server",
-   "cur": "The world's largest agentic B2B hub for beer, wine and spirits. Powered by CUVEE. Trade on"
+   "server": "io.github.docsagent/docsagent",
+   "pkg": "@docsagent/docsagent",
+   "prev": "Private Local Documents Search Assistant",
+   "cur": "DocsAgent MCP server for your knowledge base \u2014 Zotero, Obsidian, and Apple Notes (macOS) o"
+  },
+  {
+   "server": "io.github.Be-Sure-Consulting/riskrover-mcp",
+   "pkg": "riskrover-mcp-server",
+   "prev": "Use any stdio MCP client for reviewed RiskRover product breakdowns and quality assignments",
+   "cur": "Draft and refine risk-based test plans in RiskRover and assess automated test coverage aga"
+  },
+  {
+   "server": "io.github.bm1016bm-svg/evidrift",
+   "pkg": "evidrift",
+   "prev": "Catch TypeScript API and OpenAPI contract drift in AI-generated code. Local-first CLI and ",
+   "cur": "Turn failing JSON requests into replay-verified reductions, and catch TypeScript or OpenAP"
   }
  ]
 }

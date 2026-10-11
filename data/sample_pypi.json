@@ -1,30 +1,24 @@
 {
- "generated_at": "2026-10-10T10:25:17Z",
- "universe_declared_pypi": 3190,
+ "generated_at": "2026-10-11T10:40:20Z",
+ "universe_declared_pypi": 3194,
  "sample": {
   "n_sampled": 500,
-  "resolved": 493,
-  "unresolved": 7,
-  "version_desync": 86,
-  "desync_pct": 17.4,
+  "resolved": 497,
+  "unresolved": 3,
+  "version_desync": 96,
+  "desync_pct": 19.3,
   "ci95": [
-   14.3,
-   21.0
+   16.1,
+   23.0
   ],
   "extrapolated_desync": [
-   456,
-   670
+   514,
+   735
   ],
-  "description_drift": 28,
-  "drift_pct": 5.7
+  "description_drift": 34,
+  "drift_pct": 6.8
  },
  "examples_drift": [
-  {
-   "server": "io.github.Liyux3/scholar-mcp",
-   "pkg": "scholar-mcp",
-   "prev": "Scholar MCP: federated academic paper search (OpenAlex, Semantic Scholar, arXiv, PubMed), ",
-   "cur": "Scholar MCP: multi-source academic search, citation traversal, and deep research"
-  },
   {
    "server": "io.github.Elmoaid/tempograph",
    "pkg": "tempograph",
@@ -32,10 +26,40 @@
    "cur": "Your AI agent finds the right files. Code graph context engine with 24 MCP tools, 170+ lan"
   },
   {
-   "server": "io.github.defdone/payaion",
-   "pkg": "payaion-mcp",
-   "prev": "MCP server for Payaion \u2014 file uploads, marketplace listings, and paid downloads for AI age",
-   "cur": "MCP server for Payaion \u2014 file uploads, storage folders, marketplace listings, and paid dow"
+   "server": "io.github.KoyoYeager/pystub",
+   "pkg": "mcp-pystub",
+   "prev": "Python exe \u30d3\u30eb\u30c9\u6642\u306b\u30b9\u30bf\u30d6\u7f6e\u63db\u53ef\u80fd\u306a\u30d1\u30c3\u30b1\u30fc\u30b8\u3092\u81ea\u52d5\u691c\u51fa\u3059\u308b MCP \u30b5\u30fc\u30d0\u30fc / Auto-detect stubbable packages for Python ",
+   "cur": "Python exe \u30d3\u30eb\u30c9\u6642\u306b\u30b9\u30bf\u30d6\u7f6e\u63db\u53ef\u80fd\u306a\u30d1\u30c3\u30b1\u30fc\u30b8\u3092\u81ea\u52d5\u691c\u51fa\u3059\u308b MCP \u30b5\u30fc\u30d0\u30fc\u3002C\u62e1\u5f35\u30d1\u30c3\u30b1\u30fc\u30b8\u306e\u9593\u63a5\u6392\u9664\u306b\u3082\u5bfe\u5fdc / Auto-detect stubbable pa"
+  },
+  {
+   "server": "io.github.iowarp/sac-mcp",
+   "pkg": "clio-kit",
+   "prev": "CLIO Kit - MCP Servers, Clients, and Tools for AI Agents",
+   "cur": "CLIO Kit - A meta-marketplace for scientific MCP servers, skills, plugins, agents, and com"
+  },
+  {
+   "server": "io.github.anp2protocol/anp2-mcp-server",
+   "pkg": "anp2-mcp-server",
+   "prev": "MCP server for ANP2 \u2014 where AI agents talk, share knowledge, build trust, and (when useful",
+   "cur": "MCP server for ANP2 \u2014 where AI agents talk, share knowledge, build trust, and (when useful"
+  },
+  {
+   "server": "io.github.gulmezeren2-byte/erp-report-engine",
+   "pkg": "erp-report-engine",
+   "prev": "Autonomous weekly reports straight from the SQL database behind your ERP - read-only by co",
+   "cur": "A read-only, self-verifying data layer for the SQL database behind your ERP - weekly repor"
+  },
+  {
+   "server": "io.github.Dxfory/edgar-mcp",
+   "pkg": "edgar-filings-mcp",
+   "prev": "MCP server for SEC 10-K/10-Q trading symbols, segment revenue, BDC non-accrual, and Form 4",
+   "cur": "MCP server for SEC 10-K/10-Q symbols, segment revenue, BDC non-accrual, and Form 4 with ci"
+  },
+  {
+   "server": "io.github.brunovicco/openfinance-br-mcp",
+   "pkg": "openfinance-br-mcp",
+   "prev": "MCP server exposing Brazilian Open Finance (Banco Central do Brasil) APIs as tools for Cla",
+   "cur": "Experimental MCP server for Open Finance Brasil with typed tools and secure consent flows"
   },
   {
    "server": "io.github.lutfizp/keel",
@@ -44,40 +68,16 @@
    "cur": "Control plane MCP that dedups scanner output, rate-limits hosts, and runs non-destructive "
   },
   {
-   "server": "io.github.bzsasson/screaming-frog-mcp",
-   "pkg": "screaming-frog-mcp",
-   "prev": "Headless MCP server for Screaming Frog SEO Spider \u2014 run crawls, export and analyze crawl d",
-   "cur": "Headless MCP server for Screaming Frog SEO Spider: run crawls, export and analyze crawl da"
+   "server": "io.github.chopmob-cloud/algovoi-mcp-server",
+   "pkg": "algovoi-mcp",
+   "prev": "MCP server for AlgoVoi \u2014 create crypto payment links, verify payments, probe MPP endpoints",
+   "cur": "MCP server for AlgoVoi \u2014 create crypto payment links, verify payments, probe MPP endpoints"
   },
   {
-   "server": "io.github.Z-Han-Z/apple-music-playlists",
-   "pkg": "apple-music-playlists",
-   "prev": "Deep Apple Music playlist curation via MCP: grounded selection, narrative arcs, and flow-a",
-   "cur": "Deep Apple Music playlist curation via MCP: language-led selection, catalog grounding, and"
-  },
-  {
-   "server": "io.github.lyf-wxy/spomory",
-   "pkg": "spomory",
-   "prev": "Persistent memory for AI agents via MCP \u2014 entity/relation knowledge graph, HippoRAG-style ",
-   "cur": "AI\u4e2a\u4eba\u8bb0\u5fc6\u4ea7\u54c1 \u2014 \u68c0\u7d22+\u8bb0\u5fc6\u7ba1\u7406\u5185\u6838"
-  },
-  {
-   "server": "io.github.iowarp/compression-mcp",
-   "pkg": "clio-kit",
-   "prev": "CLIO Kit - MCP Servers, Clients, and Tools for AI Agents",
-   "cur": "CLIO Kit - A meta-marketplace for scientific MCP servers, skills, plugins, agents, and com"
-  },
-  {
-   "server": "io.github.bawbel/scanner",
-   "pkg": "bawbel-scanner",
-   "prev": "Agentic AI component security scanner. Detects AVE vulnerabilities. Produces OWASP AIVSS v",
-   "cur": "Security linter and scanner for MCP servers and AI skill files. Detects toxic flows, promp"
-  },
-  {
-   "server": "io.github.almega-ai/almega-mcp",
-   "pkg": "almega-mcp",
-   "prev": "A wallet & guardrail for AI agents: per-agent spending limits, allow-listed categories, 1-",
-   "cur": "The immutable delegation frame for AI agents \u2014 set boundaries once, agents run free inside"
+   "server": "io.github.kiwoongeom/gmc-mcp",
+   "pkg": "gmc-mcp",
+   "prev": "Google Merchant Center MCP \u2014 the first free, open-source, self-hosted MCP server for Googl",
+   "cur": "MCP server for Google Merchant Center on Merchant API v1. MIT-licensed, pip install-able, "
   }
  ]
 }

@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-10-10T10:25:13Z",
- "universe_declared_github_repos": 19140,
- "universe_declared_npm_packages": 8252,
+ "generated_at": "2026-10-11T10:40:12Z",
+ "universe_declared_github_repos": 18483,
+ "universe_declared_npm_packages": 7539,
  "github_sample": {
   "n": 1200,
-  "dead": 246,
-  "dead_pct": 20.5,
+  "dead": 172,
+  "dead_pct": 14.3,
   "ci95": [
-   18.3,
-   22.9
+   12.5,
+   16.4
   ],
-  "archived": 20,
-  "no_license": 119,
-  "stale_365d": 10,
+  "archived": 18,
+  "no_license": 143,
+  "stale_365d": 12,
   "extrapolated_dead": [
-   3503,
-   4383
+   2310,
+   3031
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 790,
-  "unresolved": 10,
-  "version_desync": 265,
-  "desync_pct": 33.1,
+  "resolved": 782,
+  "unresolved": 18,
+  "version_desync": 246,
+  "desync_pct": 30.8,
   "ci95": [
-   30.0,
-   36.5
+   27.7,
+   34.0
   ],
-  "description_drift": 66,
-  "drift_pct": 8.2,
-  "desc_mismatch_vs_registry": 630,
-  "mismatch_pct": 78.8,
+  "description_drift": 68,
+  "drift_pct": 8.5,
+  "desc_mismatch_vs_registry": 651,
+  "mismatch_pct": 81.4,
   "extrapolated_desync": [
-   2476,
-   3012
+   2088,
+   2563
   ]
  },
  "examples_dead_repo": [
-  "ivanaka/pondchat",
-  "lucasinclair/matflow-website",
+  "adam-messinger/cashflow",
+  "irmasemma/JSONLSPAGeneral",
+  "ezesc/proxmox-mcp",
+  "Africa-Data-Bank/afridb-platform",
+  "cavan1977/freetoolhub",
   "joeetdev/venture-estate",
-  "audioeye/testing-sdk",
-  "LouisVanh/TutorPlatform",
-  "BenjoNX/iso20022generator",
-  "joeetdev/venture-estate",
+  "EuroScrape/euroscrape-mcp",
   "ee324/a2awire",
+  "meruada/iox-cloud",
   "Wildsdesign/Atlier",
-  "metamorphosis-sre/devdrops",
-  "earonesty/captcha",
-  "CueCrux/VaultCrux",
-  "mrfentmen/coinlore-mcp",
-  "mrfentmen/swift-bic-mcp",
-  "BaltoCodes/vintage-postcard"
+  "ArseneVrworworker/flatcash-mcp",
+  "CrumbtrailDev/crumbtrail",
+  "OzorOwn/frostbyte-mcp",
+  "synmerco/synmerco",
+  "Arbogram/brand-capsule-spec"
  ],
  "examples_drift": [
   {
-   "server": "com.orchyn/mcp",
-   "pkg": "@orchyn/mcp",
-   "prev": "MCP server for orchyn - fetch, discover and understand TikTok/Instagram/YouTube/X/LinkedIn",
-   "cur": "MCP server for orchyn - fetch, discover and understand TikTok/Instagram/YouTube/X/Reddit/L"
+   "server": "io.github.CryptoSuess/basealpha",
+   "pkg": "@basealpha/mcp",
+   "prev": "Non-custodial MCP for BaseAlpha \u2014 the capital market for AI agent fleets on Base. Discover",
+   "cur": "Non-custodial MCP for BaseAlpha \u2014 fee-ranked agent origin on Base. Discover remotely, sign"
   },
   {
-   "server": "io.github.johnInarti/fractalai",
-   "pkg": "fractalai-mcp-server",
-   "prev": "Model Context Protocol (MCP) server for FractalAI: verify post-quantum (Dilithium-2 / NIST",
-   "cur": "Model Context Protocol (MCP) server for FractalAI: verify post-quantum (ML-DSA-65 / Dilith"
+   "server": "io.github.171county/modwrench",
+   "pkg": "@modwrench/cli",
+   "prev": "ModWrench \u00e2\u20ac\u201d one MCP entry, every mod platform. Bundles all installed @modwrench/* platfo",
+   "cur": "ModWrench \u2014 one MCP entry, every mod platform. Bundles all installed @modwrench/* platform"
   },
   {
-   "server": "io.github.mrfentmen/gucci-mcp",
-   "pkg": "gucci-mcp",
-   "prev": "Gucci resale listings from Fashionphile and Rebag. Keyless.",
-   "cur": "Gucci resale listings aggregated from Fashionphile and Rebag public catalogs (prices in US"
+   "server": "io.github.Vublox/sports",
+   "pkg": "@vublox/agent-tools",
+   "prev": "MCP server that gives AI agents access to live football scores and match summaries from Vu",
+   "cur": "MCP server that gives AI agents access to live football scores, player profiles, and match"
   },
   {
-   "server": "io.github.ArasPasha/botwire-mcp",
-   "pkg": "botwire-mcp",
-   "prev": "The Bot Wire as MCP tools: 301 real-time data wires for AI agents (Claude Code, Claude Des",
-   "cur": "301 real-time data wires for AI agents. Paid per call via x402 (USDC on Base), no API key,"
+   "server": "io.github.agentwares/agentguard",
+   "pkg": "@agentwares/agentguard",
+   "prev": "MCP policy proxy for AI agents: hard spend limits, destructive-action gating with approval",
+   "cur": "okgate (formerly agentguard): nothing irreversible without an OK. MCP policy proxy for AI "
   },
   {
-   "server": "io.github.jkambo1986-collab/stb-giftcards",
-   "pkg": "@spendthebits/mcp-giftcards",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server that lets an AI agent search, price and buy SpendTheBits gift cards over x402, "
+   "server": "com.mylinedchart/chart-context",
+   "pkg": "@mylinedchart/mcp-chart-context",
+   "prev": "Read-only MCP server exposing your live MyLinedChart desktop chart/workspace context to lo",
+   "cur": "MCP server exposing your live MyLinedChart desktop chart/workspace context to local AI age"
   },
   {
-   "server": "com.companydata/mcp",
-   "pkg": "@companydata/mcp-server",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for the CompanyData API: company search, enrichment and city lookup from offici"
+   "server": "io.github.linxule/mineru",
+   "pkg": "mineru-mcp",
+   "prev": "MCP server for MinerU document parsing API - optimized for Claude Code with 73% token redu",
+   "cur": "MinerU document-parsing cloud API as an MCP server and a CLI (mineru-cloud) \u2014 batch by URL"
   },
   {
-   "server": "io.github.mizcausevic-dev/mcp-kinetic-gain",
-   "pkg": "mcp-kinetic-gain",
-   "prev": "MCP server and CLI for all twelve Kinetic Gain Protocol Suite specs + DefenseTech 6-pack t",
-   "cur": "MCP server and CLI for all twelve Kinetic Gain Protocol Suite specs + DefenseTech 6-pack s"
+   "server": "io.github.WSattazahn/caveat-lang",
+   "pkg": "caveat-lang",
+   "prev": "CAVEAT Language \u2014 Programs that remember why. A reactive programming language whose values",
+   "cur": "CAVEAT Language \u2014 a decision ledger for agents. An embeddable decision runtime with a smal"
   },
   {
-   "server": "io.github.docsagent/docsagent",
-   "pkg": "@docsagent/docsagent",
-   "prev": "Private Local Documents Search Assistant",
-   "cur": "DocsAgent MCP server for your knowledge base \u2014 Zotero, Obsidian, and Apple Notes (macOS) o"
+   "server": "io.github.N747AI/clearedindex",
+   "pkg": "@n747ai/clearedindex-mcp-server",
+   "prev": "Cleared Index MCP 1.4.3 \u2014 soft Check wall \u2192 Agent Lite/Check Stripe; Check \u2192 Gateway \u2192 pay",
+   "cur": "Cleared Index MCP 1.5.0 \u2014 check \u00b7 route \u00b7 witness \u00b7 regime. OpenRouter for x402."
   },
   {
-   "server": "io.github.Be-Sure-Consulting/riskrover-mcp",
-   "pkg": "riskrover-mcp-server",
-   "prev": "Use any stdio MCP client for reviewed RiskRover product breakdowns and quality assignments",
-   "cur": "Draft and refine risk-based test plans in RiskRover and assess automated test coverage aga"
+   "server": "com.gadgethumans.swarm/x402-middleware",
+   "pkg": "@gadgethumans/x402",
+   "prev": "x402 payment protocol \u2014 pay-per-call for AI agents via USDC on Base. No signup, no API key",
+   "cur": "x402 pay-per-call for AI agents \u2014 USDC on Base + Stripe. 3 free calls, then \u20ac0.50/100. No "
   },
   {
-   "server": "io.github.bm1016bm-svg/evidrift",
-   "pkg": "evidrift",
-   "prev": "Catch TypeScript API and OpenAPI contract drift in AI-generated code. Local-first CLI and ",
-   "cur": "Turn failing JSON requests into replay-verified reductions, and catch TypeScript or OpenAP"
+   "server": "io.github.ZLeventer/google-ads-mcp",
+   "pkg": "@zleventer/google-ads-mcp",
+   "prev": "MCP server for Google Ads API \u2014 20 tools for campaigns, keywords, RSAs, assets, audiences,",
+   "cur": "MCP server for Google Ads API \u2014 22 tools for campaigns, keywords, RSAs, assets, audiences,"
   }
  ]
 }

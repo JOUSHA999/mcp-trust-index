@@ -1,83 +1,83 @@
 {
- "generated_at": "2026-10-11T10:40:20Z",
- "universe_declared_pypi": 3194,
+ "generated_at": "2026-10-12T11:10:06Z",
+ "universe_declared_pypi": 88,
  "sample": {
-  "n_sampled": 500,
-  "resolved": 497,
-  "unresolved": 3,
-  "version_desync": 96,
-  "desync_pct": 19.3,
+  "n_sampled": 88,
+  "resolved": 88,
+  "unresolved": 0,
+  "version_desync": 20,
+  "desync_pct": 22.7,
   "ci95": [
-   16.1,
-   23.0
+   15.2,
+   32.5
   ],
   "extrapolated_desync": [
-   514,
-   735
+   13,
+   29
   ],
-  "description_drift": 34,
-  "drift_pct": 6.8
+  "description_drift": 10,
+  "drift_pct": 11.4
  },
  "examples_drift": [
   {
-   "server": "io.github.Elmoaid/tempograph",
-   "pkg": "tempograph",
-   "prev": "Code graph context engine for AI coding agents \u2014 structural dependency graph with adaptive",
-   "cur": "Your AI agent finds the right files. Code graph context engine with 24 MCP tools, 170+ lan"
+   "server": "com.boostedchat/travel",
+   "pkg": "boostedtravel",
+   "prev": "Agent-native flight search & booking. 400+ airlines, 75 direct airline connectors run loca",
+   "cur": "\u26a0\ufe0f This package has been renamed to 'letsfg'. Install letsfg instead: pip install letsfg \u2014"
   },
   {
-   "server": "io.github.KoyoYeager/pystub",
-   "pkg": "mcp-pystub",
-   "prev": "Python exe \u30d3\u30eb\u30c9\u6642\u306b\u30b9\u30bf\u30d6\u7f6e\u63db\u53ef\u80fd\u306a\u30d1\u30c3\u30b1\u30fc\u30b8\u3092\u81ea\u52d5\u691c\u51fa\u3059\u308b MCP \u30b5\u30fc\u30d0\u30fc / Auto-detect stubbable packages for Python ",
-   "cur": "Python exe \u30d3\u30eb\u30c9\u6642\u306b\u30b9\u30bf\u30d6\u7f6e\u63db\u53ef\u80fd\u306a\u30d1\u30c3\u30b1\u30fc\u30b8\u3092\u81ea\u52d5\u691c\u51fa\u3059\u308b MCP \u30b5\u30fc\u30d0\u30fc\u3002C\u62e1\u5f35\u30d1\u30c3\u30b1\u30fc\u30b8\u306e\u9593\u63a5\u6392\u9664\u306b\u3082\u5bfe\u5fdc / Auto-detect stubbable pa"
+   "server": "com.aiinfradecoded/mcp-anvil",
+   "pkg": "mcp-anvil",
+   "prev": "Scaffold, audit, and inspect Model Context Protocol (MCP) servers from the CLI.",
+   "cur": "Local MCP daemon with a dashboard, REST/WebSocket API, and 64 built-in tools \u2014 plus scaffo"
   },
   {
-   "server": "io.github.iowarp/sac-mcp",
-   "pkg": "clio-kit",
-   "prev": "CLIO Kit - MCP Servers, Clients, and Tools for AI Agents",
-   "cur": "CLIO Kit - A meta-marketplace for scientific MCP servers, skills, plugins, agents, and com"
+   "server": "ca.clevertech/clevertech-mcp-server",
+   "pkg": "clevertech-mcp-server",
+   "prev": "MCP Server for CleverTech Canadian government data APIs",
+   "cur": "CleverTech MCP server \u2014 Canadian government data for AI agents: property, permits, zoning,"
   },
   {
-   "server": "io.github.anp2protocol/anp2-mcp-server",
-   "pkg": "anp2-mcp-server",
-   "prev": "MCP server for ANP2 \u2014 where AI agents talk, share knowledge, build trust, and (when useful",
-   "cur": "MCP server for ANP2 \u2014 where AI agents talk, share knowledge, build trust, and (when useful"
+   "server": "ai.sovantica/engrava",
+   "pkg": "engrava-mcp",
+   "prev": "Model Context Protocol server for Engrava \u2014 expose an agent memory database to any MCP cli",
+   "cur": "Model Context Protocol server for Engrava - expose an agent memory database to any MCP cli"
   },
   {
-   "server": "io.github.gulmezeren2-byte/erp-report-engine",
-   "pkg": "erp-report-engine",
-   "prev": "Autonomous weekly reports straight from the SQL database behind your ERP - read-only by co",
-   "cur": "A read-only, self-verifying data layer for the SQL database behind your ERP - weekly repor"
+   "server": "ai.nexustoken/nexustoken-sdk",
+   "pkg": "nexustoken-sdk",
+   "prev": "Python SDK + MCP server for NexusToken \u2014 a SaaS API for AI-powered structured data process",
+   "cur": "Python SDK + MCP server for NexusToken \u2014 an agent-to-agent capability network"
   },
   {
-   "server": "io.github.Dxfory/edgar-mcp",
-   "pkg": "edgar-filings-mcp",
-   "prev": "MCP server for SEC 10-K/10-Q trading symbols, segment revenue, BDC non-accrual, and Form 4",
-   "cur": "MCP server for SEC 10-K/10-Q symbols, segment revenue, BDC non-accrual, and Form 4 with ci"
+   "server": "com.1102tools/usaspending-gov-mcp",
+   "pkg": "usaspending-gov-mcp",
+   "prev": "MCP server for USASpending.gov federal contract and award data",
+   "cur": "USAspending.gov contracts, grants, loans, subawards, recipients, agencies, and federal acc"
   },
   {
-   "server": "io.github.brunovicco/openfinance-br-mcp",
-   "pkg": "openfinance-br-mcp",
-   "prev": "MCP server exposing Brazilian Open Finance (Banco Central do Brasil) APIs as tools for Cla",
-   "cur": "Experimental MCP server for Open Finance Brasil with typed tools and secure consent flows"
+   "server": "app.srift/srift",
+   "pkg": "srift",
+   "prev": "Zero-config, end-to-end encrypted peer-to-peer file transfer CLI, MCP server and Python SD",
+   "cur": "Send any file as a download link from the CLI, Python or an AI agent (MCP server). Encrypt"
   },
   {
-   "server": "io.github.lutfizp/keel",
-   "pkg": "keel-pentest",
-   "prev": "Control plane MCP for scoped recon, triage, and bounded proofs.",
-   "cur": "Control plane MCP that dedups scanner output, rate-limits hosts, and runs non-destructive "
+   "server": "app.peil/peil-mcp",
+   "pkg": "peil-mcp",
+   "prev": "MCP server for Peil \u2014 log hours, draft invoices and check where you stand from an AI assis",
+   "cur": "MCP server for Peil \u2014 log hours, draft invoices, add expenses and check where you stand fr"
   },
   {
-   "server": "io.github.chopmob-cloud/algovoi-mcp-server",
-   "pkg": "algovoi-mcp",
-   "prev": "MCP server for AlgoVoi \u2014 create crypto payment links, verify payments, probe MPP endpoints",
-   "cur": "MCP server for AlgoVoi \u2014 create crypto payment links, verify payments, probe MPP endpoints"
+   "server": "ai.lbrain/lbrain",
+   "pkg": "lbrain-coding-agents",
+   "prev": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start.",
+   "cur": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start."
   },
   {
-   "server": "io.github.kiwoongeom/gmc-mcp",
-   "pkg": "gmc-mcp",
-   "prev": "Google Merchant Center MCP \u2014 the first free, open-source, self-hosted MCP server for Googl",
-   "cur": "MCP server for Google Merchant Center on Merchant API v1. MIT-licensed, pip install-able, "
+   "server": "com.coinrailz/mcp",
+   "pkg": "coinrailz-mcp",
+   "prev": "MCP server exposing 63 Coin Railz x402 micropayment services via USDC",
+   "cur": "MCP server exposing 63 Coin Railz x402 micropayment services \u2014 crypto analytics, trading s"
   }
  ]
 }

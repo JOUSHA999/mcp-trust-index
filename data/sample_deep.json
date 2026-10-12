@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-10-11T10:40:12Z",
- "universe_declared_github_repos": 18483,
- "universe_declared_npm_packages": 7539,
+ "generated_at": "2026-10-12T11:10:04Z",
+ "universe_declared_github_repos": 2093,
+ "universe_declared_npm_packages": 480,
  "github_sample": {
   "n": 1200,
-  "dead": 172,
-  "dead_pct": 14.3,
+  "dead": 373,
+  "dead_pct": 31.1,
   "ci95": [
-   12.5,
-   16.4
+   28.5,
+   33.8
   ],
-  "archived": 18,
-  "no_license": 143,
-  "stale_365d": 12,
+  "archived": 10,
+  "no_license": 147,
+  "stale_365d": 38,
   "extrapolated_dead": [
-   2310,
-   3031
+   597,
+   707
   ]
  },
  "npm_sample": {
-  "n": 800,
-  "resolved": 782,
-  "unresolved": 18,
-  "version_desync": 246,
-  "desync_pct": 30.8,
+  "n": 480,
+  "resolved": 469,
+  "unresolved": 11,
+  "version_desync": 134,
+  "desync_pct": 27.9,
   "ci95": [
-   27.7,
-   34.0
+   24.1,
+   32.1
   ],
-  "description_drift": 68,
-  "drift_pct": 8.5,
-  "desc_mismatch_vs_registry": 651,
-  "mismatch_pct": 81.4,
+  "description_drift": 51,
+  "drift_pct": 10.6,
+  "desc_mismatch_vs_registry": 404,
+  "mismatch_pct": 84.2,
   "extrapolated_desync": [
-   2088,
-   2563
+   116,
+   154
   ]
  },
  "examples_dead_repo": [
-  "adam-messinger/cashflow",
-  "irmasemma/JSONLSPAGeneral",
-  "ezesc/proxmox-mcp",
-  "Africa-Data-Bank/afridb-platform",
-  "cavan1977/freetoolhub",
-  "joeetdev/venture-estate",
-  "EuroScrape/euroscrape-mcp",
   "ee324/a2awire",
-  "meruada/iox-cloud",
-  "Wildsdesign/Atlier",
-  "ArseneVrworworker/flatcash-mcp",
-  "CrumbtrailDev/crumbtrail",
-  "OzorOwn/frostbyte-mcp",
-  "synmerco/synmerco",
-  "Arbogram/brand-capsule-spec"
+  "SolidKeyAB/lore-mcp",
+  "iitian-vibes/AIDesign",
+  "crabbitmq/crabbit_mq",
+  "shivaltailor/tinkrr",
+  "bpais88/dynt-server",
+  "ee324/a2awire",
+  "mikeslone/snowsure-web",
+  "codmir/codmir",
+  "Nudgen-Marketing/mermail",
+  "ee324/a2awire",
+  "audiala/mcp-server",
+  "junter1989k-ai/austria-payments-mcp",
+  "beycome/mcp.beycome.com",
+  "dmytro-yemelianov/raps-tools"
  ],
  "examples_drift": [
   {
-   "server": "io.github.CryptoSuess/basealpha",
-   "pkg": "@basealpha/mcp",
-   "prev": "Non-custodial MCP for BaseAlpha \u2014 the capital market for AI agent fleets on Base. Discover",
-   "cur": "Non-custodial MCP for BaseAlpha \u2014 fee-ranked agent origin on Base. Discover remotely, sign"
+   "server": "ai.law/lawyer-search",
+   "pkg": "lawai-mcp-server",
+   "prev": "Law.AI MCP Server \u2014 Find verified lawyers through any AI assistant. Search 537K+ profiles,",
+   "cur": "Verified lawyer and attorney search, discovery, and matching for AI \u2014 991K+ bar-verified U"
   },
   {
-   "server": "io.github.171county/modwrench",
-   "pkg": "@modwrench/cli",
-   "prev": "ModWrench \u00e2\u20ac\u201d one MCP entry, every mod platform. Bundles all installed @modwrench/* platfo",
-   "cur": "ModWrench \u2014 one MCP entry, every mod platform. Bundles all installed @modwrench/* platform"
+   "server": "com.companydata/mcp",
+   "pkg": "@companydata/mcp-server",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "MCP server for the CompanyData API: company search, enrichment and city lookup from offici"
   },
   {
-   "server": "io.github.Vublox/sports",
-   "pkg": "@vublox/agent-tools",
-   "prev": "MCP server that gives AI agents access to live football scores and match summaries from Vu",
-   "cur": "MCP server that gives AI agents access to live football scores, player profiles, and match"
+   "server": "ai.mails/agent-email",
+   "pkg": "@mailsai/mcp-server",
+   "prev": "The agent email tool: give any AI agent a real inbox (send + receive + thread) with a repu",
+   "cur": "The agent email tool: give any AI agent a real inbox (send + receive + thread) with a repu"
   },
   {
-   "server": "io.github.agentwares/agentguard",
-   "pkg": "@agentwares/agentguard",
-   "prev": "MCP policy proxy for AI agents: hard spend limits, destructive-action gating with approval",
-   "cur": "okgate (formerly agentguard): nothing irreversible without an OK. MCP policy proxy for AI "
+   "server": "com.attestwire/en16931",
+   "pkg": "@attestwire/mcp",
+   "prev": "stdio bridge to the Attestwire MCP server \u2014 thirteen e-invoicing tools, including reviewed",
+   "cur": "stdio bridge to the Attestwire MCP server \u2014 fourteen e-invoicing tools, including reviewed"
   },
   {
-   "server": "com.mylinedchart/chart-context",
-   "pkg": "@mylinedchart/mcp-chart-context",
-   "prev": "Read-only MCP server exposing your live MyLinedChart desktop chart/workspace context to lo",
-   "cur": "MCP server exposing your live MyLinedChart desktop chart/workspace context to local AI age"
-  },
-  {
-   "server": "io.github.linxule/mineru",
-   "pkg": "mineru-mcp",
-   "prev": "MCP server for MinerU document parsing API - optimized for Claude Code with 73% token redu",
-   "cur": "MinerU document-parsing cloud API as an MCP server and a CLI (mineru-cloud) \u2014 batch by URL"
-  },
-  {
-   "server": "io.github.WSattazahn/caveat-lang",
-   "pkg": "caveat-lang",
-   "prev": "CAVEAT Language \u2014 Programs that remember why. A reactive programming language whose values",
-   "cur": "CAVEAT Language \u2014 a decision ledger for agents. An embeddable decision runtime with a smal"
-  },
-  {
-   "server": "io.github.N747AI/clearedindex",
+   "server": "com.clearedindex/mcp",
    "pkg": "@n747ai/clearedindex-mcp-server",
    "prev": "Cleared Index MCP 1.4.3 \u2014 soft Check wall \u2192 Agent Lite/Check Stripe; Check \u2192 Gateway \u2192 pay",
    "cur": "Cleared Index MCP 1.5.0 \u2014 check \u00b7 route \u00b7 witness \u00b7 regime. OpenRouter for x402."
   },
   {
-   "server": "com.gadgethumans.swarm/x402-middleware",
-   "pkg": "@gadgethumans/x402",
-   "prev": "x402 payment protocol \u2014 pay-per-call for AI agents via USDC on Base. No signup, no API key",
-   "cur": "x402 pay-per-call for AI agents \u2014 USDC on Base + Stripe. 3 free calls, then \u20ac0.50/100. No "
+   "server": "com.crisphive/mcp",
+   "pkg": "@crisphive/mcp",
+   "prev": "Crisphive MCP server (stdio) \u2014 field operations \u2014 constraint-based scheduling on a determi",
+   "cur": "Crisphive MCP server (stdio) \u2014 field operations \u2014 constraint-based scheduling on a determi"
   },
   {
-   "server": "io.github.ZLeventer/google-ads-mcp",
-   "pkg": "@zleventer/google-ads-mcp",
-   "prev": "MCP server for Google Ads API \u2014 20 tools for campaigns, keywords, RSAs, assets, audiences,",
-   "cur": "MCP server for Google Ads API \u2014 22 tools for campaigns, keywords, RSAs, assets, audiences,"
+   "server": "ai.voxell/forge",
+   "pkg": "@voxell/forge-mcp",
+   "prev": "MCP server for Forge \u2014 Voxell's text-embedding API (turbo\u2192ultra; ultra = Qwen3-Embedding-8",
+   "cur": "MCP server for Forge, Voxell's hosted text-embedding API (turbo, pro, ultra tiers). Voxell"
+  },
+  {
+   "server": "ai.snowsure/snow",
+   "pkg": "snowsure-mcp-server",
+   "prev": "MCP server for ski resort snow: real-time powder rankings, 14-day forecasts, 500+ resorts ",
+   "cur": "MCP stdio bridge to SnowSure hosted server \u2014 full tool surface (ask_snowdata, get_destinat"
+  },
+  {
+   "server": "ai.snapdiff/mcp",
+   "pkg": "@corralimited/snapdiff-mcp",
+   "prev": "Standalone MCP server for SnapDiff. Exposes visual-diff, screenshot capture, change detect",
+   "cur": "Standalone MCP server for SnapDiff. Exposes visual-diff, screenshot capture, change detect"
+  },
+  {
+   "server": "com.amplerun/gpu-rentals",
+   "pkg": "@amplerun/mcp",
+   "prev": "MCP server (stdio) that lets AI agents find and rent GPUs on AmpleRun. Wraps @amplerun/sdk",
+   "cur": "MCP server (stdio) that lets AI agents find and rent GPUs on AmpleRun, and register their "
   }
  ]
 }

@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-10-12T11:10:04Z",
- "universe_declared_github_repos": 2093,
- "universe_declared_npm_packages": 480,
+ "generated_at": "2026-10-13T10:51:52Z",
+ "universe_declared_github_repos": 1706,
+ "universe_declared_npm_packages": 380,
  "github_sample": {
   "n": 1200,
-  "dead": 373,
-  "dead_pct": 31.1,
+  "dead": 407,
+  "dead_pct": 33.9,
   "ci95": [
-   28.5,
-   33.8
+   31.3,
+   36.6
   ],
   "archived": 10,
-  "no_license": 147,
-  "stale_365d": 38,
+  "no_license": 145,
+  "stale_365d": 55,
   "extrapolated_dead": [
-   597,
-   707
+   534,
+   624
   ]
  },
  "npm_sample": {
-  "n": 480,
-  "resolved": 469,
+  "n": 380,
+  "resolved": 369,
   "unresolved": 11,
-  "version_desync": 134,
-  "desync_pct": 27.9,
+  "version_desync": 104,
+  "desync_pct": 27.4,
   "ci95": [
-   24.1,
+   23.1,
    32.1
   ],
-  "description_drift": 51,
-  "drift_pct": 10.6,
-  "desc_mismatch_vs_registry": 404,
-  "mismatch_pct": 84.2,
+  "description_drift": 42,
+  "drift_pct": 11.1,
+  "desc_mismatch_vs_registry": 325,
+  "mismatch_pct": 85.5,
   "extrapolated_desync": [
-   116,
-   154
+   88,
+   122
   ]
  },
  "examples_dead_repo": [
+  "junter1989k-ai/uk-logistics-mcp",
+  "junter1989k-ai/vietnam-invoice-mcp",
+  "ArtemGontar/yomio",
+  "rooz21/x402",
   "ee324/a2awire",
   "SolidKeyAB/lore-mcp",
-  "iitian-vibes/AIDesign",
-  "crabbitmq/crabbit_mq",
-  "shivaltailor/tinkrr",
-  "bpais88/dynt-server",
+  "eliu243/oura-mcp-server",
+  "amrnth/opentooler",
   "ee324/a2awire",
-  "mikeslone/snowsure-web",
-  "codmir/codmir",
-  "Nudgen-Marketing/mermail",
+  "junter1989k-ai/argentina-invoice-mcp",
   "ee324/a2awire",
-  "audiala/mcp-server",
-  "junter1989k-ai/austria-payments-mcp",
-  "beycome/mcp.beycome.com",
-  "dmytro-yemelianov/raps-tools"
+  "junter1989k-ai/italy-payments-mcp",
+  "Bankee-ai/inferventis",
+  "ee324/a2awire",
+  "ee324/a2awire"
  ],
  "examples_drift": [
   {
-   "server": "ai.law/lawyer-search",
-   "pkg": "lawai-mcp-server",
-   "prev": "Law.AI MCP Server \u2014 Find verified lawyers through any AI assistant. Search 537K+ profiles,",
-   "cur": "Verified lawyer and attorney search, discovery, and matching for AI \u2014 991K+ bar-verified U"
+   "server": "ai.maxwellinternational/data",
+   "pkg": "@maxwellintl/x402-mcp",
+   "prev": "MCP server for Maxwell International's pay-per-call x402 data API: ski and travel, public ",
+   "cur": "Maxwell Directory (x402 + MCP): local providers worldwide, plus travel and public data. Fr"
   },
   {
-   "server": "com.companydata/mcp",
-   "pkg": "@companydata/mcp-server",
+   "server": "bid.scope/claims",
+   "pkg": "@scope-bid/scope-claims-mcp",
+   "prev": "MCP server for Scope.bid insurance claims vendor dispatch. IMEs, surveillance, peer review",
+   "cur": "MCP server for Scope.bid insurance claims professional dispatch. IMEs, surveillance, peer "
+  },
+  {
+   "server": "ai.dinglebear/rgotify",
+   "pkg": "@dinglebear/rgotify",
+   "prev": "MCP server and CLI for Gotify: send push notifications and manage messages, apps, and clie",
+   "cur": "Gotify notifications and app, client, and message management over MCP and CLI."
+  },
+  {
+   "server": "ai.sellinger/mcp-server",
+   "pkg": "sellinger-mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for the CompanyData API: company search, enrichment and city lookup from offici"
+   "cur": "MCP server exposing Sellinger CRM operations as tools"
   },
   {
-   "server": "ai.mails/agent-email",
-   "pkg": "@mailsai/mcp-server",
-   "prev": "The agent email tool: give any AI agent a real inbox (send + receive + thread) with a repu",
-   "cur": "The agent email tool: give any AI agent a real inbox (send + receive + thread) with a repu"
+   "server": "app.srift/srift",
+   "pkg": "srift-transfer",
+   "prev": "Decentralized, zero-config peer-to-peer file transfer and chat with military-grade AES-256",
+   "cur": "Send any file as a download link from the CLI or an AI agent (MCP server). Encrypted P2P f"
   },
   {
-   "server": "com.attestwire/en16931",
-   "pkg": "@attestwire/mcp",
-   "prev": "stdio bridge to the Attestwire MCP server \u2014 thirteen e-invoicing tools, including reviewed",
-   "cur": "stdio bridge to the Attestwire MCP server \u2014 fourteen e-invoicing tools, including reviewed"
+   "server": "ai.agent-bev/bev-door",
+   "pkg": "@agent-bev/mcp-server",
+   "prev": "AI Agent B2B hub for beer, wine and spirits across Europe \u2014 MCP server",
+   "cur": "The world's largest agentic B2B hub for beer, wine and spirits. Powered by CUVEE. Trade on"
   },
   {
-   "server": "com.clearedindex/mcp",
-   "pkg": "@n747ai/clearedindex-mcp-server",
-   "prev": "Cleared Index MCP 1.4.3 \u2014 soft Check wall \u2192 Agent Lite/Check Stripe; Check \u2192 Gateway \u2192 pay",
-   "cur": "Cleared Index MCP 1.5.0 \u2014 check \u00b7 route \u00b7 witness \u00b7 regime. OpenRouter for x402."
+   "server": "app.apick/all",
+   "pkg": "apick-mcp",
+   "prev": "APICK MCP \u2014 141 Korean data, AI, image & video tools for AI agents. \uc0ac\uc5c5\uc790\uc870\ud68c\u00b7\uc2e0\ubd84\uc99d\u00b7OCR\u00b7\ubc30\uc1a1\uc870\ud68c\u00b7\uc774\ubbf8\uc9c0",
+   "cur": "APICK MCP \u2014 146 Korean data, AI, image & video tools for AI agents. \uc0ac\uc5c5\uc790\uc870\ud68c\u00b7\uc2e0\ubd84\uc99d\u00b7OCR\u00b7\ubc30\uc1a1\uc870\ud68c\u00b7\uc774\ubbf8\uc9c0"
   },
   {
-   "server": "com.crisphive/mcp",
-   "pkg": "@crisphive/mcp",
-   "prev": "Crisphive MCP server (stdio) \u2014 field operations \u2014 constraint-based scheduling on a determi",
-   "cur": "Crisphive MCP server (stdio) \u2014 field operations \u2014 constraint-based scheduling on a determi"
+   "server": "app.insightsocial/insightsocial",
+   "pkg": "insightsocial",
+   "prev": "Official CLI and MCP server for the InsightSocial API: 239 social data endpoints across In",
+   "cur": "Official CLI and MCP server for the InsightSocial API: 300+ social data endpoints across 2"
   },
   {
-   "server": "ai.voxell/forge",
-   "pkg": "@voxell/forge-mcp",
-   "prev": "MCP server for Forge \u2014 Voxell's text-embedding API (turbo\u2192ultra; ultra = Qwen3-Embedding-8",
-   "cur": "MCP server for Forge, Voxell's hosted text-embedding API (turbo, pro, ultra tiers). Voxell"
+   "server": "app.longbook/mcp",
+   "pkg": "@longbook/mcp",
+   "prev": "The longbook MCP server: your longbook folder, readable by the AI you already use. Answers",
+   "cur": "The longbook MCP server: your longbook folder, readable by the AI you already use. Real ar"
   },
   {
-   "server": "ai.snowsure/snow",
-   "pkg": "snowsure-mcp-server",
-   "prev": "MCP server for ski resort snow: real-time powder rankings, 14-day forecasts, 500+ resorts ",
-   "cur": "MCP stdio bridge to SnowSure hosted server \u2014 full tool surface (ask_snowdata, get_destinat"
-  },
-  {
-   "server": "ai.snapdiff/mcp",
-   "pkg": "@corralimited/snapdiff-mcp",
-   "prev": "Standalone MCP server for SnapDiff. Exposes visual-diff, screenshot capture, change detect",
-   "cur": "Standalone MCP server for SnapDiff. Exposes visual-diff, screenshot capture, change detect"
-  },
-  {
-   "server": "com.amplerun/gpu-rentals",
-   "pkg": "@amplerun/mcp",
-   "prev": "MCP server (stdio) that lets AI agents find and rent GPUs on AmpleRun. Wraps @amplerun/sdk",
-   "cur": "MCP server (stdio) that lets AI agents find and rent GPUs on AmpleRun, and register their "
+   "server": "app.yomio/yomio-mcp",
+   "pkg": "yomio-mcp-stdio",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "Connect an MCP-compatible AI client to Yomio with browser sign-in"
   }
  ]
 }

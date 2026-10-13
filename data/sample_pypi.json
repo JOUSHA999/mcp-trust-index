@@ -1,47 +1,29 @@
 {
- "generated_at": "2026-10-12T11:10:06Z",
- "universe_declared_pypi": 88,
+ "generated_at": "2026-10-13T10:51:54Z",
+ "universe_declared_pypi": 71,
  "sample": {
-  "n_sampled": 88,
-  "resolved": 88,
+  "n_sampled": 71,
+  "resolved": 71,
   "unresolved": 0,
-  "version_desync": 20,
-  "desync_pct": 22.7,
+  "version_desync": 16,
+  "desync_pct": 22.5,
   "ci95": [
-   15.2,
-   32.5
+   14.4,
+   33.5
   ],
   "extrapolated_desync": [
-   13,
-   29
+   10,
+   24
   ],
-  "description_drift": 10,
-  "drift_pct": 11.4
+  "description_drift": 7,
+  "drift_pct": 9.9
  },
  "examples_drift": [
-  {
-   "server": "com.boostedchat/travel",
-   "pkg": "boostedtravel",
-   "prev": "Agent-native flight search & booking. 400+ airlines, 75 direct airline connectors run loca",
-   "cur": "\u26a0\ufe0f This package has been renamed to 'letsfg'. Install letsfg instead: pip install letsfg \u2014"
-  },
   {
    "server": "com.aiinfradecoded/mcp-anvil",
    "pkg": "mcp-anvil",
    "prev": "Scaffold, audit, and inspect Model Context Protocol (MCP) servers from the CLI.",
    "cur": "Local MCP daemon with a dashboard, REST/WebSocket API, and 64 built-in tools \u2014 plus scaffo"
-  },
-  {
-   "server": "ca.clevertech/clevertech-mcp-server",
-   "pkg": "clevertech-mcp-server",
-   "prev": "MCP Server for CleverTech Canadian government data APIs",
-   "cur": "CleverTech MCP server \u2014 Canadian government data for AI agents: property, permits, zoning,"
-  },
-  {
-   "server": "ai.sovantica/engrava",
-   "pkg": "engrava-mcp",
-   "prev": "Model Context Protocol server for Engrava \u2014 expose an agent memory database to any MCP cli",
-   "cur": "Model Context Protocol server for Engrava - expose an agent memory database to any MCP cli"
   },
   {
    "server": "ai.nexustoken/nexustoken-sdk",
@@ -50,10 +32,10 @@
    "cur": "Python SDK + MCP server for NexusToken \u2014 an agent-to-agent capability network"
   },
   {
-   "server": "com.1102tools/usaspending-gov-mcp",
-   "pkg": "usaspending-gov-mcp",
-   "prev": "MCP server for USASpending.gov federal contract and award data",
-   "cur": "USAspending.gov contracts, grants, loans, subawards, recipients, agencies, and federal acc"
+   "server": "ai.sovantica/engrava",
+   "pkg": "engrava-mcp",
+   "prev": "Model Context Protocol server for Engrava \u2014 expose an agent memory database to any MCP cli",
+   "cur": "Model Context Protocol server for Engrava - expose an agent memory database to any MCP cli"
   },
   {
    "server": "app.srift/srift",
@@ -62,22 +44,22 @@
    "cur": "Send any file as a download link from the CLI, Python or an AI agent (MCP server). Encrypt"
   },
   {
-   "server": "app.peil/peil-mcp",
-   "pkg": "peil-mcp",
-   "prev": "MCP server for Peil \u2014 log hours, draft invoices and check where you stand from an AI assis",
-   "cur": "MCP server for Peil \u2014 log hours, draft invoices, add expenses and check where you stand fr"
-  },
-  {
    "server": "ai.lbrain/lbrain",
    "pkg": "lbrain-coding-agents",
    "prev": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start.",
    "cur": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start."
   },
   {
-   "server": "com.coinrailz/mcp",
-   "pkg": "coinrailz-mcp",
-   "prev": "MCP server exposing 63 Coin Railz x402 micropayment services via USDC",
-   "cur": "MCP server exposing 63 Coin Railz x402 micropayment services \u2014 crypto analytics, trading s"
+   "server": "ca.clevertech/clevertech-mcp-server",
+   "pkg": "clevertech-mcp-server",
+   "prev": "MCP Server for CleverTech Canadian government data APIs",
+   "cur": "CleverTech MCP server \u2014 Canadian government data for AI agents: property, permits, zoning,"
+  },
+  {
+   "server": "app.peil/peil-mcp",
+   "pkg": "peil-mcp",
+   "prev": "MCP server for Peil \u2014 log hours, draft invoices and check where you stand from an AI assis",
+   "cur": "MCP server for Peil \u2014 log hours, draft invoices, add expenses and check where you stand fr"
   }
  ]
 }

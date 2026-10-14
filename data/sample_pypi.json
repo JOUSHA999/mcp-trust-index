@@ -1,24 +1,54 @@
 {
- "generated_at": "2026-10-13T10:51:54Z",
- "universe_declared_pypi": 71,
+ "generated_at": "2026-10-14T08:58:59Z",
+ "universe_declared_pypi": 265,
  "sample": {
-  "n_sampled": 71,
-  "resolved": 71,
-  "unresolved": 0,
-  "version_desync": 16,
-  "desync_pct": 22.5,
+  "n_sampled": 265,
+  "resolved": 263,
+  "unresolved": 2,
+  "version_desync": 41,
+  "desync_pct": 15.6,
   "ci95": [
-   14.4,
-   33.5
+   11.7,
+   20.5
   ],
   "extrapolated_desync": [
-   10,
-   24
+   31,
+   54
   ],
-  "description_drift": 7,
-  "drift_pct": 9.9
+  "description_drift": 13,
+  "drift_pct": 4.9
  },
  "examples_drift": [
+  {
+   "server": "com.mcparmory/google-drive",
+   "pkg": "mcparmory-google-drive",
+   "prev": "MCP server for Google Drive",
+   "cur": "Manage files, folders, permissions, and collaborative content in Google Drive"
+  },
+  {
+   "server": "ca.clevertech/clevertech-mcp-server",
+   "pkg": "clevertech-mcp-server",
+   "prev": "MCP Server for CleverTech Canadian government data APIs",
+   "cur": "CleverTech MCP server \u2014 Canadian government data for AI agents: property, permits, zoning,"
+  },
+  {
+   "server": "com.kiprio/kiprio-mcp",
+   "pkg": "kiprio-mcp",
+   "prev": "MCP server giving AI agents 23 API tools: email validation, DNS/WHOIS, SSL inspection, web",
+   "cur": "MCP server giving AI agents 27 API tools: email/phone validation, geocoding, timezone conv"
+  },
+  {
+   "server": "com.macaroonnetwork/mcp-server",
+   "pkg": "macaroonnetwork-mcp",
+   "prev": "MCP client for Macaroon Network -- discover and buy from a live marketplace where AI agent",
+   "cur": "MCP discovery router for Macaroon Network categories, sources, vertical MCPs, and x402 USD"
+  },
+  {
+   "server": "ai.sovantica/engrava",
+   "pkg": "engrava-mcp",
+   "prev": "Model Context Protocol server for Engrava \u2014 expose an agent memory database to any MCP cli",
+   "cur": "Model Context Protocol server for Engrava - expose an agent memory database to any MCP cli"
+  },
   {
    "server": "com.aiinfradecoded/mcp-anvil",
    "pkg": "mcp-anvil",
@@ -32,10 +62,10 @@
    "cur": "Python SDK + MCP server for NexusToken \u2014 an agent-to-agent capability network"
   },
   {
-   "server": "ai.sovantica/engrava",
-   "pkg": "engrava-mcp",
-   "prev": "Model Context Protocol server for Engrava \u2014 expose an agent memory database to any MCP cli",
-   "cur": "Model Context Protocol server for Engrava - expose an agent memory database to any MCP cli"
+   "server": "app.peil/peil-mcp",
+   "pkg": "peil-mcp",
+   "prev": "MCP server for Peil \u2014 log hours, draft invoices and check where you stand from an AI assis",
+   "cur": "MCP server for Peil \u2014 log hours, draft invoices, add expenses and check where you stand fr"
   },
   {
    "server": "app.srift/srift",
@@ -44,22 +74,10 @@
    "cur": "Send any file as a download link from the CLI, Python or an AI agent (MCP server). Encrypt"
   },
   {
-   "server": "ai.lbrain/lbrain",
-   "pkg": "lbrain-coding-agents",
-   "prev": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start.",
-   "cur": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start."
-  },
-  {
-   "server": "ca.clevertech/clevertech-mcp-server",
-   "pkg": "clevertech-mcp-server",
-   "prev": "MCP Server for CleverTech Canadian government data APIs",
-   "cur": "CleverTech MCP server \u2014 Canadian government data for AI agents: property, permits, zoning,"
-  },
-  {
-   "server": "app.peil/peil-mcp",
-   "pkg": "peil-mcp",
-   "prev": "MCP server for Peil \u2014 log hours, draft invoices and check where you stand from an AI assis",
-   "cur": "MCP server for Peil \u2014 log hours, draft invoices, add expenses and check where you stand fr"
+   "server": "com.coinrailz/mcp",
+   "pkg": "coinrailz-mcp",
+   "prev": "MCP server exposing 63 Coin Railz x402 micropayment services via USDC",
+   "cur": "MCP server exposing 63 Coin Railz x402 micropayment services \u2014 crypto analytics, trading s"
   }
  ]
 }

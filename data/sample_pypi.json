@@ -1,48 +1,24 @@
 {
- "generated_at": "2026-10-14T08:58:59Z",
- "universe_declared_pypi": 265,
+ "generated_at": "2026-10-15T08:30:32Z",
+ "universe_declared_pypi": 149,
  "sample": {
-  "n_sampled": 265,
-  "resolved": 263,
-  "unresolved": 2,
-  "version_desync": 41,
-  "desync_pct": 15.6,
+  "n_sampled": 149,
+  "resolved": 148,
+  "unresolved": 1,
+  "version_desync": 27,
+  "desync_pct": 18.2,
   "ci95": [
-   11.7,
-   20.5
+   12.9,
+   25.2
   ],
   "extrapolated_desync": [
-   31,
-   54
+   19,
+   38
   ],
-  "description_drift": 13,
-  "drift_pct": 4.9
+  "description_drift": 10,
+  "drift_pct": 6.8
  },
  "examples_drift": [
-  {
-   "server": "com.mcparmory/google-drive",
-   "pkg": "mcparmory-google-drive",
-   "prev": "MCP server for Google Drive",
-   "cur": "Manage files, folders, permissions, and collaborative content in Google Drive"
-  },
-  {
-   "server": "ca.clevertech/clevertech-mcp-server",
-   "pkg": "clevertech-mcp-server",
-   "prev": "MCP Server for CleverTech Canadian government data APIs",
-   "cur": "CleverTech MCP server \u2014 Canadian government data for AI agents: property, permits, zoning,"
-  },
-  {
-   "server": "com.kiprio/kiprio-mcp",
-   "pkg": "kiprio-mcp",
-   "prev": "MCP server giving AI agents 23 API tools: email validation, DNS/WHOIS, SSL inspection, web",
-   "cur": "MCP server giving AI agents 27 API tools: email/phone validation, geocoding, timezone conv"
-  },
-  {
-   "server": "com.macaroonnetwork/mcp-server",
-   "pkg": "macaroonnetwork-mcp",
-   "prev": "MCP client for Macaroon Network -- discover and buy from a live marketplace where AI agent",
-   "cur": "MCP discovery router for Macaroon Network categories, sources, vertical MCPs, and x402 USD"
-  },
   {
    "server": "ai.sovantica/engrava",
    "pkg": "engrava-mcp",
@@ -56,16 +32,28 @@
    "cur": "Local MCP daemon with a dashboard, REST/WebSocket API, and 64 built-in tools \u2014 plus scaffo"
   },
   {
+   "server": "com.coinrailz/mcp",
+   "pkg": "coinrailz-mcp",
+   "prev": "MCP server exposing 63 Coin Railz x402 micropayment services via USDC",
+   "cur": "MCP server exposing 63 Coin Railz x402 micropayment services \u2014 crypto analytics, trading s"
+  },
+  {
    "server": "ai.nexustoken/nexustoken-sdk",
    "pkg": "nexustoken-sdk",
    "prev": "Python SDK + MCP server for NexusToken \u2014 a SaaS API for AI-powered structured data process",
    "cur": "Python SDK + MCP server for NexusToken \u2014 an agent-to-agent capability network"
   },
   {
-   "server": "app.peil/peil-mcp",
-   "pkg": "peil-mcp",
-   "prev": "MCP server for Peil \u2014 log hours, draft invoices and check where you stand from an AI assis",
-   "cur": "MCP server for Peil \u2014 log hours, draft invoices, add expenses and check where you stand fr"
+   "server": "com.kiprio/kiprio-mcp",
+   "pkg": "kiprio-mcp",
+   "prev": "MCP server giving AI agents 23 API tools: email validation, DNS/WHOIS, SSL inspection, web",
+   "cur": "MCP server giving AI agents 27 API tools: email/phone validation, geocoding, timezone conv"
+  },
+  {
+   "server": "ai.lbrain/lbrain",
+   "pkg": "lbrain-coding-agents",
+   "prev": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start.",
+   "cur": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start."
   },
   {
    "server": "app.srift/srift",
@@ -74,10 +62,22 @@
    "cur": "Send any file as a download link from the CLI, Python or an AI agent (MCP server). Encrypt"
   },
   {
-   "server": "com.coinrailz/mcp",
-   "pkg": "coinrailz-mcp",
-   "prev": "MCP server exposing 63 Coin Railz x402 micropayment services via USDC",
-   "cur": "MCP server exposing 63 Coin Railz x402 micropayment services \u2014 crypto analytics, trading s"
+   "server": "app.peil/peil-mcp",
+   "pkg": "peil-mcp",
+   "prev": "MCP server for Peil \u2014 log hours, draft invoices and check where you stand from an AI assis",
+   "cur": "MCP server for Peil \u2014 log hours, draft invoices, add expenses and check where you stand fr"
+  },
+  {
+   "server": "com.boostedchat/travel",
+   "pkg": "boostedtravel",
+   "prev": "Agent-native flight search & booking. 400+ airlines, 75 direct airline connectors run loca",
+   "cur": "\u26a0\ufe0f This package has been renamed to 'letsfg'. Install letsfg instead: pip install letsfg \u2014"
+  },
+  {
+   "server": "ca.clevertech/clevertech-mcp-server",
+   "pkg": "clevertech-mcp-server",
+   "prev": "MCP Server for CleverTech Canadian government data APIs",
+   "cur": "CleverTech MCP server \u2014 Canadian government data for AI agents: property, permits, zoning,"
   }
  ]
 }

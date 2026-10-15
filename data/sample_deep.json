@@ -1,60 +1,102 @@
 {
- "generated_at": "2026-10-14T08:58:54Z",
- "universe_declared_github_repos": 3902,
- "universe_declared_npm_packages": 1038,
+ "generated_at": "2026-10-15T08:30:31Z",
+ "universe_declared_github_repos": 2811,
+ "universe_declared_npm_packages": 684,
  "github_sample": {
   "n": 1200,
-  "dead": 309,
-  "dead_pct": 25.8,
+  "dead": 351,
+  "dead_pct": 29.2,
   "ci95": [
-   23.4,
-   28.3
+   26.7,
+   31.9
   ],
-  "archived": 6,
-  "no_license": 151,
-  "stale_365d": 35,
+  "archived": 7,
+  "no_license": 158,
+  "stale_365d": 31,
   "extrapolated_dead": [
-   913,
-   1104
+   751,
+   897
   ]
  },
  "npm_sample": {
-  "n": 800,
-  "resolved": 789,
+  "n": 684,
+  "resolved": 673,
   "unresolved": 11,
-  "version_desync": 189,
-  "desync_pct": 23.6,
+  "version_desync": 169,
+  "desync_pct": 24.7,
   "ci95": [
-   20.8,
-   26.7
+   21.6,
+   28.1
   ],
-  "description_drift": 87,
-  "drift_pct": 10.9,
-  "desc_mismatch_vs_registry": 709,
-  "mismatch_pct": 88.6,
+  "description_drift": 82,
+  "drift_pct": 12.0,
+  "desc_mismatch_vs_registry": 592,
+  "mismatch_pct": 86.5,
   "extrapolated_desync": [
-   216,
-   277
+   148,
+   192
   ]
  },
  "examples_dead_repo": [
   "ee324/a2awire",
-  "Ninar-ctrl/Ninar.AI",
-  "ridedeskapp/ridedesk",
-  "michalstrnadel/dsght-landing",
-  "TuringTap/turingtap-backend",
-  "michael-kanda/designare",
-  "Galax-ai/ReadyPermit.AI-v2",
-  "dregon03/statisticsoftheworld",
+  "belexgo/lexgo",
+  "Fold-Laboratories/art-marketplace",
+  "promptcoinapp/provably-fair-mcp",
+  "junter1989k-ai/vietnam-payments-mcp",
+  "hjsh200219/pharminfo-mcp",
+  "martinsmitcom/regulationsai",
+  "gradebg96/candidatehub",
   "ee324/a2awire",
-  "smithery-ai/mcp-servers",
-  "Kolonie-AI/kolonie-platform",
-  "lickfeng88888/transpic.ai",
-  "jhibird/HeySpark-MCP",
-  "Maurice1969DB/livtakt-app",
-  "Carbonmark/market0x"
+  "skr-cloudify/clickup-mcp-server-new",
+  "denizozzgur/agentrade",
+  "bwalvoord/gumball",
+  "donnywin85/dex-data-mcp",
+  "ee324/a2awire",
+  "noahflk/seo-mcp"
  ],
  "examples_drift": [
+  {
+   "server": "ai.eonik/mcp",
+   "pkg": "eonik-mcp",
+   "prev": "Connect Claude, Cursor, or Codex to eonik: brand, competitor research, and creative briefs",
+   "cur": "eonik in Claude Desktop, Cursor, Codex and VS Code: make adapts of a creative, revise them"
+  },
+  {
+   "server": "app.srift/srift",
+   "pkg": "srift-transfer",
+   "prev": "Decentralized, zero-config peer-to-peer file transfer and chat with military-grade AES-256",
+   "cur": "Send any file as a download link from the CLI or an AI agent (MCP server). Encrypted P2P f"
+  },
+  {
+   "server": "com.jamsql/jam-sql-studio",
+   "pkg": "@jamsql/mcp",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "Connect Claude Desktop, Cursor, VS Code and other stdio MCP clients to Jam SQL Studio's lo"
+  },
+  {
+   "server": "app.yomio/yomio-mcp",
+   "pkg": "yomio-mcp-stdio",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "Connect an MCP-compatible AI client to Yomio with browser sign-in"
+  },
+  {
+   "server": "ai.maxwellinternational/data",
+   "pkg": "@maxwellintl/x402-mcp",
+   "prev": "MCP server for Maxwell International's pay-per-call x402 data API: ski and travel, public ",
+   "cur": "Maxwell Directory (x402 + MCP): local providers worldwide, plus travel and public data. Fr"
+  },
+  {
+   "server": "au.com.dwelldelta/dwelldelta",
+   "pkg": "dwelldelta-mcp",
+   "prev": "Is an Australian rent fair? A rent check on the ABS rents index, plus sourced property and",
+   "cur": "Is an Australian rent fair? A rent check on the ABS rents index, rents by area for four st"
+  },
+  {
+   "server": "ai.clelp/clelp",
+   "pkg": "clelp-mcp-server",
+   "prev": "Find the best AI tools and MCP servers, rated by AI agents. Search 8,000+ skills with real",
+   "cur": "Find the best AI tools and MCP servers, safety-checked and rated by AI agents. Search thou"
+  },
   {
    "server": "ai.buywhere/buywhere-mcp",
    "pkg": "@buywhere/mcp-server",
@@ -62,58 +104,16 @@
    "cur": "Stdio bridge to the hosted BuyWhere MCP server \u2014 300M+ products, 150,000+ stores, deliver_"
   },
   {
-   "server": "com.sytecheck/sytecheck-mcp",
-   "pkg": "@ascentws/sytecheck-mcp",
-   "prev": "Model Context Protocol server for SyteCheck \u2014 run website audits and read their reports fr",
-   "cur": "Model Context Protocol server for SyteCheck \u2014 run website audits and read their reports fr"
+   "server": "com.companydata/mcp",
+   "pkg": "@companydata/mcp-server",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "MCP server for the CompanyData API: company search, enrichment and city lookup from offici"
   },
   {
-   "server": "ai.snapdiff/mcp",
-   "pkg": "@corralimited/snapdiff-mcp",
-   "prev": "Standalone MCP server for SnapDiff. Exposes visual-diff, screenshot capture, change detect",
-   "cur": "Standalone MCP server for SnapDiff. Exposes visual-diff, screenshot capture, change detect"
-  },
-  {
-   "server": "br.com.signdocs/mcp-server",
-   "pkg": "@signdocs-brasil/mcp-server",
-   "prev": "Model Context Protocol (MCP) server for the SignDocs Brasil e-signature API \u2014 lets AI agen",
-   "cur": "Servidor MCP oficial da SignDocs Brasil: assinatura eletr\u00f4nica e digital com ICP-Brasil, b"
-  },
-  {
-   "server": "com.dechonet/mcp",
-   "pkg": "dechonet-mcp",
-   "prev": "Domain security reconnaissance MCP server \u2014 23 tools for AI agents. Phishing/smishing link",
-   "cur": "Domain security reconnaissance MCP server \u2014 25 tools for AI agents. Phishing/smishing link"
-  },
-  {
-   "server": "ai.dinglebear/rapprise",
-   "pkg": "@dinglebear/rapprise",
-   "prev": "MCP server and CLI for Apprise: fan out notifications to dozens of delivery backends over ",
-   "cur": "Apprise notifications over MCP and CLI with authenticated stdio and HTTP transports."
-  },
-  {
-   "server": "com.imbawallet/agent-docs",
-   "pkg": "@imba_wallet/agent-mcp-docs",
-   "prev": "Read-only MCP for IMBA prepaid Agent API docs and policy. No deposit, buy, or withdraw. Co",
-   "cur": "Read-only MCP for IMBA prepaid Agent API: Visa prepaid, eSIM, gift-card, and KYT playbooks"
-  },
-  {
-   "server": "ai.myspaice/spaces",
-   "pkg": "spaces-mcp-server",
-   "prev": "MCP server for the Spaces AI Marketplace \u2014 lets AI agents browse, join, and play in spaces",
-   "cur": "MCP server for myspAIce: your AI joins as itself, names itself, and hangs out, plays and m"
-  },
-  {
-   "server": "com.utilsforagents/utilsforagents-mcp",
-   "pkg": "utilsforagents-mcp",
-   "prev": "MCP server for AI agents \u2014 JSON diff, HTML\u2192Markdown, EXIF extraction, metadata scrubbing, ",
-   "cur": "MCP server for UtilsForAgents with eight paid x402 utility tools plus one free feedback to"
-  },
-  {
-   "server": "co.instavision/instagram-discovery",
-   "pkg": "instavision-mcp",
-   "prev": "Run Instavision Instagram niche discovery from any MCP-compatible AI agent (Claude Code, C",
-   "cur": "InstaVision \u2014 Instagram niche discovery for AI agents. MCP bridge for Claude Desktop, Clau"
+   "server": "app.recordist/gateway",
+   "pkg": "@recordist/gateway",
+   "prev": "MCP server + A2A agent that lets AI assistants read and act on meetings captured by Record",
+   "cur": "MCP server + A2A agent for the Recordist app (https://recordist.app): lets AI assistants r"
   }
  ]
 }

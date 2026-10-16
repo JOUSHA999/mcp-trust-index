@@ -1,83 +1,22 @@
 {
- "generated_at": "2026-10-15T08:30:32Z",
- "universe_declared_pypi": 149,
+ "generated_at": "2026-10-16T08:20:01Z",
+ "universe_declared_pypi": 6,
  "sample": {
-  "n_sampled": 149,
-  "resolved": 148,
-  "unresolved": 1,
-  "version_desync": 27,
-  "desync_pct": 18.2,
+  "n_sampled": 6,
+  "resolved": 6,
+  "unresolved": 0,
+  "version_desync": 2,
+  "desync_pct": 33.3,
   "ci95": [
-   12.9,
-   25.2
+   9.7,
+   70.0
   ],
   "extrapolated_desync": [
-   19,
-   38
+   1,
+   4
   ],
-  "description_drift": 10,
-  "drift_pct": 6.8
+  "description_drift": 0,
+  "drift_pct": 0.0
  },
- "examples_drift": [
-  {
-   "server": "ai.sovantica/engrava",
-   "pkg": "engrava-mcp",
-   "prev": "Model Context Protocol server for Engrava \u2014 expose an agent memory database to any MCP cli",
-   "cur": "Model Context Protocol server for Engrava - expose an agent memory database to any MCP cli"
-  },
-  {
-   "server": "com.aiinfradecoded/mcp-anvil",
-   "pkg": "mcp-anvil",
-   "prev": "Scaffold, audit, and inspect Model Context Protocol (MCP) servers from the CLI.",
-   "cur": "Local MCP daemon with a dashboard, REST/WebSocket API, and 64 built-in tools \u2014 plus scaffo"
-  },
-  {
-   "server": "com.coinrailz/mcp",
-   "pkg": "coinrailz-mcp",
-   "prev": "MCP server exposing 63 Coin Railz x402 micropayment services via USDC",
-   "cur": "MCP server exposing 63 Coin Railz x402 micropayment services \u2014 crypto analytics, trading s"
-  },
-  {
-   "server": "ai.nexustoken/nexustoken-sdk",
-   "pkg": "nexustoken-sdk",
-   "prev": "Python SDK + MCP server for NexusToken \u2014 a SaaS API for AI-powered structured data process",
-   "cur": "Python SDK + MCP server for NexusToken \u2014 an agent-to-agent capability network"
-  },
-  {
-   "server": "com.kiprio/kiprio-mcp",
-   "pkg": "kiprio-mcp",
-   "prev": "MCP server giving AI agents 23 API tools: email validation, DNS/WHOIS, SSL inspection, web",
-   "cur": "MCP server giving AI agents 27 API tools: email/phone validation, geocoding, timezone conv"
-  },
-  {
-   "server": "ai.lbrain/lbrain",
-   "pkg": "lbrain-coding-agents",
-   "prev": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start.",
-   "cur": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start."
-  },
-  {
-   "server": "app.srift/srift",
-   "pkg": "srift",
-   "prev": "Zero-config, end-to-end encrypted peer-to-peer file transfer CLI, MCP server and Python SD",
-   "cur": "Send any file as a download link from the CLI, Python or an AI agent (MCP server). Encrypt"
-  },
-  {
-   "server": "app.peil/peil-mcp",
-   "pkg": "peil-mcp",
-   "prev": "MCP server for Peil \u2014 log hours, draft invoices and check where you stand from an AI assis",
-   "cur": "MCP server for Peil \u2014 log hours, draft invoices, add expenses and check where you stand fr"
-  },
-  {
-   "server": "com.boostedchat/travel",
-   "pkg": "boostedtravel",
-   "prev": "Agent-native flight search & booking. 400+ airlines, 75 direct airline connectors run loca",
-   "cur": "\u26a0\ufe0f This package has been renamed to 'letsfg'. Install letsfg instead: pip install letsfg \u2014"
-  },
-  {
-   "server": "ca.clevertech/clevertech-mcp-server",
-   "pkg": "clevertech-mcp-server",
-   "prev": "MCP Server for CleverTech Canadian government data APIs",
-   "cur": "CleverTech MCP server \u2014 Canadian government data for AI agents: property, permits, zoning,"
-  }
- ]
+ "examples_drift": []
 }

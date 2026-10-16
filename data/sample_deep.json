@@ -1,119 +1,77 @@
 {
- "generated_at": "2026-10-15T08:30:31Z",
- "universe_declared_github_repos": 2811,
- "universe_declared_npm_packages": 684,
+ "generated_at": "2026-10-16T08:20:01Z",
+ "universe_declared_github_repos": 109,
+ "universe_declared_npm_packages": 41,
  "github_sample": {
-  "n": 1200,
-  "dead": 351,
-  "dead_pct": 29.2,
+  "n": 109,
+  "dead": 44,
+  "dead_pct": 40.4,
   "ci95": [
-   26.7,
-   31.9
+   31.6,
+   49.8
   ],
-  "archived": 7,
-  "no_license": 158,
-  "stale_365d": 31,
+  "archived": 0,
+  "no_license": 12,
+  "stale_365d": 0,
   "extrapolated_dead": [
-   751,
-   897
+   34,
+   54
   ]
  },
  "npm_sample": {
-  "n": 684,
-  "resolved": 673,
-  "unresolved": 11,
-  "version_desync": 169,
-  "desync_pct": 24.7,
+  "n": 41,
+  "resolved": 41,
+  "unresolved": 0,
+  "version_desync": 23,
+  "desync_pct": 56.1,
   "ci95": [
-   21.6,
-   28.1
+   41.0,
+   70.1
   ],
-  "description_drift": 82,
-  "drift_pct": 12.0,
-  "desc_mismatch_vs_registry": 592,
-  "mismatch_pct": 86.5,
+  "description_drift": 3,
+  "drift_pct": 7.3,
+  "desc_mismatch_vs_registry": 20,
+  "mismatch_pct": 48.8,
   "extrapolated_desync": [
-   148,
-   192
+   17,
+   29
   ]
  },
  "examples_dead_repo": [
-  "ee324/a2awire",
-  "belexgo/lexgo",
-  "Fold-Laboratories/art-marketplace",
-  "promptcoinapp/provably-fair-mcp",
-  "junter1989k-ai/vietnam-payments-mcp",
-  "hjsh200219/pharminfo-mcp",
-  "martinsmitcom/regulationsai",
-  "gradebg96/candidatehub",
-  "ee324/a2awire",
-  "skr-cloudify/clickup-mcp-server-new",
-  "denizozzgur/agentrade",
-  "bwalvoord/gumball",
-  "donnywin85/dex-data-mcp",
-  "ee324/a2awire",
-  "noahflk/seo-mcp"
+  "haf/glimt",
+  "rooz21/x402",
+  "andrewjgaber-commits/empire-distribution",
+  "autoblocksai/ctxl",
+  "mindsightventures/lona",
+  "autoblocksai/ctxl",
+  "rooz21/x402",
+  "adiny/nomad-crypto-travel",
+  "rooz21/x402",
+  "u00dxk2/agentic-news",
+  "Bankee-ai/inferventis",
+  "rooz21/x402",
+  "rooz21/x402",
+  "AgenticBooks/agenticbooks",
+  "abmeter/abmeter"
  ],
  "examples_drift": [
   {
-   "server": "ai.eonik/mcp",
-   "pkg": "eonik-mcp",
-   "prev": "Connect Claude, Cursor, or Codex to eonik: brand, competitor research, and creative briefs",
-   "cur": "eonik in Claude Desktop, Cursor, Codex and VS Code: make adapts of a creative, revise them"
+   "server": "ai.agenttrust/mcp-server",
+   "pkg": "@agenttrust/mcp-server",
+   "prev": "MCP server for AgentTrust \u2014 email, file storage, and instant messaging for AI agents",
+   "cur": "Free email for AI agents, instant messaging between agents, and cloud file storage \u2014 all t"
   },
   {
-   "server": "app.srift/srift",
-   "pkg": "srift-transfer",
-   "prev": "Decentralized, zero-config peer-to-peer file transfer and chat with military-grade AES-256",
-   "cur": "Send any file as a download link from the CLI or an AI agent (MCP server). Encrypted P2P f"
+   "server": "ai.agent-bev/bev-door",
+   "pkg": "@agent-bev/mcp-server",
+   "prev": "AI Agent B2B hub for beer, wine and spirits across Europe \u2014 MCP server",
+   "cur": "The world's largest agentic B2B hub for beer, wine and spirits. Powered by CUVEE. Trade on"
   },
   {
-   "server": "com.jamsql/jam-sql-studio",
-   "pkg": "@jamsql/mcp",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Connect Claude Desktop, Cursor, VS Code and other stdio MCP clients to Jam SQL Studio's lo"
-  },
-  {
-   "server": "app.yomio/yomio-mcp",
-   "pkg": "yomio-mcp-stdio",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Connect an MCP-compatible AI client to Yomio with browser sign-in"
-  },
-  {
-   "server": "ai.maxwellinternational/data",
-   "pkg": "@maxwellintl/x402-mcp",
-   "prev": "MCP server for Maxwell International's pay-per-call x402 data API: ski and travel, public ",
-   "cur": "Maxwell Directory (x402 + MCP): local providers worldwide, plus travel and public data. Fr"
-  },
-  {
-   "server": "au.com.dwelldelta/dwelldelta",
-   "pkg": "dwelldelta-mcp",
-   "prev": "Is an Australian rent fair? A rent check on the ABS rents index, plus sourced property and",
-   "cur": "Is an Australian rent fair? A rent check on the ABS rents index, rents by area for four st"
-  },
-  {
-   "server": "ai.clelp/clelp",
-   "pkg": "clelp-mcp-server",
-   "prev": "Find the best AI tools and MCP servers, rated by AI agents. Search 8,000+ skills with real",
-   "cur": "Find the best AI tools and MCP servers, safety-checked and rated by AI agents. Search thou"
-  },
-  {
-   "server": "ai.buywhere/buywhere-mcp",
-   "pkg": "@buywhere/mcp-server",
-   "prev": "Agent-native product catalog MCP server. Search & compare 367M+ products across 932K+ merc",
-   "cur": "Stdio bridge to the hosted BuyWhere MCP server \u2014 300M+ products, 150,000+ stores, deliver_"
-  },
-  {
-   "server": "com.companydata/mcp",
-   "pkg": "@companydata/mcp-server",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for the CompanyData API: company search, enrichment and city lookup from offici"
-  },
-  {
-   "server": "app.recordist/gateway",
-   "pkg": "@recordist/gateway",
-   "prev": "MCP server + A2A agent that lets AI assistants read and act on meetings captured by Record",
-   "cur": "MCP server + A2A agent for the Recordist app (https://recordist.app): lets AI assistants r"
+   "server": "ai.aimentiontracker/mcp",
+   "pkg": "@aimentiontracker/mcp",
+   "prev": "MCP server for AIMentionTracker \u2014 how often AI assistants name and cite your brand.",
+   "cur": "Track how often ChatGPT, Claude, Gemini and Perplexity name and cite your brand. Ten read-"
   }
  ]
 }

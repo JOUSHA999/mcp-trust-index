@@ -1,22 +1,83 @@
 {
- "generated_at": "2026-10-16T08:20:01Z",
- "universe_declared_pypi": 6,
+ "generated_at": "2026-10-17T08:02:38Z",
+ "universe_declared_pypi": 1648,
  "sample": {
-  "n_sampled": 6,
-  "resolved": 6,
-  "unresolved": 0,
-  "version_desync": 2,
-  "desync_pct": 33.3,
+  "n_sampled": 500,
+  "resolved": 496,
+  "unresolved": 4,
+  "version_desync": 99,
+  "desync_pct": 20.0,
   "ci95": [
-   9.7,
-   70.0
+   16.7,
+   23.7
   ],
   "extrapolated_desync": [
-   1,
-   4
+   275,
+   391
   ],
-  "description_drift": 0,
-  "drift_pct": 0.0
+  "description_drift": 23,
+  "drift_pct": 4.6
  },
- "examples_drift": []
+ "examples_drift": [
+  {
+   "server": "io.github.Astrix-Labs/genesys-memory",
+   "pkg": "genesys-memory",
+   "prev": "The intelligence layer for AI memory \u2014 scoring, causal inference, lifecycle management, an",
+   "cur": "genesys-memory has been renamed to papez. This package installs papez and keeps `import ge"
+  },
+  {
+   "server": "io.github.AIops-tools/ot-aiops",
+   "pkg": "ot-aiops",
+   "prev": "Governed, vendor-neutral OT data tap + intelligent troubleshooting for AI agents (OPC-UA /",
+   "cur": "Governed, vendor-neutral OT data tap + intelligent troubleshooting for AI agents (OPC-UA /"
+  },
+  {
+   "server": "io.github.AMRITO-KUNDU/llmscribe",
+   "pkg": "llmscribe",
+   "prev": "Export a project folder into a single, LLM-ready text file \u2014 directory tree plus full file",
+   "cur": "Deterministic repository extractor and structured code-access tool for local projects and "
+  },
+  {
+   "server": "app.srift/srift",
+   "pkg": "srift",
+   "prev": "Zero-config, end-to-end encrypted peer-to-peer file transfer CLI, MCP server and Python SD",
+   "cur": "Send any file as a download link from the CLI, Python or an AI agent (MCP server). Encrypt"
+  },
+  {
+   "server": "com.coinrailz/mcp",
+   "pkg": "coinrailz-mcp",
+   "prev": "MCP server exposing 63 Coin Railz x402 micropayment services via USDC",
+   "cur": "MCP server exposing 63 Coin Railz x402 micropayment services \u2014 crypto analytics, trading s"
+  },
+  {
+   "server": "io.github.Efistoffeles/boostedtravel",
+   "pkg": "boostedtravel",
+   "prev": "Agent-native flight search & booking. 400+ airlines, 75 direct airline connectors run loca",
+   "cur": "\u26a0\ufe0f This package has been renamed to 'letsfg'. Install letsfg instead: pip install letsfg \u2014"
+  },
+  {
+   "server": "io.github.Elmoaid/tempograph",
+   "pkg": "tempograph",
+   "prev": "Code graph context engine for AI coding agents \u2014 structural dependency graph with adaptive",
+   "cur": "Your AI agent finds the right files. Code graph context engine with 24 MCP tools, 170+ lan"
+  },
+  {
+   "server": "com.kiprio/kiprio-mcp",
+   "pkg": "kiprio-mcp",
+   "prev": "MCP server giving AI agents 23 API tools: email validation, DNS/WHOIS, SSL inspection, web",
+   "cur": "MCP server giving AI agents 27 API tools: email/phone validation, geocoding, timezone conv"
+  },
+  {
+   "server": "io.github.LuminariSoftwares/code-guardian",
+   "pkg": "code-guardian-mcp",
+   "prev": "Is this codebase safe to run, will it work, and is it complete? Deterministic Safe, Works ",
+   "cur": "Is this codebase safe to run, will it work, and is it complete? Deterministic Safe, Works "
+  },
+  {
+   "server": "io.github.JoaoBerne/cli-bridge-mcp",
+   "pkg": "cli-bridge-mcp",
+   "prev": "Consult a council of AI CLIs (Gemini, GPT, Claude, Mistral, Qwen, Copilot, OpenCode\u2026) from",
+   "cur": "Expose the other AI CLIs installed on your machine (Gemini, Codex, Claude Code, Mistral, o"
+  }
+ ]
 }

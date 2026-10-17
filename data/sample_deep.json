@@ -1,77 +1,119 @@
 {
- "generated_at": "2026-10-16T08:20:01Z",
- "universe_declared_github_repos": 109,
- "universe_declared_npm_packages": 41,
+ "generated_at": "2026-10-17T08:02:34Z",
+ "universe_declared_github_repos": 9923,
+ "universe_declared_npm_packages": 3523,
  "github_sample": {
-  "n": 109,
-  "dead": 44,
-  "dead_pct": 40.4,
+  "n": 1200,
+  "dead": 219,
+  "dead_pct": 18.2,
   "ci95": [
-   31.6,
-   49.8
+   16.2,
+   20.5
   ],
-  "archived": 0,
-  "no_license": 12,
-  "stale_365d": 0,
+  "archived": 11,
+  "no_license": 128,
+  "stale_365d": 12,
   "extrapolated_dead": [
-   34,
-   54
+   1608,
+   2034
   ]
  },
  "npm_sample": {
-  "n": 41,
-  "resolved": 41,
-  "unresolved": 0,
-  "version_desync": 23,
-  "desync_pct": 56.1,
+  "n": 800,
+  "resolved": 767,
+  "unresolved": 33,
+  "version_desync": 241,
+  "desync_pct": 30.1,
   "ci95": [
-   41.0,
-   70.1
+   27.0,
+   33.4
   ],
-  "description_drift": 3,
-  "drift_pct": 7.3,
-  "desc_mismatch_vs_registry": 20,
-  "mismatch_pct": 48.8,
+  "description_drift": 88,
+  "drift_pct": 11.0,
+  "desc_mismatch_vs_registry": 679,
+  "mismatch_pct": 84.9,
   "extrapolated_desync": [
-   17,
-   29
+   951,
+   1177
   ]
  },
  "examples_dead_repo": [
-  "haf/glimt",
+  "ee324/a2awire",
+  "eliu243/oura-mcp-server",
+  "SevaSk/scotiasignal-frontend",
+  "bitfent/gitbuyer",
+  "quack2025/genius-voice-capture-back",
+  "joeetdev/venture-estate",
+  "FoundryNet/fact-check-mcp",
+  "belexgo/lexgo",
+  "Kenboe/kural-ai",
   "rooz21/x402",
-  "andrewjgaber-commits/empire-distribution",
-  "autoblocksai/ctxl",
-  "mindsightventures/lona",
-  "autoblocksai/ctxl",
-  "rooz21/x402",
-  "adiny/nomad-crypto-travel",
-  "rooz21/x402",
-  "u00dxk2/agentic-news",
-  "Bankee-ai/inferventis",
-  "rooz21/x402",
-  "rooz21/x402",
-  "AgenticBooks/agenticbooks",
-  "abmeter/abmeter"
+  "Perseus-Computing-LLC/perseus-vault",
+  "taylorgood/clearedindex",
+  "RishabhKodes/prexist",
+  "SergiyIva/api-stock-mcp",
+  "digitalpromptmarket-beep/docqa-mcp"
  ],
  "examples_drift": [
   {
-   "server": "ai.agenttrust/mcp-server",
-   "pkg": "@agenttrust/mcp-server",
-   "prev": "MCP server for AgentTrust \u2014 email, file storage, and instant messaging for AI agents",
-   "cur": "Free email for AI agents, instant messaging between agents, and cloud file storage \u2014 all t"
+   "server": "io.github.Aganium/mcp-server",
+   "pkg": "@agenium/mcp-server",
+   "prev": "Bridge MCP (Model Context Protocol) servers to the AGENIUM agent:// network",
+   "cur": "Bridge any MCP server to the agent:// network \u2014 make your tools discoverable, callable, an"
   },
   {
-   "server": "ai.agent-bev/bev-door",
-   "pkg": "@agent-bev/mcp-server",
-   "prev": "AI Agent B2B hub for beer, wine and spirits across Europe \u2014 MCP server",
-   "cur": "The world's largest agentic B2B hub for beer, wine and spirits. Powered by CUVEE. Trade on"
+   "server": "io.github.AlexanderKaan/uisandbox",
+   "pkg": "uisandbox-mcp",
+   "prev": "UISandbox as an MCP server: open the real sandbox in your browser with your built web app ",
+   "cur": "UISandbox as an MCP server: open the real sandbox in your browser with your built web app "
   },
   {
-   "server": "ai.aimentiontracker/mcp",
-   "pkg": "@aimentiontracker/mcp",
-   "prev": "MCP server for AIMentionTracker \u2014 how often AI assistants name and cite your brand.",
-   "cur": "Track how often ChatGPT, Claude, Gemini and Perplexity name and cite your brand. Ten read-"
+   "server": "io.github.Daichi-Kudo/llm-advisor",
+   "pkg": "llm-advisor-mcp",
+   "prev": "MCP server for LLM/VLM model selection \u2014 compare 336+ models with real-time benchmarks, pr",
+   "cur": "MCP server for LLM/VLM model selection \u2014 compare 300+ models with real-time benchmarks, pr"
+  },
+  {
+   "server": "io.github.LucaRSdeCo/sharecut-mcp",
+   "pkg": "sharecut-mcp",
+   "prev": "MCP server for ShareCut \u2014 create short links with click analytics and QR codes (static one",
+   "cur": "MCP server for ShareCut \u2014 create short links, re-point them after the QR is printed, read "
+  },
+  {
+   "server": "com.xtrinel/vaast",
+   "pkg": "@xtrinel/vaast-mcp",
+   "prev": "Placeholder. The first real release will be 0.1.0.",
+   "cur": "MCP server shim for VAAST - provides read-only access to local VAAST data for AI agents"
+  },
+  {
+   "server": "io.github.FurlPay/furlpay-cli",
+   "pkg": "@furlpay/cli",
+   "prev": "FurlPay CLI \u2014 stablecoin payments, investing, travel booking, yield and webhook tooling fr",
+   "cur": "FurlPay CLI \u00e2\u20ac\u201d stablecoin payments, investing, travel booking, yield and webhook tooling "
+  },
+  {
+   "server": "dev.mymemory/memory",
+   "pkg": "@mymemory.dev/mcp",
+   "prev": "MCP server for MyMemory: save, search and recall your memories from Claude, Cursor and oth",
+   "cur": "MCP server for MyMemory (Everstash): save, search and recall your memories from Claude, Cu"
+  },
+  {
+   "server": "app.apick/all",
+   "pkg": "apick-mcp",
+   "prev": "APICK MCP \u2014 146 Korean data, AI, image & video tools for AI agents. \uc0ac\uc5c5\uc790\uc870\ud68c\u00b7\uc2e0\ubd84\uc99d\u00b7OCR\u00b7\ubc30\uc1a1\uc870\ud68c\u00b7\uc774\ubbf8\uc9c0",
+   "cur": "APICK MCP \u2014 138 Korean data, AI, image & video tools for AI agents. \uc0ac\uc5c5\uc790\uc870\ud68c\u00b7\uc2e0\ubd84\uc99d\u00b7OCR\u00b7\ubc30\uc1a1\uc870\ud68c\u00b7\uc774\ubbf8\uc9c0"
+  },
+  {
+   "server": "io.github.DiegoLopez0208/rpgmaker-mv-ultimate",
+   "pkg": "rpgmaker-mv-mcp",
+   "prev": "RPG Maker MV Ultimate \u2014 AI copilot (MCP) for RPG Maker MV: generate maps, edit the databas",
+   "cur": "RPG Maker MV Ultimate \u2014 AI copilot (MCP) for RPG Maker MV: generate maps, edit the databas"
+  },
+  {
+   "server": "io.github.Bassanova12560/auros-protocol",
+   "pkg": "@adrien1212balitrand/auros-mcp",
+   "prev": "MCP server for AUROS Protocol \u2014 RWA desk + Green tools for Cursor, Claude Desktop, and age",
+   "cur": "MCP server for AUROS \u2014 six intelligence tools + live Score trial. Extended catalog opt-in."
   }
  ]
 }

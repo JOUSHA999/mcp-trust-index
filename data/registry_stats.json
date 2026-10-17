@@ -1,43 +1,62 @@
 {
- "generated_at": "2026-10-16T08:19:55Z",
- "unique_servers": 266,
- "raw_entries": 1400,
- "declares_repository": 110,
- "declares_package": 47,
- "declares_any_source": 119,
- "declares_no_source": 146,
- "metadata_only": 1,
- "has_remote_endpoint": 226,
- "has_website": 226,
+ "generated_at": "2026-10-17T08:01:29Z",
+ "unique_servers": 19325,
+ "raw_entries": 59900,
+ "declares_repository": 9995,
+ "declares_package": 5550,
+ "declares_any_source": 10453,
+ "declares_no_source": 8844,
+ "metadata_only": 28,
+ "has_remote_endpoint": 14643,
+ "has_website": 13721,
  "plain_http_endpoints": 0,
  "remote_transport_types": {
-  "streamable-http": 227,
-  "sse": 6
+  "streamable-http": 14276,
+  "sse": 764
  },
  "package_registry_types": {
-  "npm": 41,
-  "pypi": 6,
-  "oci": 2
+  "npm": 3523,
+  "pypi": 1648,
+  "mcpb": 541,
+  "oci": 296,
+  "nuget": 62,
+  "cargo": 15
  },
  "top_namespaces": {
-  "ai": 240,
-  "ae": 9,
-  "agency": 8,
-  "ac": 3,
-  "ad": 2,
-  "academy": 1,
-  "aero": 1,
-  "africa": 1,
-  "ag": 1
+  "com": 7592,
+  "io": 6169,
+  "ai": 2013,
+  "dev": 916,
+  "app": 881,
+  "co": 248,
+  "eu": 187,
+  "de": 118,
+  "fr": 97,
+  "br": 63,
+  "cloud": 58,
+  "ca": 52,
+  "ch": 51,
+  "au": 47,
+  "in": 45,
+  "guide": 43,
+  "cn": 35,
+  "cc": 34,
+  "info": 30,
+  "cz": 27,
+  "fyi": 26,
+  "es": 24,
+  "finance": 17,
+  "dk": 16,
+  "art": 15
  },
  "statuses": {
-  "active": 264,
-  "deprecated": 2
+  "active": 19008,
+  "deprecated": 317
  },
  "pct": {
-  "declares_any_source": 44.7,
-  "declares_no_source": 54.9,
-  "metadata_only": 0.4,
-  "has_remote_endpoint": 85.0
+  "declares_any_source": 54.1,
+  "declares_no_source": 45.8,
+  "metadata_only": 0.1,
+  "has_remote_endpoint": 75.8
  }
 }

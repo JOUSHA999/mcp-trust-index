@@ -1,4144 +1,4264 @@
 {
- "compared_at": "2026-10-16T08:20:07Z",
- "baseline": "index-2026-10-16T0820.json",
+ "compared_at": "2026-10-17T08:02:55Z",
+ "baseline": "index-2026-10-17T0802.json",
  "events": [
   {
-   "server": "ai.agentutility/mcp-agentops",
+   "server": "ai.com.mcp/hapi-mcp",
    "type": "new_entry",
    "detail": "grade D"
   },
   {
-   "server": "ai.agentutility/mcp-bestiary",
+   "server": "eu.ansvar/ghana-law-mcp",
    "type": "new_entry",
    "detail": "grade D"
   },
   {
-   "server": "ai.agentutility/mcp-browser-workflow",
+   "server": "io.github.Cope-Labs/selvo",
    "type": "new_entry",
    "detail": "grade D"
   },
   {
-   "server": "ai.agentutility/mcp-compose",
+   "server": "com.planifyapps/planify",
    "type": "new_entry",
    "detail": "grade D"
   },
   {
-   "server": "ai.agentutility/mcp-edge-finance",
+   "server": "eu.ansvar/portuguese-law-mcp",
    "type": "new_entry",
    "detail": "grade D"
   },
   {
-   "server": "ai.agentutility/mcp-edge-market",
+   "server": "io.github.NeetPatel/devops-mcp",
    "type": "new_entry",
    "detail": "grade D"
   },
   {
-   "server": "ai.agentutility/mcp-locale",
+   "server": "ai.bumit/verify-business",
    "type": "new_entry",
-   "detail": "grade D"
-  },
-  {
-   "server": "ai.agentutility/mcp-matchpoint",
-   "type": "new_entry",
-   "detail": "grade D"
-  },
-  {
-   "server": "ai.agentutility/mcp-mediakit",
-   "type": "new_entry",
-   "detail": "grade D"
-  },
-  {
-   "server": "ai.agentutility/mcp-model-router",
-   "type": "new_entry",
-   "detail": "grade D"
-  },
-  {
-   "server": "ai.agentutility/mcp-retail",
-   "type": "new_entry",
-   "detail": "grade D"
-  },
-  {
-   "server": "ai.agentutility/mcp-rollforge",
-   "type": "new_entry",
-   "detail": "grade D"
-  },
-  {
-   "server": "ai.agentutility/mcp-statline",
-   "type": "new_entry",
-   "detail": "grade D"
-  },
-  {
-   "server": "ai.agentutility/mcp-synthforge",
-   "type": "new_entry",
-   "detail": "grade D"
-  },
-  {
-   "server": "ai.agentutility/mcp-web-probe",
-   "type": "new_entry",
-   "detail": "grade D"
-  },
-  {
-   "server": "ai.agentutility/mcp-wordmint",
-   "type": "new_entry",
-   "detail": "grade D"
-  },
-  {
-   "server": "ac.inference.sh/mcp",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ac.snag/snag",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ad.inside/inside-ads",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ae.brainy/grocery-prices",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ae.easyvoice/tts",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ae.genosys/genosys",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ae.grovisor/grotax",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ae.plantguide/dubai-gardening",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ae.propick/propick",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ae.waggle/fenlight",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "aero.events/events",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "africa.ugc/ugc",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "agency.justidea/justidea-agency",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "agency.thebureauoflostcontext/bureau-public",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.0si/disclosures",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.1clickwebsite/mcp",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.69ai/69ai",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.aard/aard",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.aarna/atars-mcp",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.actwise/ideation",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.adadvisor/mcp-server",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.adplane/google-ads",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.adramp/google-ads",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.adrio/adrio",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.adsap/adsap",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.adside/adside",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.advisorsai/service-navigator",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.advisorsai/store-readiness",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.adweave/meta-ads-mcp",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.aeviamodeler/aevia",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.afg/afg",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.afmr/discovery",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.agenlify/catalog",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.agentboard/agentboard",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.agentese.lifeclaw/lifeclaw",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.agentgates/mcp",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.agenticfabricationnetwork/ufp",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.agenticplug/agent-ready-report",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.agenticshelf/graffeo",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.agenticshelf/puroair",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.agentlookups/counterscript",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.agentlookups/greenlight",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.agentlookups/groundtruth",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.agentlookups/overassessed",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.agentlookups/plumbline",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.agentlookups/spoon-scout",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.agentmesh/mesh",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.agentrapay/agentra",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.agentui/apps",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.aginera/preconstruction",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.agothe.mcp-chatgpt/agent-contract-preflight",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.ai-advisors/mcp",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.ai-portal/ai-portal",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.airshelf/catalog",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.aislabs/cve",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.aislabs/gateway",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.aislabs/recorder",
-   "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.aivikings/registrar",
+   "server": "ai.colaunched/colaunched",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.akkrudata/akkrudata",
+   "server": "ai.contractorsnearme/contractors-near-me",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.alcock/arena",
+   "server": "ai.cybernative/image-upscaler-8mp",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.alphabazaar/arena",
+   "server": "ai.diezx/diezx",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.alphacreek/alphacreek-mcp",
+   "server": "ai.eshmere/tenda",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.alphaquantlabs/propertycheck",
+   "server": "ai.everyn/everyn",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.alpic.alpix/Alpix",
+   "server": "ai.fireflies/fireflies",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.alpic.mcp/alpic-mcp",
+   "server": "ai.gentoon/gentoon",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.alpic.test/test-mcp-server",
+   "server": "ai.getboomerang/boomerang",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.anha/resolver",
+   "server": "ai.getvda/authenticated-llm-jwt-agent",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.ankra/platform",
+   "server": "ai.getvda/llm-observability-orchestration",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.anywhereintelligence/switchboard",
+   "server": "ai.getvda/llm-orchestration-agent-langchain-openai",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.anzenna/anzenna",
+   "server": "ai.getvda/mysql-redis-compose-generator-adminer",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.apatero/studio",
+   "server": "ai.kijito/kijito",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.apir/verify",
+   "server": "ai.klaaro/klaaro",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.appdeploy/deploy-app",
+   "server": "ai.ohmyfin/banking-intelligence",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.arabickeyboard/name-calligraphy",
+   "server": "ai.paintcoatings/marindec",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.arcdeck/arcdeck",
+   "server": "ai.proreach/outreach",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.archome/archome",
+   "server": "ai.raccha/raccha",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.arclan/registry",
+   "server": "ai.restivity/restivity",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.arcreport/ask",
+   "server": "ai.rfix/mcp",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.arketo/arketo",
+   "server": "ai.roosteragents/switchboard",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.artidrop/artidrop",
+   "server": "ai.saascloud/cryptopulse",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.askatria/atria",
+   "server": "ai.smithery/RectiFlex-centerassist-mcp",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.askline/askline",
+   "server": "ai.smithery/kaszek-kaszek-attio-mcp",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.askmiles/catalog",
+   "server": "ai.statey/statey",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.askwatch/gsc",
+   "server": "ai.subscribr/subscribr",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.asrm/asrm",
+   "server": "ai.synthfolk/directory",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.assetlog/assetlog",
+   "server": "ai.syntology/graph",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.atalay/mcp",
+   "server": "ai.tachyo/verify",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.athaus/immobiliensuche",
+   "server": "ai.teenpsychiatry/library",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.athaus/makler",
+   "server": "ai.tokenos/contract-audit",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.atlasverified/atlas-mcp",
+   "server": "ai.turnzero/cloud",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.audiomap/audiomap",
+   "server": "ai.zerowidth/compass",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.augmentev/paseo",
+   "server": "app.altcoinchasershq/acai",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.augworlds/travel-world",
+   "server": "app.aveco/aveco",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.auteng/docs",
+   "server": "app.baozugong/landlord",
    "type": "new_entry",
    "detail": "grade C"
   },
   {
-   "server": "ai.auteng/mcp",
+   "server": "app.cherrynotes/cherry-notes",
    "type": "new_entry",
    "detail": "grade C"
-  },
-  {
-   "server": "ai.autoblogging/autoblogging",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.autoposter/autoposter",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.autoposting/autoposting",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.autron/autron",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.awardcast/federal-contracts",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.axonagentic/neuroautomata",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.b77/ai-media-studio",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.b77/apple-search-ads",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.b77/chess-results",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.b77/feedback",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.b77/fibalo",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.b77/file-storage",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.b77/google-ads",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.b77/google-news",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.b77/google-search-console",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.b77/kinnovis-storage",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.b77/knowledge-base",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.b77/nightscout",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.b77/seo-content-factory",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.b77/teamwork",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.b77/time",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.b77/web-analytics",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.backrow/backrow",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.balancos/mcp",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.baselight/baselight",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.baseray/baseray",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.bassethound/bassethound",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.beatbandit/beatbandit",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.beatra/beatra",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.beevr/beevr",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.beket/audit",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.benroberts/b4-index",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.bezal/local-commerce",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.bidclub/bidclub",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.bindry/bindry",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.bithuman/characters",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.blipsmith/sound-effects",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.blopus/search",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.bluenexus/universal-mcp",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.boardmark/boardmark",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.bodenrichtwert/mcp",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.botinfo/robot-market-data",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "agency.lona/trading",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.abmeter/abmeter",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.adoraads/beauty",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.agentberg/agentberg",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.agentdm/agentdm",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.agentic-news/mcp",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.agenticbooks/books",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.agenticshelf/mcp",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.agentroam/agentroam",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.ai-akari/one-minute-akari",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.aient/mcp",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.ambix/ambix",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.argushq/enforcement-database",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.atdev/supershopping",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.atlier/project-desk",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.autoblocks/contextlayer-mcp",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.autoblocks/ctxl",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.autoblocks/ctxl-mcp",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.autonomad/travel",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.aviado/health",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.bamf/bamf",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.bankee/inferventis-mcp",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.bcited/bcited",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.biddeed/biddeed-mcp",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.blast-radius/blast-radius",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.boundaryai/boundaryai",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.agenttrust/mcp-server",
-   "type": "new_entry",
-   "detail": "grade C"
-  },
-  {
-   "server": "ai.agent-bev/bev-door",
-   "type": "new_entry",
-   "detail": "grade B"
-  },
-  {
-   "server": "ai.aimentiontracker/mcp",
-   "type": "new_entry",
-   "detail": "grade B"
-  },
-  {
-   "server": "ai.aliengiraffe/spotdb",
-   "type": "new_entry",
-   "detail": "grade B"
-  },
-  {
-   "server": "ai.2kw/mcp-server",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.agenticaffiliate/affiliate-networks-mcp",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.agentxray/amazon-seller-mcp",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.anomalyarmor/armor-mcp",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.aquex/reasonbook",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.bourdon/bourdon",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ae.datadubai/dubai-real-estate",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.adrails/adrails",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.ai-akari/agent-trust-receipt",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.arpi/arpi-mcp",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.atlaso/mcp",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.audo/audo",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.authoryze/authoryze",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.auxen/auxen",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.backengine/backengine-mcp",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.basethread/basethread",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.bloopo/bloopo",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.borealhost/mcp",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ac.tandem/docs-mcp",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "academy.apexai/apex-ai-academy",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ad.getle/leads",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "agency.goji/goji",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "agency.kesey/pretrip",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "agency.ottobot/business-contact-finder",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "agency.ottobot/contractor-license-changes",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "agency.ottobot/licensed-house-painters",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.adako/ads",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.adtest/adtest-mcp",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.agenticterminal/directory",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.agentplaybooks/agentplaybooks",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.aitopia/aitopia",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.analyticslegends/sap-analytics",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.ankimcp/anki-mcp-server",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.ankimcp/anki-mcp-server-addon",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.annsa/annsa",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.aquex/stage1",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.arcreport/mcp",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.arsentev/contextburn",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.askyouraudience/ask-your-audience",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.atmark/atmark",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.attestari/attestari",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.audiopod/audiopod-core",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.auralogs/auralogs",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.autonomad/computeback",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.autorfp/mcp",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.avaloncompany/web-content-url-tools",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.avasis/quant-research",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.awraiter/telegram",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.bareun/bareun",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.benchgecko/benchgecko",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.betslipdoctor/mcp",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.betterpost/server",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.biel/biel-ai",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.bithuman/docs",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.bittlebits/bittlebits",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.bizmoon/regulatory",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.bizmuse/bizmuse",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.bolthub/mcp",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.bolthub/registry",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.boolsai/directory",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.boolsai/grep",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.boolsai/scan",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.boolsai/signals",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.bowmark/bowmark",
-   "type": "new_entry",
-   "detail": "grade A"
-  },
-  {
-   "server": "ai.ponlo/server",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "app.qwady/borough",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.kekwanu/syncline-mcp-server-python",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.chatterlab/chatterlab",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.chinaapi/chinaapi",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.chipp/alchemist-cloud-tickets",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.clearvoyance/clearvoyance",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.corvio/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.createprints/createprints",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.dealfilter/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.demanddiscovery/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.directories/directories-ai",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.dispatchmind/dispatchmind",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.divinci/divinci",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.docspeed/docspeed",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.entervista/entervista",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.enyal/enyal",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.getvda/authenticated-multi-llm-agent",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.getvda/elasticsearch-redis-stack-generator-elasticsearch-elasticsearch",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.getvda/google-oauth-langchain-agent",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.getvda/google-sign-in-langchain-agent",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.getvda/kafka-redis-minio-stack-generator",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.getvda/llm-orchestration-agent-langchain-core",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.getvda/llm-orchestration-agent-opentelemetry-instrumentation-fastapi",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.getvda/mysql-redis-compose-generator-nginx",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.getvda/oauth-multi-llm-orchestrator",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.getvda/rabbitmq-elasticsearch-postgres-stack-generator-mongo",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.getvda/rssa",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.getvda/structured-output-mcp-agent-authlib",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.getvda/structured-output-mcp-agent-cryptography",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.gomarble/mcp-api",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.immokit/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.january/nutrition",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.kaiv/email-check",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.lifeisagame/conquer-fear",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.loci-labs/real-world-observations",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.mainroom/meeting-agents",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.morphareels/morpha",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.mymarky/marky",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.nashboard/nashboard-merchants",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.noveum/noveum",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.openbash/openbash",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.openhelm/email-outreach",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.pechincha/deals",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.peregrini/common-pleas",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.perfectmemory/perfect-memory",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.polargate/polargate",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.rankera/rankera",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.refref/refref",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.revuo/revuo",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.robutler/robutler",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.roic/roic",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.rosterresolve/roster",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.scoreia/forge",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.scoreia/open-labyrinth",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.seltz/seltz-ai-seltz-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.skuit/bom-builder",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.smilestory/koreantoday",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.smithery/IndianAppGuy-magicslide-mcp-actual-test",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.smithery/RectiFlex-centerassist-mcp1",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.smithery/arjunkmrm-py-test-0",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.spmos/spm",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.subpay/invoice-reader",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.tailortalk/tailortalk",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.talpy/aya",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.timeml/time-machine",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.travelminds/concierge",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.usertold/usertold-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.wheremind/wheremind",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.workingmemory/memory",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.zerowidth/workbench",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "al.toyshub/catalog",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "app.bauta/bauta",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "app.bestappify/shopify-app-store",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "app.botnotice/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "app.cabinetproject/dealer",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "app.carstat/carstat",
-   "type": "removed",
-   "detail": "delisted from registry"
   },
   {
    "server": "app.cleannotes/clean-notes",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "app.dazbench/dazbench",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "app.maxworth/maxworth-public",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "app.decknote/decknote",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "app.openkrill/postkit",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "app.docwand/pdf",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "app.openkrill/tariffs",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "app.fanzero/fanzero",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "app.potto/potto-japan",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "app.favorize/assistant",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "app.railway.up.wod-api-production/wod-coach",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "app.filmee/anime-video",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "app.roughsketch/roughsketch",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "app.getcallme/call-me",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "app.rowb.hk-transit/fares",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "app.getfleek/deals",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "app.safeship/mcp",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "app.jadenote/jade-note",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "app.vercel.automaton-tx-explainer/base-tools",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "app.kanbai/discovery",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "app.lazyjack/lazyjack",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "app.morphed/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "app.morya/morya",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "app.openkrill/cars",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "app.openkrill/food",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "app.openkrill/shop-duty",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "app.partli/partli",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "app.promptfax/promptfax",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "app.robohub/robohub",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "app.rowb.ladder/board",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "app.seodraft/seodraft",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "app.sparkscribe/sparks-scribe",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "app.stipp/stipp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "app.tbit/tbit",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "app.theona/person-enrichment",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "app.vendojo/vendojo",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "app.vercel.stackfacts/stackfacts",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "app.vercel.stripecheckup/stripecheckup",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "app.wemoveat/moveat",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "app.witwiki/witwiki",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "app.whatsync/whatsapp-business",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
    "server": "app.zenable/zenable",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ar.com.ninox/ninoxnet",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "art.maddegen.agent/synapse-forensics",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "art.maddegen.agent/synapse-util",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "au.com.alpineai/factstamp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "au.com.arthr/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "au.com.motorloop/motorloop",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
    "server": "au.com.rtopacks/rtopacks",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "au.com.totalparks/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "br.com.brindesbrasil/catalogo",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "bot.cornelius/cornelius",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "br.com.horusbi/lumo",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "br.com.jettracker/jet-tracker",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "build.fabricate/fabricate",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "br.com.rebasedev/vagas",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "ca.findmyfarmer/farms",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "broker.aidata/market",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "ca.shoregrade/find",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "business.mastermindshq/masterminds",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "cc.pipic/pipic",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "ca.905trades/business-card",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "ch.madpublishing/publishing",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "ca.omniapps/sairen",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "cloud.nttzen.secdb/zen-secdb",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "cards.klaro/klaro-cards",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "cloud.swigs/swigs-cloud",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "cc.squatch/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "cn.com.grapecity/gcexcel",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "ch.1820/telefonbuch",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "co.clutch/mcp",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "ch.zenarion/booking",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "co.gleanit/gleanit",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "chat.avva/catalog",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "co.rakuda.atlas/atlas",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "cloud.spider/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "co.spark-apps/spark-apps",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "club.parser/parser-club",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "co.yachtfinder/yachtfinder",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "cn.syln.ai/lingjing-community",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.adrenalinelist/adventures",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "co.antalyatransfers/transfers",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.agentbookable/mcp",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "co.civai.nova/google-sheets-agent",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.agenticdealernetwork/adn-gateway",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "co.civai.nova/twitter-agent",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "co.feeder/feeder",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "co.finalpeace/estate-planning",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "co.flyweel/mcp-server",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "co.glide/banking-connector",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "co.netstate/netstate",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "co.pipeboard/google-ads-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "co.tenderly/tenderly-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "co.truerent/rental-review",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "co.utmkit/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "coach.freddy/freddy",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.1stcollab/influencers",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.8b/ai-website-builder",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.a2bflight/fares",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.acuiq/acuiq",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.adaptlypost/mcp-server",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.adologyai/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.adskub/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.aduanafacilandorra.www/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.africacompliancedata/africa-compliance-data",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.agentcollect/ar-analyst",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.agentdatum/gateway",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.agentery/agentery",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.agenticpaywall/composer",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.agialpha/agi-alpha",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.agentrevenuenetwork/agent-revenue-network",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
    "server": "com.agoramerit/role-assessment",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.agorean/agorean",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.aiimplementationcost/site",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.airblockfz/seoul-apt-signal",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.airblockfz/stock-signal-kr",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.aistackscore/aistackscore",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.algo-trade-analytics/research",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.aitwire/tenant",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.answeringservicequotes/site",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.akiflow/akiflow",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.api402x/apix402",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.alchemy/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.alleskralle/jobs",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.altoviz/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.am-lich/vietnamese-calendar",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.americantradesindex/american-trades-index",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.anycutlist/anycutlist",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.anymailmcp/mail",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.apished/rpn-calculator",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.apished/text-tools",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.apixstar/reddit",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.aplosai/automation-budget",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.appealgo/appealgo",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.appstorepack/appstorepack",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.appstoretracker/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.arch-insight/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.archerionlabs/nasc",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.asacondor/asa-condor",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.askeditor/askeditor",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.asoskill/aso-skill",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
    "server": "com.assesslane/assesslane",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.assetfy/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.asternym/asternym",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.attendmeet/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.astraverify/domain-trust",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.auriniaxo/hostel",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.australiawidefirstaid/courses",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.australiawidefirstaid/docs",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.autrady/strategy-audits",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.axiomide/axiom",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.bernuvia/marketplace",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.basenull/okr",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.blotato/mcp",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.beamtrace/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.borisinc/gamedatakit",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.beforevibe/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.boxtoplay/mcp",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.beleeg/beleeg-public",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.brainiall/nlp",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.beyondpayday/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.brightmoot/brightmoot",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.bidprowl/bidprowl",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.captionpipe/captionpipe",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.bigballsdata/sports-data",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.cerebrochain/cerebrochain",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.bkkstaff/bkk-staff",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.checkoutpage/checkout-page",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.blacklabelbots/customer-tools",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.chiefisnext/chief",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.blacklabelbots/operator-site-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.citefiles/citefiles",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.bluepillow/hotels",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.clauxel.dbqueryguard/dbqueryguard-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.bonissystems/compliance-batch",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.commerceforagents/commerceforagents",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.botsharper/botsharper",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.comparehvacsoftware/site",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.brightsec/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.compliapi/screening",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.buildyourwolfpack/wolfpack",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.deflectvo/site",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.buyukesim/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.depthfeed/depthfeed",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.cafeboon/artigram",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.detourmap/places",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.callingly/callingly",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.devopness.mcp/server",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.capital-workbench/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.devvizion/x402-research",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.cardealscore/dealscore",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.dispatchtickets/dispatch-tickets",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.cardvolume/market-data",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.dropwatchhq/drop-index",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.caudexcatena/caudexcatena-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.dyndns-server.noon-ai/people-deidentification-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.chapsoft/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.eformogi/records-vault",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.chasync/chasync",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.exo-trust/synergy",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.checkmycontractorquote/local-compliance-os",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.familyfairplay/family-fair-play",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.checkmycontractorquote/smb-rfp-copilot",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.filingspy/mcp",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.citizenleap/civica",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.finallyoffline.www/culture",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.cmmsly/site",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.flautoquotes/quote-exchange",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.coco-pier/fx-context",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.cocoeatsai/launch-lab-xrp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.cofferdock/cofferdock",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.computesage/stackbench",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.conveyancingfeesireland/site",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.correkt/api-server",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.coworkingview/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.crackandreveal/locks",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.crewofthecaptain/format-checker",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.cutconvert/converter",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.cycle-platform/cycle-intelligence",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.dataplex-consulting/healthcare-data",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.davisvillelabs.filedproof/filedproof",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.deckextract/deckextract",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.defaultrank/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.dercora/dercora",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.difcvsadgm/site",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.domainposture/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.double-rhyme/rhymes",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.draftboard/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.dropwatchhq/payer-api-directory",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.dropwatchhq/phoenix-screen",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.dyndns-server.noon-ai/face-blur-redaction-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.earnings-watcher/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.ecomdly/ecomdly",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.edgethirteen.www/accessproof",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.edgethirteen.www/gateway",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.edgethirteen.www/industry-primers",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.edgethirteen.www/lite",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.eldrick.api/fitting",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.enrolvo/site",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.entangleit/agentpay",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.erzycall/erzycall",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.everbary.www/orders",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.evergesture/evergesture",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.ezoic/setup",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.fabersomniorum/faber-machine-market",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.feedbackpulse/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.feedbackthread/feedbackthread",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.feedhive/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.ferryflighthub/ferryflight",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.filedproof/filedproof",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.findenergyrates/electricity-rates",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.fitmysoft/pricing",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.flatratebook/site",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.flautoquotes/insurance",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.flexonthejob/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.fluidrecall/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.fluotest/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.framesail/framesail",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.focxle/afos",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
    "server": "com.freerateupdate/mortgage-home-equity",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.gateroam/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.freesmallbiztools.api/tools",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.genmb/genmb",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.freightfa.mcp/freightfa",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.geoarmtaxi/booking",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.geckoboard.gateway/metrics",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.getabstract/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.guleki/geolocate-me",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.getbotlens/getbotlens",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.guruwalk/mcp",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.getdoloop/doloop",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.getinfrly/infrly",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.getlowcart/lowcart",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.getvigilia/vigilia",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.gladeapi/api",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.godavaii/health-ai",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.goldenvisacalculator/site",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.grcmigrate/directory",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.groundedaeo/grounded-aeo",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.groundworkdemographics/groundwork",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.gymnavigator/coach",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.handovra/site",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.hanyuguide/hanyuguide",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.hardcopylabs/hardcopy",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.hashn/hashn",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.hedwig-ai/hedwig",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.hi-daniel.techspy/techspy",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.handsofflinks/link-followability",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
    "server": "com.hiringcensus/hiring-census",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.historiapojazduvin/site",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.hreflangly/site",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.howtocalculateaninvoice.www/invoicing",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.instaveil/agent-commerce",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.howtomakemoneyonsnapchat/creator-monetization",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.ipmusk/mcp",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.htmlvault/htmlvault",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.ipogrid/ipogrid",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.huddlekit/huddlekit",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.jojapi/reddit-com",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.ibkr/interactive-brokers-ibkr",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.jojapi/youtube",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.ignoreo/tools",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.konbiniapi/mcp",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.incorporatewhere/site",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.laydyne/laydyne",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.incrediblefi/loan-marketplace",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.legalaimcp/directory",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.infectrisk/infectrisk",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.llmabacus/pricing",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.instaseer/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.maha-os/cognitive-gateway",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.intakra/buying-signal-review",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.managelm/managelm",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.invokera/invokera-status",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.mapmelon/mapmelon",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.japandirecttrucks/shop",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.masterdiego/master-diego",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.jithox/eu-sanctions-preflight",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.mcpscores/cache-key-explosion-auditor",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.jmiszewicz/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.meistertask/mcp",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.jobfinder-ai/jobfinder",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.meridianlabssoftware/google-trends",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.johnsessentials/johns-essentials",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.musedin/musedin",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.jojapi/eyecon",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.myboatguru/boat-advisor",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.jojapi/google-web-search",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.mywedpaper/wedding-tools",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.jojapi/instagram-private-profile-viewer",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.natalcompass/connector",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.jojapi/twitter-x-aio",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.nomior/invest",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.kaicast/ocean-conditions",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.npledger/np-ledger",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.kimnchai/marine-conditions",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.onrender.promptvault-x402/tokensafe",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.kirha/search",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.onyxmetric/mcp",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.kitfinch/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.openshopgraph/mcp",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.kiuli/kiuli",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.patchmcp/patch",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.knotrik/knotrik",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.paytm.travel/discovery",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.kodemsecurity/kodem",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.penguindriver/life",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.langbly/translation",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.postboxservices/postbox-tools",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.launchranked/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.potterysupplieshq/site",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.leadfriendly/lead-friendly-info",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.prismfact/hub",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.learnthedao/learn-the-dao",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.proservicesprices/site",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.legalpolicygenerator/legal-policy-generator",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.ranovam/ai-content-repurposer",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.lenderprice/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.receivableledger/site",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.lettance/rules",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.recipes-daily/recipes",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "ai.circulara/plugin",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.reminderit/reminderit",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "ai.citybook/citybook",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.resetparatodos/verifica",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "ai.deskcrew/agentic",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.roxyapi/vedic-astrology",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "ai.kolonie/kolonie",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.runwayze/site",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "ai.lucasandersen/mlp-tax",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.saasrfp/saas-rfp",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "ai.memoket/memoket",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.salvagesignal/salvage-signal",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "ai.smithery/DynamicEndpoints-autogen_mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.scripthaul/transcripts",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "ai.smithery/eliu243-oura-mcp-server",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.selfstorming/selfstorming",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "ai.smithery/hjsh200219-pharminfo-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.shonanfarm/zama-bike-kaitori",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "ai.smithery/luminati-io-brightdata-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.signatureforever/email-signatures",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "ai.userintuition/research",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.signed/investors",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "ai.verticalmarketplace/vertical-marketplace",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.sinhvu/mcp",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "ai.voicecapture/voice-capture",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.sloose/sloose",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "app.creatica/backgrounds",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.socialdatax/haokan",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "app.mashop/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.sortfeed/mcp",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "app.pandough/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.soundgtm/partner-tracker",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "app.ridedesk/bookings",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.splark/splark",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "app.toongen/massprint",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.tabflows/site",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "app.wishpool/argentina-payments-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.theartillerist/artist-intelligence",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "app.wishpool/bahrain-payments-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.thenextgennexus/banking-financial-stability-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "app.wishpool/belgium-invoice-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.thetempleofdoom.titan-mcp/titan",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "app.wishpool/digital-goods-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.timeslope/timeslope-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "app.wishpool/hong-kong-payments-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.tkawen/intelligence-gateway",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "app.wishpool/italy-invoice-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.trydango/dango",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "app.wishpool/malaysia-payments-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.uaecorporatetaxcalculator/site",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "app.wishpool/portugal-payments-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.usepancake/pancake-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "app.wishpool/taiwan-payments-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.useslop/mcp",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "app.wishpool/thailand-payments-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.vericto/sql-firewall",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "ar.mueblito/mueblito",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.wenmarpro/wenmar-open",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "au.com.manageyourloans/mortgage-tools",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.whiteautoandmedia/catalog",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "be.lexgo/jobs",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.wikexa/knowledge",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "ca.wiremi/marketing-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.wildernesstimes/checklists",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "cl.repuestia/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.withnettle/withnettle",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "co.jacktrade/jacktrade-crm",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.yorehistory/places",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "co.launchtrust/launchtrust",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.youth4work/public",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.a2awire/benchmark-access-request-review-2026-09-10-81479355",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.zahabprice/gold-prices",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.a2awire/benchmark-application-audit-2026-10-01-6e0ad047",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.zyphe/zyphe-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.a2awire/benchmark-catch-the-overpayment-v1",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "cz.rsolution/verejny",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.a2awire/benchmark-charge-3pl-invoice-audit-2026-09-10-749db5bd",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "de.agentifizierung.naehe/in-meiner-naehe",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.a2awire/benchmark-commission-statement-review-2026-09-17-f8485f73",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "de.netzhandwerker.energy/research-hub",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.a2awire/benchmark-data-record-audit-2026-09-19-ec80e494",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "de.sofortfax/fax-oauth",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.a2awire/data-aws-news-cloud-service-update-announcement",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "de.vakantio/mcp",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.a2awire/data-enterprise-it-news-sysadmin-tech-headlines",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "dev.anatome/anatome",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.a2awire/data-hacker-news-front-page-tech-news",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "dev.blyck/website-change-monitor",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.a2awire/data-huggingface-trending-ai-model",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "dev.bubblio/door_acff25cbe9fb",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.a2awire/data-nasa-photo-space-image-astronomy",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "dev.getlumin/lumin",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.a2awire/data-physics-news-technology-news-science-headlines",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "dev.goldprice/mcp",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.a2awire/data-product-launch-upcoming-product-tracker",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "dev.instruxi.enforcer/v3",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.a2awire/data-pubmed-biomedical-paper-research-article",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "dev.mainline/mcp",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.aiengineerprofessional/engineerpro-library",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "dev.swonkie/swonkie",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.blocklottos/blocklottos",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "dev.trudex/trudex",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.crontoenglish/cron-translator",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "dev.workers.bhazarstudio.datoqa/historical-exchange-rates",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.crucibleui/registry",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "dev.workers.exportitnow.plainport/plainport",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.deepsearch.x402/korean-stocks",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "dev.workers.mike-tusa.robotsgate/robotsgate",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.dintak/dintak-mcp-gateway",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "dev.workers.nadirventurelabs.agent-revenue-network/agent-revenue-network",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.fccdb/api",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "dev.workers.polypulse-x402.api/polypulse",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.flo-voice1/acp-sandbox",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "dev.workers.wagner-proc.brasil-data-x402/brasil-data",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.gamedevoutsourcing.www/directory",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "es.propertylist/propertylist",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.gominddb/gomind",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "fitness.depot/strength-programs",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.gumballtools/equation-steps",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "fr.comontel/forfaits",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.gumballtools/sports-rules",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "fr.mt-transition.cv/cv-booster",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.historicalsoundscapes.www/semantic-search",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "fr.scoreimmobilier/outils",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.ibitlabs.www/ibitlabs-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "goog.workspace-developer/developer-tools",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.instilus/gpsr",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "group.hengyu.ai/ada",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "ai.law/lawyer-search",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "im.betrend/sports",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "app.onvaou/itineraires",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "info.astroway/tarot",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.attestwire/en16931",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "io.aipmlab/ai-pm-lab",
+   "type": "new_entry",
+   "detail": "grade C"
   },
   {
-   "server": "com.clauderecall/recall",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "io.deeplead/deeplead",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.1337mofo/costable",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.1f4bcai/1f4bc",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.AAAZZZR/livermore",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.BenSpank/pollbolt",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Bjorn2-sol/batcave-agent-services",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.DSGPT2024/uk-tender-check",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Dawaxwx/exif-strip",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Dawaxwx/extrait-structure",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Ethan-YS/andco",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Evozim/agent-collision-preventer-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Evozim/agile-sprint",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Evozim/amr-fleet-dispatcher-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Evozim/anomaly-detection-sentinel-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Evozim/ar-kit-blendshape-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Evozim/bias-auditor-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Evozim/breach-of-contract-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Evozim/catalog-engine-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Evozim/cpm-cpa-arbitrage-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Evozim/devrel-amplifier-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Evozim/dispute-penalty-calculator-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Evozim/docdigest",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Evozim/docdigest-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Evozim/legacy-migrator",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Evozim/mc-data-monitor",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Evozim/repo-to-rag",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Evozim/sentiment-trail",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.ForkastPredict/forkast-mcp-docs",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.KyleClouthier/slotrobin",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.MajaHelferbiene/dubwebkuk",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Mezsondra/aerocell",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Nero-Engine/breach-notification-deadlines-full",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Nero-Engine/bulk-file-downloader",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Nero-Engine/dataset-filter-transform-full",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.OptionScope/best-electric-products",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Piloxa/piloxa",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "ai.motiblog/mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "ai.raisonn/connect",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "ai.redditgrow/mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "app.wishpool/argentina-invoice-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "app.wishpool/australia-logistics-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "app.wishpool/chile-payments-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "app.wishpool/denmark-invoice-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "app.wishpool/global-logistics-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "app.wishpool/greece-payments-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "app.wishpool/sweden-invoice-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.a2awire/benchmark-access-change-request-recertify-2026-09-15-b578285f",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.a2awire/data-new-dataset-release-huggingface-tracker",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.a2awire/data-new-mcp-server-agent-tools-index",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.a2awire/data-rust-security-crate-vulnerability",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.claude-world/worlds-knowledge",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.entidex/entidex",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.gonkbot/mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.govbase/govbase",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.homevisto/mcp-server",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.iterationlayer/mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.milewiseai/milewise",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.mukoko/nhimbe-events",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.numbru/client-compass",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.queuesim/public",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.rechnerhq/site",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.smarthomeexplorer.www/product-intelligence",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.tapeperp/tape",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.topness/callwright",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.usedforktruck/forklift-tools",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "com.wedyesday.mcp/wedyesday",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "dev.agenttool/agenttool",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "eu.ansvar/cambodian-law-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "guide.startupleader/guide-registry",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.A7OM-AI/atom-mcp-server",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.AlexFloyd13/clevername-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.AnkitPat/todo-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Ansvar-Systems/uk-pest-management",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.As-The-Geek-Learns/content-repurposer",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.ChanghuLiu/uk-taxi-phv-regulatory-decision-layer",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.ERROR403agent/deepblue-trading",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Fizzl13/ichimoku-signal",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.FoundryNet/fact-check-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.KStreak2026/mcp-server",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Kibetho/saasforit",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Lulu-The-Narwhal/domain-rdap-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.LuptonM/casenode-legal-graph",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.NormiHQ/normi",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.Northy9/labelchop-mcp-server",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.OrbisAPI/orbis-marketplace",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.PKaldone/substrate",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.PSA-Team-source/adlibraryspy",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.S-CurveLabs/fxray",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.SuperboxAI/gptbot-food-calendar",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.DanMat/packkit-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.EthanAckerman-git/preflight-ios-mcp",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "io.github.ShingWong/node-server-orchestrator",
+   "type": "new_entry",
+   "detail": "grade C"
+  },
+  {
+   "server": "ai.tensorfeed/x402-base-mcp",
+   "type": "new_entry",
+   "detail": "grade B"
   },
   {
    "server": "com.dealsurface/dealsurface",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "type": "new_entry",
+   "detail": "grade B"
   },
   {
-   "server": "ai.smithery/cc25a-openai-api-agent-project123123123",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "host.snapy/snapy",
+   "type": "new_entry",
+   "detail": "grade B"
   },
   {
-   "server": "ai.dimensions/analytics-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "io.github.ComplyEdge/complyedge",
+   "type": "new_entry",
+   "detail": "grade B"
   },
   {
-   "server": "com.beacio/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "io.github.HMAKT99/erabi",
+   "type": "new_entry",
+   "detail": "grade B"
   },
   {
-   "server": "ai.smithery/BigVik193-reddit-ads-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "io.github.Ideelab/uisandbox",
+   "type": "new_entry",
+   "detail": "grade B"
   },
   {
-   "server": "ai.smithery/BigVik193-reddit-ads-mcp-test",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.solonai/grantai",
+   "type": "new_entry",
+   "detail": "grade B"
   },
   {
-   "server": "ai.smithery/alex-llm-attack-mcp-server",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "io.github.AntoineGou/ssrs2",
+   "type": "new_entry",
+   "detail": "grade B"
   },
   {
-   "server": "com.devart/mcp-postgresql",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "ai.smithery/docfork-mcp",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "dev.dudko/tabellum",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.ausdata/ausdata-mcp",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.32bitsret/demostudio",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.AmanMakesStuff/mappls-mcp",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.AshMet/vibemap-mcp",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.FoundryNet/foundrynet-scrape",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "io.github.Goldentrii/proxy-veil",
+   "type": "new_entry",
+   "detail": "grade B"
+  },
+  {
+   "server": "com.bestremotetools/delivery-schedule-milestones-late-report",
+   "type": "new_entry",
+   "detail": "grade B"
   },
   {
    "server": "com.ispyconnect/agentdvr",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "type": "new_entry",
+   "detail": "grade B"
   },
   {
-   "server": "ai.smithery/Artin0123-gemini-image-mcp-server",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.mcparmory/semrush-appcenter",
+   "type": "new_entry",
+   "detail": "grade B"
   },
   {
-   "server": "ai.smithery/Danushkumar-V-mcp-discord",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.neuhausre/followupboss",
+   "type": "new_entry",
+   "detail": "grade B"
   },
   {
-   "server": "ai.smithery/renCosta2025-context7fork",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.teamwork/mcp",
+   "type": "new_entry",
+   "detail": "grade B"
   },
   {
-   "server": "ai.smithery/sebastianall1977-gmail-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "io.github.ChaconLucas/tokenbar",
+   "type": "new_entry",
+   "detail": "grade B"
   },
   {
-   "server": "ai.callmcp/server",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "io.github.CyberPunk11147/cyberwarex-chain-data",
+   "type": "new_entry",
+   "detail": "grade B"
   },
   {
-   "server": "ai.pixeldojo/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "io.github.FabianSchurig/bitbucket-mcp",
+   "type": "new_entry",
+   "detail": "grade B"
   },
   {
-   "server": "ai.satohub/kit",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "io.github.Joe-Simo/a0",
+   "type": "new_entry",
+   "detail": "grade B"
   },
   {
-   "server": "com.agentavow/agentavow-trust",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "io.github.KenosInc/sigrok-mcp-server",
+   "type": "new_entry",
+   "detail": "grade B"
   },
   {
-   "server": "com.apideck/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "io.github.Kurok1/mcp-server-mysql",
+   "type": "new_entry",
+   "detail": "grade B"
   },
   {
-   "server": "com.browser-use/browser-use",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "io.github.Luqueee/kivgraph",
+   "type": "new_entry",
+   "detail": "grade B"
   },
   {
-   "server": "com.easyparser/easyparser",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "io.github.Nantiai/ocl-standard",
+   "type": "new_entry",
+   "detail": "grade B"
   },
   {
-   "server": "com.gaudiolab/mcp-developers",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "io.github.Samik081/mcp-authentik",
+   "type": "new_entry",
+   "detail": "grade B"
   },
   {
-   "server": "com.handsforagents/hands",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "io.github.Servosity/avanan-mcp",
+   "type": "new_entry",
+   "detail": "grade B"
   },
   {
-   "server": "ai.smithery/cuongpo-coti-mcp-1",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "io.github.Servosity/quotewerks-mcp",
+   "type": "new_entry",
+   "detail": "grade B"
   },
   {
-   "server": "ai.darkfunnels/docs",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "ai.tuteliq/mcp",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "ai.docnexus.mcp/docnexus",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.codescene/codescene-mcp-server",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "ai.gregbenza/openhouse",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.decionis/mcp",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "ai.syntitan/syntitan-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.get-obra/obra-cto",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "ai.usepromise/promise",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.gitscrum/mcp",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "app.nausika/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.ismsdirectory/isms-directory",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "app.scanbim/scanbim-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.nooticr/mcp",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "ca.netgrant/canadian-grants",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "io.byfruit/human-judgment",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "cc.operandi/operandi",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "io.elaan/mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.flurryport/flurryport",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.1111111111111111111114oLvT2/inquisitor",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.26048608982lp-ai/gamenumerics",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.4hmetuyar/compliance-checker",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.4hmetuyar/secret-scanner",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.AIPOST-EMAIL/mcp-server",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.AbduljabbarBXR/release-gate-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Achilles1089/pentagonal-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.AutomateLab-tech/content-distribution",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Buggy1111/anonymize-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/crypto-tracker-ai-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Dave-London/pare-npm",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.DieselNiu/wan27-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.DorianChn/agent-canary",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.FoodXDevelopment/foodblock-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Glade-tool/glade-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.GoDavai01/godavaii-mcp-server",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Guitarmaniac24/getabrain",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Haiku-Trading/haiku-mcp-server",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.LanceRoylo/mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Lime-code09/limon-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Misar-AI/misarmail-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.OjasKord/data-compliance-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Prismer-AI/signet-mcp-tools",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.RudrenduPaul/continuityguard",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Samarth-23-eng/india-mcp-railways",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Siddhukaushik/slimdex-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Sofiia7/arcbounty-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.SorataYang/qiao-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "ai.smithery/cuongpo-coti-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "ai.newzai.api/NewzAI",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "ai.taskfolk/mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "app.tabtree/tabtree",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
    "server": "cn.housingsentinel/housing-sentinel",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "com.3lgrouptechnology/3lt-letter-mail",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.achriom/achriom",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.agentfenster/agentfenster",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.agentixshop/agentix",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.aicdapi/records",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.aineedhelpfromotherai/reasoning-commons",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.ainetcafe/netcafe-devkit",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.ainetcafe/netcafe-live-data",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.americassuretybonds/surety-bonds",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.anywaypossible/agent-utilities",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.avalara/avatax",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.avalara/bl",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
    "server": "com.avalara/cross-border",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "com.boothcheck/boothcheck",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.basedash/mcp",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "com.bouldercountydryervent/booking",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.carbondesignsystem.mcp/carbon-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "com.byjg/docs",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.erppartnerfinder/partner-finder",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "com.cardcenteringtool/card-prices",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.eruditepay/blockchain-intelligence",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "com.clicksend/clicksend-mcp-server",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.launchdistro/launchdistro-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "com.gentkey/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.osboon/osboon",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "com.giveradar/charity-registry",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.sendpageapp/sendpage",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "com.goaimoat/xiaohongshu-products",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.translatize/mcp",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "com.goanyapi/goanyapi-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.viberooster/hatch",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "com.gradientdecisions/merchant-check",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.zigpoll/zigpoll-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "com.heylegwork/legwork",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "dev.scratchrun/mcp",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "com.hotelscasa/hotelscasa-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "eu.ansvar/gateway",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "com.interzoid/mcp-server",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "eu.ansvar/polish-law",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "com.joinsandwich/directory",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "io.github.AndrewVG23/grocery-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "com.jumpseller/admin-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "io.github.BitMamba24/prolifik",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "com.koreastockcheck/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "io.github.Conv-AI/convai-analytics-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "com.lazynext/accessibility-checker",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "io.github.DataAssistIO/Dataassist-IO",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "ai.com.mcp/openai-tools",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "io.github.Dyln01/chronokey",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "ai.cerebrium/docs",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "io.github.Graphify-Labs/graphify",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "ai.cookwala/cookwala",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "io.github.IsaiahDupree/devstack-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "ai.cotal/cotal",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "io.github.JajuanX/hometeam-directory",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "ai.cueframe/cueframe",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "io.github.JimmyLv/bibigpt",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "ai.decimal/registry",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "io.github.Ric-Lavers/electron-dance",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "ai.demomagic/interactive-video-guide",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "io.github.SMABoundless/semanticscholar",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "ai.diagramzu/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "io.github.ShunkiOgino/ask-ogino",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "ai.dinglebear/synapse",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "io.github.Richard-Ewing/exogram",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "ai.elfa/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "ai.cleanvector/cleanvector",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "ai.eximagent/eximagent",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "ai.exa/exa",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "ai.framethrower/framethrower",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "ai.jaxon/dsail",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "ai.imaginode/imaginode",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "ai.mails/agent-email",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "ai.instantclips/instantclips",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "ai.presentations/presentations-ai",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "ai.inxy/seo-audit",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "ai.quillhub/mcp",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "ai.magnemo/magnemo",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.maximem/synap",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.nefesh/human-state",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.paperlantern/code",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.parallel/search-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.paraplex/paraplex-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.productnow/productnow",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.pyrimid/pyrimid",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.retrodiffusion/pixel-art",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.riskstate/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.smithery/222wcnm-bilistalkermcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.smithery/ChiR24-unreal_mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "ai.smartmemory/stratum-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
    "server": "ai.smithery/blockscout-mcp-server",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.smithery/kesslerio-attio-mcp-server",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
    "server": "ai.smithery/mrugankpednekar-mcp-optimizer",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.smithery/neverinfamous-memory-journal-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.smithery/saidsef-mcp-github-pr-issue-analyser",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.smithery/sunub-obsidian-mcp-server",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
    "server": "ai.smithery/yuna0x0-anilist-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "ai.tetrees.ex/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "ai.statemind/python-code-validator",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "ai.thedesignagent/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "ai.trendsapi/content-strategy",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "ai.trendsapi/app-store",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "ai.trustysquire/trusty-squire",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "ai.trendsapi/crypto",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "ai.trydock/dock",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "ai.trendsmcp/seo",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "ai.unlimitless/unl",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "ai.unulu/unulu",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "ai.urlcheck/urlcheck-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "ai.windsock/windsock",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "app.anakior/atlas-mind",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "ai.zendiq/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "ai.zipquote/us-property-hazard-risk",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "app.agencyai/agency-ai",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "app.alterphone/phone-calls",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "app.forgeengine/forge",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "app.getengram/engram",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "app.apick/finance",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
    "server": "app.getsalta/salta",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "app.remoote/remote-jobs",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "app.openkrill/belief",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "app.tradeit/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "app.spacecontext/spacecontext",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "biz.sri-test/verifier",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "app.turnale/turnale",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "br.com.brasilnfe/fiscal",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "app.winnr/winnr",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "ca.bluecraneworks/forms",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "co.altorank/altorank",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "cc.ssave/tiktok-instagram-downloader",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.1102tools/bls-oews-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "ch.pfx/mcp-server",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.auto-reader/ocr",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "cloud.coredls.vigia/vigia",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.bangermail/banger",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "cloud.dchub/mcp-server",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.blackveilsecurity/dns",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "cloud.mynextadventure/trip-planner",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.buzzradr/mcp",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "cn.pianam.mcp/devtools-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.catalystedgescanner/catalyst-edge-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "cn.savantcat/ai-compliance",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.clauxel.copilotcliswitchgate/copilotcliswitchgate-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "cn.savantcat/answers",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.clauxel.copilotconnectorledger/copilotconnectorledger-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "co.bizverify/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.clauxel.zeroidagent/zeroidagent-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "co.buzzfy/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.commonpaper/contracts",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "co.chinaready/search",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.cooperemail/cooper-email",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "co.docsautomator/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.daedalmap/world-development-indicators",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "co.firecms/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.datakoot/sec-edgar-filings",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "com.1inch.business/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.decision-anchor/da",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "com.636865636b73756d/mcp-v1",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.deeppane/focus-space",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "com.a11ychk/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.devcycle/mcp",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "com.acuris-geo/acuris-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.dexpaprika/dexpaprika",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "com.agentworkpad/workpad",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.everbary.www/orders",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "com.aiactradar/ai-act-radar",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.finalpos.build/final-flows",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "com.aigramx/aigramx",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.aleeth/authority-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.allratestoday/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.alternativeassetliteracy/aal-advisor-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.antideploy/antideploy-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.argorant/argorant",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.arkrel/arkrel",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.ascent-partners/coso-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.ascent-partners/esg-hub",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.bird/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.blackswancausallabs/dagstudio-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.bluecloudcyber/guestbook",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.checkrecall/vehicle-recalls",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.chessigma/chessigma",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.citedornot/ai-visibility",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.clauxel.agenticbudgetrouter/agenticbudgetrouter-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.clauxel.agentskillupdategate/agentskillupdategate-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.clauxel.c2padisclosure/c2padisclosure-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.clauxel.schemadriftgate/schemadriftgate-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.clauxel.semblecodesearchgate/semblecodesearchgate-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.contrastcyber/api",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.convika/convika",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.currencyguard/guard-pricing",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.daedalmap/boundaries",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.daedalmap/hurricanes",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.datasignalslab/datasignals-lab-events-mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.deepmapai/earth-grounding",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.easyship/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.einvoicechecker/einvoice",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.energyincloud/energyincloud",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.faireplace/public-tools",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.flatlandfi/flatland",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.focusgts/aep",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.focxle/spend",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
    "server": "com.frameonlab/frameon",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "com.gatecoreai/marketplace",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.frisian-mcp/django",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
-   "server": "com.gaussian-beam/diffbeam",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.gemmein/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.getclera/clera",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.getwowlink/mcp",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.getwpagent/wordpress",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.githits/githits",
-   "type": "removed",
-   "detail": "delisted from registry"
-  },
-  {
-   "server": "com.goaimoat/ip-brand-protection",
-   "type": "removed",
-   "detail": "delisted from registry"
+   "server": "com.fronesislabs/dcl-trust-oracle",
+   "type": "new_entry",
+   "detail": "grade A"
   },
   {
    "server": "com.hasdata/yellowpages",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.idosgames/platform",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.invokary/platform-requirements",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.lassare/ask",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.lowtoxgear/storefront",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.medplum/mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.okareo/okareo",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.pdfgate/mcp-server",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.predictionmarketspicks/fantasy-draft",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.profitpather/analytics",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.scrapefield/scrapefield",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.sprixen/sprixen",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.storeinspect/mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.super-log/super-log-cloud",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.superagnt/linkedin-data",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.thetempleofdoom.draco/draco",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.transcriptmagic/transcript-magic",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.ultimaps/mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.undercurrentholdings/aegis",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.usedailyai/stale-gate-janitor",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.voyagehacks/travel",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "com.xhostd/mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "dev.glbforge/glbforge",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "dev.infranode/infranode",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "dev.paypercall.extract/vend-api-merchant",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "dev.quirepdf/quirepdf-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "dev.repowise/repowise",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "dev.toolpin/toolpin",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "dev.vibeseo/vibeseo",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "dev.workers.cybermax-tools.cybermax/logolark",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "energy.clarigrid/clarigrid",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "exchange.sidequest/sidequest",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.0xarchive/mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.ainsof/mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.arcnm/arcnm",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.arxo/fide-chess",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.converly/converly",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.datanika/datanika-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.0xmortuex/acpi-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.19Alma98/trekking-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.AIops-tools/firewall-aiops",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.AIops-tools/xcpng-aiops",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.AkashChatterjee/glin",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.AnonymousOnyx22/brightspace-d2l-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.ArcHelps/arc-free-skills",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.AshwanthramKL/whoop-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Azure/containerization-assist",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.BlackFoil/claude-token-saver-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.BoxLab-Ltd/yandex-metrica-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Br0ski777/diff-checker",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Br0ski777/hash-generator",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Br0ski777/hl-funding",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Br0ski777/html-to-markdown",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Br0ski777/markdown-to-html",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Br0ski777/person-enrichment",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/agent-rate-limiter-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/ascii-art-ai-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/email-automation-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/emoji-ai-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/hipaa-compliance-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/lead-scoring-ai-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/marketing-analytics-ai-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/meditation-guide-ai-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/meok-mcp-cardgen-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/meok-vehicle-handover-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/mica-crypto-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/vector-knowledge-graph-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Cezart3/kira-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Chaarangan/stepgate",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.CloudCorpRecords/greenlight",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.CoinRithm/mcp-trading",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.ContentWriterco/health-statistics",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.CryptoAPIs-io/mcp-address-latest",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.CryptoAPIs-io/mcp-market-data",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.DataLeadsPRO/captchaflow",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.DayuanJiang/next-ai-drawio",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.DrBaher/supstack",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.ExpertVagabond/universal-blockchain",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.FastSocialCo/instagram-data-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Godzilla-lab/quorum",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Goofproof/ronin",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.GuardBee/prompt-injection-scanner",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.GuardBee/security-proxy",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Gunsmith-Academy/woody-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.HuangGoodmanAgency/edgar-and-edgarette",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.HuangGoodmanAgency/pops4-mcp-catalog",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Icaro0310/devin-memory",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Incultnitollc/mcp-probe",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.InitechSoftware/whatsapp-mcp-by-timelinesai",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.IsaiahDupree/second-brain-bridge",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Ishaan-Gpt/captionseasy",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Jiansen/mcp-doctor",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.K-Dense-AI/labmcp-modbus",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.K-Dense-AI/labmcp-palmsens",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.K-Dense-AI/labmcp-thorlabs-pm",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.KN0WBOT/clavis",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.KazKozDev/weboperator",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Krv-Labs/topos",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.MLTCorp/convertfilefast",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.MNKIAgentOS/mnki-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.MagneticDogSon/fixflow",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.MidOSresearch/midos",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.MrBridgeHQ/mcp-server-vivino",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.NBhey/figma-vault",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Nikitosina/keyboard-ext-ax",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Nodeflare-app/nodeflare-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Noriget/agentping",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Ophir-ai-creator/ophir",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.PLANIT-TECH/primamcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.PulseBet/pulse-verity",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Ranshiv/noether-physics",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.RbBtSn0w/awesome-copilot-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.SHAYOUWORLD/houan-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.SMABoundless/orcid",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.SamMorrowDrums/remarkable",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Samarth-23-eng/india-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Skyvern-AI/skyvern",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Snipara/snipara",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Solteris-Dev/pir-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.SunrisesIllNeverSee/sigrank-mcp",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "io.github.Syedomershah99/being-human",
+   "type": "new_entry",
+   "detail": "grade A"
+  },
+  {
+   "server": "ai.agentutility/mcp-agentops",
    "type": "removed",
    "detail": "delisted from registry"
   },
   {
-   "server": "com.hellobasestation/pdfkit",
+   "server": "ai.agentutility/mcp-bestiary",
    "type": "removed",
    "detail": "delisted from registry"
   },
   {
-   "server": "com.hutchdb/hutchdb",
+   "server": "ai.agentutility/mcp-browser-workflow",
    "type": "removed",
    "detail": "delisted from registry"
   },
   {
-   "server": "com.jenriks/photo-archive",
+   "server": "ai.agentutility/mcp-compose",
    "type": "removed",
    "detail": "delisted from registry"
   },
   {
-   "server": "com.jobkeepr/jobkeepr",
+   "server": "ai.agentutility/mcp-edge-finance",
    "type": "removed",
    "detail": "delisted from registry"
   },
   {
-   "server": "com.jotform/mcp",
+   "server": "ai.agentutility/mcp-edge-market",
    "type": "removed",
    "detail": "delisted from registry"
   },
   {
-   "server": "com.kenwea.www/notary",
+   "server": "ai.agentutility/mcp-locale",
    "type": "removed",
    "detail": "delisted from registry"
   },
   {
-   "server": "com.kenxcomp/kenotex-mcp",
+   "server": "ai.agentutility/mcp-matchpoint",
    "type": "removed",
    "detail": "delisted from registry"
   },
   {
-   "server": "com.knowledgeforagents/knowledge-for-agents",
+   "server": "ai.agentutility/mcp-mediakit",
    "type": "removed",
    "detail": "delisted from registry"
   },
   {
-   "server": "com.koopscan/mcp",
+   "server": "ai.agentutility/mcp-model-router",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agentutility/mcp-prooflayer",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agentutility/mcp-retail",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agentutility/mcp-rollforge",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agentutility/mcp-statline",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agentutility/mcp-synthforge",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agentutility/mcp-web-probe",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agentutility/mcp-wordmint",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ac.inference.sh/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ac.snag/snag",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ad.inside/inside-ads",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ae.brainy/grocery-prices",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ae.easyvoice/tts",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ae.genosys/genosys",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ae.grovisor/grotax",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ae.plantguide/dubai-gardening",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ae.projectory/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ae.propick/propick",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ae.waggle/fenlight",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "aero.events/events",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "africa.ugc/ugc",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ag.hood/name-service",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "agency.justidea/justidea-agency",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "agency.thebureauoflostcontext/bureau-public",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.0si/disclosures",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.1clickwebsite/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.69ai/69ai",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.aard/aard",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.aarna/atars-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.adadvisor/mcp-server",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.adplane/google-ads",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.adramp/google-ads",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.adrio/adrio",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.adsap/adsap",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.adside/adside",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.advisorsai/service-navigator",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.advisorsai/store-readiness",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.adweave/meta-ads-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.aeviamodeler/aevia",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.afg/afg",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.afmr/discovery",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agenlify/catalog",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agentese.lifeclaw/lifeclaw",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agentgates/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agenticfabricationnetwork/ufp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agenticplug/agent-ready-report",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agenticshelf/graffeo",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agenticshelf/puroair",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agentlookups/counterscript",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agentlookups/greenlight",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agentlookups/groundrules",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agentlookups/groundtruth",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agentlookups/overassessed",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agentlookups/plumbline",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agentlookups/spoon-scout",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agentmesh/mesh",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agentrapay/agentra",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agentui/apps",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agentxray/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.aginera/preconstruction",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.ai-advisors/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.ai-portal/ai-portal",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.airshelf/catalog",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.aislabs/cve",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.aislabs/gateway",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.aislabs/recorder",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.aivikings/registrar",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.aivonic/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.akkrudata/akkrudata",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.alcock/arena",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.alphabazaar/arena",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.alphacreek/alphacreek-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.alphaquantlabs/propertycheck",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.alpic.alpix/Alpix",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.alpic.mcp/alpic-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.alpic.test/test-mcp-server",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.anha/resolver",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.ankra/platform",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.anywhereintelligence/switchboard",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.anzenna/anzenna",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.apatero/studio",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.apir/verify",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.appdeploy/deploy-app",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.aqta/seal",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.arabickeyboard/name-calligraphy",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.arcdeck/arcdeck",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.archome/archome",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.arclan/registry",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.arcreport/ask",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.arketo/arketo",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.artidrop/artidrop",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.askatria/atria",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.askline/askline",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.askmiles/catalog",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.askwatch/gsc",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.asrm/asrm",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.assetlog/assetlog",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.astrofabric/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.atalay/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.athaus/immobiliensuche",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.athaus/makler",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.atlasverified/atlas-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.audiomap/audiomap",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.augenix/build",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.augmentev/paseo",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.augworlds/travel-world",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.auteng/docs",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.auteng/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.autoblogging/autoblogging",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.autoposter/autoposter",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.autoposting/autoposting",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.autron/autron",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.awardcast/federal-contracts",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.axonagentic/neuroautomata",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.b77/ai-media-studio",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.b77/apple-search-ads",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.b77/chess-results",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.b77/feedback",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.b77/fibalo",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.b77/file-storage",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.b77/google-ads",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.b77/google-news",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.b77/google-search-console",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.b77/kinnovis-storage",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.b77/knowledge-base",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.b77/nightscout",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.b77/seo-content-factory",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.b77/teamwork",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.b77/time",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.b77/web-analytics",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.backrow/backrow",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.balancos/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.bankrolled/agent-hub",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.baselight/baselight",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.baseray/baseray",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.bassethound/bassethound",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.beatbandit/beatbandit",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.beatra/beatra",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.beevr/beevr",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.beket/audit",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.benroberts/b4-index",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.bezal/local-commerce",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.bidclub/bidclub",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.bindry/bindry",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.bithuman/characters",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.blipsmith/sound-effects",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.blopus/search",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.bluenexus/universal-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.boardmark/boardmark",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.bodenrichtwert/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.botinfo/robot-market-data",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "agency.lona/trading",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.1325/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.abmeter/abmeter",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.adoraads/beauty",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agentberg/agentberg",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agentdm/agentdm",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agentic-news/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agenticbooks/books",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agenticshelf/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agentroam/agentroam",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.ai-akari/one-minute-akari",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.aient/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.ambix/ambix",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.argushq/enforcement-database",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.atdev/supershopping",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.atlier/project-desk",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.autoblocks/contextlayer-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.autoblocks/ctxl",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.autonomad/travel",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.aviado/health",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.bamf/bamf",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.bankee/inferventis-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.bcited/bcited",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.biddeed/biddeed-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.blast-radius/blast-radius",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.boundaryai/boundaryai",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agenttrust/mcp-server",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agent-bev/bev-door",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.aimentiontracker/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.aliengiraffe/spotdb",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.apithreshold/apithreshold",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.2kw/mcp-server",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.adeu/adeu",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agentxray/amazon-seller-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.anomalyarmor/armor-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.aquex/reasonbook",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.bourdon/bourdon",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ae.datadubai/dubai-real-estate",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.adrails/adrails",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.ai-akari/agent-trust-receipt",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.arpi/arpi-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.atlaso/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.audo/audo",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.authoryze/authoryze",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.auxen/auxen",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.backengine/backengine-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.basethread/basethread",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.bloopo/bloopo",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.borealhost/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ac.tandem/docs-mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "academy.apexai/apex-ai-academy",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ad.getle/leads",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "agency.goji/goji",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "agency.kesey/pretrip",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "agency.ottobot/business-contact-finder",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "agency.ottobot/contractor-license-changes",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "agency.ottobot/licensed-house-painters",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.adako/ads",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.aetherwealth/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agenticterminal/directory",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.agentplaybooks/agentplaybooks",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.aidoo/aidoo",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.aitopia/aitopia",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.analyticslegends/sap-analytics",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.ankimcp/anki-mcp-server",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.ankimcp/anki-mcp-server-addon",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.annsa/annsa",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.arcreport/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.arsentev/contextburn",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.askyouraudience/ask-your-audience",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.atako/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.atmark/atmark",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.attestari/attestari",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.audiopod/audiopod",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.audiopod/audiopod-core",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.auralogs/auralogs",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.auten/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.autonomad/computeback",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.autorfp/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.avaloncompany/web-content-url-tools",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.avasis/quant-research",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.awraiter/telegram",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.bareun/bareun",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.benchgecko/benchgecko",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.betslipdoctor/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.betterpost/server",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.biel/biel-ai",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.bithuman/docs",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.bitroad/bitroad",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.bittlebits/bittlebits",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.bizmoon/regulatory",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.bizmuse/bizmuse",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.bolthub/mcp",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.bolthub/registry",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.boolsai/directory",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.boolsai/grep",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.boolsai/scan",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.boolsai/signals",
+   "type": "removed",
+   "detail": "delisted from registry"
+  },
+  {
+   "server": "ai.bowmark/bowmark",
    "type": "removed",
    "detail": "delisted from registry"
   }

@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-10-17T08:02:34Z",
- "universe_declared_github_repos": 9923,
- "universe_declared_npm_packages": 3523,
+ "generated_at": "2026-10-18T08:13:56Z",
+ "universe_declared_github_repos": 2207,
+ "universe_declared_npm_packages": 501,
  "github_sample": {
   "n": 1200,
-  "dead": 219,
-  "dead_pct": 18.2,
+  "dead": 351,
+  "dead_pct": 29.2,
   "ci95": [
-   16.2,
-   20.5
+   26.7,
+   31.9
   ],
-  "archived": 11,
-  "no_license": 128,
-  "stale_365d": 12,
+  "archived": 7,
+  "no_license": 148,
+  "stale_365d": 37,
   "extrapolated_dead": [
-   1608,
-   2034
+   589,
+   704
   ]
  },
  "npm_sample": {
-  "n": 800,
-  "resolved": 767,
-  "unresolved": 33,
-  "version_desync": 241,
-  "desync_pct": 30.1,
+  "n": 501,
+  "resolved": 490,
+  "unresolved": 11,
+  "version_desync": 141,
+  "desync_pct": 28.1,
   "ci95": [
-   27.0,
-   33.4
+   24.4,
+   32.2
   ],
-  "description_drift": 88,
-  "drift_pct": 11.0,
-  "desc_mismatch_vs_registry": 679,
-  "mismatch_pct": 84.9,
+  "description_drift": 50,
+  "drift_pct": 10.0,
+  "desc_mismatch_vs_registry": 424,
+  "mismatch_pct": 84.6,
   "extrapolated_desync": [
-   951,
-   1177
+   122,
+   161
   ]
  },
  "examples_dead_repo": [
+  "junter1989k-ai/sweden-invoice-mcp",
+  "ssatanis/claidex-sentinel",
+  "nanocorp-hq/invoke",
+  "junter1989k-ai/nigeria-invoice-mcp",
+  "data-mindset/sts-google-forms-mcp",
   "ee324/a2awire",
-  "eliu243/oura-mcp-server",
-  "SevaSk/scotiasignal-frontend",
-  "bitfent/gitbuyer",
-  "quack2025/genius-voice-capture-back",
   "joeetdev/venture-estate",
-  "FoundryNet/fact-check-mcp",
-  "belexgo/lexgo",
-  "Kenboe/kural-ai",
-  "rooz21/x402",
-  "Perseus-Computing-LLC/perseus-vault",
-  "taylorgood/clearedindex",
-  "RishabhKodes/prexist",
-  "SergiyIva/api-stock-mcp",
-  "digitalpromptmarket-beep/docqa-mcp"
+  "RCOLKITT/candidcost",
+  "M2201/TEKBOSS",
+  "ee324/a2awire",
+  "junter1989k-ai/uae-payments-mcp",
+  "smithery-ai/mcp-servers",
+  "ee324/a2awire",
+  "junter1989k-ai/ireland-payments-mcp",
+  "BadRooBot/python_mcp"
  ],
  "examples_drift": [
   {
-   "server": "io.github.Aganium/mcp-server",
-   "pkg": "@agenium/mcp-server",
-   "prev": "Bridge MCP (Model Context Protocol) servers to the AGENIUM agent:// network",
-   "cur": "Bridge any MCP server to the agent:// network \u2014 make your tools discoverable, callable, an"
+   "server": "ai.spiderbrain/spiderbrain",
+   "pkg": "spiderbrain",
+   "prev": "A committed understanding layer for your repo: give it one (create) and read it (blast rad",
+   "cur": "A deterministic context layer for your repo, committed beside the code: blast radius, keys"
   },
   {
-   "server": "io.github.AlexanderKaan/uisandbox",
-   "pkg": "uisandbox-mcp",
-   "prev": "UISandbox as an MCP server: open the real sandbox in your browser with your built web app ",
-   "cur": "UISandbox as an MCP server: open the real sandbox in your browser with your built web app "
+   "server": "com.balmasai/balmas-mcp",
+   "pkg": "balmas-mcp",
+   "prev": "BALMAS anonymization gateway for AI agents (MCP server): agents get cleaned copies of your",
+   "cur": "BALMAS anonymization gateway for AI agents (MCP server): agents get cleaned copies of your"
   },
   {
-   "server": "io.github.Daichi-Kudo/llm-advisor",
-   "pkg": "llm-advisor-mcp",
-   "prev": "MCP server for LLM/VLM model selection \u2014 compare 336+ models with real-time benchmarks, pr",
-   "cur": "MCP server for LLM/VLM model selection \u2014 compare 300+ models with real-time benchmarks, pr"
+   "server": "ai.eonik/mcp",
+   "pkg": "eonik-mcp",
+   "prev": "Connect Claude, Cursor, or Codex to eonik: brand, competitor research, and creative briefs",
+   "cur": "eonik in Claude Desktop, Cursor, Codex and VS Code: make adapts of a creative, revise them"
   },
   {
-   "server": "io.github.LucaRSdeCo/sharecut-mcp",
-   "pkg": "sharecut-mcp",
-   "prev": "MCP server for ShareCut \u2014 create short links with click analytics and QR codes (static one",
-   "cur": "MCP server for ShareCut \u2014 create short links, re-point them after the QR is printed, read "
+   "server": "app.crawlio/crawlio-browser",
+   "pkg": "crawlio-browser",
+   "prev": "MCP server with 147 CDP-backed tools for browser automation \u2014 screenshots, DOM, network ca",
+   "cur": "MCP server with 150 browser tools for live Chrome automation \u2014 screenshots, DOM, network c"
   },
   {
-   "server": "com.xtrinel/vaast",
-   "pkg": "@xtrinel/vaast-mcp",
-   "prev": "Placeholder. The first real release will be 0.1.0.",
-   "cur": "MCP server shim for VAAST - provides read-only access to local VAAST data for AI agents"
+   "server": "ai.buywhere/buywhere-mcp",
+   "pkg": "@buywhere/mcp-server",
+   "prev": "Agent-native product catalog MCP server. Search & compare 367M+ products across 932K+ merc",
+   "cur": "Stdio bridge to the hosted BuyWhere MCP server \u2014 300M+ products, 150,000+ stores, deliver_"
   },
   {
-   "server": "io.github.FurlPay/furlpay-cli",
-   "pkg": "@furlpay/cli",
-   "prev": "FurlPay CLI \u2014 stablecoin payments, investing, travel booking, yield and webhook tooling fr",
-   "cur": "FurlPay CLI \u00e2\u20ac\u201d stablecoin payments, investing, travel booking, yield and webhook tooling "
+   "server": "ai.sellinger/mcp-server",
+   "pkg": "sellinger-mcp",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "MCP server exposing Sellinger CRM operations as tools"
   },
   {
-   "server": "dev.mymemory/memory",
-   "pkg": "@mymemory.dev/mcp",
-   "prev": "MCP server for MyMemory: save, search and recall your memories from Claude, Cursor and oth",
-   "cur": "MCP server for MyMemory (Everstash): save, search and recall your memories from Claude, Cu"
+   "server": "com.ai-rook.agents/trading-mcp",
+   "pkg": "ai-rook-trading-mcp",
+   "prev": "AI Rook MCP server \u2014 22 pay-per-call APIs (trading intelligence, web utilities, AI inferen",
+   "cur": "AI Rook MCP server \u2014 72 x402 endpoints (56 paid, 16 free): trading intelligence, local 456"
   },
   {
-   "server": "app.apick/all",
-   "pkg": "apick-mcp",
-   "prev": "APICK MCP \u2014 146 Korean data, AI, image & video tools for AI agents. \uc0ac\uc5c5\uc790\uc870\ud68c\u00b7\uc2e0\ubd84\uc99d\u00b7OCR\u00b7\ubc30\uc1a1\uc870\ud68c\u00b7\uc774\ubbf8\uc9c0",
-   "cur": "APICK MCP \u2014 138 Korean data, AI, image & video tools for AI agents. \uc0ac\uc5c5\uc790\uc870\ud68c\u00b7\uc2e0\ubd84\uc99d\u00b7OCR\u00b7\ubc30\uc1a1\uc870\ud68c\u00b7\uc774\ubbf8\uc9c0"
+   "server": "com.clauderecall/recall",
+   "pkg": "@clauderecallhq/cli",
+   "prev": "Never lose a Claude Code session again. Local, fast, searchable memory over every session ",
+   "cur": "Never lose a Claude Code or Codex session again. Local, fast, searchable memory over every"
   },
   {
-   "server": "io.github.DiegoLopez0208/rpgmaker-mv-ultimate",
-   "pkg": "rpgmaker-mv-mcp",
-   "prev": "RPG Maker MV Ultimate \u2014 AI copilot (MCP) for RPG Maker MV: generate maps, edit the databas",
-   "cur": "RPG Maker MV Ultimate \u2014 AI copilot (MCP) for RPG Maker MV: generate maps, edit the databas"
+   "server": "ai.agent-bev/bev-door",
+   "pkg": "@agent-bev/mcp-server",
+   "prev": "AI Agent B2B hub for beer, wine and spirits across Europe \u2014 MCP server",
+   "cur": "The world's largest agentic B2B hub for beer, wine and spirits. Powered by CUVEE. Trade on"
   },
   {
-   "server": "io.github.Bassanova12560/auros-protocol",
-   "pkg": "@adrien1212balitrand/auros-mcp",
-   "prev": "MCP server for AUROS Protocol \u2014 RWA desk + Green tools for Cursor, Claude Desktop, and age",
-   "cur": "MCP server for AUROS \u2014 six intelligence tools + live Score trial. Extended catalog opt-in."
+   "server": "ai.dinglebear/rgotify",
+   "pkg": "@dinglebear/rgotify",
+   "prev": "MCP server and CLI for Gotify: send push notifications and manage messages, apps, and clie",
+   "cur": "Gotify notifications and app, client, and message management over MCP and CLI."
   }
  ]
 }

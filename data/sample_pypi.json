@@ -1,47 +1,53 @@
 {
- "generated_at": "2026-10-17T08:02:38Z",
- "universe_declared_pypi": 1648,
+ "generated_at": "2026-10-18T08:13:58Z",
+ "universe_declared_pypi": 93,
  "sample": {
-  "n_sampled": 500,
-  "resolved": 496,
-  "unresolved": 4,
-  "version_desync": 99,
-  "desync_pct": 20.0,
+  "n_sampled": 93,
+  "resolved": 93,
+  "unresolved": 0,
+  "version_desync": 21,
+  "desync_pct": 22.6,
   "ci95": [
-   16.7,
-   23.7
+   15.3,
+   32.1
   ],
   "extrapolated_desync": [
-   275,
-   391
+   14,
+   30
   ],
-  "description_drift": 23,
-  "drift_pct": 4.6
+  "description_drift": 10,
+  "drift_pct": 10.8
  },
  "examples_drift": [
   {
-   "server": "io.github.Astrix-Labs/genesys-memory",
-   "pkg": "genesys-memory",
-   "prev": "The intelligence layer for AI memory \u2014 scoring, causal inference, lifecycle management, an",
-   "cur": "genesys-memory has been renamed to papez. This package installs papez and keeps `import ge"
+   "server": "ca.clevertech/clevertech-mcp-server",
+   "pkg": "clevertech-mcp-server",
+   "prev": "MCP Server for CleverTech Canadian government data APIs",
+   "cur": "CleverTech MCP server \u2014 Canadian government data for AI agents: property, permits, zoning,"
   },
   {
-   "server": "io.github.AIops-tools/ot-aiops",
-   "pkg": "ot-aiops",
-   "prev": "Governed, vendor-neutral OT data tap + intelligent troubleshooting for AI agents (OPC-UA /",
-   "cur": "Governed, vendor-neutral OT data tap + intelligent troubleshooting for AI agents (OPC-UA /"
+   "server": "ai.sovantica/engrava",
+   "pkg": "engrava-mcp",
+   "prev": "Model Context Protocol server for Engrava \u2014 expose an agent memory database to any MCP cli",
+   "cur": "Model Context Protocol server for Engrava - expose an agent memory database to any MCP cli"
   },
   {
-   "server": "io.github.AMRITO-KUNDU/llmscribe",
-   "pkg": "llmscribe",
-   "prev": "Export a project folder into a single, LLM-ready text file \u2014 directory tree plus full file",
-   "cur": "Deterministic repository extractor and structured code-access tool for local projects and "
+   "server": "com.aiinfradecoded/mcp-anvil",
+   "pkg": "mcp-anvil",
+   "prev": "Scaffold, audit, and inspect Model Context Protocol (MCP) servers from the CLI.",
+   "cur": "Local MCP daemon with a dashboard, REST/WebSocket API, and 64 built-in tools \u2014 plus scaffo"
   },
   {
-   "server": "app.srift/srift",
-   "pkg": "srift",
-   "prev": "Zero-config, end-to-end encrypted peer-to-peer file transfer CLI, MCP server and Python SD",
-   "cur": "Send any file as a download link from the CLI, Python or an AI agent (MCP server). Encrypt"
+   "server": "ai.nexustoken/nexustoken-sdk",
+   "pkg": "nexustoken-sdk",
+   "prev": "Python SDK + MCP server for NexusToken \u2014 a SaaS API for AI-powered structured data process",
+   "cur": "Python SDK + MCP server for NexusToken \u2014 an agent-to-agent capability network"
+  },
+  {
+   "server": "com.boostedchat/travel",
+   "pkg": "boostedtravel",
+   "prev": "Agent-native flight search & booking. 400+ airlines, 75 direct airline connectors run loca",
+   "cur": "\u26a0\ufe0f This package has been renamed to 'letsfg'. Install letsfg instead: pip install letsfg \u2014"
   },
   {
    "server": "com.coinrailz/mcp",
@@ -50,34 +56,28 @@
    "cur": "MCP server exposing 63 Coin Railz x402 micropayment services \u2014 crypto analytics, trading s"
   },
   {
-   "server": "io.github.Efistoffeles/boostedtravel",
-   "pkg": "boostedtravel",
-   "prev": "Agent-native flight search & booking. 400+ airlines, 75 direct airline connectors run loca",
-   "cur": "\u26a0\ufe0f This package has been renamed to 'letsfg'. Install letsfg instead: pip install letsfg \u2014"
+   "server": "app.srift/srift",
+   "pkg": "srift",
+   "prev": "Send any file as a download link from the CLI, Python or an AI agent (MCP server). Encrypt",
+   "cur": "Decentralized, end-to-end encrypted P2P file transfer, chat and calls: human to human, hum"
   },
   {
-   "server": "io.github.Elmoaid/tempograph",
-   "pkg": "tempograph",
-   "prev": "Code graph context engine for AI coding agents \u2014 structural dependency graph with adaptive",
-   "cur": "Your AI agent finds the right files. Code graph context engine with 24 MCP tools, 170+ lan"
+   "server": "ai.nauro/nauro",
+   "pkg": "nauro",
+   "prev": "What every agent should know. Keep your project's direction in human hands as agents do mo",
+   "cur": "Decision system for software built with AI. Keep your project's direction in human hands a"
   },
   {
-   "server": "com.kiprio/kiprio-mcp",
-   "pkg": "kiprio-mcp",
-   "prev": "MCP server giving AI agents 23 API tools: email validation, DNS/WHOIS, SSL inspection, web",
-   "cur": "MCP server giving AI agents 27 API tools: email/phone validation, geocoding, timezone conv"
+   "server": "app.peil/peil-mcp",
+   "pkg": "peil-mcp",
+   "prev": "MCP server for Peil \u2014 log hours, draft invoices and check where you stand from an AI assis",
+   "cur": "MCP server for Peil \u2014 log hours, draft invoices, add expenses and check where you stand fr"
   },
   {
-   "server": "io.github.LuminariSoftwares/code-guardian",
-   "pkg": "code-guardian-mcp",
-   "prev": "Is this codebase safe to run, will it work, and is it complete? Deterministic Safe, Works ",
-   "cur": "Is this codebase safe to run, will it work, and is it complete? Deterministic Safe, Works "
-  },
-  {
-   "server": "io.github.JoaoBerne/cli-bridge-mcp",
-   "pkg": "cli-bridge-mcp",
-   "prev": "Consult a council of AI CLIs (Gemini, GPT, Claude, Mistral, Qwen, Copilot, OpenCode\u2026) from",
-   "cur": "Expose the other AI CLIs installed on your machine (Gemini, Codex, Claude Code, Mistral, o"
+   "server": "ai.lbrain/lbrain",
+   "pkg": "lbrain-coding-agents",
+   "prev": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start.",
+   "cur": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start."
   }
  ]
 }

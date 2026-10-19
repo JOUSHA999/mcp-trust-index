@@ -1,72 +1,60 @@
 {
- "generated_at": "2026-10-18T08:13:56Z",
- "universe_declared_github_repos": 2207,
- "universe_declared_npm_packages": 501,
+ "generated_at": "2026-10-19T09:08:29Z",
+ "universe_declared_github_repos": 507,
+ "universe_declared_npm_packages": 163,
  "github_sample": {
-  "n": 1200,
-  "dead": 351,
-  "dead_pct": 29.2,
+  "n": 507,
+  "dead": 117,
+  "dead_pct": 23.1,
   "ci95": [
-   26.7,
-   31.9
+   19.6,
+   26.9
   ],
-  "archived": 7,
-  "no_license": 148,
-  "stale_365d": 37,
+  "archived": 2,
+  "no_license": 58,
+  "stale_365d": 0,
   "extrapolated_dead": [
-   589,
-   704
+   99,
+   136
   ]
  },
  "npm_sample": {
-  "n": 501,
-  "resolved": 490,
+  "n": 163,
+  "resolved": 152,
   "unresolved": 11,
-  "version_desync": 141,
-  "desync_pct": 28.1,
+  "version_desync": 60,
+  "desync_pct": 36.8,
   "ci95": [
-   24.4,
-   32.2
+   29.8,
+   44.4
   ],
-  "description_drift": 50,
-  "drift_pct": 10.0,
-  "desc_mismatch_vs_registry": 424,
-  "mismatch_pct": 84.6,
+  "description_drift": 16,
+  "drift_pct": 9.8,
+  "desc_mismatch_vs_registry": 117,
+  "mismatch_pct": 71.8,
   "extrapolated_desync": [
-   122,
-   161
+   49,
+   72
   ]
  },
  "examples_dead_repo": [
-  "junter1989k-ai/sweden-invoice-mcp",
-  "ssatanis/claidex-sentinel",
-  "nanocorp-hq/invoke",
-  "junter1989k-ai/nigeria-invoice-mcp",
-  "data-mindset/sts-google-forms-mcp",
-  "ee324/a2awire",
-  "joeetdev/venture-estate",
-  "RCOLKITT/candidcost",
-  "M2201/TEKBOSS",
-  "ee324/a2awire",
-  "junter1989k-ai/uae-payments-mcp",
-  "smithery-ai/mcp-servers",
-  "ee324/a2awire",
-  "junter1989k-ai/ireland-payments-mcp",
-  "BadRooBot/python_mcp"
+  "c2bcom10-ship-it/hotker",
+  "IshanGoyal/personal-website",
+  "rooz21/x402",
+  "archoor/reddit-insight",
+  "martinsmitcom/regulationsai",
+  "PoopsDavis/lattiq-mcp",
+  "deinai/skill-service",
+  "rooz21/x402",
+  "luc253/lucasandersen-ai",
+  "rooz21/x402",
+  "breverdbidder/cli-anything-biddeed",
+  "memoket/memoket-backend-go",
+  "SolidKeyAB/lore-mcp",
+  "homezloco/livegraph",
+  "crclabs-hq/GateTest"
  ],
  "examples_drift": [
-  {
-   "server": "ai.spiderbrain/spiderbrain",
-   "pkg": "spiderbrain",
-   "prev": "A committed understanding layer for your repo: give it one (create) and read it (blast rad",
-   "cur": "A deterministic context layer for your repo, committed beside the code: blast radius, keys"
-  },
-  {
-   "server": "com.balmasai/balmas-mcp",
-   "pkg": "balmas-mcp",
-   "prev": "BALMAS anonymization gateway for AI agents (MCP server): agents get cleaned copies of your",
-   "cur": "BALMAS anonymization gateway for AI agents (MCP server): agents get cleaned copies of your"
-  },
   {
    "server": "ai.eonik/mcp",
    "pkg": "eonik-mcp",
@@ -74,34 +62,28 @@
    "cur": "eonik in Claude Desktop, Cursor, Codex and VS Code: make adapts of a creative, revise them"
   },
   {
-   "server": "app.crawlio/crawlio-browser",
-   "pkg": "crawlio-browser",
-   "prev": "MCP server with 147 CDP-backed tools for browser automation \u2014 screenshots, DOM, network ca",
-   "cur": "MCP server with 150 browser tools for live Chrome automation \u2014 screenshots, DOM, network c"
+   "server": "ai.law/lawyer-search",
+   "pkg": "lawai-mcp-server",
+   "prev": "Law.AI MCP Server \u2014 Find verified lawyers through any AI assistant. Search 537K+ profiles,",
+   "cur": "Verified lawyer and attorney search, discovery, and matching for AI \u2014 991K+ bar-verified U"
   },
   {
-   "server": "ai.buywhere/buywhere-mcp",
-   "pkg": "@buywhere/mcp-server",
-   "prev": "Agent-native product catalog MCP server. Search & compare 367M+ products across 932K+ merc",
-   "cur": "Stdio bridge to the hosted BuyWhere MCP server \u2014 300M+ products, 150,000+ stores, deliver_"
+   "server": "ai.dinglebear/rytdl",
+   "pkg": "@dinglebear/rytdl",
+   "prev": "MCP server and CLI for yt-dlp: search and download media, embed metadata and cover art, th",
+   "cur": "yt-dlp search, download, metadata, delivery, and Plex workflows over MCP and CLI."
   },
   {
-   "server": "ai.sellinger/mcp-server",
-   "pkg": "sellinger-mcp",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server exposing Sellinger CRM operations as tools"
+   "server": "ai.autonomad/travel",
+   "pkg": "autonomad-travel",
+   "prev": "Free, social travel booking via MCP \u2014 plan & book real flights, hotels, Viator activities ",
+   "cur": "Search flights, hotels and experiences with Autonomad from your assistant or agent. Autono"
   },
   {
-   "server": "com.ai-rook.agents/trading-mcp",
-   "pkg": "ai-rook-trading-mcp",
-   "prev": "AI Rook MCP server \u2014 22 pay-per-call APIs (trading intelligence, web utilities, AI inferen",
-   "cur": "AI Rook MCP server \u2014 72 x402 endpoints (56 paid, 16 free): trading intelligence, local 456"
-  },
-  {
-   "server": "com.clauderecall/recall",
-   "pkg": "@clauderecallhq/cli",
-   "prev": "Never lose a Claude Code session again. Local, fast, searchable memory over every session ",
-   "cur": "Never lose a Claude Code or Codex session again. Local, fast, searchable memory over every"
+   "server": "ai.dxpert/mcp",
+   "pkg": "@dxpert/mcp",
+   "prev": "Stdio MCP server for dxpert.ai API keys: Ask dxpert, run UNS agents, run diagnostics, and ",
+   "cur": "Stdio MCP server for dxpert.ai API keys: ask dxpert Advisor, run the UNS agents included i"
   },
   {
    "server": "ai.agent-bev/bev-door",
@@ -110,10 +92,28 @@
    "cur": "The world's largest agentic B2B hub for beer, wine and spirits. Powered by CUVEE. Trade on"
   },
   {
-   "server": "ai.dinglebear/rgotify",
-   "pkg": "@dinglebear/rgotify",
-   "prev": "MCP server and CLI for Gotify: send push notifications and manage messages, apps, and clie",
-   "cur": "Gotify notifications and app, client, and message management over MCP and CLI."
+   "server": "ai.maxwellinternational/data",
+   "pkg": "@maxwellintl/x402-mcp",
+   "prev": "MCP server for Maxwell International's pay-per-call x402 data API: ski and travel, public ",
+   "cur": "Maxwell Directory (x402 + MCP): local providers worldwide, plus travel and public data. Fr"
+  },
+  {
+   "server": "ai.getvet/vet",
+   "pkg": "@getvetai/mcp",
+   "prev": "An MCP server that discovers MCP servers \u2014 search 136K+ AI tools with verification, securi",
+   "cur": "An MCP server that discovers MCP servers \u2014 search 200K+ AI tools with verification, securi"
+  },
+  {
+   "server": "ai.aimentiontracker/mcp",
+   "pkg": "@aimentiontracker/mcp",
+   "prev": "MCP server for AIMentionTracker \u2014 how often AI assistants name and cite your brand.",
+   "cur": "Track how often ChatGPT, Claude, Gemini and Perplexity name and cite your brand. Ten read-"
+  },
+  {
+   "server": "ai.clelp/clelp",
+   "pkg": "clelp-mcp-server",
+   "prev": "Find the best AI tools and MCP servers, rated by AI agents. Search 8,000+ skills with real",
+   "cur": "Find the best AI tools and MCP servers, safety-checked and rated by AI agents. Search thou"
   }
  ]
 }

@@ -1,77 +1,95 @@
 {
- "generated_at": "2026-10-19T09:08:29Z",
- "universe_declared_github_repos": 507,
- "universe_declared_npm_packages": 163,
+ "generated_at": "2026-10-20T08:48:36Z",
+ "universe_declared_github_repos": 2071,
+ "universe_declared_npm_packages": 476,
  "github_sample": {
-  "n": 507,
-  "dead": 117,
-  "dead_pct": 23.1,
+  "n": 1200,
+  "dead": 366,
+  "dead_pct": 30.5,
   "ci95": [
-   19.6,
-   26.9
+   28.0,
+   33.2
   ],
-  "archived": 2,
-  "no_license": 58,
-  "stale_365d": 0,
+  "archived": 7,
+  "no_license": 157,
+  "stale_365d": 47,
   "extrapolated_dead": [
-   99,
-   136
+   580,
+   688
   ]
  },
  "npm_sample": {
-  "n": 163,
-  "resolved": 152,
+  "n": 476,
+  "resolved": 465,
   "unresolved": 11,
-  "version_desync": 60,
-  "desync_pct": 36.8,
+  "version_desync": 128,
+  "desync_pct": 26.9,
   "ci95": [
-   29.8,
-   44.4
+   23.1,
+   31.0
   ],
-  "description_drift": 16,
-  "drift_pct": 9.8,
-  "desc_mismatch_vs_registry": 117,
-  "mismatch_pct": 71.8,
+  "description_drift": 53,
+  "drift_pct": 11.1,
+  "desc_mismatch_vs_registry": 407,
+  "mismatch_pct": 85.5,
   "extrapolated_desync": [
-   49,
-   72
+   110,
+   148
   ]
  },
  "examples_dead_repo": [
-  "c2bcom10-ship-it/hotker",
-  "IshanGoyal/personal-website",
-  "rooz21/x402",
-  "archoor/reddit-insight",
-  "martinsmitcom/regulationsai",
-  "PoopsDavis/lattiq-mcp",
-  "deinai/skill-service",
-  "rooz21/x402",
-  "luc253/lucasandersen-ai",
-  "rooz21/x402",
-  "breverdbidder/cli-anything-biddeed",
-  "memoket/memoket-backend-go",
-  "SolidKeyAB/lore-mcp",
-  "homezloco/livegraph",
-  "crclabs-hq/GateTest"
+  "junter1989k-ai/netherlands-payments-mcp",
+  "junter1989k-ai/ireland-payments-mcp",
+  "yenta-ai/yenta-mcp",
+  "ee324/a2awire",
+  "PixelCove/citation-tracker",
+  "larebelion/hapimcp",
+  "NicoLeblanc/andiamo",
+  "junter1989k-ai/sweden-invoice-mcp",
+  "Timmy-Hedgr/getmyluna",
+  "Mapmapai/mapmap",
+  "vanmoose/truncus-mcp-server",
+  "YOUR_GH_USERNAME/sprkly-mcp",
+  "ee324/a2awire",
+  "somoscooper/cooper-webapp",
+  "arjunkmrm/time"
  ],
  "examples_drift": [
   {
-   "server": "ai.eonik/mcp",
-   "pkg": "eonik-mcp",
-   "prev": "Connect Claude, Cursor, or Codex to eonik: brand, competitor research, and creative briefs",
-   "cur": "eonik in Claude Desktop, Cursor, Codex and VS Code: make adapts of a creative, revise them"
+   "server": "ai.dxpert/mcp",
+   "pkg": "@dxpert/mcp",
+   "prev": "Stdio MCP server for dxpert.ai API keys: Ask dxpert, run UNS agents, run diagnostics, and ",
+   "cur": "Stdio MCP server for dxpert.ai API keys: ask dxpert Advisor, run the UNS agents included i"
   },
   {
-   "server": "ai.law/lawyer-search",
-   "pkg": "lawai-mcp-server",
-   "prev": "Law.AI MCP Server \u2014 Find verified lawyers through any AI assistant. Search 537K+ profiles,",
-   "cur": "Verified lawyer and attorney search, discovery, and matching for AI \u2014 991K+ bar-verified U"
+   "server": "com.amplerun/gpu-rentals",
+   "pkg": "@amplerun/mcp",
+   "prev": "MCP server (stdio) that lets AI agents find and rent GPUs on AmpleRun. Wraps @amplerun/sdk",
+   "cur": "MCP server (stdio) that lets AI agents find and rent GPUs on AmpleRun, and register their "
   },
   {
-   "server": "ai.dinglebear/rytdl",
-   "pkg": "@dinglebear/rytdl",
-   "prev": "MCP server and CLI for yt-dlp: search and download media, embed metadata and cover art, th",
-   "cur": "yt-dlp search, download, metadata, delivery, and Plex workflows over MCP and CLI."
+   "server": "ai.dinglebear/rapprise",
+   "pkg": "@dinglebear/rapprise",
+   "prev": "MCP server and CLI for Apprise: fan out notifications to dozens of delivery backends over ",
+   "cur": "Apprise notifications over MCP and CLI with authenticated stdio and HTTP transports."
+  },
+  {
+   "server": "com.bykaranteli/mcp",
+   "pkg": "bykaranteli-mcp",
+   "prev": "MCP server for live crypto derivatives data from bykaranteli.com: funding rates, funding a",
+   "cur": "MCP server for live crypto derivatives data from bykaranteli.com: funding rates, funding a"
+  },
+  {
+   "server": "com.accesslumens/mcp",
+   "pkg": "@accesslumens/mcp",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "AccessLumens accessibility scanner as an MCP server: WCAG checks, keyboard traps, reflow a"
+  },
+  {
+   "server": "com.boostedchat/travel",
+   "pkg": "boostedtravel-mcp",
+   "prev": "BoostedTravel MCP Server \u2014 75 airline connectors run locally + enterprise GDS/NDC APIs. Fl",
+   "cur": "\u26a0\ufe0f This package has been renamed to 'letsfg-mcp'. Install letsfg-mcp instead: npm install "
   },
   {
    "server": "ai.autonomad/travel",
@@ -80,40 +98,22 @@
    "cur": "Search flights, hotels and experiences with Autonomad from your assistant or agent. Autono"
   },
   {
-   "server": "ai.dxpert/mcp",
-   "pkg": "@dxpert/mcp",
-   "prev": "Stdio MCP server for dxpert.ai API keys: Ask dxpert, run UNS agents, run diagnostics, and ",
-   "cur": "Stdio MCP server for dxpert.ai API keys: ask dxpert Advisor, run the UNS agents included i"
+   "server": "com.antideploy/antideploy-mcp",
+   "pkg": "antideploy-mcp",
+   "prev": "Deploy an application to Antideploy from a coding agent. MCP server and CLI.",
+   "cur": "Deploy and run applications on Antideploy from a coding agent: Claude Code, Cursor, Codex,"
   },
   {
-   "server": "ai.agent-bev/bev-door",
-   "pkg": "@agent-bev/mcp-server",
-   "prev": "AI Agent B2B hub for beer, wine and spirits across Europe \u2014 MCP server",
-   "cur": "The world's largest agentic B2B hub for beer, wine and spirits. Powered by CUVEE. Trade on"
+   "server": "ai.voxell/forge",
+   "pkg": "@voxell/forge-mcp",
+   "prev": "MCP server for Forge \u2014 Voxell's text-embedding API (turbo\u2192ultra; ultra = Qwen3-Embedding-8",
+   "cur": "MCP server for Forge, Voxell's hosted text-embedding API (turbo, pro, ultra tiers). Voxell"
   },
   {
-   "server": "ai.maxwellinternational/data",
-   "pkg": "@maxwellintl/x402-mcp",
-   "prev": "MCP server for Maxwell International's pay-per-call x402 data API: ski and travel, public ",
-   "cur": "Maxwell Directory (x402 + MCP): local providers worldwide, plus travel and public data. Fr"
-  },
-  {
-   "server": "ai.getvet/vet",
-   "pkg": "@getvetai/mcp",
-   "prev": "An MCP server that discovers MCP servers \u2014 search 136K+ AI tools with verification, securi",
-   "cur": "An MCP server that discovers MCP servers \u2014 search 200K+ AI tools with verification, securi"
-  },
-  {
-   "server": "ai.aimentiontracker/mcp",
-   "pkg": "@aimentiontracker/mcp",
-   "prev": "MCP server for AIMentionTracker \u2014 how often AI assistants name and cite your brand.",
-   "cur": "Track how often ChatGPT, Claude, Gemini and Perplexity name and cite your brand. Ten read-"
-  },
-  {
-   "server": "ai.clelp/clelp",
-   "pkg": "clelp-mcp-server",
-   "prev": "Find the best AI tools and MCP servers, rated by AI agents. Search 8,000+ skills with real",
-   "cur": "Find the best AI tools and MCP servers, safety-checked and rated by AI agents. Search thou"
+   "server": "br.com.signdocs/mcp-server",
+   "pkg": "@signdocs-brasil/mcp-server",
+   "prev": "Model Context Protocol (MCP) server for the SignDocs Brasil e-signature API \u2014 lets AI agen",
+   "cur": "Servidor MCP oficial da SignDocs Brasil: assinatura eletr\u00f4nica e digital com ICP-Brasil, b"
   }
  ]
 }

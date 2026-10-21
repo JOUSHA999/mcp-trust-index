@@ -1,29 +1,29 @@
 {
- "generated_at": "2026-10-20T08:48:37Z",
- "universe_declared_pypi": 94,
+ "generated_at": "2026-10-21T09:18:24Z",
+ "universe_declared_pypi": 258,
  "sample": {
-  "n_sampled": 94,
-  "resolved": 94,
-  "unresolved": 0,
-  "version_desync": 20,
-  "desync_pct": 21.3,
+  "n_sampled": 258,
+  "resolved": 256,
+  "unresolved": 2,
+  "version_desync": 36,
+  "desync_pct": 14.1,
   "ci95": [
-   14.2,
-   30.6
+   10.3,
+   18.9
   ],
   "extrapolated_desync": [
-   13,
-   29
+   27,
+   49
   ],
-  "description_drift": 9,
-  "drift_pct": 9.6
+  "description_drift": 14,
+  "drift_pct": 5.5
  },
  "examples_drift": [
   {
-   "server": "app.peil/peil-mcp",
-   "pkg": "peil-mcp",
-   "prev": "MCP server for Peil \u2014 log hours, draft invoices and check where you stand from an AI assis",
-   "cur": "MCP server for Peil \u2014 log hours, draft invoices, add expenses and check where you stand fr"
+   "server": "ai.lbrain/lbrain",
+   "pkg": "lbrain-coding-agents",
+   "prev": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start.",
+   "cur": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start."
   },
   {
    "server": "app.srift/srift",
@@ -32,16 +32,10 @@
    "cur": "Decentralized, end-to-end encrypted P2P file transfer, chat and calls: human to human, hum"
   },
   {
-   "server": "ai.nexustoken/nexustoken-sdk",
-   "pkg": "nexustoken-sdk",
-   "prev": "Python SDK + MCP server for NexusToken \u2014 a SaaS API for AI-powered structured data process",
-   "cur": "Python SDK + MCP server for NexusToken \u2014 an agent-to-agent capability network"
-  },
-  {
-   "server": "ai.nauro/nauro",
-   "pkg": "nauro",
-   "prev": "What every agent should know. Keep your project's direction in human hands as agents do mo",
-   "cur": "Decision system for software built with AI. Keep your project's direction in human hands a"
+   "server": "app.peil/peil-mcp",
+   "pkg": "peil-mcp",
+   "prev": "MCP server for Peil \u2014 log hours, draft invoices and check where you stand from an AI assis",
+   "cur": "MCP server for Peil \u2014 log hours, draft invoices, add expenses and check where you stand fr"
   },
   {
    "server": "com.aiinfradecoded/mcp-anvil",
@@ -50,28 +44,40 @@
    "cur": "Local MCP daemon with a dashboard, REST/WebSocket API, and 64 built-in tools \u2014 plus scaffo"
   },
   {
-   "server": "ai.lbrain/lbrain",
-   "pkg": "lbrain-coding-agents",
-   "prev": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start.",
-   "cur": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start."
+   "server": "ai.nexustoken/nexustoken-sdk",
+   "pkg": "nexustoken-sdk",
+   "prev": "Python SDK + MCP server for NexusToken \u2014 a SaaS API for AI-powered structured data process",
+   "cur": "Python SDK + MCP server for NexusToken \u2014 an agent-to-agent capability network"
   },
   {
-   "server": "com.boostedchat/travel",
-   "pkg": "boostedtravel",
-   "prev": "Agent-native flight search & booking. 400+ airlines, 75 direct airline connectors run loca",
-   "cur": "\u26a0\ufe0f This package has been renamed to 'letsfg'. Install letsfg instead: pip install letsfg \u2014"
+   "server": "com.getsingularis/singularis",
+   "pkg": "singularis-mcp",
+   "prev": "Singularis is unlimited computation. Bring us your hardest problems. Free tryout. Results ",
+   "cur": "Singularis is unlimited computation. Bring us your hardest problems. Free tryout, credits "
+  },
+  {
+   "server": "com.macaroonnetwork/mcp-server",
+   "pkg": "macaroonnetwork-mcp",
+   "prev": "MCP client for Macaroon Network -- discover and buy from a live marketplace where AI agent",
+   "cur": "MCP discovery router for Macaroon Network categories, sources, vertical MCPs, and x402 USD"
+  },
+  {
+   "server": "com.mcparmory/google-drive",
+   "pkg": "mcparmory-google-drive",
+   "prev": "MCP server for Google Drive",
+   "cur": "Manage files, folders, permissions, and collaborative content in Google Drive"
+  },
+  {
+   "server": "com.kiprio/kiprio-mcp",
+   "pkg": "kiprio-mcp",
+   "prev": "MCP server giving AI agents 23 API tools: email validation, DNS/WHOIS, SSL inspection, web",
+   "cur": "MCP server giving AI agents 27 API tools: email/phone validation, geocoding, timezone conv"
   },
   {
    "server": "ai.sovantica/engrava",
    "pkg": "engrava-mcp",
    "prev": "Model Context Protocol server for Engrava \u2014 expose an agent memory database to any MCP cli",
    "cur": "Model Context Protocol server for Engrava - expose an agent memory database to any MCP cli"
-  },
-  {
-   "server": "ca.clevertech/clevertech-mcp-server",
-   "pkg": "clevertech-mcp-server",
-   "prev": "MCP Server for CleverTech Canadian government data APIs",
-   "cur": "CleverTech MCP server \u2014 Canadian government data for AI agents: property, permits, zoning,"
   }
  ]
 }

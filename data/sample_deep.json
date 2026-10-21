@@ -1,60 +1,108 @@
 {
- "generated_at": "2026-10-20T08:48:36Z",
- "universe_declared_github_repos": 2071,
- "universe_declared_npm_packages": 476,
+ "generated_at": "2026-10-21T09:18:19Z",
+ "universe_declared_github_repos": 3603,
+ "universe_declared_npm_packages": 906,
  "github_sample": {
   "n": 1200,
-  "dead": 366,
-  "dead_pct": 30.5,
+  "dead": 299,
+  "dead_pct": 24.9,
   "ci95": [
-   28.0,
-   33.2
+   22.6,
+   27.4
   ],
   "archived": 7,
-  "no_license": 157,
-  "stale_365d": 47,
+  "no_license": 155,
+  "stale_365d": 29,
   "extrapolated_dead": [
-   580,
-   688
+   814,
+   987
   ]
  },
  "npm_sample": {
-  "n": 476,
-  "resolved": 465,
-  "unresolved": 11,
-  "version_desync": 128,
-  "desync_pct": 26.9,
+  "n": 800,
+  "resolved": 790,
+  "unresolved": 10,
+  "version_desync": 183,
+  "desync_pct": 22.9,
   "ci95": [
-   23.1,
-   31.0
+   20.1,
+   25.9
   ],
-  "description_drift": 53,
-  "drift_pct": 11.1,
-  "desc_mismatch_vs_registry": 407,
-  "mismatch_pct": 85.5,
+  "description_drift": 96,
+  "drift_pct": 12.0,
+  "desc_mismatch_vs_registry": 713,
+  "mismatch_pct": 89.1,
   "extrapolated_desync": [
-   110,
-   148
+   182,
+   235
   ]
  },
  "examples_dead_repo": [
-  "junter1989k-ai/netherlands-payments-mcp",
-  "junter1989k-ai/ireland-payments-mcp",
-  "yenta-ai/yenta-mcp",
+  "junter1989k-ai/india-logistics-mcp",
+  "qtpgitadmin/dintak-mcp-gateway",
+  "elkassabgi/hfdatalibrary",
+  "sawftware-apps/darkroom-gw",
+  "astarsupply-hub/forge",
+  "junter1989k-ai/croatia-payments-mcp",
+  "hapticpaper/hh",
   "ee324/a2awire",
-  "PixelCove/citation-tracker",
+  "BeyondFolder/beyondfolder-landing-page",
+  "CorrectOver/mcp-server",
   "larebelion/hapimcp",
-  "NicoLeblanc/andiamo",
-  "junter1989k-ai/sweden-invoice-mcp",
-  "Timmy-Hedgr/getmyluna",
-  "Mapmapai/mapmap",
-  "vanmoose/truncus-mcp-server",
-  "YOUR_GH_USERNAME/sprkly-mcp",
+  "mustafasalimerek-bit/launchtrust-mcp",
+  "bookingtruth/bookingtruth-mcp",
   "ee324/a2awire",
-  "somoscooper/cooper-webapp",
-  "arjunkmrm/time"
+  "junter1989k-ai/ivory-coast-payments-mcp"
  ],
  "examples_drift": [
+  {
+   "server": "com.dealsurface/dealsurface",
+   "pkg": "@dealsurface/mcp-server",
+   "prev": "MCP server for the DealSurface sales intelligence API",
+   "cur": "MCP server for DealSurface, the insurance-focused go-to-market platform: ranked product-sp"
+  },
+  {
+   "server": "bid.scope/legal",
+   "pkg": "@scope-bid/scope-mcp",
+   "prev": "MCP server for Scope.bid legal vendor dispatch. Hire court reporters, IMEs, records, exper",
+   "cur": "MCP server for Scope.bid legal professional dispatch. Engage court reporters, IMEs, record"
+  },
+  {
+   "server": "com.parcelgps/catastro-gps",
+   "pkg": "catastro-gps-mcp",
+   "prev": "MCP server for cadastral parcels from 29 European countries (31 official cadastres, includ",
+   "cur": "MCP server for cadastral parcels from 29 European countries (including the Basque Country "
+  },
+  {
+   "server": "ai.dinglebear/rytdl",
+   "pkg": "@dinglebear/rytdl",
+   "prev": "MCP server and CLI for yt-dlp: search and download media, embed metadata and cover art, th",
+   "cur": "yt-dlp search, download, metadata, delivery, and Plex workflows over MCP and CLI."
+  },
+  {
+   "server": "ai.augmentev/fabric-verify",
+   "pkg": "@augmentev/fabric-verify-mcp",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "MCP server for Fabric Verify: your agent signs a record of each action locally and gets a "
+  },
+  {
+   "server": "com.opedd/opedd-mcp",
+   "pkg": "opedd-mcp",
+   "prev": "Licensed, rights-cleared content for AI agents \u2014 verifiable license keys, on-chain proof, ",
+   "cur": "Content licensing for the AI era. Licensed, rights-cleared content for AI agents, with a v"
+  },
+  {
+   "server": "com.mandarelabs/mandare",
+   "pkg": "@mandarelabs/mcp-server",
+   "prev": "Placeholder with no code. Install 0.1.0 or later.",
+   "cur": "Mandare MCP server \u2014 expose the accountability door (verify, budgets, passports, mandates,"
+  },
+  {
+   "server": "ai.aimentiontracker/mcp",
+   "pkg": "@aimentiontracker/mcp",
+   "prev": "MCP server for AIMentionTracker \u2014 how often AI assistants name and cite your brand.",
+   "cur": "Track how often ChatGPT, Claude, Gemini and Perplexity name and cite your brand. Ten read-"
+  },
   {
    "server": "ai.dxpert/mcp",
    "pkg": "@dxpert/mcp",
@@ -62,58 +110,10 @@
    "cur": "Stdio MCP server for dxpert.ai API keys: ask dxpert Advisor, run the UNS agents included i"
   },
   {
-   "server": "com.amplerun/gpu-rentals",
-   "pkg": "@amplerun/mcp",
-   "prev": "MCP server (stdio) that lets AI agents find and rent GPUs on AmpleRun. Wraps @amplerun/sdk",
-   "cur": "MCP server (stdio) that lets AI agents find and rent GPUs on AmpleRun, and register their "
-  },
-  {
-   "server": "ai.dinglebear/rapprise",
-   "pkg": "@dinglebear/rapprise",
-   "prev": "MCP server and CLI for Apprise: fan out notifications to dozens of delivery backends over ",
-   "cur": "Apprise notifications over MCP and CLI with authenticated stdio and HTTP transports."
-  },
-  {
-   "server": "com.bykaranteli/mcp",
-   "pkg": "bykaranteli-mcp",
-   "prev": "MCP server for live crypto derivatives data from bykaranteli.com: funding rates, funding a",
-   "cur": "MCP server for live crypto derivatives data from bykaranteli.com: funding rates, funding a"
-  },
-  {
-   "server": "com.accesslumens/mcp",
-   "pkg": "@accesslumens/mcp",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "AccessLumens accessibility scanner as an MCP server: WCAG checks, keyboard traps, reflow a"
-  },
-  {
-   "server": "com.boostedchat/travel",
-   "pkg": "boostedtravel-mcp",
-   "prev": "BoostedTravel MCP Server \u2014 75 airline connectors run locally + enterprise GDS/NDC APIs. Fl",
-   "cur": "\u26a0\ufe0f This package has been renamed to 'letsfg-mcp'. Install letsfg-mcp instead: npm install "
-  },
-  {
-   "server": "ai.autonomad/travel",
-   "pkg": "autonomad-travel",
-   "prev": "Free, social travel booking via MCP \u2014 plan & book real flights, hotels, Viator activities ",
-   "cur": "Search flights, hotels and experiences with Autonomad from your assistant or agent. Autono"
-  },
-  {
-   "server": "com.antideploy/antideploy-mcp",
-   "pkg": "antideploy-mcp",
-   "prev": "Deploy an application to Antideploy from a coding agent. MCP server and CLI.",
-   "cur": "Deploy and run applications on Antideploy from a coding agent: Claude Code, Cursor, Codex,"
-  },
-  {
-   "server": "ai.voxell/forge",
-   "pkg": "@voxell/forge-mcp",
-   "prev": "MCP server for Forge \u2014 Voxell's text-embedding API (turbo\u2192ultra; ultra = Qwen3-Embedding-8",
-   "cur": "MCP server for Forge, Voxell's hosted text-embedding API (turbo, pro, ultra tiers). Voxell"
-  },
-  {
-   "server": "br.com.signdocs/mcp-server",
-   "pkg": "@signdocs-brasil/mcp-server",
-   "prev": "Model Context Protocol (MCP) server for the SignDocs Brasil e-signature API \u2014 lets AI agen",
-   "cur": "Servidor MCP oficial da SignDocs Brasil: assinatura eletr\u00f4nica e digital com ICP-Brasil, b"
+   "server": "ai.saltapp/salt",
+   "pkg": "salt-mcp",
+   "prev": "Model Context Protocol server for Salt (saltfor.com) -- exposes the Salt agent network (di",
+   "cur": "Model Context Protocol server for Salt (saltapp.ai) -- exposes the Salt agent network (dis"
   }
  ]
 }

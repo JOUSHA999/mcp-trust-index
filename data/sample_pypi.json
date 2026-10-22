@@ -1,47 +1,29 @@
 {
- "generated_at": "2026-10-21T09:18:24Z",
- "universe_declared_pypi": 258,
+ "generated_at": "2026-10-22T08:52:57Z",
+ "universe_declared_pypi": 71,
  "sample": {
-  "n_sampled": 258,
-  "resolved": 256,
-  "unresolved": 2,
-  "version_desync": 36,
-  "desync_pct": 14.1,
+  "n_sampled": 71,
+  "resolved": 71,
+  "unresolved": 0,
+  "version_desync": 14,
+  "desync_pct": 19.7,
   "ci95": [
-   10.3,
-   18.9
+   12.1,
+   30.4
   ],
   "extrapolated_desync": [
-   27,
-   49
+   9,
+   22
   ],
-  "description_drift": 14,
-  "drift_pct": 5.5
+  "description_drift": 7,
+  "drift_pct": 9.9
  },
  "examples_drift": [
-  {
-   "server": "ai.lbrain/lbrain",
-   "pkg": "lbrain-coding-agents",
-   "prev": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start.",
-   "cur": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start."
-  },
   {
    "server": "app.srift/srift",
    "pkg": "srift",
    "prev": "Send any file as a download link from the CLI, Python or an AI agent (MCP server). Encrypt",
    "cur": "Decentralized, end-to-end encrypted P2P file transfer, chat and calls: human to human, hum"
-  },
-  {
-   "server": "app.peil/peil-mcp",
-   "pkg": "peil-mcp",
-   "prev": "MCP server for Peil \u2014 log hours, draft invoices and check where you stand from an AI assis",
-   "cur": "MCP server for Peil \u2014 log hours, draft invoices, add expenses and check where you stand fr"
-  },
-  {
-   "server": "com.aiinfradecoded/mcp-anvil",
-   "pkg": "mcp-anvil",
-   "prev": "Scaffold, audit, and inspect Model Context Protocol (MCP) servers from the CLI.",
-   "cur": "Local MCP daemon with a dashboard, REST/WebSocket API, and 64 built-in tools \u2014 plus scaffo"
   },
   {
    "server": "ai.nexustoken/nexustoken-sdk",
@@ -50,34 +32,34 @@
    "cur": "Python SDK + MCP server for NexusToken \u2014 an agent-to-agent capability network"
   },
   {
-   "server": "com.getsingularis/singularis",
-   "pkg": "singularis-mcp",
-   "prev": "Singularis is unlimited computation. Bring us your hardest problems. Free tryout. Results ",
-   "cur": "Singularis is unlimited computation. Bring us your hardest problems. Free tryout, credits "
+   "server": "ai.nauro/nauro",
+   "pkg": "nauro",
+   "prev": "What every agent should know. Keep your project's direction in human hands as agents do mo",
+   "cur": "Decision system for software built with AI. Keep your project's direction in human hands a"
   },
   {
-   "server": "com.macaroonnetwork/mcp-server",
-   "pkg": "macaroonnetwork-mcp",
-   "prev": "MCP client for Macaroon Network -- discover and buy from a live marketplace where AI agent",
-   "cur": "MCP discovery router for Macaroon Network categories, sources, vertical MCPs, and x402 USD"
-  },
-  {
-   "server": "com.mcparmory/google-drive",
-   "pkg": "mcparmory-google-drive",
-   "prev": "MCP server for Google Drive",
-   "cur": "Manage files, folders, permissions, and collaborative content in Google Drive"
-  },
-  {
-   "server": "com.kiprio/kiprio-mcp",
-   "pkg": "kiprio-mcp",
-   "prev": "MCP server giving AI agents 23 API tools: email validation, DNS/WHOIS, SSL inspection, web",
-   "cur": "MCP server giving AI agents 27 API tools: email/phone validation, geocoding, timezone conv"
+   "server": "app.peil/peil-mcp",
+   "pkg": "peil-mcp",
+   "prev": "MCP server for Peil \u2014 log hours, draft invoices and check where you stand from an AI assis",
+   "cur": "MCP server for Peil \u2014 log hours, draft invoices, add expenses and check where you stand fr"
   },
   {
    "server": "ai.sovantica/engrava",
    "pkg": "engrava-mcp",
    "prev": "Model Context Protocol server for Engrava \u2014 expose an agent memory database to any MCP cli",
    "cur": "Model Context Protocol server for Engrava - expose an agent memory database to any MCP cli"
+  },
+  {
+   "server": "ca.clevertech/clevertech-mcp-server",
+   "pkg": "clevertech-mcp-server",
+   "prev": "MCP Server for CleverTech Canadian government data APIs",
+   "cur": "CleverTech MCP server \u2014 Canadian government data for AI agents: property, permits, zoning,"
+  },
+  {
+   "server": "ai.lbrain/lbrain",
+   "pkg": "lbrain-coding-agents",
+   "prev": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start.",
+   "cur": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start."
   }
  ]
 }

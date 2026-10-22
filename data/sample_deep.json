@@ -1,101 +1,83 @@
 {
- "generated_at": "2026-10-21T09:18:19Z",
- "universe_declared_github_repos": 3603,
- "universe_declared_npm_packages": 906,
+ "generated_at": "2026-10-22T08:52:54Z",
+ "universe_declared_github_repos": 1844,
+ "universe_declared_npm_packages": 394,
  "github_sample": {
   "n": 1200,
-  "dead": 299,
-  "dead_pct": 24.9,
+  "dead": 369,
+  "dead_pct": 30.8,
   "ci95": [
-   22.6,
-   27.4
+   28.2,
+   33.4
   ],
-  "archived": 7,
-  "no_license": 155,
-  "stale_365d": 29,
+  "archived": 9,
+  "no_license": 130,
+  "stale_365d": 56,
   "extrapolated_dead": [
-   814,
-   987
+   520,
+   616
   ]
  },
  "npm_sample": {
-  "n": 800,
-  "resolved": 790,
-  "unresolved": 10,
-  "version_desync": 183,
-  "desync_pct": 22.9,
+  "n": 394,
+  "resolved": 383,
+  "unresolved": 11,
+  "version_desync": 108,
+  "desync_pct": 27.4,
   "ci95": [
-   20.1,
-   25.9
+   23.2,
+   32.0
   ],
-  "description_drift": 96,
-  "drift_pct": 12.0,
-  "desc_mismatch_vs_registry": 713,
-  "mismatch_pct": 89.1,
+  "description_drift": 45,
+  "drift_pct": 11.4,
+  "desc_mismatch_vs_registry": 340,
+  "mismatch_pct": 86.3,
   "extrapolated_desync": [
-   182,
-   235
+   91,
+   126
   ]
  },
  "examples_dead_repo": [
-  "junter1989k-ai/india-logistics-mcp",
-  "qtpgitadmin/dintak-mcp-gateway",
-  "elkassabgi/hfdatalibrary",
-  "sawftware-apps/darkroom-gw",
-  "astarsupply-hub/forge",
-  "junter1989k-ai/croatia-payments-mcp",
-  "hapticpaper/hh",
+  "joeetdev/venture-estate",
+  "smithery-ai/mcp-servers",
+  "people-analyst/performix-site",
+  "autoblocksai/ctxl",
   "ee324/a2awire",
-  "BeyondFolder/beyondfolder-landing-page",
-  "CorrectOver/mcp-server",
-  "larebelion/hapimcp",
-  "mustafasalimerek-bit/launchtrust-mcp",
-  "bookingtruth/bookingtruth-mcp",
   "ee324/a2awire",
-  "junter1989k-ai/ivory-coast-payments-mcp"
+  "cameronjmcewan-dev/advocatemcp",
+  "michalstrnadel/dsght-landing",
+  "junter1989k-ai/uganda-payments-mcp",
+  "ee324/a2awire",
+  "ee324/a2awire",
+  "music360app/music360app",
+  "Galax-ai/ReadyPermit.AI-v2",
+  "junter1989k-ai/brazil-invoice-mcp",
+  "jan-rezab/cloudmindmaps"
  ],
  "examples_drift": [
   {
-   "server": "com.dealsurface/dealsurface",
-   "pkg": "@dealsurface/mcp-server",
-   "prev": "MCP server for the DealSurface sales intelligence API",
-   "cur": "MCP server for DealSurface, the insurance-focused go-to-market platform: ranked product-sp"
+   "server": "bid.scope/aec",
+   "pkg": "@scope-bid/scope-aec-mcp",
+   "prev": "MCP server for Scope.bid AEC vendor dispatch. Subcontractor prequal, bonding, safety, disp",
+   "cur": "MCP server for Scope.bid AEC professional dispatch. Subcontractor prequal, bonding, safety"
   },
   {
-   "server": "bid.scope/legal",
-   "pkg": "@scope-bid/scope-mcp",
-   "prev": "MCP server for Scope.bid legal vendor dispatch. Hire court reporters, IMEs, records, exper",
-   "cur": "MCP server for Scope.bid legal professional dispatch. Engage court reporters, IMEs, record"
+   "server": "ai.tensorfeed/x402-base-mcp",
+   "pkg": "@tensorfeed/x402-base-mcp",
+   "prev": "Read-only MCP server for x402 payment verification on Base mainnet. The x402 ecosystem's c",
+   "cur": "Read-only MCP server for verifying x402 USDC settlements on Base mainnet. The verify-side "
   },
   {
-   "server": "com.parcelgps/catastro-gps",
-   "pkg": "catastro-gps-mcp",
-   "prev": "MCP server for cadastral parcels from 29 European countries (31 official cadastres, includ",
-   "cur": "MCP server for cadastral parcels from 29 European countries (including the Basque Country "
+   "server": "ai.satohub/onchain-agents",
+   "pkg": "@satohub/mcp",
+   "prev": "Sato Hub MCP server \u2014 stdio shim over the hosted Streamable HTTP endpoint (https://satohub",
+   "cur": "Build any crypto agent: the Sato Hub MCP server (stdio shim over https://satohub.ai/api/mc"
   },
   {
-   "server": "ai.dinglebear/rytdl",
-   "pkg": "@dinglebear/rytdl",
-   "prev": "MCP server and CLI for yt-dlp: search and download media, embed metadata and cover art, th",
-   "cur": "yt-dlp search, download, metadata, delivery, and Plex workflows over MCP and CLI."
-  },
-  {
-   "server": "ai.augmentev/fabric-verify",
-   "pkg": "@augmentev/fabric-verify-mcp",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for Fabric Verify: your agent signs a record of each action locally and gets a "
-  },
-  {
-   "server": "com.opedd/opedd-mcp",
-   "pkg": "opedd-mcp",
-   "prev": "Licensed, rights-cleared content for AI agents \u2014 verifiable license keys, on-chain proof, ",
-   "cur": "Content licensing for the AI era. Licensed, rights-cleared content for AI agents, with a v"
-  },
-  {
-   "server": "com.mandarelabs/mandare",
-   "pkg": "@mandarelabs/mcp-server",
-   "prev": "Placeholder with no code. Install 0.1.0 or later.",
-   "cur": "Mandare MCP server \u2014 expose the accountability door (verify, budgets, passports, mandates,"
+   "server": "ai.maxwellinternational/data",
+   "pkg": "@maxwellintl/x402-mcp",
+   "prev": "MCP server for Maxwell International's pay-per-call x402 data API: ski and travel, public ",
+   "cur": "Maxwell Directory (x402 + MCP): local providers worldwide, plus travel and public data. Fr"
   },
   {
    "server": "ai.aimentiontracker/mcp",
@@ -104,16 +86,34 @@
    "cur": "Track how often ChatGPT, Claude, Gemini and Perplexity name and cite your brand. Ten read-"
   },
   {
-   "server": "ai.dxpert/mcp",
-   "pkg": "@dxpert/mcp",
-   "prev": "Stdio MCP server for dxpert.ai API keys: Ask dxpert, run UNS agents, run diagnostics, and ",
-   "cur": "Stdio MCP server for dxpert.ai API keys: ask dxpert Advisor, run the UNS agents included i"
+   "server": "ai.myspaice/spaces",
+   "pkg": "spaces-mcp-server",
+   "prev": "MCP server for the Spaces AI Marketplace \u2014 lets AI agents browse, join, and play in spaces",
+   "cur": "MCP server for myspAIce: your AI joins as itself, names itself, and hangs out, plays and m"
   },
   {
-   "server": "ai.saltapp/salt",
-   "pkg": "salt-mcp",
-   "prev": "Model Context Protocol server for Salt (saltfor.com) -- exposes the Salt agent network (di",
-   "cur": "Model Context Protocol server for Salt (saltapp.ai) -- exposes the Salt agent network (dis"
+   "server": "ai.eonik/mcp",
+   "pkg": "eonik-mcp",
+   "prev": "Connect Claude, Cursor, or Codex to eonik: brand, competitor research, and creative briefs",
+   "cur": "eonik in Claude Desktop, Cursor, Codex and VS Code: make adapts of a creative, revise them"
+  },
+  {
+   "server": "ai.clelp/clelp",
+   "pkg": "clelp-mcp-server",
+   "prev": "Find the best AI tools and MCP servers, rated by AI agents. Search 8,000+ skills with real",
+   "cur": "Find the best AI tools and MCP servers, safety-checked and rated by AI agents. Search thou"
+  },
+  {
+   "server": "co.whooshly/whooshly-mcp",
+   "pkg": "whooshly-mcp",
+   "prev": "Create short links, dynamic QR codes, UTM templates, and hosted vCards from your AI assist",
+   "cur": "Create short links, dynamic QR codes, UTM templates, hosted vCards, and landing pages with"
+  },
+  {
+   "server": "ai.sellinger/mcp-server",
+   "pkg": "sellinger-mcp",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "MCP server exposing Sellinger CRM operations as tools"
   }
  ]
 }

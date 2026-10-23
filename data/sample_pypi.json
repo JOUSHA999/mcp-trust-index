@@ -1,48 +1,24 @@
 {
- "generated_at": "2026-10-22T08:52:57Z",
- "universe_declared_pypi": 71,
+ "generated_at": "2026-10-23T08:49:23Z",
+ "universe_declared_pypi": 55,
  "sample": {
-  "n_sampled": 71,
-  "resolved": 71,
+  "n_sampled": 55,
+  "resolved": 55,
   "unresolved": 0,
   "version_desync": 14,
-  "desync_pct": 19.7,
+  "desync_pct": 25.5,
   "ci95": [
-   12.1,
-   30.4
+   15.8,
+   38.3
   ],
   "extrapolated_desync": [
    9,
-   22
+   21
   ],
   "description_drift": 7,
-  "drift_pct": 9.9
+  "drift_pct": 12.7
  },
  "examples_drift": [
-  {
-   "server": "app.srift/srift",
-   "pkg": "srift",
-   "prev": "Send any file as a download link from the CLI, Python or an AI agent (MCP server). Encrypt",
-   "cur": "Decentralized, end-to-end encrypted P2P file transfer, chat and calls: human to human, hum"
-  },
-  {
-   "server": "ai.nexustoken/nexustoken-sdk",
-   "pkg": "nexustoken-sdk",
-   "prev": "Python SDK + MCP server for NexusToken \u2014 a SaaS API for AI-powered structured data process",
-   "cur": "Python SDK + MCP server for NexusToken \u2014 an agent-to-agent capability network"
-  },
-  {
-   "server": "ai.nauro/nauro",
-   "pkg": "nauro",
-   "prev": "What every agent should know. Keep your project's direction in human hands as agents do mo",
-   "cur": "Decision system for software built with AI. Keep your project's direction in human hands a"
-  },
-  {
-   "server": "app.peil/peil-mcp",
-   "pkg": "peil-mcp",
-   "prev": "MCP server for Peil \u2014 log hours, draft invoices and check where you stand from an AI assis",
-   "cur": "MCP server for Peil \u2014 log hours, draft invoices, add expenses and check where you stand fr"
-  },
   {
    "server": "ai.sovantica/engrava",
    "pkg": "engrava-mcp",
@@ -56,10 +32,34 @@
    "cur": "CleverTech MCP server \u2014 Canadian government data for AI agents: property, permits, zoning,"
   },
   {
+   "server": "app.peil/peil-mcp",
+   "pkg": "peil-mcp",
+   "prev": "MCP server for Peil \u2014 log hours, draft invoices and check where you stand from an AI assis",
+   "cur": "MCP server for Peil \u2014 log hours, draft invoices, add expenses and check where you stand fr"
+  },
+  {
+   "server": "ai.nexustoken/nexustoken-sdk",
+   "pkg": "nexustoken-sdk",
+   "prev": "Python SDK + MCP server for NexusToken \u2014 a SaaS API for AI-powered structured data process",
+   "cur": "Python SDK + MCP server for NexusToken \u2014 an agent-to-agent capability network"
+  },
+  {
    "server": "ai.lbrain/lbrain",
    "pkg": "lbrain-coding-agents",
    "prev": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start.",
    "cur": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start."
+  },
+  {
+   "server": "ai.nauro/nauro",
+   "pkg": "nauro",
+   "prev": "What every agent should know. Keep your project's direction in human hands as agents do mo",
+   "cur": "Decision system for software built with AI. Keep your project's direction in human hands a"
+  },
+  {
+   "server": "app.srift/srift",
+   "pkg": "srift",
+   "prev": "Send any file as a download link from the CLI, Python or an AI agent (MCP server). Encrypt",
+   "cur": "Decentralized, end-to-end encrypted P2P file transfer, chat and calls: human to human, hum"
   }
  ]
 }

@@ -1,83 +1,83 @@
 {
- "generated_at": "2026-10-24T08:33:49Z",
- "universe_declared_pypi": 2769,
+ "generated_at": "2026-10-25T08:41:47Z",
+ "universe_declared_pypi": 2758,
  "sample": {
   "n_sampled": 500,
-  "resolved": 492,
-  "unresolved": 8,
-  "version_desync": 103,
-  "desync_pct": 20.9,
+  "resolved": 490,
+  "unresolved": 10,
+  "version_desync": 96,
+  "desync_pct": 19.6,
   "ci95": [
-   17.6,
-   24.7
+   16.3,
+   23.3
   ],
   "extrapolated_desync": [
-   487,
-   684
+   450,
+   643
   ],
-  "description_drift": 37,
-  "drift_pct": 7.5
+  "description_drift": 27,
+  "drift_pct": 5.5
  },
  "examples_drift": [
   {
-   "server": "com.macaroonnetwork/mcp-server",
-   "pkg": "macaroonnetwork-mcp",
-   "prev": "MCP client for Macaroon Network -- discover and buy from a live marketplace where AI agent",
-   "cur": "MCP discovery router for Macaroon Network categories, sources, vertical MCPs, and x402 USD"
+   "server": "com.kiprio/kiprio-mcp",
+   "pkg": "kiprio-mcp",
+   "prev": "MCP server giving AI agents 23 API tools: email validation, DNS/WHOIS, SSL inspection, web",
+   "cur": "MCP server giving AI agents 27 API tools: email/phone validation, geocoding, timezone conv"
   },
   {
-   "server": "io.github.bawbel/scanner",
-   "pkg": "bawbel-scanner",
-   "prev": "Agentic AI component security scanner. Detects AVE vulnerabilities. Produces OWASP AIVSS v",
-   "cur": "Security linter and scanner for MCP servers and AI skill files. Detects toxic flows, promp"
+   "server": "io.github.anp2protocol/anp2-mcp-server",
+   "pkg": "anp2-mcp-server",
+   "prev": "MCP server for ANP2 \u2014 where AI agents talk, share knowledge, build trust, and (when useful",
+   "cur": "MCP server for ANP2 \u2014 where AI agents talk, share knowledge, build trust, and (when useful"
   },
   {
-   "server": "io.github.cmendezs/mcp-cfdi-mx",
-   "pkg": "mcp-cfdi-mx",
-   "prev": "MCP server for Mexican electronic invoicing (CFDI 4.0, Complemento de Pagos 2.0)",
-   "cur": "MCP server for Mexican electronic invoicing (CFDI 4.0, Complemento de Pagos 2.0), PAC-agno"
+   "server": "io.github.Codeturion/codesurface",
+   "pkg": "codesurface",
+   "prev": "MCP server that indexes a codebase's public API at startup and serves it via compact tool ",
+   "cur": "MCP server that indexes a codebase's public API at startup and serves it via compact tool "
   },
   {
-   "server": "io.github.d00mus/mcp-ssh-gateway",
-   "pkg": "mcp-ssh-gateway",
-   "prev": "MCP server for a whole fleet of SSH hosts: persistent sessions with scrollback, explicit e",
-   "cur": "MCP server that gives an AI agent real SSH terminals: sessions that return the moment a co"
+   "server": "io.github.CSOAI-ORG/gdpr-compliance-ai-mcp",
+   "pkg": "gdpr-compliance-ai-mcp",
+   "prev": "MCP server for gdpr compliance ai. Features classify processing, lawful basis assessment, ",
+   "cur": "GDPR measurement for AI agents. Processing classification, lawful basis assessment, DPIA g"
   },
   {
-   "server": "io.github.Elmoaid/tempograph",
-   "pkg": "tempograph",
-   "prev": "Code graph context engine for AI coding agents \u2014 structural dependency graph with adaptive",
-   "cur": "Your AI agent finds the right files. Code graph context engine with 24 MCP tools, 170+ lan"
+   "server": "io.github.arben-adm/mcp-sequential-thinking",
+   "pkg": "mcp-sequential-thinking",
+   "prev": "A Sequential Thinking MCP Server for advanced problem solving",
+   "cur": "Local MCP work notes with reliable sessions, decisions and task resumption"
   },
   {
-   "server": "io.github.flytohub/flyto-indexer",
-   "pkg": "flyto-indexer",
-   "prev": "Code intelligence MCP server for AI-assisted development \u2014 impact analysis, semantic searc",
-   "cur": "Code intelligence MCP server for AI coding agents with impact analysis, semantic search, d"
+   "server": "io.github.agenticempire/axint",
+   "pkg": "axint",
+   "prev": "Python SDK for Axint \u2014 define Apple App Intents, Views, Widgets, and Apps in Python.",
+   "cur": "Python SDK for Axint: define, validate, and generate inspectable Swift for App Intents, Sw"
   },
   {
-   "server": "io.github.SuperAngryMonkey/iris",
-   "pkg": "iris-mcp",
-   "prev": "A Microsoft 365 mail MCP server that drafts into Outlook. Sending is off by default and op",
-   "cur": "A Microsoft 365 mail MCP server that reads your mailbox and drafts into Outlook. Sending i"
+   "server": "io.github.ComplyEdge/complyedge",
+   "pkg": "complyedge",
+   "prev": "Runtime EU AI Act deny for agent I/O (Article 5, Article 50) \u2014 ComplyEdge Python SDK",
+   "cur": "ComplyEdge Python SDK: prove what your AI decided without keeping what it saw. Every AI ca"
   },
   {
-   "server": "io.github.flowtestpro-svg/spotgpu-mcp",
-   "pkg": "spotgpu-mcp",
-   "prev": "SpotGPU MCP server \u2014 spot GPU rental prices via GET /v1/spot",
-   "cur": "Discontinued Oct 2026: the SpotGPU API has been shut down. This package no longer works."
+   "server": "io.github.anishchugh05/aether-cache",
+   "pkg": "aether-cache",
+   "prev": "Shared memory for AI coding tools that stays true to your code.",
+   "cur": "Aether Cache is now Mnemolith. Install mnemolith instead."
   },
   {
-   "server": "io.github.CSOAI-ORG/dora-compliance-mcp",
-   "pkg": "dora-compliance-mcp",
-   "prev": "DORA (EU Digital Operational Resilience Act) compliance for AI agents. 5-pillar audit, inc",
-   "cur": "DORA measurement for AI agents. 5-pillar audit, incident classification, Article 28 Regist"
+   "server": "io.github.Astrix-Labs/genesys-memory",
+   "pkg": "genesys-memory",
+   "prev": "The intelligence layer for AI memory \u2014 scoring, causal inference, lifecycle management, an",
+   "cur": "genesys-memory has been renamed to papez. This package installs papez and keeps `import ge"
   },
   {
-   "server": "io.github.djautomd-lab/aipaygent",
-   "pkg": "aipaygent-mcp",
-   "prev": "65+ AI tools for Claude, Cursor, and any MCP-compatible agent \u2014 research, write, code, scr",
-   "cur": "85+ AI tools for Claude, Cursor, and any MCP-compatible agent \u2014 research, write, code, scr"
+   "server": "io.github.afsozer/emsal-mcp",
+   "pkg": "emsal-mcp",
+   "prev": "Citation-safe MCP hukuk ara\u015ft\u0131rma ve belge haz\u0131rl\u0131k sistemi",
+   "cur": "emsal-mcp artik Dayanak: bu paket yalnizca `dayanak`i kurar (renamed to dayanak)"
   }
  ]
 }

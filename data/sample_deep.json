@@ -1,65 +1,83 @@
 {
- "generated_at": "2026-10-24T08:33:39Z",
- "universe_declared_github_repos": 16114,
- "universe_declared_npm_packages": 6508,
+ "generated_at": "2026-10-25T08:41:38Z",
+ "universe_declared_github_repos": 16069,
+ "universe_declared_npm_packages": 6467,
  "github_sample": {
   "n": 1200,
-  "dead": 187,
-  "dead_pct": 15.6,
+  "dead": 162,
+  "dead_pct": 13.5,
   "ci95": [
-   13.6,
-   17.7
+   11.7,
+   15.6
   ],
-  "archived": 8,
-  "no_license": 128,
-  "stale_365d": 5,
+  "archived": 7,
+  "no_license": 142,
+  "stale_365d": 13,
   "extrapolated_dead": [
-   2192,
-   2852
+   1880,
+   2507
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 785,
-  "unresolved": 15,
-  "version_desync": 225,
-  "desync_pct": 28.1,
+  "resolved": 792,
+  "unresolved": 8,
+  "version_desync": 204,
+  "desync_pct": 25.5,
   "ci95": [
-   25.1,
-   31.3
+   22.6,
+   28.6
   ],
-  "description_drift": 96,
-  "drift_pct": 12.0,
-  "desc_mismatch_vs_registry": 680,
-  "mismatch_pct": 85.0,
+  "description_drift": 108,
+  "drift_pct": 13.5,
+  "desc_mismatch_vs_registry": 705,
+  "mismatch_pct": 88.1,
   "extrapolated_desync": [
-   1634,
-   2037
+   1462,
+   1850
   ]
  },
  "examples_dead_repo": [
-  "jeremyrx7/mcpgrade",
-  "junter1989k-ai/australia-payments-mcp",
-  "CodePhantom-1/ddmarketer-mcp",
-  "PhilCap-tech/ready4bots",
-  "ManaBuyTeam/manabuy-mcp",
-  "smithery-ai/mcp-servers",
-  "arjunkmrm/ahoy",
+  "nicks-sidehustle/smarthome-explorer-blog",
+  "OmarNassar1127/x402-vend",
+  "machiasturner/simmon-core",
+  "darknodebros/EleSync",
+  "UncleTIM-GZ/O-Process",
+  "Christopher-AS/Riv.IO",
+  "martinshein/vayacore",
+  "feiyanglyy-stack/ProjectKeeper",
   "rooz21/x402",
-  "cirralink-stack/cirralink",
-  "bbb-build/humanproof",
-  "firas-mcp-servers/k8s-lens-mcp",
-  "pedeceul/gqlteam-new",
-  "KekwanuLabs/syncline",
-  "aminpiano/naratour-mvp",
-  "contextium-io/contextium"
+  "LouisVanh/TutorPlatform",
+  "Ansarii/neoninnovationlab",
+  "snapcndev/snapcn-mcp",
+  "agentwares/servers",
+  "junter1989k-ai/south-africa-payments-mcp",
+  "ee324/a2awire"
  ],
  "examples_drift": [
   {
-   "server": "io.github.codehabits-dev/codehabits-mcp",
-   "pkg": "@codehabits/mcp",
-   "prev": "MCP server for codehabits: get_team_context, check_code, get_knowledge, and reviewer tools",
-   "cur": "MCP server for codehabits: team conventions, check_code, repo map, knowledge, and reviewer"
+   "server": "io.github.dynatrace-oss/Dynatrace-mcp",
+   "pkg": "@dynatrace-oss/dynatrace-mcp-server",
+   "prev": "Model Context Protocol (MCP) server for Dynatrace",
+   "cur": "[DEPRECATED] Model Context Protocol (MCP) server for Dynatrace. Migrate to dynatrace-for-a"
+  },
+  {
+   "server": "io.github.cyanheads/faostat-mcp-server",
+   "pkg": "@cyanheads/faostat-mcp-server",
+   "prev": "Global food & agriculture statistics from the UN FAOSTAT bulk-download corpus, served from",
+   "cur": "Global food & agriculture statistics from the UN FAOSTAT bulk-download corpus, served from"
+  },
+  {
+   "server": "io.github.cutoptim/engine",
+   "pkg": "@cutoptim/mcp",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "CutOptim MCP server (stdio): cutting optimization tools for AI assistants \u2014 2D panels, 1D "
+  },
+  {
+   "server": "dev.brandpilot/brandpilot-mcp",
+   "pkg": "brandpilot-mcp",
+   "prev": "MCP server for BrandPilot: with a workspace API key it proxies the hosted BrandPilot MCP (",
+   "cur": "MCP server for BrandPilot: with a workspace API key it proxies the hosted BrandPilot MCP ("
   },
   {
    "server": "ai.autonomad/travel",
@@ -68,52 +86,34 @@
    "cur": "Search flights, hotels and experiences with Autonomad from your assistant or agent. Autono"
   },
   {
+   "server": "io.github.afaaq-io/computer-use-turbo",
+   "pkg": "computer-use-turbo",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "MCP server that lets any AI agent operate the desktop apps on macOS, Windows and Linux, in"
+  },
+  {
    "server": "ai.agenttrust/mcp-server",
    "pkg": "@agenttrust/mcp-server",
    "prev": "MCP server for AgentTrust \u2014 email, file storage, and instant messaging for AI agents",
    "cur": "Free email for AI agents, instant messaging between agents, and cloud file storage \u2014 all t"
   },
   {
-   "server": "io.github.adsandcode/contentgate",
-   "pkg": "mcp-server-contentgate",
-   "prev": "MCP server for pre-deploy content checks: target keyword coverage, translation drift acros",
-   "cur": "MCP server for pre-deploy content checks: target keyword coverage, translation drift acros"
-  },
-  {
-   "server": "io.github.dingdawg/dingdawg-data-agent",
-   "pkg": "dingdawg-data-agent",
-   "prev": "Data analysis that learns your schema. Query optimization, anomaly detection, pipeline mon",
-   "cur": "Governance receipts for AI agents \u2014 data analysis with query optimization, anomaly detecti"
-  },
-  {
-   "server": "io.github.aistastudio/myc",
-   "pkg": "@aistastudio/myc",
-   "prev": "Local, fast task-and-memory layer for coding agents: task queue, oplog of decisions, hybri",
-   "cur": "Local, fast task-and-memory layer for coding agents: task queue, oplog of decisions, hybri"
-  },
-  {
-   "server": "ai.snowsure/snow",
-   "pkg": "snowsure-mcp-server",
-   "prev": "MCP server for ski resort snow: real-time powder rankings, 14-day forecasts, 500+ resorts ",
-   "cur": "MCP stdio bridge to SnowSure hosted server \u2014 full tool surface (ask_snowdata, get_destinat"
-  },
-  {
-   "server": "io.github.evidai/agent-payment",
-   "pkg": "agent-payment-mcp",
-   "prev": "Monetize any HTTP API or MCP server in one line \u2014 no monthly fee, 3,000 calls free, then 3",
-   "cur": "The x402 payment rail for AI agents, as an MCP server. An agent calls any paid HTTP API th"
-  },
-  {
-   "server": "io.github.arikusi/deepseek",
-   "pkg": "@arikusi/deepseek-mcp-server",
-   "prev": "MCP Server for DeepSeek API integration - enables Claude Code to use DeepSeek Chat and Rea",
-   "cur": "MCP server for the DeepSeek API (deepseek-flash, deepseek-v4-pro): chat, thinking mode, fu"
-  },
-  {
-   "server": "com.parkgraph/mcp",
-   "pkg": "parkgraph-mcp",
+   "server": "com.mambabuilt/mcp-person-social-footprint-mapper",
+   "pkg": "@mambalabsdev/mcp-person-social-footprint-mapper",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Model Context Protocol server for Park Graph parking: search, quote and reserve parking fr"
+   "cur": "MCP server for Person Social Footprint Mapper. Find a person's public GitHub, Bluesky, per"
+  },
+  {
+   "server": "com.hasdata/google-flights-deals",
+   "pkg": "@hasdata/google-flights-deals-mcp",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "MCP server for Google Flights Deals through HasData's hosted API: turn a plain-language tr"
+  },
+  {
+   "server": "io.github.codespar/mcp-nubank",
+   "pkg": "@codespar/mcp-nubank",
+   "prev": "MCP server for Nubank \u2014 Brazilian neobank via Open Finance, accounts, PIX, transfers",
+   "cur": "DEPRECATED: no live endpoint (api.nubank.com.br does not resolve). MCP server for Nubank \u2014"
   }
  ]
 }

@@ -1,95 +1,83 @@
 {
- "generated_at": "2026-10-25T08:41:38Z",
- "universe_declared_github_repos": 16069,
- "universe_declared_npm_packages": 6467,
+ "generated_at": "2026-10-26T09:28:35Z",
+ "universe_declared_github_repos": 15958,
+ "universe_declared_npm_packages": 6420,
  "github_sample": {
   "n": 1200,
-  "dead": 162,
-  "dead_pct": 13.5,
+  "dead": 181,
+  "dead_pct": 15.1,
   "ci95": [
-   11.7,
-   15.6
+   13.2,
+   17.2
   ],
-  "archived": 7,
-  "no_license": 142,
-  "stale_365d": 13,
+  "archived": 10,
+  "no_license": 129,
+  "stale_365d": 9,
   "extrapolated_dead": [
-   1880,
-   2507
+   2106,
+   2745
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 792,
-  "unresolved": 8,
-  "version_desync": 204,
-  "desync_pct": 25.5,
+  "resolved": 791,
+  "unresolved": 9,
+  "version_desync": 207,
+  "desync_pct": 25.9,
   "ci95": [
-   22.6,
-   28.6
+   23.0,
+   29.0
   ],
-  "description_drift": 108,
-  "drift_pct": 13.5,
-  "desc_mismatch_vs_registry": 705,
-  "mismatch_pct": 88.1,
+  "description_drift": 98,
+  "drift_pct": 12.2,
+  "desc_mismatch_vs_registry": 692,
+  "mismatch_pct": 86.5,
   "extrapolated_desync": [
-   1462,
-   1850
+   1477,
+   1862
   ]
  },
  "examples_dead_repo": [
-  "nicks-sidehustle/smarthome-explorer-blog",
-  "OmarNassar1127/x402-vend",
-  "machiasturner/simmon-core",
-  "darknodebros/EleSync",
-  "UncleTIM-GZ/O-Process",
-  "Christopher-AS/Riv.IO",
-  "martinshein/vayacore",
-  "feiyanglyy-stack/ProjectKeeper",
+  "GriffMurder/basecamp-app",
+  "economic-agent/fundingradar-mcp",
+  "NodajiFi-Tokenomy/NodajiFi-Ecosystem",
+  "gsrathoreniks/planifyWeb",
+  "CapitalX/homeport",
+  "FrankShen18/agentspub",
+  "eberhardtj/velvet-circuit",
+  "tbrajkovic/HomeVisto",
+  "Yarmoluk/ckg-mcp",
+  "airmang/hwpx-mcp",
   "rooz21/x402",
-  "LouisVanh/TutorPlatform",
-  "Ansarii/neoninnovationlab",
-  "snapcndev/snapcn-mcp",
-  "agentwares/servers",
-  "junter1989k-ai/south-africa-payments-mcp",
-  "ee324/a2awire"
+  "Latimer-Woods-Tech/Factory",
+  "DynamicEndpoints/PowerShell-Exec-MCP-Server",
+  "everyai-com/sahadeva",
+  "RCOLKITT/candidcost"
  ],
  "examples_drift": [
   {
-   "server": "io.github.dynatrace-oss/Dynatrace-mcp",
-   "pkg": "@dynatrace-oss/dynatrace-mcp-server",
-   "prev": "Model Context Protocol (MCP) server for Dynatrace",
-   "cur": "[DEPRECATED] Model Context Protocol (MCP) server for Dynatrace. Migrate to dynatrace-for-a"
+   "server": "io.github.Coinversaa/mcp-server",
+   "pkg": "@coinversaa/mcp-server",
+   "prev": "Coinversa Pulse \u2014 Crypto intelligence MCP server for AI agents. 103 tools covering Hyperli",
+   "cur": "Coinversa Pulse \u2014 Crypto intelligence MCP server for AI agents. 107 tools covering Hyperli"
   },
   {
-   "server": "io.github.cyanheads/faostat-mcp-server",
-   "pkg": "@cyanheads/faostat-mcp-server",
-   "prev": "Global food & agriculture statistics from the UN FAOSTAT bulk-download corpus, served from",
-   "cur": "Global food & agriculture statistics from the UN FAOSTAT bulk-download corpus, served from"
+   "server": "io.github.costkits/costkits-mcp",
+   "pkg": "@costkits/costkits-mcp",
+   "prev": "MCP server for the CostKits healthcare cost API \u2014 give Claude, ChatGPT, or any MCP client ",
+   "cur": "Free hosted MCP server for CostKits: live US healthcare procedure cost estimates, provider"
   },
   {
-   "server": "io.github.cutoptim/engine",
-   "pkg": "@cutoptim/mcp",
+   "server": "io.github.SPAZIO-GENESI/attest-mcp",
+   "pkg": "@spazio-genesi/attest-mcp",
+   "prev": "MCP server + CLI for Spazio Genesi's attestation service \u2014 attest, verify, and check digit",
+   "cur": "MCP server + CLI for Spazio Genesi's digital attestation service \u2014 attest, verify and chec"
+  },
+  {
+   "server": "com.foreverworks/enable-banking",
+   "pkg": "@foreverworks/mcp-enable-banking",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "CutOptim MCP server (stdio): cutting optimization tools for AI assistants \u2014 2D panels, 1D "
-  },
-  {
-   "server": "dev.brandpilot/brandpilot-mcp",
-   "pkg": "brandpilot-mcp",
-   "prev": "MCP server for BrandPilot: with a workspace API key it proxies the hosted BrandPilot MCP (",
-   "cur": "MCP server for BrandPilot: with a workspace API key it proxies the hosted BrandPilot MCP ("
-  },
-  {
-   "server": "ai.autonomad/travel",
-   "pkg": "autonomad-travel",
-   "prev": "Search flights, hotels and experiences with Autonomad from your assistant or agent. Autono",
-   "cur": "Search flights, hotels and experiences with Autonomad from your assistant or agent. Autono"
-  },
-  {
-   "server": "io.github.afaaq-io/computer-use-turbo",
-   "pkg": "computer-use-turbo",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server that lets any AI agent operate the desktop apps on macOS, Windows and Linux, in"
+   "cur": "MCP server for bank accounts through Enable Banking's PSD2 API: read and search statements"
   },
   {
    "server": "ai.agenttrust/mcp-server",
@@ -98,22 +86,34 @@
    "cur": "Free email for AI agents, instant messaging between agents, and cloud file storage \u2014 all t"
   },
   {
-   "server": "com.mambabuilt/mcp-person-social-footprint-mapper",
-   "pkg": "@mambalabsdev/mcp-person-social-footprint-mapper",
+   "server": "io.github.Croomee/x402-markettwits-mcp",
+   "pkg": "x402-markettwits-mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for Person Social Footprint Mapper. Find a person's public GitHub, Bluesky, per"
+   "cur": "MCP server for the x402-paid MarketTwits news + Russian market data API (CBR, MOEX, Rossta"
   },
   {
-   "server": "com.hasdata/google-flights-deals",
-   "pkg": "@hasdata/google-flights-deals-mcp",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for Google Flights Deals through HasData's hosted API: turn a plain-language tr"
+   "server": "com.xpmetric/mcp",
+   "pkg": "@xpmetric/mcp",
+   "prev": "MCP server for XPmetric \u2014 read analytics and manage goals/funnels from your editor",
+   "cur": "Ask Claude, Cursor or any MCP client about your site traffic, revenue, goals and funnels ("
   },
   {
-   "server": "io.github.codespar/mcp-nubank",
-   "pkg": "@codespar/mcp-nubank",
-   "prev": "MCP server for Nubank \u2014 Brazilian neobank via Open Finance, accounts, PIX, transfers",
-   "cur": "DEPRECATED: no live endpoint (api.nubank.com.br does not resolve). MCP server for Nubank \u2014"
+   "server": "com.cryptoquant/mcp-server",
+   "pkg": "cryptoquant-mcp",
+   "prev": "CryptoQuant MCP Server - On-chain analytics for Claude and AI coding agents",
+   "cur": "CryptoQuant MCP stdio proxy - connects MCP clients to the remote CryptoQuant MCP server"
+  },
+  {
+   "server": "io.github.CloudCorpRecords/contextbudget",
+   "pkg": "@reneturcios/contextbudget",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "Token budget auditor for agent context: per-file and per-directory token estimates for a r"
+  },
+  {
+   "server": "io.github.charles-verdict/verdict-finance-mcp",
+   "pkg": "verdict-finance-mcp",
+   "prev": "MCP server for Verdict (verdict.finance), the institutional diligence layer for DeFi. Give",
+   "cur": "MCP server for Verdict, the due-diligence house for DeFi. Keyless access to Verdict's inde"
   }
  ]
 }

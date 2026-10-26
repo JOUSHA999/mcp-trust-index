@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-10-25T08:41:47Z",
- "universe_declared_pypi": 2758,
+ "generated_at": "2026-10-26T09:28:45Z",
+ "universe_declared_pypi": 2715,
  "sample": {
   "n_sampled": 500,
-  "resolved": 490,
-  "unresolved": 10,
-  "version_desync": 96,
-  "desync_pct": 19.6,
+  "resolved": 495,
+  "unresolved": 5,
+  "version_desync": 124,
+  "desync_pct": 25.1,
   "ci95": [
-   16.3,
-   23.3
+   21.4,
+   29.0
   ],
   "extrapolated_desync": [
-   450,
-   643
+   581,
+   787
   ],
-  "description_drift": 27,
-  "drift_pct": 5.5
+  "description_drift": 30,
+  "drift_pct": 6.1
  },
  "examples_drift": [
   {
@@ -26,46 +26,46 @@
    "cur": "MCP server giving AI agents 27 API tools: email/phone validation, geocoding, timezone conv"
   },
   {
-   "server": "io.github.anp2protocol/anp2-mcp-server",
-   "pkg": "anp2-mcp-server",
-   "prev": "MCP server for ANP2 \u2014 where AI agents talk, share knowledge, build trust, and (when useful",
-   "cur": "MCP server for ANP2 \u2014 where AI agents talk, share knowledge, build trust, and (when useful"
+   "server": "io.github.cyyprezz/codex-serverops-mcp",
+   "pkg": "codex-serverops-mcp",
+   "prev": "Windows-first local MCP transport for stateful SSH server operations",
+   "cur": "Operate chosen Linux servers from Codex or Claude Code with stateful SSH sessions"
   },
   {
-   "server": "io.github.Codeturion/codesurface",
-   "pkg": "codesurface",
-   "prev": "MCP server that indexes a codebase's public API at startup and serves it via compact tool ",
-   "cur": "MCP server that indexes a codebase's public API at startup and serves it via compact tool "
+   "server": "io.github.AgentTools-Cloud/agent-tools-mcp",
+   "pkg": "agent-tools-mcp",
+   "prev": "Search and call x402 paid services from any MCP-compatible agent (Claude, Cursor, Cline).",
+   "cur": "Discover x402 paid services, MCP servers and A2A agents from any MCP-compatible agent (Cla"
   },
   {
-   "server": "io.github.CSOAI-ORG/gdpr-compliance-ai-mcp",
-   "pkg": "gdpr-compliance-ai-mcp",
-   "prev": "MCP server for gdpr compliance ai. Features classify processing, lawful basis assessment, ",
-   "cur": "GDPR measurement for AI agents. Processing classification, lawful basis assessment, DPIA g"
+   "server": "io.github.CSOAI-ORG/self-healing-infrastructure-mcp",
+   "pkg": "self-healing-infrastructure-mcp",
+   "prev": "AI-powered self healing infrastructure MCP server for agents. Supports node health check, ",
+   "cur": "The only self-healing infrastructure MCP with cryptographic governance. Ed25519 sigil, BFT"
   },
   {
-   "server": "io.github.arben-adm/mcp-sequential-thinking",
-   "pkg": "mcp-sequential-thinking",
-   "prev": "A Sequential Thinking MCP Server for advanced problem solving",
-   "cur": "Local MCP work notes with reliable sessions, decisions and task resumption"
+   "server": "io.github.Elmoaid/tempograph",
+   "pkg": "tempograph",
+   "prev": "Code graph context engine for AI coding agents \u2014 structural dependency graph with adaptive",
+   "cur": "Your AI agent finds the right files. Code graph context engine with 24 MCP tools, 170+ lan"
   },
   {
-   "server": "io.github.agenticempire/axint",
-   "pkg": "axint",
-   "prev": "Python SDK for Axint \u2014 define Apple App Intents, Views, Widgets, and Apps in Python.",
-   "cur": "Python SDK for Axint: define, validate, and generate inspectable Swift for App Intents, Sw"
+   "server": "io.github.CoderDayton/semantic-cache-mcp",
+   "pkg": "semantic-cache-mcp",
+   "prev": "Lightweight MCP server for semantic file caching with 80%+ token reduction",
+   "cur": "MCP file cache for AI coding agents: re-reads cost ~40 tokens, changed files return diffs,"
   },
   {
-   "server": "io.github.ComplyEdge/complyedge",
-   "pkg": "complyedge",
-   "prev": "Runtime EU AI Act deny for agent I/O (Article 5, Article 50) \u2014 ComplyEdge Python SDK",
-   "cur": "ComplyEdge Python SDK: prove what your AI decided without keeping what it saw. Every AI ca"
+   "server": "io.github.CSOAI-ORG/dora-compliance-mcp",
+   "pkg": "dora-compliance-mcp",
+   "prev": "DORA (EU Digital Operational Resilience Act) compliance for AI agents. 5-pillar audit, inc",
+   "cur": "DORA measurement for AI agents. 5-pillar audit, incident classification, Article 28 Regist"
   },
   {
-   "server": "io.github.anishchugh05/aether-cache",
-   "pkg": "aether-cache",
-   "prev": "Shared memory for AI coding tools that stays true to your code.",
-   "cur": "Aether Cache is now Mnemolith. Install mnemolith instead."
+   "server": "io.github.chernistry/bernstein",
+   "pkg": "bernstein",
+   "prev": "The open-source governance layer for AI agents. No model in the coordination loop, so repl",
+   "cur": "The open-source governance layer for AI agents. No model in the coordination loop, so repl"
   },
   {
    "server": "io.github.Astrix-Labs/genesys-memory",
@@ -74,10 +74,10 @@
    "cur": "genesys-memory has been renamed to papez. This package installs papez and keeps `import ge"
   },
   {
-   "server": "io.github.afsozer/emsal-mcp",
-   "pkg": "emsal-mcp",
-   "prev": "Citation-safe MCP hukuk ara\u015ft\u0131rma ve belge haz\u0131rl\u0131k sistemi",
-   "cur": "emsal-mcp artik Dayanak: bu paket yalnizca `dayanak`i kurar (renamed to dayanak)"
+   "server": "io.github.AceDataCloud/mcp-seedance",
+   "pkg": "mcp-seedance",
+   "prev": "MCP Server for ByteDance Seedance AI Video Generation via AceDataCloud API",
+   "cur": "Seedance video generation and task retrieval by Ace Data Cloud via MCP"
   }
  ]
 }

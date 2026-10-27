@@ -1,83 +1,65 @@
 {
- "generated_at": "2026-10-26T09:28:35Z",
- "universe_declared_github_repos": 15958,
- "universe_declared_npm_packages": 6420,
+ "generated_at": "2026-10-27T09:16:20Z",
+ "universe_declared_github_repos": 15738,
+ "universe_declared_npm_packages": 6315,
  "github_sample": {
   "n": 1200,
-  "dead": 181,
-  "dead_pct": 15.1,
+  "dead": 191,
+  "dead_pct": 15.9,
   "ci95": [
-   13.2,
-   17.2
+   14.0,
+   18.1
   ],
-  "archived": 10,
-  "no_license": 129,
-  "stale_365d": 9,
+  "archived": 17,
+  "no_license": 131,
+  "stale_365d": 7,
   "extrapolated_dead": [
-   2106,
-   2745
+   2203,
+   2849
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 791,
-  "unresolved": 9,
-  "version_desync": 207,
-  "desync_pct": 25.9,
+  "resolved": 789,
+  "unresolved": 11,
+  "version_desync": 194,
+  "desync_pct": 24.2,
   "ci95": [
-   23.0,
-   29.0
+   21.4,
+   27.3
   ],
-  "description_drift": 98,
-  "drift_pct": 12.2,
-  "desc_mismatch_vs_registry": 692,
-  "mismatch_pct": 86.5,
+  "description_drift": 96,
+  "drift_pct": 12.0,
+  "desc_mismatch_vs_registry": 676,
+  "mismatch_pct": 84.5,
   "extrapolated_desync": [
-   1477,
-   1862
+   1351,
+   1724
   ]
  },
  "examples_dead_repo": [
-  "GriffMurder/basecamp-app",
-  "economic-agent/fundingradar-mcp",
-  "NodajiFi-Tokenomy/NodajiFi-Ecosystem",
-  "gsrathoreniks/planifyWeb",
-  "CapitalX/homeport",
-  "FrankShen18/agentspub",
-  "eberhardtj/velvet-circuit",
-  "tbrajkovic/HomeVisto",
-  "Yarmoluk/ckg-mcp",
-  "airmang/hwpx-mcp",
+  "AceDataCloud/WebExtraterMCP",
+  "HARJAP-SINGH-3105/Splitwise_MCP",
+  "OdinBot33/cce-mcp-server",
+  "deinai/skill-service",
+  "componecat/mcp",
+  "rgrieselhuber/dfetcher",
+  "cristianosantana/mcp-despensa-hub",
+  "mustertheforce/mustertheforce",
+  "AgentMindCloud/agent-search-pro",
+  "shivaltailor/tinkrr",
+  "itsmalware/the-lounge",
+  "enioxt/egos",
   "rooz21/x402",
-  "Latimer-Woods-Tech/Factory",
-  "DynamicEndpoints/PowerShell-Exec-MCP-Server",
-  "everyai-com/sahadeva",
-  "RCOLKITT/candidcost"
+  "Bemarking/axon-lang",
+  "Integrated-Go-to-Market-Solutions/integrated-ai"
  ],
  "examples_drift": [
   {
-   "server": "io.github.Coinversaa/mcp-server",
-   "pkg": "@coinversaa/mcp-server",
-   "prev": "Coinversa Pulse \u2014 Crypto intelligence MCP server for AI agents. 103 tools covering Hyperli",
-   "cur": "Coinversa Pulse \u2014 Crypto intelligence MCP server for AI agents. 107 tools covering Hyperli"
-  },
-  {
-   "server": "io.github.costkits/costkits-mcp",
-   "pkg": "@costkits/costkits-mcp",
-   "prev": "MCP server for the CostKits healthcare cost API \u2014 give Claude, ChatGPT, or any MCP client ",
-   "cur": "Free hosted MCP server for CostKits: live US healthcare procedure cost estimates, provider"
-  },
-  {
-   "server": "io.github.SPAZIO-GENESI/attest-mcp",
-   "pkg": "@spazio-genesi/attest-mcp",
-   "prev": "MCP server + CLI for Spazio Genesi's attestation service \u2014 attest, verify, and check digit",
-   "cur": "MCP server + CLI for Spazio Genesi's digital attestation service \u2014 attest, verify and chec"
-  },
-  {
-   "server": "com.foreverworks/enable-banking",
-   "pkg": "@foreverworks/mcp-enable-banking",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for bank accounts through Enable Banking's PSD2 API: read and search statements"
+   "server": "com.fintechstudios/studio",
+   "pkg": "@fts-studio/studio-mcp",
+   "prev": "MCP server for FTS Studio API \u2014 search financial news & regulatory intelligence, retrieve ",
+   "cur": "MCP server for FTS Studio API \u2014 search financial news & regulatory intelligence, retrieve "
   },
   {
    "server": "ai.agenttrust/mcp-server",
@@ -86,34 +68,52 @@
    "cur": "Free email for AI agents, instant messaging between agents, and cloud file storage \u2014 all t"
   },
   {
-   "server": "io.github.Croomee/x402-markettwits-mcp",
-   "pkg": "x402-markettwits-mcp",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for the x402-paid MarketTwits news + Russian market data API (CBR, MOEX, Rossta"
+   "server": "io.github.drQedwards/pmll-memory-mcp",
+   "pkg": "pmll-memory-mcp",
+   "prev": "PMLL Memory MCP Server v2 \u2014 persistent memory logic loop with short-term KV cache (peek pa",
+   "cur": "PMLL Memory MCP Server \u2014 short-term KV cache (peek), Q-promise dedup, SQLite-backed Contex"
   },
   {
-   "server": "com.xpmetric/mcp",
-   "pkg": "@xpmetric/mcp",
-   "prev": "MCP server for XPmetric \u2014 read analytics and manage goals/funnels from your editor",
-   "cur": "Ask Claude, Cursor or any MCP client about your site traffic, revenue, goals and funnels ("
+   "server": "com.worldcitisim/mcp-esim",
+   "pkg": "@worldcitisim/mcp-esim",
+   "prev": "MCP server for the WorldCitiSim eSIM API \u2014 lets Claude and other MCP-compatible agents sea",
+   "cur": "MCP server for the Worldcitisim eSIM API \u2014 lets Claude and other MCP-compatible agents sea"
   },
   {
-   "server": "com.cryptoquant/mcp-server",
-   "pkg": "cryptoquant-mcp",
-   "prev": "CryptoQuant MCP Server - On-chain analytics for Claude and AI coding agents",
-   "cur": "CryptoQuant MCP stdio proxy - connects MCP clients to the remote CryptoQuant MCP server"
+   "server": "io.github.bersimao/b1-mcp-server",
+   "pkg": "b1-mcp-server",
+   "prev": "Secure MCP server for SAP Business One database (HANA / MS SQL) and Service Layer operatio",
+   "cur": "MCP server for SAP Business One database (HANA / MS SQL) and Service Layer operations"
   },
   {
-   "server": "io.github.CloudCorpRecords/contextbudget",
-   "pkg": "@reneturcios/contextbudget",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Token budget auditor for agent context: per-file and per-directory token estimates for a r"
+   "server": "io.github.carrotly-ai/disclosures",
+   "pkg": "disclosures",
+   "prev": "Corporate-disclosure research across 12 official sources (SEC EDGAR, GLEIF, UK Companies H",
+   "cur": "Corporate-disclosure research across 26 official sources and 21 jurisdiction routes behind"
   },
   {
-   "server": "io.github.charles-verdict/verdict-finance-mcp",
-   "pkg": "verdict-finance-mcp",
-   "prev": "MCP server for Verdict (verdict.finance), the institutional diligence layer for DeFi. Give",
-   "cur": "MCP server for Verdict, the due-diligence house for DeFi. Keyless access to Verdict's inde"
+   "server": "io.github.Garl-Protocol/agent-trust",
+   "pkg": "@garl-protocol/mcp-server",
+   "prev": "GARL Protocol MCP Server \u2014 cryptographic verification for AI agent actions. 28 named tools",
+   "cur": "GARL Protocol MCP Server \u2014 cryptographic verification for AI agent actions. 29 named tools"
+  },
+  {
+   "server": "io.github.arikusi/deepseek",
+   "pkg": "@arikusi/deepseek-mcp-server",
+   "prev": "MCP Server for DeepSeek API integration - enables Claude Code to use DeepSeek Chat and Rea",
+   "cur": "MCP server for the DeepSeek API (deepseek-flash, deepseek-v4-pro): chat, thinking mode, fu"
+  },
+  {
+   "server": "io.github.Joshanihub/skillos-mcp-server",
+   "pkg": "skillos-mcp-server",
+   "prev": "SkillOS MCP Runtime \u2014 exposes the SkillOS skill registry as activatable MCP tools",
+   "cur": "SkillOS Labs Inc MCP Runtime \u2014 exposes the SkillOS Labs Inc skill registry as activatable "
+  },
+  {
+   "server": "com.njligames/kanban-importer",
+   "pkg": "@njligames/kanban-importer-mcp",
+   "prev": "Read and move Kanban Importer tasks on a Trello board from Claude, Codex or any MCP client",
+   "cur": "Let Claude or Codex move Trello cards by the task ids it invented itself, not by Trello ca"
   }
  ]
 }

@@ -1,47 +1,65 @@
 {
- "generated_at": "2026-10-26T09:28:45Z",
- "universe_declared_pypi": 2715,
+ "generated_at": "2026-10-27T09:16:29Z",
+ "universe_declared_pypi": 2681,
  "sample": {
   "n_sampled": 500,
-  "resolved": 495,
-  "unresolved": 5,
-  "version_desync": 124,
-  "desync_pct": 25.1,
+  "resolved": 493,
+  "unresolved": 7,
+  "version_desync": 104,
+  "desync_pct": 21.1,
   "ci95": [
-   21.4,
-   29.0
+   17.7,
+   24.9
   ],
   "extrapolated_desync": [
-   581,
-   787
+   475,
+   668
   ],
-  "description_drift": 30,
-  "drift_pct": 6.1
+  "description_drift": 33,
+  "drift_pct": 6.7
  },
  "examples_drift": [
   {
-   "server": "com.kiprio/kiprio-mcp",
-   "pkg": "kiprio-mcp",
-   "prev": "MCP server giving AI agents 23 API tools: email validation, DNS/WHOIS, SSL inspection, web",
-   "cur": "MCP server giving AI agents 27 API tools: email/phone validation, geocoding, timezone conv"
+   "server": "ca.clevertech/clevertech-mcp-server",
+   "pkg": "clevertech-mcp-server",
+   "prev": "MCP Server for CleverTech Canadian government data APIs",
+   "cur": "CleverTech MCP server \u2014 Canadian government data for AI agents: property, permits, zoning,"
   },
   {
-   "server": "io.github.cyyprezz/codex-serverops-mcp",
-   "pkg": "codex-serverops-mcp",
-   "prev": "Windows-first local MCP transport for stateful SSH server operations",
-   "cur": "Operate chosen Linux servers from Codex or Claude Code with stateful SSH sessions"
+   "server": "io.github.Dxfory/edgar-mcp",
+   "pkg": "edgar-filings-mcp",
+   "prev": "MCP server for SEC 10-K/10-Q trading symbols, segment revenue, BDC non-accrual, and Form 4",
+   "cur": "MCP server for SEC 10-K/10-Q symbols, segment revenue, BDC non-accrual, and Form 4 with ci"
   },
   {
-   "server": "io.github.AgentTools-Cloud/agent-tools-mcp",
-   "pkg": "agent-tools-mcp",
-   "prev": "Search and call x402 paid services from any MCP-compatible agent (Claude, Cursor, Cline).",
-   "cur": "Discover x402 paid services, MCP servers and A2A agents from any MCP-compatible agent (Cla"
+   "server": "io.github.atomno-mcp/mcp-zakupki",
+   "pkg": "atomno-mcp-zakupki",
+   "prev": "MCP-\u0441\u0435\u0440\u0432\u0435\u0440 \u0434\u043b\u044f \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0445 \u0433\u043e\u0441\u0437\u0430\u043a\u0443\u043f\u043e\u043a (zakupki.gov.ru, 44-\u0424\u0417 / 223-\u0424\u0417 / 615-\u041f\u041f): \u043f\u043e\u0438\u0441\u043a \u0442\u0435\u043d\u0434",
+   "cur": "MCP-\u0441\u0435\u0440\u0432\u0435\u0440 \u0434\u043b\u044f \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0445 \u0433\u043e\u0441\u0437\u0430\u043a\u0443\u043f\u043e\u043a (zakupki.gov.ru, 44-\u0424\u0417 / 223-\u0424\u0417 / 615-\u041f\u041f): \u043f\u043e\u0438\u0441\u043a, \u043a\u0430\u0440"
   },
   {
-   "server": "io.github.CSOAI-ORG/self-healing-infrastructure-mcp",
-   "pkg": "self-healing-infrastructure-mcp",
-   "prev": "AI-powered self healing infrastructure MCP server for agents. Supports node health check, ",
-   "cur": "The only self-healing infrastructure MCP with cryptographic governance. Ed25519 sigil, BFT"
+   "server": "io.github.Jason26214/computer-use-omni",
+   "pkg": "computer-use-omni",
+   "prev": "Windows computer-use MCP for the Claude Code CLI \u2014 a 1:1 replica of Claude Desktop's compu",
+   "cur": "Renamed: this project is now published as omni-computer-use-mcp. This package just forward"
+  },
+  {
+   "server": "io.github.commit-check/commit-check-mcp",
+   "pkg": "commit-check-mcp",
+   "prev": "MCP server exposing commit-check validation tools",
+   "cur": "MCP server for Commit Check: commit policy as code for teams and AI agents"
+  },
+  {
+   "server": "io.github.Arun-kc/schemabrain",
+   "pkg": "schemabrain",
+   "prev": "The SQL firewall between AI agents and your production database.",
+   "cur": "The trust and intelligence layer between AI agents and your database."
+  },
+  {
+   "server": "io.github.AMRITO-KUNDU/llmscribe",
+   "pkg": "llmscribe",
+   "prev": "Deterministic repository extractor and structured code-access tool for local projects and ",
+   "cur": "Deterministic project extractor and structured code-access tool for local projects."
   },
   {
    "server": "io.github.Elmoaid/tempograph",
@@ -50,34 +68,16 @@
    "cur": "Your AI agent finds the right files. Code graph context engine with 24 MCP tools, 170+ lan"
   },
   {
-   "server": "io.github.CoderDayton/semantic-cache-mcp",
-   "pkg": "semantic-cache-mcp",
-   "prev": "Lightweight MCP server for semantic file caching with 80%+ token reduction",
-   "cur": "MCP file cache for AI coding agents: re-reads cost ~40 tokens, changed files return diffs,"
+   "server": "io.github.Shan-Zhu/shuck-file",
+   "pkg": "shuck-file",
+   "prev": "AI doesn't eat shells",
+   "cur": "Any file in, Markdown out \u2014 read only what matters."
   },
   {
-   "server": "io.github.CSOAI-ORG/dora-compliance-mcp",
-   "pkg": "dora-compliance-mcp",
-   "prev": "DORA (EU Digital Operational Resilience Act) compliance for AI agents. 5-pillar audit, inc",
-   "cur": "DORA measurement for AI agents. 5-pillar audit, incident classification, Article 28 Regist"
-  },
-  {
-   "server": "io.github.chernistry/bernstein",
-   "pkg": "bernstein",
-   "prev": "The open-source governance layer for AI agents. No model in the coordination loop, so repl",
-   "cur": "The open-source governance layer for AI agents. No model in the coordination loop, so repl"
-  },
-  {
-   "server": "io.github.Astrix-Labs/genesys-memory",
-   "pkg": "genesys-memory",
-   "prev": "The intelligence layer for AI memory \u2014 scoring, causal inference, lifecycle management, an",
-   "cur": "genesys-memory has been renamed to papez. This package installs papez and keeps `import ge"
-  },
-  {
-   "server": "io.github.AceDataCloud/mcp-seedance",
-   "pkg": "mcp-seedance",
-   "prev": "MCP Server for ByteDance Seedance AI Video Generation via AceDataCloud API",
-   "cur": "Seedance video generation and task retrieval by Ace Data Cloud via MCP"
+   "server": "io.github.TheRealDataBoss/contextkeeper",
+   "pkg": "contextkeeper",
+   "prev": "Zero model drift between AI agents. Universal session continuity CLI and Python library fo",
+   "cur": "DEPRECATED: contextkeeper is now vaultit. Install: pip install vaultit"
   }
  ]
 }

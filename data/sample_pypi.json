@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-28T09:58:00Z",
- "universe_declared_pypi": 2650,
+ "generated_at": "2026-10-29T10:18:21Z",
+ "universe_declared_pypi": 2629,
  "sample": {
   "n_sampled": 500,
-  "resolved": 496,
-  "unresolved": 4,
+  "resolved": 495,
+  "unresolved": 5,
   "version_desync": 105,
   "desync_pct": 21.2,
   "ci95": [
@@ -12,60 +12,30 @@
    25.0
   ],
   "extrapolated_desync": [
-   472,
-   662
+   468,
+   657
   ],
-  "description_drift": 27,
-  "drift_pct": 5.4
+  "description_drift": 31,
+  "drift_pct": 6.3
  },
  "examples_drift": [
   {
-   "server": "io.github.cmendezs/mcp-cfdi-mx",
-   "pkg": "mcp-cfdi-mx",
-   "prev": "MCP server for Mexican electronic invoicing (CFDI 4.0, Complemento de Pagos 2.0)",
-   "cur": "MCP server for Mexican electronic invoicing (CFDI 4.0, Complemento de Pagos 2.0), PAC-agno"
+   "server": "io.github.cmendezs/mcp-einvoicing-ae",
+   "pkg": "mcp-einvoicing-ae",
+   "prev": "MCP server for United Arab Emirates electronic invoicing",
+   "cur": "MCP server for United Arab Emirates electronic invoicing, vendor-neutral Peppol transport"
   },
   {
-   "server": "io.github.cyyprezz/codex-serverops-mcp",
-   "pkg": "codex-serverops-mcp",
-   "prev": "Windows-first local MCP transport for stateful SSH server operations",
-   "cur": "Operate chosen Linux servers from Codex or Claude Code with stateful SSH sessions"
+   "server": "io.github.CSOAI-ORG/councilof_mcp",
+   "pkg": "councilof_mcp",
+   "prev": "CouncilOf.AI MCP \u2014 the UK sovereign defence BFT council orchestrator. UK MOD + AUKUS Pilla",
+   "cur": "Deprecated. Superseded by the Council of AI GSPC MCP server (remote: https://councilof.ai/"
   },
   {
-   "server": "io.github.AddyCuber/ybe-check",
-   "pkg": "ybe-check",
-   "prev": "Production-readiness gatekeeper for vibe-coded apps. Scans repos for secrets, prompt injec",
-   "cur": "Production-readiness security gatekeeper for vibe-coded apps \u2014 16 scan modules, AI remedia"
-  },
-  {
-   "server": "io.github.alyiox/mcp-atlassian-attachments",
-   "pkg": "mcp-atlassian-attachments",
-   "prev": "MCP server for downloading Jira and Confluence Cloud attachments",
-   "cur": "MCP server for downloading Jira and Confluence Cloud attachments and uploading Jira attach"
-  },
-  {
-   "server": "io.github.anp2dev/anp2-mcp-server",
-   "pkg": "anp2-mcp-server",
-   "prev": "MCP server for ANP2 \u2014 where AI agents talk, share knowledge, build trust, and (when useful",
-   "cur": "MCP server for ANP2 \u2014 where AI agents talk, share knowledge, build trust, and (when useful"
-  },
-  {
-   "server": "io.github.dokmatiq/docgen",
-   "pkg": "dokmatiq-docgen-mcp",
-   "prev": "MCP server for Dokmatiq DocGen \u2014 PDF/DOCX/Excel generation with stationery overlay, ZUGFeR",
-   "cur": "MCP server for Dokmatiq DocGen \u2014 PDF/DOCX/Excel generation with stationery/letterhead over"
-  },
-  {
-   "server": "io.github.CSOAI-ORG/pdf-document-mcp",
-   "pkg": "pdf-document-mcp",
-   "prev": "AI-powered pdf document MCP server for agents. Supports extract text from pdf, convert pdf",
-   "cur": "Pdf Document Mcp: extract text from pdf (Extract text content from a PDF file. Optionally "
-  },
-  {
-   "server": "io.github.demos-ra/text-spreadsheet",
-   "pkg": "text-spreadsheet",
-   "prev": "Read and filter Excel, CSV, ODS, SQLite, Parquet and MTSV files \u2014 or a folder \u2014 as plain t",
-   "cur": "Read and filter Excel, ODS, CSV, SQLite, Parquet and MTSV files \u2014 or a directory \u2014 as plai"
+   "server": "io.github.AceDataCloud/mcp-nanobanana-pro",
+   "pkg": "mcp-nanobanana-pro",
+   "prev": "MCP Server for NanoBanana AI Image Generation via AceDataCloud API",
+   "cur": "Nano Banana (NanoBanana) image generation and editing by Ace Data Cloud via MCP"
   },
   {
    "server": "io.github.YichengYang-Ethan/oracle3",
@@ -74,10 +44,40 @@
    "cur": "Trading engine and MCP server for prediction markets: fee-aware no-arbitrage trading acros"
   },
   {
-   "server": "io.github.DanceNitra/mnemo",
-   "pkg": "agora-mnemo",
-   "prev": "The self-correcting memory layer for AI agents: when a fact is corrected, mnemo serves the",
-   "cur": "DEPRECATED - renamed to `inspeximus`. This release forwards to it; install `inspeximus` in"
+   "server": "io.github.Samyrrrrrr990/openleads",
+   "pkg": "openleads",
+   "prev": "Find B2B leads with verified emails from free public sources, no API keys: one search box ",
+   "cur": "A free, local-first Apollo alternative: find B2B leads with honest email evidence from pub"
+  },
+  {
+   "server": "ai.magnemo/magnemo",
+   "pkg": "magnemo-mcp",
+   "prev": "Governed memory for AI agents. Memory with receipts. (MCP server entry point for magnemo)",
+   "cur": "Persistent Memory for AI agents, in plain local files. Nothing becomes Memory until you ap"
+  },
+  {
+   "server": "io.github.cyyprezz/codex-serverops-mcp",
+   "pkg": "codex-serverops-mcp",
+   "prev": "Windows-first local MCP transport for stateful SSH server operations",
+   "cur": "Operate chosen Linux servers from Codex or Claude Code with stateful SSH sessions"
+  },
+  {
+   "server": "io.github.ChesterHsu/flyto-indexer",
+   "pkg": "flyto-indexer",
+   "prev": "Code intelligence MCP server for AI-assisted development \u2014 impact analysis, semantic searc",
+   "cur": "Code intelligence MCP server for AI coding agents with impact analysis, semantic search, d"
+  },
+  {
+   "server": "io.github.chopmob-cloud/algovoi-mcp-server",
+   "pkg": "algovoi-mcp",
+   "prev": "MCP server for AlgoVoi \u2014 create crypto payment links, verify payments, probe MPP endpoints",
+   "cur": "MCP server for AlgoVoi \u2014 create crypto payment links, verify payments, probe MPP endpoints"
+  },
+  {
+   "server": "io.github.D4Vinci/Scrapling",
+   "pkg": "scrapling",
+   "prev": "Scrapling is an undetectable, powerful, flexible, high-performance Python library that mak",
+   "cur": "Scrapling is an undetectable, powerful, flexible, high-performance Python framework that m"
   }
  ]
 }

@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-10-28T09:57:56Z",
- "universe_declared_github_repos": 15637,
- "universe_declared_npm_packages": 6231,
+ "generated_at": "2026-10-29T10:18:12Z",
+ "universe_declared_github_repos": 15554,
+ "universe_declared_npm_packages": 6154,
  "github_sample": {
   "n": 1200,
-  "dead": 174,
-  "dead_pct": 14.5,
+  "dead": 193,
+  "dead_pct": 16.1,
   "ci95": [
-   12.6,
-   16.6
+   14.1,
+   18.3
   ],
-  "archived": 13,
-  "no_license": 149,
-  "stale_365d": 11,
+  "archived": 10,
+  "no_license": 118,
+  "stale_365d": 3,
   "extrapolated_dead": [
-   1970,
-   2596
+   2193,
+   2846
   ]
  },
  "npm_sample": {
   "n": 800,
   "resolved": 787,
   "unresolved": 13,
-  "version_desync": 193,
-  "desync_pct": 24.1,
+  "version_desync": 191,
+  "desync_pct": 23.9,
   "ci95": [
-   21.3,
-   27.2
+   21.1,
+   26.9
   ],
-  "description_drift": 97,
-  "drift_pct": 12.1,
-  "desc_mismatch_vs_registry": 679,
-  "mismatch_pct": 84.9,
+  "description_drift": 90,
+  "drift_pct": 11.2,
+  "desc_mismatch_vs_registry": 688,
+  "mismatch_pct": 86.0,
   "extrapolated_desync": [
-   1327,
-   1695
+   1298,
+   1655
   ]
  },
  "examples_dead_repo": [
-  "copyleftdev/fabric-atelier",
-  "Fizzl13/ichimoku-signal",
-  "digitalimpresys/rentme-mcp-server",
+  "serebano/busymate-devtools",
+  "CYAN-ECLIPSE-TECHNOLOGIES-LLC/certbridge-mcp",
+  "Immoswipe/immoswipe-ai",
+  "CGABrew7/rentalanalytics",
+  "MatsushitaTokitsugu/micro-data-api-factory-public",
+  "johtodata/johto-data-api",
   "ee324/a2awire",
-  "general-remigius/orbilyn",
-  "componecat/mcp",
-  "UnityNodes/blobpedia",
-  "Kajdep/v0-countrycallingcodes",
-  "Connected-Paths/mcp-linkedinads",
-  "rooz21/x402",
-  "Junemind/june-mcp",
-  "carlosdania/autopilots-mcp",
-  "augee99/mcp-weather",
-  "TopoLift/topolift-mcp",
-  "junter1989k-ai/jordan-payments-mcp"
+  "Bigred97/aemo-mcp",
+  "Wandersonjack/avocado-ai-app",
+  "POLONIBOI/ZAAI_dev_mcp",
+  "people-analyst/bicycle-guide",
+  "bryantclark/cougarmap",
+  "Tolomere21/latam-mcp",
+  "brightdata/brightdata-mcp-sse",
+  "rooz21/x402"
  ],
  "examples_drift": [
   {
-   "server": "io.github.CloudCorpRecords/repoport",
-   "pkg": "@reneturcios/repoport",
+   "server": "dev.burnbound/mcp",
+   "pkg": "@burnbound/mcp",
+   "prev": "MCP server that lets an AI agent pay x402 and MPP (tempo.charge) APIs under a Burnbound sp",
+   "cur": "MCP server that lets an AI agent pay x402 and MPP (tempo.charge) APIs, and refund Stripe c"
+  },
+  {
+   "server": "io.github.BuyWhere/buywhere-mcp",
+   "pkg": "@buywhere/mcp-server",
+   "prev": "Agent-native product catalog MCP server. Search & compare 367M+ products across 932K+ merc",
+   "cur": "Stdio bridge to the hosted BuyWhere MCP server \u2014 300M+ products, 150,000+ stores, deliver_"
+  },
+  {
+   "server": "io.github.devinwang/google-play-developer-mcp",
+   "pkg": "google-play-developer-mcp",
+   "prev": "Complete Model Context Protocol (MCP) server for Google Play \u2014 150 tools, full Android Pub",
+   "cur": "Complete Model Context Protocol (MCP) server for Google Play \u2014 157 tools, full Android Pub"
+  },
+  {
+   "server": "ai.sinogate/mcp",
+   "pkg": "@sinogate/mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Local git operations for agents and the shell: status, diffs, staging, commits, logs, bran"
+   "cur": "Use SinoGate Chinese LLMs from MCP clients"
   },
   {
-   "server": "io.github.PhilipAD/health-export-mcp",
-   "pkg": "health-export-mcp",
-   "prev": "Query your Apple Health data from any AI agent. An MCP server for Apple Health / HealthKit",
-   "cur": "MCP server for your own Apple Health data: 194 metrics, 16 read-only tools, 22 prompts. Ze"
+   "server": "io.github.alexanderclapp/clirank",
+   "pkg": "clirank-mcp-server",
+   "prev": "MCP server for CLIRank: help coding agents choose APIs with current recommendations instea",
+   "cur": "MCP server for API discovery and recommendations: help Claude Code, Codex, Cursor, Cline, "
   },
   {
-   "server": "io.github.bobaba99/motionlint",
-   "pkg": "motionlint",
-   "prev": "AI design review in your terminal \u2014 automated visual UI/UX analysis using vision LLMs.",
-   "cur": "Catch bad animations before they ship \u2014 deterministic motion audit + vision-LLM design rev"
+   "server": "io.github.andysalvo/supership-scan",
+   "pkg": "supership-scan",
+   "prev": "Buy any x402 API or data on Base, Solana, or Polygon without a wallet on the seller's chai",
+   "cur": "supership indexes the entire x402 economy (52,000 services) so an AI agent can find and bu"
   },
   {
-   "server": "com.didyouseo/mcp",
-   "pkg": "@didyouseo/mcp",
+   "server": "com.mambabuilt/mcp-newsletter-sponsor-tracker",
+   "pkg": "@mambalabsdev/mcp-newsletter-sponsor-tracker",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Connect DidYouSEO's SEO audit and site tools to any MCP client (Claude, ChatGPT, Cursor). "
+   "cur": "MCP server for Newsletter Sponsor Tracker. Find who sponsors a newsletter, or which newsle"
   },
   {
-   "server": "io.github.JessieJanie/skim402",
-   "pkg": "skim-mcp",
-   "prev": "MCP server for Skim \u2014 clean web reader for AI agents. Card API key or x402 wallet. Batch, ",
-   "cur": "MCP server for Skim \u2014 URLs to clean markdown. Card API key (sk402_) default; wallet/x402 o"
+   "server": "io.github.SumCodeAI/chatgenius",
+   "pkg": "chatgenius-mcp",
+   "prev": "MCP server for ChatGenius: give Claude, Cursor, Gemini CLI or any MCP client tools over yo",
+   "cur": "MCP server for ChatGenius: give Claude, Cursor, Gemini CLI or any MCP client tools over yo"
   },
   {
-   "server": "com.mylinedchart/chart-context",
-   "pkg": "@mylinedchart/mcp-chart-context",
-   "prev": "Read-only MCP server exposing your live MyLinedChart desktop chart/workspace context to lo",
-   "cur": "MCP server exposing your live MyLinedChart desktop chart/workspace context to local AI age"
-  },
-  {
-   "server": "io.github.RoninForge/ai-price-index-mcp",
-   "pkg": "ai-price-index-mcp",
-   "prev": "Read-only, zero-key MCP server for the open AI Price Index: query dated, first-party-sourc",
-   "cur": "Read-only, zero-key MCP server over the AI Price Index. AI model prices for when quality m"
-  },
-  {
-   "server": "io.github.corslet1/truthpal",
-   "pkg": "truthpal-mcp",
-   "prev": "Verify whether a public source supports a factual claim. MCP tool for source verification,",
-   "cur": "Verify whether a public source supports a factual claim. MCP tool for source verification,"
-  },
-  {
-   "server": "io.github.Alex-Dev-Web-C-DE/scopeguard",
-   "pkg": "@alex-dev-web-c-de/scopeguard-mcp",
-   "prev": "MCP server for ScopeGuard \u2014 sanctions scope monitoring with webhook alerts",
-   "cur": "MCP server for ScopeGuard - sanctions scope monitoring with webhook alerts"
-  },
-  {
-   "server": "com.mambabuilt/mcp-person-social-footprint-mapper",
-   "pkg": "@mambalabsdev/mcp-person-social-footprint-mapper",
+   "server": "com.queryrev/ai-readiness",
+   "pkg": "@queryrev/ai-readiness-mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for Person Social Footprint Mapper. Find a person's public GitHub, Bluesky, per"
+   "cur": "A local MCP server for QueryRev AI Readiness: AI crawler access, robots.txt and llms.txt c"
+  },
+  {
+   "server": "cn.mackorn/mackorn-cone-crusher",
+   "pkg": "mackorn-cone-crusher",
+   "prev": "MACKORN \u7f8e\u77ff\u6db2\u538b\u5706\u9525\u7834\uff08NH/NS\uff09\u4e0e\u7834\u788e\u7b5b\u5206\u751f\u4ea7\u7ebf\u9009\u578b\uff1a21 \u4e2a\u5de5\u5177\u8986\u76d6\u5ba2\u6237\u9700\u6c42\u8868\u5f55\u5165\u3001\u673a\u578b/\u8154\u578b/CSS \u9009\u578b\u3001\u6574\u7ebf\u914d\u7f6e\u3001\u7c92\u5ea6\u66f2\u7ebf\u4eff\u771f\uff08Whiten 1972\uff09\u3001\u5b9e\u6d4b\u6570",
+   "cur": "MACKORN \u7f8e\u77ff\u6db2\u538b\u5706\u9525\u7834\uff08NH/NS\uff09\u4e0e\u7834\u788e\u7b5b\u5206\u751f\u4ea7\u7ebf\u9009\u578b\uff1a22 \u4e2a\u5de5\u5177\u8986\u76d6\u5ba2\u6237\u9700\u6c42\u8868\u5f55\u5165\u3001\u673a\u578b/\u8154\u578b/CSS \u9009\u578b\u3001\u6574\u7ebf\u914d\u7f6e\u3001\u7c92\u5ea6\u66f2\u7ebf\u4eff\u771f\uff08Whiten 1972\uff09\u3001\u5b9e\u6d4b\u6570"
   }
  ]
 }

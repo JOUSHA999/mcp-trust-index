@@ -1,53 +1,29 @@
 {
- "generated_at": "2026-10-29T10:18:21Z",
- "universe_declared_pypi": 2629,
+ "generated_at": "2026-10-30T10:18:57Z",
+ "universe_declared_pypi": 2613,
  "sample": {
   "n_sampled": 500,
-  "resolved": 495,
-  "unresolved": 5,
-  "version_desync": 105,
-  "desync_pct": 21.2,
+  "resolved": 497,
+  "unresolved": 3,
+  "version_desync": 113,
+  "desync_pct": 22.7,
   "ci95": [
-   17.8,
-   25.0
+   19.3,
+   26.6
   ],
   "extrapolated_desync": [
-   468,
-   657
+   504,
+   695
   ],
-  "description_drift": 31,
-  "drift_pct": 6.3
+  "description_drift": 25,
+  "drift_pct": 5.0
  },
  "examples_drift": [
-  {
-   "server": "io.github.cmendezs/mcp-einvoicing-ae",
-   "pkg": "mcp-einvoicing-ae",
-   "prev": "MCP server for United Arab Emirates electronic invoicing",
-   "cur": "MCP server for United Arab Emirates electronic invoicing, vendor-neutral Peppol transport"
-  },
-  {
-   "server": "io.github.CSOAI-ORG/councilof_mcp",
-   "pkg": "councilof_mcp",
-   "prev": "CouncilOf.AI MCP \u2014 the UK sovereign defence BFT council orchestrator. UK MOD + AUKUS Pilla",
-   "cur": "Deprecated. Superseded by the Council of AI GSPC MCP server (remote: https://councilof.ai/"
-  },
   {
    "server": "io.github.AceDataCloud/mcp-nanobanana-pro",
    "pkg": "mcp-nanobanana-pro",
    "prev": "MCP Server for NanoBanana AI Image Generation via AceDataCloud API",
    "cur": "Nano Banana (NanoBanana) image generation and editing by Ace Data Cloud via MCP"
-  },
-  {
-   "server": "io.github.YichengYang-Ethan/oracle3",
-   "pkg": "oracle3",
-   "prev": "Paper-trading engine and MCP server for prediction markets (Kalshi, Polymarket): no-arbitr",
-   "cur": "Trading engine and MCP server for prediction markets: fee-aware no-arbitrage trading acros"
-  },
-  {
-   "server": "io.github.Samyrrrrrr990/openleads",
-   "pkg": "openleads",
-   "prev": "Find B2B leads with verified emails from free public sources, no API keys: one search box ",
-   "cur": "A free, local-first Apollo alternative: find B2B leads with honest email evidence from pub"
   },
   {
    "server": "ai.magnemo/magnemo",
@@ -56,28 +32,52 @@
    "cur": "Persistent Memory for AI agents, in plain local files. Nothing becomes Memory until you ap"
   },
   {
-   "server": "io.github.cyyprezz/codex-serverops-mcp",
-   "pkg": "codex-serverops-mcp",
-   "prev": "Windows-first local MCP transport for stateful SSH server operations",
-   "cur": "Operate chosen Linux servers from Codex or Claude Code with stateful SSH sessions"
+   "server": "io.github.LGDiMaggio/predictive-maintenance-mcp",
+   "pkg": "predictive-maintenance-mcp",
+   "prev": "AI agent for predictive maintenance & condition monitoring \u2014 Open-source MCP server and Cl",
+   "cur": "AI agent for predictive maintenance & condition monitoring \u2014 Open-source MCP server and Cl"
   },
   {
-   "server": "io.github.ChesterHsu/flyto-indexer",
-   "pkg": "flyto-indexer",
-   "prev": "Code intelligence MCP server for AI-assisted development \u2014 impact analysis, semantic searc",
-   "cur": "Code intelligence MCP server for AI coding agents with impact analysis, semantic search, d"
+   "server": "io.github.chernistry/bernstein",
+   "pkg": "bernstein",
+   "prev": "The open-source governance layer for AI agents. No model in the coordination loop, so repl",
+   "cur": "The open-source governance layer for AI agents. No model in the coordination loop, so repl"
   },
   {
-   "server": "io.github.chopmob-cloud/algovoi-mcp-server",
-   "pkg": "algovoi-mcp",
-   "prev": "MCP server for AlgoVoi \u2014 create crypto payment links, verify payments, probe MPP endpoints",
-   "cur": "MCP server for AlgoVoi \u2014 create crypto payment links, verify payments, probe MPP endpoints"
+   "server": "io.github.Treevu-ai/cli-market-world",
+   "pkg": "cli-market-world",
+   "prev": "mcp-name: io.github.Treevu-ai/cli-market-world - CLI Market: commerce API for AI agents. 4",
+   "cur": "mcp-name: io.github.Treevu-ai/cli-market-world - CLI Market: commerce API for AI agents. 4"
   },
   {
-   "server": "io.github.D4Vinci/Scrapling",
-   "pkg": "scrapling",
-   "prev": "Scrapling is an undetectable, powerful, flexible, high-performance Python library that mak",
-   "cur": "Scrapling is an undetectable, powerful, flexible, high-performance Python framework that m"
+   "server": "io.github.Aitherium/aither-adk",
+   "pkg": "aither-adk",
+   "prev": "Build AI agents with real memory + faculties on any backend, local or cloud. Open-core: fr",
+   "cur": "Deprecated alias for awdk - installs awdk, which provides the same `adk` commands."
+  },
+  {
+   "server": "io.github.Raffaele86/seo-stack-mcp",
+   "pkg": "seo-stack-mcp",
+   "prev": "The complete open-source SEO data stack for AI agents \u2014 Google Search Console, GA4, Bing W",
+   "cur": "The complete open-source SEO data stack for AI agents \u2014 Google Search Console, GA4, Bing W"
+  },
+  {
+   "server": "io.github.atomno-mcp/mcp-erid",
+   "pkg": "atomno-mcp-erid",
+   "prev": "MCP server: Russian internet-ad marking (\u043c\u0430\u0440\u043a\u0438\u0440\u043e\u0432\u043a\u0430 \u0440\u0435\u043a\u043b\u0430\u043c\u044b, 38-\u0424\u0417) checker \u2014 validate an ",
+   "cur": "MCP for Russian ad marking: erid format check; ORD cabinet lookup on the client key. Advis"
+  },
+  {
+   "server": "com.aiinfradecoded/mcp-anvil",
+   "pkg": "mcp-anvil",
+   "prev": "Scaffold, audit, and inspect Model Context Protocol (MCP) servers from the CLI.",
+   "cur": "Local MCP daemon with a dashboard, REST/WebSocket API, and 64 built-in tools \u2014 plus scaffo"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/councilof_mcp",
+   "pkg": "councilof_mcp",
+   "prev": "CouncilOf.AI MCP \u2014 the UK sovereign defence BFT council orchestrator. UK MOD + AUKUS Pilla",
+   "cur": "Deprecated. Superseded by the Council of AI GSPC MCP server (remote: https://councilof.ai/"
   }
  ]
 }

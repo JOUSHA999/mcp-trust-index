@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-10-29T10:18:12Z",
- "universe_declared_github_repos": 15554,
- "universe_declared_npm_packages": 6154,
+ "generated_at": "2026-10-30T10:18:48Z",
+ "universe_declared_github_repos": 15534,
+ "universe_declared_npm_packages": 6105,
  "github_sample": {
   "n": 1200,
-  "dead": 193,
-  "dead_pct": 16.1,
+  "dead": 199,
+  "dead_pct": 16.6,
   "ci95": [
-   14.1,
-   18.3
+   14.6,
+   18.8
   ],
   "archived": 10,
-  "no_license": 118,
-  "stale_365d": 3,
+  "no_license": 117,
+  "stale_365d": 4,
   "extrapolated_dead": [
-   2193,
-   2846
+   2268,
+   2920
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 787,
-  "unresolved": 13,
-  "version_desync": 191,
-  "desync_pct": 23.9,
+  "resolved": 781,
+  "unresolved": 19,
+  "version_desync": 219,
+  "desync_pct": 27.4,
   "ci95": [
-   21.1,
-   26.9
+   24.4,
+   30.6
   ],
-  "description_drift": 90,
-  "drift_pct": 11.2,
-  "desc_mismatch_vs_registry": 688,
-  "mismatch_pct": 86.0,
+  "description_drift": 95,
+  "drift_pct": 11.9,
+  "desc_mismatch_vs_registry": 669,
+  "mismatch_pct": 83.6,
   "extrapolated_desync": [
-   1298,
-   1655
+   1490,
+   1868
   ]
  },
  "examples_dead_repo": [
-  "serebano/busymate-devtools",
-  "CYAN-ECLIPSE-TECHNOLOGIES-LLC/certbridge-mcp",
-  "Immoswipe/immoswipe-ai",
-  "CGABrew7/rentalanalytics",
-  "MatsushitaTokitsugu/micro-data-api-factory-public",
-  "johtodata/johto-data-api",
+  "M2201/TEKBOSS",
+  "sparnauskis/intencheck",
+  "redpanda-data/docs-site",
   "ee324/a2awire",
-  "Bigred97/aemo-mcp",
-  "Wandersonjack/avocado-ai-app",
-  "POLONIBOI/ZAAI_dev_mcp",
-  "people-analyst/bicycle-guide",
-  "bryantclark/cougarmap",
-  "Tolomere21/latam-mcp",
-  "brightdata/brightdata-mcp-sse",
-  "rooz21/x402"
+  "ee324/a2awire",
+  "chrisyau83/png-now",
+  "syntheticinc/syntheticbrew",
+  "NewOdysseyConsulting/Olympus",
+  "clemensschmid1/industrie-shop",
+  "Vorim-AI-Labs/vorim-mcp-server",
+  "bwalvoord/gumball",
+  "codybrom/clairvoyance",
+  "abryfs/willitsend",
+  "rooz21/x402",
+  "HumanLineage/WT"
  ],
  "examples_drift": [
   {
-   "server": "dev.burnbound/mcp",
-   "pkg": "@burnbound/mcp",
-   "prev": "MCP server that lets an AI agent pay x402 and MPP (tempo.charge) APIs under a Burnbound sp",
-   "cur": "MCP server that lets an AI agent pay x402 and MPP (tempo.charge) APIs, and refund Stripe c"
+   "server": "io.github.Swih/ritoko",
+   "pkg": "ritoko",
+   "prev": "Turn a browser task your agent solved once into a reliable, resumable procedure.",
+   "cur": "Resumable browser, HTTP API and MCP automation for AI agents. Verify CSV/Excel batches wit"
   },
   {
-   "server": "io.github.BuyWhere/buywhere-mcp",
-   "pkg": "@buywhere/mcp-server",
-   "prev": "Agent-native product catalog MCP server. Search & compare 367M+ products across 932K+ merc",
-   "cur": "Stdio bridge to the hosted BuyWhere MCP server \u2014 300M+ products, 150,000+ stores, deliver_"
+   "server": "io.github.Braynexservices/nigeria-fx-rates",
+   "pkg": "@braynexservices/nigeria-mcp-fx-rates",
+   "prev": "Nigeria FX Rates MCP \u2014 live Naira (NGN) exchange rates vs major currencies (USD/EUR/GBP) f",
+   "cur": "Nigeria FX Rates MCP \u2014 live Naira (NGN) exchange rates vs major currencies (USD/EUR/GBP) f"
   },
   {
-   "server": "io.github.devinwang/google-play-developer-mcp",
-   "pkg": "google-play-developer-mcp",
-   "prev": "Complete Model Context Protocol (MCP) server for Google Play \u2014 150 tools, full Android Pub",
-   "cur": "Complete Model Context Protocol (MCP) server for Google Play \u2014 157 tools, full Android Pub"
+   "server": "io.github.Fabio662/yieldagentx402",
+   "pkg": "agentx402-mcp-server",
+   "prev": "Policy-gated, receipt-backed x402 execution for AI agents \u2014 ShadeGuard before settlement, ",
+   "cur": "The execution layer for AI agent commerce. 100+ DeFi adapters across 20+ chains (BTC, EVM,"
   },
   {
-   "server": "ai.sinogate/mcp",
-   "pkg": "@sinogate/mcp",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Use SinoGate Chinese LLMs from MCP clients"
+   "server": "io.github.Marysbrain/x402-gateway-mcp",
+   "pkg": "x402-gateway-mcp",
+   "prev": "x402 analytics: the live x402 market feed for agents \u2014 a free x402_market_pulse tool with ",
+   "cur": "Aye Pulse market intelligence plus Aye Scout pre-payment diligence over x402: a free ecosy"
   },
   {
-   "server": "io.github.alexanderclapp/clirank",
-   "pkg": "clirank-mcp-server",
-   "prev": "MCP server for CLIRank: help coding agents choose APIs with current recommendations instea",
-   "cur": "MCP server for API discovery and recommendations: help Claude Code, Codex, Cursor, Cline, "
+   "server": "com.antideploy/antideploy-mcp",
+   "pkg": "antideploy-mcp",
+   "prev": "Deploy an application to Antideploy from a coding agent. MCP server and CLI.",
+   "cur": "Deploy and run applications on Antideploy from a coding agent: Claude Code, Cursor, Codex,"
   },
   {
-   "server": "io.github.andysalvo/supership-scan",
-   "pkg": "supership-scan",
-   "prev": "Buy any x402 API or data on Base, Solana, or Polygon without a wallet on the seller's chai",
-   "cur": "supership indexes the entire x402 economy (52,000 services) so an AI agent can find and bu"
+   "server": "io.github.Massed-Compute/mcp",
+   "pkg": "massed-compute-mcp",
+   "prev": "MCP server for the Massed Compute API.",
+   "cur": "Stdio bridge to the hosted Massed Compute MCP endpoint \u2014 a verbatim JSON-RPC pass-through."
   },
   {
-   "server": "com.mambabuilt/mcp-newsletter-sponsor-tracker",
-   "pkg": "@mambalabsdev/mcp-newsletter-sponsor-tracker",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for Newsletter Sponsor Tracker. Find who sponsors a newsletter, or which newsle"
+   "server": "com.mambabuilt/mcp-meta-brand-presence-mapper",
+   "pkg": "@mambalabsdev/mcp-meta-brand-presence-mapper",
+   "prev": "MCP server for the Mamba Labs Instagram Threads Facebook Brand Presence Mapper actor on Ap",
+   "cur": "MCP server for the Mamba Labs Instagram Facebook Brand Presence Mapper actor on Apify. Res"
   },
   {
-   "server": "io.github.SumCodeAI/chatgenius",
-   "pkg": "chatgenius-mcp",
-   "prev": "MCP server for ChatGenius: give Claude, Cursor, Gemini CLI or any MCP client tools over yo",
-   "cur": "MCP server for ChatGenius: give Claude, Cursor, Gemini CLI or any MCP client tools over yo"
-  },
-  {
-   "server": "com.queryrev/ai-readiness",
-   "pkg": "@queryrev/ai-readiness-mcp",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "A local MCP server for QueryRev AI Readiness: AI crawler access, robots.txt and llms.txt c"
+   "server": "com.useweckr/weckr",
+   "pkg": "@weckr/mcp",
+   "prev": "Weckr MCP server \u2014 query your AI cost and margin data directly from Claude, Cursor, or any",
+   "cur": "Weckr MCP server. Query your AI cost and margin data directly from Claude, Cursor, or any "
   },
   {
    "server": "cn.mackorn/mackorn-cone-crusher",
    "pkg": "mackorn-cone-crusher",
    "prev": "MACKORN \u7f8e\u77ff\u6db2\u538b\u5706\u9525\u7834\uff08NH/NS\uff09\u4e0e\u7834\u788e\u7b5b\u5206\u751f\u4ea7\u7ebf\u9009\u578b\uff1a21 \u4e2a\u5de5\u5177\u8986\u76d6\u5ba2\u6237\u9700\u6c42\u8868\u5f55\u5165\u3001\u673a\u578b/\u8154\u578b/CSS \u9009\u578b\u3001\u6574\u7ebf\u914d\u7f6e\u3001\u7c92\u5ea6\u66f2\u7ebf\u4eff\u771f\uff08Whiten 1972\uff09\u3001\u5b9e\u6d4b\u6570",
    "cur": "MACKORN \u7f8e\u77ff\u6db2\u538b\u5706\u9525\u7834\uff08NH/NS\uff09\u4e0e\u7834\u788e\u7b5b\u5206\u751f\u4ea7\u7ebf\u9009\u578b\uff1a22 \u4e2a\u5de5\u5177\u8986\u76d6\u5ba2\u6237\u9700\u6c42\u8868\u5f55\u5165\u3001\u673a\u578b/\u8154\u578b/CSS \u9009\u578b\u3001\u6574\u7ebf\u914d\u7f6e\u3001\u7c92\u5ea6\u66f2\u7ebf\u4eff\u771f\uff08Whiten 1972\uff09\u3001\u5b9e\u6d4b\u6570"
+  },
+  {
+   "server": "in.memorylayer/memorylayer",
+   "pkg": "@raajvamsy/memorylayer",
+   "prev": "Persistent semantic memory for AI agents \u2014 npx memorylayer",
+   "cur": "Persistent semantic memory for AI agents \u2014 npx @raajvamsy/memorylayer"
   }
  ]
 }

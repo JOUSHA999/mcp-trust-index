@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-10-30T10:18:48Z",
- "universe_declared_github_repos": 15534,
- "universe_declared_npm_packages": 6105,
+ "generated_at": "2026-10-31T09:57:04Z",
+ "universe_declared_github_repos": 15505,
+ "universe_declared_npm_packages": 6064,
  "github_sample": {
   "n": 1200,
-  "dead": 199,
-  "dead_pct": 16.6,
+  "dead": 194,
+  "dead_pct": 16.2,
   "ci95": [
-   14.6,
-   18.8
+   14.2,
+   18.4
   ],
-  "archived": 10,
-  "no_license": 117,
-  "stale_365d": 4,
+  "archived": 16,
+  "no_license": 104,
+  "stale_365d": 9,
   "extrapolated_dead": [
-   2268,
-   2920
+   2202,
+   2853
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 781,
-  "unresolved": 19,
-  "version_desync": 219,
-  "desync_pct": 27.4,
+  "resolved": 784,
+  "unresolved": 16,
+  "version_desync": 194,
+  "desync_pct": 24.2,
   "ci95": [
-   24.4,
-   30.6
+   21.4,
+   27.3
   ],
-  "description_drift": 95,
-  "drift_pct": 11.9,
-  "desc_mismatch_vs_registry": 669,
-  "mismatch_pct": 83.6,
+  "description_drift": 115,
+  "drift_pct": 14.4,
+  "desc_mismatch_vs_registry": 676,
+  "mismatch_pct": 84.5,
   "extrapolated_desync": [
-   1490,
-   1868
+   1298,
+   1655
   ]
  },
  "examples_dead_repo": [
-  "M2201/TEKBOSS",
-  "sparnauskis/intencheck",
-  "redpanda-data/docs-site",
+  "CSOAI-ORG/meek-circulatory-capillary-mcp",
+  "taskforcehq/taskforce",
+  "Timwal78/scriptdocs-mcp-server",
+  "weeklymoat/weeklymoat-mcp",
   "ee324/a2awire",
   "ee324/a2awire",
-  "chrisyau83/png-now",
-  "syntheticinc/syntheticbrew",
-  "NewOdysseyConsulting/Olympus",
-  "clemensschmid1/industrie-shop",
-  "Vorim-AI-Labs/vorim-mcp-server",
-  "bwalvoord/gumball",
-  "codybrom/clairvoyance",
-  "abryfs/willitsend",
+  "gadaffihub/provably-fair-mcp",
+  "people-analyst/bicycle-guide",
+  "CyberMax-tools/product-factory",
+  "Gentleelephant/project-brain",
+  "olane-labs/cosync-local",
+  "ZLeventer/marketo-mcp-server",
+  "TruthStack1/truthstack-mcp",
   "rooz21/x402",
-  "HumanLineage/WT"
+  "Ansarii/neon-stealth-web-scraper"
  ],
  "examples_drift": [
   {
-   "server": "io.github.Swih/ritoko",
-   "pkg": "ritoko",
-   "prev": "Turn a browser task your agent solved once into a reliable, resumable procedure.",
-   "cur": "Resumable browser, HTTP API and MCP automation for AI agents. Verify CSV/Excel batches wit"
+   "server": "io.github.berkingurcan/stellar-agent-search",
+   "pkg": "stellar-agent-search",
+   "prev": "Non-installable name reservation for the official stellar-agent-search package.",
+   "cur": "Read-only MCP server and CLI for Stellar 8004 discovery, declared-evidence ranking, and bo"
   },
   {
-   "server": "io.github.Braynexservices/nigeria-fx-rates",
-   "pkg": "@braynexservices/nigeria-mcp-fx-rates",
-   "prev": "Nigeria FX Rates MCP \u2014 live Naira (NGN) exchange rates vs major currencies (USD/EUR/GBP) f",
-   "cur": "Nigeria FX Rates MCP \u2014 live Naira (NGN) exchange rates vs major currencies (USD/EUR/GBP) f"
+   "server": "com.rowsend/rowsend",
+   "pkg": "@rowsend/mcp",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "MCP server for Rowsend: let AI agents draft marketing email for contacts in your own datab"
   },
   {
-   "server": "io.github.Fabio662/yieldagentx402",
-   "pkg": "agentx402-mcp-server",
-   "prev": "Policy-gated, receipt-backed x402 execution for AI agents \u2014 ShadeGuard before settlement, ",
-   "cur": "The execution layer for AI agent commerce. 100+ DeFi adapters across 20+ chains (BTC, EVM,"
+   "server": "com.decionis/commerce-gate",
+   "pkg": "@decionis/commerce",
+   "prev": "Commerce Gate MCP with seven commerce-action preflights, Walmart connection mappings, a D3",
+   "cur": "Commerce Gate MCP with eleven commerce-action preflights (seven published plus four unrele"
   },
   {
-   "server": "io.github.Marysbrain/x402-gateway-mcp",
-   "pkg": "x402-gateway-mcp",
-   "prev": "x402 analytics: the live x402 market feed for agents \u2014 a free x402_market_pulse tool with ",
-   "cur": "Aye Pulse market intelligence plus Aye Scout pre-payment diligence over x402: a free ecosy"
+   "server": "io.github.Drix10/ai-resources",
+   "pkg": "ai-resources-mcp",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "MCP server for the AI Resources knowledge base: search and read daily AI news briefings (m"
   },
   {
-   "server": "com.antideploy/antideploy-mcp",
-   "pkg": "antideploy-mcp",
-   "prev": "Deploy an application to Antideploy from a coding agent. MCP server and CLI.",
-   "cur": "Deploy and run applications on Antideploy from a coding agent: Claude Code, Cursor, Codex,"
+   "server": "io.github.MAIAS-project/maias",
+   "pkg": "@maias/mcp",
+   "prev": "MCP server exposing MAIAS operations (validate, query, edit, edit_elements) over the core ",
+   "cur": "MCP server exposing MAIAS operations (validate, query, edit, edit_elements, wireframe) ove"
   },
   {
-   "server": "io.github.Massed-Compute/mcp",
-   "pkg": "massed-compute-mcp",
-   "prev": "MCP server for the Massed Compute API.",
-   "cur": "Stdio bridge to the hosted Massed Compute MCP endpoint \u2014 a verbatim JSON-RPC pass-through."
+   "server": "io.github.AnonymousOnyx22/job-tracker-student-mcp",
+   "pkg": "job-tracker-student-mcp",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "Job application tracker MCP server that works offline. Track internships, jobs, interviews"
   },
   {
-   "server": "com.mambabuilt/mcp-meta-brand-presence-mapper",
-   "pkg": "@mambalabsdev/mcp-meta-brand-presence-mapper",
-   "prev": "MCP server for the Mamba Labs Instagram Threads Facebook Brand Presence Mapper actor on Ap",
-   "cur": "MCP server for the Mamba Labs Instagram Facebook Brand Presence Mapper actor on Apify. Res"
+   "server": "io.github.Aelethion/agentsocks",
+   "pkg": "agentsocks",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "Let Claude Code and Codex sessions on one machine message each other, through Claude Code'"
   },
   {
-   "server": "com.useweckr/weckr",
-   "pkg": "@weckr/mcp",
-   "prev": "Weckr MCP server \u2014 query your AI cost and margin data directly from Claude, Cursor, or any",
-   "cur": "Weckr MCP server. Query your AI cost and margin data directly from Claude, Cursor, or any "
+   "server": "io.github.chrischall/rxlocal-mcp",
+   "pkg": "rxlocal-mcp",
+   "prev": "RxLocal (PioneerRx/RedSail) pharmacy patient-portal MCP server for Claude",
+   "cur": "RxLocal (PioneerRx/RedSail) pharmacy patient-portal MCP server for Claude: prescriptions, "
   },
   {
-   "server": "cn.mackorn/mackorn-cone-crusher",
-   "pkg": "mackorn-cone-crusher",
-   "prev": "MACKORN \u7f8e\u77ff\u6db2\u538b\u5706\u9525\u7834\uff08NH/NS\uff09\u4e0e\u7834\u788e\u7b5b\u5206\u751f\u4ea7\u7ebf\u9009\u578b\uff1a21 \u4e2a\u5de5\u5177\u8986\u76d6\u5ba2\u6237\u9700\u6c42\u8868\u5f55\u5165\u3001\u673a\u578b/\u8154\u578b/CSS \u9009\u578b\u3001\u6574\u7ebf\u914d\u7f6e\u3001\u7c92\u5ea6\u66f2\u7ebf\u4eff\u771f\uff08Whiten 1972\uff09\u3001\u5b9e\u6d4b\u6570",
-   "cur": "MACKORN \u7f8e\u77ff\u6db2\u538b\u5706\u9525\u7834\uff08NH/NS\uff09\u4e0e\u7834\u788e\u7b5b\u5206\u751f\u4ea7\u7ebf\u9009\u578b\uff1a22 \u4e2a\u5de5\u5177\u8986\u76d6\u5ba2\u6237\u9700\u6c42\u8868\u5f55\u5165\u3001\u673a\u578b/\u8154\u578b/CSS \u9009\u578b\u3001\u6574\u7ebf\u914d\u7f6e\u3001\u7c92\u5ea6\u66f2\u7ebf\u4eff\u771f\uff08Whiten 1972\uff09\u3001\u5b9e\u6d4b\u6570"
+   "server": "com.mambabuilt/mcp-linkedin-jobs-feed",
+   "pkg": "@mambalabsdev/mcp-linkedin-jobs-feed",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "MCP server for LinkedIn Jobs Feed. Search LinkedIn jobs by keyword and location and get on"
   },
   {
-   "server": "in.memorylayer/memorylayer",
-   "pkg": "@raajvamsy/memorylayer",
-   "prev": "Persistent semantic memory for AI agents \u2014 npx memorylayer",
-   "cur": "Persistent semantic memory for AI agents \u2014 npx @raajvamsy/memorylayer"
+   "server": "com.mambabuilt/mcp-website-phrase-business-model-classifier",
+   "pkg": "@mambalabsdev/mcp-website-phrase-business-model-classifier",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "MCP server for Website Phrase and Business Model Classifier. Classify company websites as "
   }
  ]
 }

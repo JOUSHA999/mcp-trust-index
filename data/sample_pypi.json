@@ -1,24 +1,36 @@
 {
- "generated_at": "2026-10-30T10:18:57Z",
- "universe_declared_pypi": 2613,
+ "generated_at": "2026-10-31T09:57:13Z",
+ "universe_declared_pypi": 2578,
  "sample": {
   "n_sampled": 500,
   "resolved": 497,
   "unresolved": 3,
-  "version_desync": 113,
-  "desync_pct": 22.7,
+  "version_desync": 93,
+  "desync_pct": 18.7,
   "ci95": [
-   19.3,
-   26.6
+   15.5,
+   22.4
   ],
   "extrapolated_desync": [
-   504,
-   695
+   400,
+   577
   ],
-  "description_drift": 25,
-  "drift_pct": 5.0
+  "description_drift": 29,
+  "drift_pct": 5.8
  },
  "examples_drift": [
+  {
+   "server": "io.github.MICONNM/openclaw-consensus-mcp",
+   "pkg": "openclaw-consensus-mcp",
+   "prev": "MCP server for OpenClaw Consensus \u2014 9-LLM consensus to fight hallucinations. Built by yanm",
+   "cur": "MCP server for OpenClaw Consensus ??9-LLM consensus to fight hallucinations. Built by yanm"
+  },
+  {
+   "server": "io.github.almega-ai/almega-mcp",
+   "pkg": "almega-mcp",
+   "prev": "A wallet & guardrail for AI agents: per-agent spending limits, allow-listed categories, 1-",
+   "cur": "The immutable delegation frame for AI agents \u2014 set boundaries once, agents run free inside"
+  },
   {
    "server": "io.github.AceDataCloud/mcp-nanobanana-pro",
    "pkg": "mcp-nanobanana-pro",
@@ -32,52 +44,40 @@
    "cur": "Persistent Memory for AI agents, in plain local files. Nothing becomes Memory until you ap"
   },
   {
-   "server": "io.github.LGDiMaggio/predictive-maintenance-mcp",
-   "pkg": "predictive-maintenance-mcp",
-   "prev": "AI agent for predictive maintenance & condition monitoring \u2014 Open-source MCP server and Cl",
-   "cur": "AI agent for predictive maintenance & condition monitoring \u2014 Open-source MCP server and Cl"
+   "server": "io.github.Massed-Compute/mcp",
+   "pkg": "massed-compute-mcp",
+   "prev": "MCP server for the Massed Compute API.",
+   "cur": "Stdio bridge to the hosted Massed Compute MCP endpoint \u2014 a verbatim JSON-RPC pass-through."
   },
   {
-   "server": "io.github.chernistry/bernstein",
-   "pkg": "bernstein",
-   "prev": "The open-source governance layer for AI agents. No model in the coordination loop, so repl",
-   "cur": "The open-source governance layer for AI agents. No model in the coordination loop, so repl"
+   "server": "io.github.D4Vinci/Scrapling",
+   "pkg": "scrapling",
+   "prev": "Scrapling is an undetectable, powerful, flexible, high-performance Python library that mak",
+   "cur": "Scrapling is an undetectable, powerful, flexible, high-performance Python framework that m"
   },
   {
-   "server": "io.github.Treevu-ai/cli-market-world",
-   "pkg": "cli-market-world",
-   "prev": "mcp-name: io.github.Treevu-ai/cli-market-world - CLI Market: commerce API for AI agents. 4",
-   "cur": "mcp-name: io.github.Treevu-ai/cli-market-world - CLI Market: commerce API for AI agents. 4"
+   "server": "io.github.5uper0/parley",
+   "pkg": "parley-consensus",
+   "prev": "Consensus among personal AI agents that faithfully represent owners with conflicting priva",
+   "cur": "Consensus among personal AI agents that faithfully represent owners with conflicting priva"
   },
   {
-   "server": "io.github.Aitherium/aither-adk",
-   "pkg": "aither-adk",
-   "prev": "Build AI agents with real memory + faculties on any backend, local or cloud. Open-core: fr",
-   "cur": "Deprecated alias for awdk - installs awdk, which provides the same `adk` commands."
+   "server": "io.github.Huzy85/fantoma",
+   "pkg": "fantoma",
+   "prev": "Accessibility-first browser automation for AI agents. MCP server included. Runs on small l",
+   "cur": "Accessibility-first browser automation for AI agents. MCP server included. Reads pages wit"
   },
   {
-   "server": "io.github.Raffaele86/seo-stack-mcp",
-   "pkg": "seo-stack-mcp",
-   "prev": "The complete open-source SEO data stack for AI agents \u2014 Google Search Console, GA4, Bing W",
-   "cur": "The complete open-source SEO data stack for AI agents \u2014 Google Search Console, GA4, Bing W"
+   "server": "io.github.cmendezs/mcp-einvoicing-be",
+   "pkg": "mcp-einvoicing-be",
+   "prev": "MCP server for Belgian electronic invoicing (Peppol BIS 3.0, UBL 2.1, PINT-EU, Mercurius)",
+   "cur": "MCP server for Belgian electronic invoicing (Peppol BIS 3.0, UBL 2.1, PINT-EU, Mercurius),"
   },
   {
-   "server": "io.github.atomno-mcp/mcp-erid",
-   "pkg": "atomno-mcp-erid",
-   "prev": "MCP server: Russian internet-ad marking (\u043c\u0430\u0440\u043a\u0438\u0440\u043e\u0432\u043a\u0430 \u0440\u0435\u043a\u043b\u0430\u043c\u044b, 38-\u0424\u0417) checker \u2014 validate an ",
-   "cur": "MCP for Russian ad marking: erid format check; ORD cabinet lookup on the client key. Advis"
-  },
-  {
-   "server": "com.aiinfradecoded/mcp-anvil",
-   "pkg": "mcp-anvil",
-   "prev": "Scaffold, audit, and inspect Model Context Protocol (MCP) servers from the CLI.",
-   "cur": "Local MCP daemon with a dashboard, REST/WebSocket API, and 64 built-in tools \u2014 plus scaffo"
-  },
-  {
-   "server": "io.github.CSOAI-ORG/councilof_mcp",
-   "pkg": "councilof_mcp",
-   "prev": "CouncilOf.AI MCP \u2014 the UK sovereign defence BFT council orchestrator. UK MOD + AUKUS Pilla",
-   "cur": "Deprecated. Superseded by the Council of AI GSPC MCP server (remote: https://councilof.ai/"
+   "server": "io.github.KitchenSink4AI/kitchensink4xl",
+   "pkg": "kitchensink4xl",
+   "prev": "Read and edit Excel (.xlsx) files with your AI assistant: formulas, tables, CSV and JSON, ",
+   "cur": "Read and edit Excel (.xlsx) files with your AI assistant: 131 actions, a backup before eve"
   }
  ]
 }

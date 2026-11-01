@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-10-31T09:57:04Z",
- "universe_declared_github_repos": 15505,
- "universe_declared_npm_packages": 6064,
+ "generated_at": "2026-11-01T10:46:57Z",
+ "universe_declared_github_repos": 15401,
+ "universe_declared_npm_packages": 6017,
  "github_sample": {
   "n": 1200,
-  "dead": 194,
-  "dead_pct": 16.2,
+  "dead": 190,
+  "dead_pct": 15.8,
   "ci95": [
-   14.2,
-   18.4
+   13.9,
+   18.0
   ],
-  "archived": 16,
-  "no_license": 104,
-  "stale_365d": 9,
+  "archived": 18,
+  "no_license": 133,
+  "stale_365d": 7,
   "extrapolated_dead": [
-   2202,
-   2853
+   2141,
+   2772
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 784,
-  "unresolved": 16,
-  "version_desync": 194,
-  "desync_pct": 24.2,
+  "resolved": 785,
+  "unresolved": 15,
+  "version_desync": 156,
+  "desync_pct": 19.5,
   "ci95": [
-   21.4,
-   27.3
+   16.9,
+   22.4
   ],
-  "description_drift": 115,
-  "drift_pct": 14.4,
-  "desc_mismatch_vs_registry": 676,
-  "mismatch_pct": 84.5,
+  "description_drift": 110,
+  "drift_pct": 13.8,
+  "desc_mismatch_vs_registry": 695,
+  "mismatch_pct": 86.9,
   "extrapolated_desync": [
-   1298,
-   1655
+   1017,
+   1348
   ]
  },
  "examples_dead_repo": [
-  "CSOAI-ORG/meek-circulatory-capillary-mcp",
-  "taskforcehq/taskforce",
-  "Timwal78/scriptdocs-mcp-server",
-  "weeklymoat/weeklymoat-mcp",
+  "checkra1neth/xbird",
+  "ArseneVrworworker/flatcash-mcp",
+  "novica-ai/sendfast",
+  "Lulu-The-Narwhal/lulu-platform",
+  "bkauto3/Conduit",
   "ee324/a2awire",
   "ee324/a2awire",
-  "gadaffihub/provably-fair-mcp",
-  "people-analyst/bicycle-guide",
-  "CyberMax-tools/product-factory",
-  "Gentleelephant/project-brain",
-  "olane-labs/cosync-local",
-  "ZLeventer/marketo-mcp-server",
-  "TruthStack1/truthstack-mcp",
+  "Typeless-Git/fabrx-mcp-server",
+  "pavanmanishd/porticol",
+  "The-Lambda-Group/query-omega-mcp",
+  "Solara-Snipe-Bot/Solara-Snipe-Bot",
+  "yoannarz/nod-mcp",
   "rooz21/x402",
-  "Ansarii/neon-stealth-web-scraper"
+  "aiconsulting06000-tech/acf-mcp",
+  "6mickswagger9/x402-scrape-mcp"
  ],
  "examples_drift": [
   {
-   "server": "io.github.berkingurcan/stellar-agent-search",
-   "pkg": "stellar-agent-search",
-   "prev": "Non-installable name reservation for the official stellar-agent-search package.",
-   "cur": "Read-only MCP server and CLI for Stellar 8004 discovery, declared-evidence ranking, and bo"
+   "server": "io.github.Be-Sure-Consulting/riskrover-mcp",
+   "pkg": "riskrover-mcp-server",
+   "prev": "Use any stdio MCP client for reviewed RiskRover product breakdowns and quality assignments",
+   "cur": "Draft and refine risk-based test plans in RiskRover and assess automated test coverage aga"
   },
   {
-   "server": "com.rowsend/rowsend",
-   "pkg": "@rowsend/mcp",
+   "server": "io.github.TychiWallet/tyi-mcp",
+   "pkg": "@tychilabs/tyi-mcp",
+   "prev": "Agent-native Tychi wallet MCP \u2014 onboard, status, chat, reset. Self-custody keys local; bra",
+   "cur": "Agent-native Tychi wallet MCP \u2014 onboard, status, chat, reset. Self-custody keys local; bra"
+  },
+  {
+   "server": "com.quanttogo/quanttogo-mcp",
+   "pkg": "quanttogo-mcp",
+   "prev": "MCP Server for AI trading signals \u2014 8 live strategies across US and China markets. Free 30",
+   "cur": "\u98ce\u63a7\u5355 QuantToGo \u2014 MCP server: risk readings, reason checks and risk orders for A-share holdi"
+  },
+  {
+   "server": "io.github.codespar/mcp-c6",
+   "pkg": "@codespar/mcp-c6",
+   "prev": "MCP server for C6 Bank \u2014 top Brazilian digital bank backed by JPMorgan. Pix (cob/cobv), DI",
+   "cur": "DEPRECATED: no live endpoint (baas.c6bank.com.br does not resolve). MCP server for C6 Bank"
+  },
+  {
+   "server": "com.quiqsol/quiqsol",
+   "pkg": "@quiqsol/mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for Rowsend: let AI agents draft marketing email for contacts in your own datab"
+   "cur": "Connect QuiQSol to Claude, ChatGPT, Cursor and any AI agent: a local MCP server (stdio) an"
+  },
+  {
+   "server": "io.github.Company-Gibraltar/company-gibraltar",
+   "pkg": "company-gibraltar-mcp",
+   "prev": "Gibraltar company tools for AI agents. Calculate corporate tax payments, check compliance ",
+   "cur": "Gibraltar company tools for AI agents. Calculate corporate tax payments, check compliance "
+  },
+  {
+   "server": "io.github.cherninlab/ennodia",
+   "pkg": "ennodia",
+   "prev": "Try other agents, models, and skills from your familiar AI workflow through a local MCP se",
+   "cur": "Connects the AI agents you use: your agent hands a task to another and gets the answer bac"
+  },
+  {
+   "server": "com.mambabuilt/mcp-reddit-search-thread-scraper",
+   "pkg": "@mambalabsdev/mcp-reddit-search-thread-scraper",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "MCP server for Reddit Search and Thread Scraper. Reddit posts and comments by keyword, sub"
+  },
+  {
+   "server": "com.getspacepal/spacepal",
+   "pkg": "spacepal-mcp",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "MCP server for Spacepal: list, switch, rename macOS Spaces and move windows between them f"
   },
   {
    "server": "com.decionis/commerce-gate",
    "pkg": "@decionis/commerce",
    "prev": "Commerce Gate MCP with seven commerce-action preflights, Walmart connection mappings, a D3",
    "cur": "Commerce Gate MCP with eleven commerce-action preflights (seven published plus four unrele"
-  },
-  {
-   "server": "io.github.Drix10/ai-resources",
-   "pkg": "ai-resources-mcp",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for the AI Resources knowledge base: search and read daily AI news briefings (m"
-  },
-  {
-   "server": "io.github.MAIAS-project/maias",
-   "pkg": "@maias/mcp",
-   "prev": "MCP server exposing MAIAS operations (validate, query, edit, edit_elements) over the core ",
-   "cur": "MCP server exposing MAIAS operations (validate, query, edit, edit_elements, wireframe) ove"
-  },
-  {
-   "server": "io.github.AnonymousOnyx22/job-tracker-student-mcp",
-   "pkg": "job-tracker-student-mcp",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Job application tracker MCP server that works offline. Track internships, jobs, interviews"
-  },
-  {
-   "server": "io.github.Aelethion/agentsocks",
-   "pkg": "agentsocks",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Let Claude Code and Codex sessions on one machine message each other, through Claude Code'"
-  },
-  {
-   "server": "io.github.chrischall/rxlocal-mcp",
-   "pkg": "rxlocal-mcp",
-   "prev": "RxLocal (PioneerRx/RedSail) pharmacy patient-portal MCP server for Claude",
-   "cur": "RxLocal (PioneerRx/RedSail) pharmacy patient-portal MCP server for Claude: prescriptions, "
-  },
-  {
-   "server": "com.mambabuilt/mcp-linkedin-jobs-feed",
-   "pkg": "@mambalabsdev/mcp-linkedin-jobs-feed",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for LinkedIn Jobs Feed. Search LinkedIn jobs by keyword and location and get on"
-  },
-  {
-   "server": "com.mambabuilt/mcp-website-phrase-business-model-classifier",
-   "pkg": "@mambalabsdev/mcp-website-phrase-business-model-classifier",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for Website Phrase and Business Model Classifier. Classify company websites as "
   }
  ]
 }

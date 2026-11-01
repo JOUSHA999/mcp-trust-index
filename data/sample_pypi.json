@@ -1,41 +1,59 @@
 {
- "generated_at": "2026-10-31T09:57:13Z",
- "universe_declared_pypi": 2578,
+ "generated_at": "2026-11-01T10:47:07Z",
+ "universe_declared_pypi": 2519,
  "sample": {
   "n_sampled": 500,
-  "resolved": 497,
-  "unresolved": 3,
-  "version_desync": 93,
-  "desync_pct": 18.7,
+  "resolved": 491,
+  "unresolved": 9,
+  "version_desync": 114,
+  "desync_pct": 23.2,
   "ci95": [
-   15.5,
-   22.4
+   19.7,
+   27.2
   ],
   "extrapolated_desync": [
-   400,
-   577
+   496,
+   685
   ],
-  "description_drift": 29,
-  "drift_pct": 5.8
+  "description_drift": 20,
+  "drift_pct": 4.1
  },
  "examples_drift": [
   {
-   "server": "io.github.MICONNM/openclaw-consensus-mcp",
-   "pkg": "openclaw-consensus-mcp",
-   "prev": "MCP server for OpenClaw Consensus \u2014 9-LLM consensus to fight hallucinations. Built by yanm",
-   "cur": "MCP server for OpenClaw Consensus ??9-LLM consensus to fight hallucinations. Built by yanm"
+   "server": "io.github.afsozer/emsal-mcp",
+   "pkg": "emsal-mcp",
+   "prev": "Citation-safe MCP hukuk ara\u015ft\u0131rma ve belge haz\u0131rl\u0131k sistemi",
+   "cur": "emsal-mcp artik Dayanak: bu paket yalnizca `dayanak`i kurar (renamed to dayanak)"
   },
   {
-   "server": "io.github.almega-ai/almega-mcp",
-   "pkg": "almega-mcp",
-   "prev": "A wallet & guardrail for AI agents: per-agent spending limits, allow-listed categories, 1-",
-   "cur": "The immutable delegation frame for AI agents \u2014 set boundaries once, agents run free inside"
+   "server": "io.github.DanceNitra/mnemo",
+   "pkg": "agora-mnemo",
+   "prev": "The self-correcting memory layer for AI agents: when a fact is corrected, mnemo serves the",
+   "cur": "DEPRECATED - renamed to `inspeximus`. This release forwards to it; install `inspeximus` in"
   },
   {
-   "server": "io.github.AceDataCloud/mcp-nanobanana-pro",
-   "pkg": "mcp-nanobanana-pro",
-   "prev": "MCP Server for NanoBanana AI Image Generation via AceDataCloud API",
-   "cur": "Nano Banana (NanoBanana) image generation and editing by Ace Data Cloud via MCP"
+   "server": "io.github.CSOAI-ORG/quiz-generator-ai-mcp",
+   "pkg": "quiz-generator-ai-mcp",
+   "prev": "AI-powered quiz generator ai MCP server for agents. Supports generate quiz, validate answe",
+   "cur": "Quiz Generator Ai Mcp: generate quiz (Generate a quiz from provided content text.); valida"
+  },
+  {
+   "server": "com.altfndata/altfinance-mcp",
+   "pkg": "altfinance-mcp",
+   "prev": "MCP server for querying auction results across 20 luxury and collectibles categories via t",
+   "cur": "MCP server for querying auction results across 20 luxury and collectibles categories via t"
+  },
+  {
+   "server": "io.github.SnipMCP/gadschain",
+   "pkg": "gadschain",
+   "prev": "Google Ads MCP server \u2014 clean, agent-friendly tools over the Google Ads API.",
+   "cur": "Google Ads MCP server. Read campaigns, manage budgets, pause/enable, add negative keywords"
+  },
+  {
+   "server": "io.github.Blite-HQ/qnexus-mcp",
+   "pkg": "qnexus-mcp",
+   "prev": "A community MCP server for Quantinuum Nexus, wrapping the qnexus SDK. Not affiliated with ",
+   "cur": "MCP server for Quantinuum Nexus, wrapping the qnexus SDK. Not affiliated with Quantinuum."
   },
   {
    "server": "ai.magnemo/magnemo",
@@ -44,40 +62,22 @@
    "cur": "Persistent Memory for AI agents, in plain local files. Nothing becomes Memory until you ap"
   },
   {
-   "server": "io.github.Massed-Compute/mcp",
-   "pkg": "massed-compute-mcp",
-   "prev": "MCP server for the Massed Compute API.",
-   "cur": "Stdio bridge to the hosted Massed Compute MCP endpoint \u2014 a verbatim JSON-RPC pass-through."
+   "server": "io.github.RudrenduPaul/agent-observability",
+   "pkg": "agent-observability-trace-cli",
+   "prev": "Deterministic record and replay for LLM agent HTTP traffic. Capture a failing LangGraph, C",
+   "cur": "AI agent observability with deterministic record/replay \u2014 capture any LangGraph or OpenAI "
   },
   {
-   "server": "io.github.D4Vinci/Scrapling",
-   "pkg": "scrapling",
-   "prev": "Scrapling is an undetectable, powerful, flexible, high-performance Python library that mak",
-   "cur": "Scrapling is an undetectable, powerful, flexible, high-performance Python framework that m"
+   "server": "io.github.ArkNill/feedkit",
+   "pkg": "feedkit",
+   "prev": "RSS/Atom feed collection with 449 curated feeds. Python MCP server included.",
+   "cur": "RSS/Atom feed collection with 444 curated feeds. Python MCP server included."
   },
   {
-   "server": "io.github.5uper0/parley",
-   "pkg": "parley-consensus",
-   "prev": "Consensus among personal AI agents that faithfully represent owners with conflicting priva",
-   "cur": "Consensus among personal AI agents that faithfully represent owners with conflicting priva"
-  },
-  {
-   "server": "io.github.Huzy85/fantoma",
-   "pkg": "fantoma",
-   "prev": "Accessibility-first browser automation for AI agents. MCP server included. Runs on small l",
-   "cur": "Accessibility-first browser automation for AI agents. MCP server included. Reads pages wit"
-  },
-  {
-   "server": "io.github.cmendezs/mcp-einvoicing-be",
-   "pkg": "mcp-einvoicing-be",
-   "prev": "MCP server for Belgian electronic invoicing (Peppol BIS 3.0, UBL 2.1, PINT-EU, Mercurius)",
-   "cur": "MCP server for Belgian electronic invoicing (Peppol BIS 3.0, UBL 2.1, PINT-EU, Mercurius),"
-  },
-  {
-   "server": "io.github.KitchenSink4AI/kitchensink4xl",
-   "pkg": "kitchensink4xl",
-   "prev": "Read and edit Excel (.xlsx) files with your AI assistant: formulas, tables, CSV and JSON, ",
-   "cur": "Read and edit Excel (.xlsx) files with your AI assistant: 131 actions, a backup before eve"
+   "server": "io.github.MauroDruwel/smartschool-mcp",
+   "pkg": "smartschool-mcp",
+   "prev": "Access Smartschool courses, grades, assignments, and messages through the Model Context Pr",
+   "cur": "Access Smartschool courses, grades, assignments, messages, schedule, reports and more thro"
   }
  ]
 }

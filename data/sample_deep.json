@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-11-01T10:46:57Z",
- "universe_declared_github_repos": 15401,
- "universe_declared_npm_packages": 6017,
+ "generated_at": "2026-11-02T11:32:20Z",
+ "universe_declared_github_repos": 15554,
+ "universe_declared_npm_packages": 6029,
  "github_sample": {
   "n": 1200,
-  "dead": 190,
+  "dead": 189,
   "dead_pct": 15.8,
   "ci95": [
-   13.9,
-   18.0
+   13.8,
+   17.9
   ],
-  "archived": 18,
-  "no_license": 133,
-  "stale_365d": 7,
+  "archived": 16,
+  "no_license": 131,
+  "stale_365d": 8,
   "extrapolated_dead": [
-   2141,
-   2772
+   2146,
+   2784
   ]
  },
  "npm_sample": {
   "n": 800,
   "resolved": 785,
   "unresolved": 15,
-  "version_desync": 156,
-  "desync_pct": 19.5,
+  "version_desync": 205,
+  "desync_pct": 25.6,
   "ci95": [
-   16.9,
-   22.4
+   22.7,
+   28.8
   ],
-  "description_drift": 110,
-  "drift_pct": 13.8,
-  "desc_mismatch_vs_registry": 695,
-  "mismatch_pct": 86.9,
+  "description_drift": 135,
+  "drift_pct": 16.9,
+  "desc_mismatch_vs_registry": 688,
+  "mismatch_pct": 86.0,
   "extrapolated_desync": [
-   1017,
-   1348
+   1369,
+   1736
   ]
  },
  "examples_dead_repo": [
-  "checkra1neth/xbird",
-  "ArseneVrworworker/flatcash-mcp",
-  "novica-ai/sendfast",
-  "Lulu-The-Narwhal/lulu-platform",
-  "bkauto3/Conduit",
+  "abbacusgroup/Cortex",
+  "syntheticinc/syntheticbrew",
+  "corslet1/truth-api",
+  "rchtjn2-gif/indiarestros-mcp-server",
+  "progenly/progenly",
+  "c64dos-png/vector-mirror",
+  "SorcRR/HiveShip",
   "ee324/a2awire",
   "ee324/a2awire",
-  "Typeless-Git/fabrx-mcp-server",
-  "pavanmanishd/porticol",
-  "The-Lambda-Group/query-omega-mcp",
-  "Solara-Snipe-Bot/Solara-Snipe-Bot",
-  "yoannarz/nod-mcp",
+  "brightseth/vibe",
+  "atomsai/pyai-platform-backend",
+  "builtforai/builtforai-healthcare",
   "rooz21/x402",
-  "aiconsulting06000-tech/acf-mcp",
-  "6mickswagger9/x402-scrape-mcp"
+  "Goingparabolic/painprep-mcp-server",
+  "FoundryNet/cyber-intel-mcp"
  ],
  "examples_drift": [
   {
-   "server": "io.github.Be-Sure-Consulting/riskrover-mcp",
-   "pkg": "riskrover-mcp-server",
-   "prev": "Use any stdio MCP client for reviewed RiskRover product breakdowns and quality assignments",
-   "cur": "Draft and refine risk-based test plans in RiskRover and assess automated test coverage aga"
+   "server": "io.github.codeislaw101/katzilla",
+   "pkg": "@katzilla/mcp",
+   "prev": "MCP server for Katzilla \u2014 300+ data sources for Claude Desktop, Cursor, and AI agents.",
+   "cur": "MCP server for Katzilla \u2014 the government-data backbone for AI agents. Claude Desktop, Curs"
   },
   {
-   "server": "io.github.TychiWallet/tyi-mcp",
-   "pkg": "@tychilabs/tyi-mcp",
-   "prev": "Agent-native Tychi wallet MCP \u2014 onboard, status, chat, reset. Self-custody keys local; bra",
-   "cur": "Agent-native Tychi wallet MCP \u2014 onboard, status, chat, reset. Self-custody keys local; bra"
+   "server": "io.github.bguillow-rgb/perfume-picks",
+   "pkg": "perfume-picks-mcp",
+   "prev": "MCP server exposing the Perfume Picks fragrance database (13,000+ scents) as read-only too",
+   "cur": "MCP server exposing the Perfume Picks fragrance database (10,000+ scents) as read-only too"
   },
   {
-   "server": "com.quanttogo/quanttogo-mcp",
-   "pkg": "quanttogo-mcp",
-   "prev": "MCP Server for AI trading signals \u2014 8 live strategies across US and China markets. Free 30",
-   "cur": "\u98ce\u63a7\u5355 QuantToGo \u2014 MCP server: risk readings, reason checks and risk orders for A-share holdi"
-  },
-  {
-   "server": "io.github.codespar/mcp-c6",
-   "pkg": "@codespar/mcp-c6",
-   "prev": "MCP server for C6 Bank \u2014 top Brazilian digital bank backed by JPMorgan. Pix (cob/cobv), DI",
-   "cur": "DEPRECATED: no live endpoint (baas.c6bank.com.br does not resolve). MCP server for C6 Bank"
-  },
-  {
-   "server": "com.quiqsol/quiqsol",
-   "pkg": "@quiqsol/mcp",
+   "server": "io.github.apatilgtn/architecture-diagrams",
+   "pkg": "arch-diagram-mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Connect QuiQSol to Claude, ChatGPT, Cursor and any AI agent: a local MCP server (stdio) an"
+   "cur": "MCP server for AWS, Azure and GCP architecture diagrams with official icons (launches the "
   },
   {
-   "server": "io.github.Company-Gibraltar/company-gibraltar",
-   "pkg": "company-gibraltar-mcp",
-   "prev": "Gibraltar company tools for AI agents. Calculate corporate tax payments, check compliance ",
-   "cur": "Gibraltar company tools for AI agents. Calculate corporate tax payments, check compliance "
+   "server": "com.dataville/dataville-mcp",
+   "pkg": "@dataville/dataville-mcp",
+   "prev": "MCP server exposing Dataville's data source API as tools for MCP clients",
+   "cur": "MCP server for Dataville: SEC EDGAR filings, Wikipedia, arXiv, US Census and more for AI a"
   },
   {
-   "server": "io.github.cherninlab/ennodia",
-   "pkg": "ennodia",
-   "prev": "Try other agents, models, and skills from your familiar AI workflow through a local MCP se",
-   "cur": "Connects the AI agents you use: your agent hands a task to another and gets the answer bac"
-  },
-  {
-   "server": "com.mambabuilt/mcp-reddit-search-thread-scraper",
-   "pkg": "@mambalabsdev/mcp-reddit-search-thread-scraper",
+   "server": "ai.sinogate/mcp",
+   "pkg": "@sinogate/mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for Reddit Search and Thread Scraper. Reddit posts and comments by keyword, sub"
+   "cur": "Use SinoGate Chinese LLMs from MCP clients"
   },
   {
-   "server": "com.getspacepal/spacepal",
-   "pkg": "spacepal-mcp",
+   "server": "io.github.6mickswagger9/x402-risk-mcp",
+   "pkg": "x402-risk-mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for Spacepal: list, switch, rename macOS Spaces and move windows between them f"
+   "cur": "MCP server for x402 risk API: address risk, transaction risk, and full risk reports. Pay p"
   },
   {
-   "server": "com.decionis/commerce-gate",
-   "pkg": "@decionis/commerce",
-   "prev": "Commerce Gate MCP with seven commerce-action preflights, Walmart connection mappings, a D3",
-   "cur": "Commerce Gate MCP with eleven commerce-action preflights (seven published plus four unrele"
+   "server": "io.github.XGamesFun/solana-kit",
+   "pkg": "@xgamesfun/solana",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "One shared Solana program for game and community economies, its JS client, and the tools t"
+  },
+  {
+   "server": "com.spoolis/mcp",
+   "pkg": "@spoolis/mcp",
+   "prev": "Turn an agreement into verifiable acceptance criteria, verify fulfillment, and determine w",
+   "cur": "From Spoolis, financial guarantees for consequential AI work. This MCP server turns an agr"
+  },
+  {
+   "server": "io.github.adsandcode/serp-title-width",
+   "pkg": "mcp-server-serp-title-width",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "Check whether Chinese, Japanese and Korean page titles fit in Google search results by ren"
+  },
+  {
+   "server": "io.github.Unselfisheologism/supercarto",
+   "pkg": "supercarto",
+   "prev": "LLM-native spatial middleware. Give an AI agent a map of any location on earth as a token-",
+   "cur": "LLM-native spatial middleware. Give an AI agent a map of any location on earth as a token-"
   }
  ]
 }

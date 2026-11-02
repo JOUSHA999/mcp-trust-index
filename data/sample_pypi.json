@@ -1,83 +1,83 @@
 {
- "generated_at": "2026-11-01T10:47:07Z",
- "universe_declared_pypi": 2519,
+ "generated_at": "2026-11-02T11:32:30Z",
+ "universe_declared_pypi": 2533,
  "sample": {
   "n_sampled": 500,
-  "resolved": 491,
-  "unresolved": 9,
-  "version_desync": 114,
-  "desync_pct": 23.2,
+  "resolved": 495,
+  "unresolved": 5,
+  "version_desync": 95,
+  "desync_pct": 19.2,
   "ci95": [
-   19.7,
-   27.2
+   16.0,
+   22.9
   ],
   "extrapolated_desync": [
-   496,
-   685
+   405,
+   580
   ],
-  "description_drift": 20,
-  "drift_pct": 4.1
+  "description_drift": 29,
+  "drift_pct": 5.9
  },
  "examples_drift": [
   {
-   "server": "io.github.afsozer/emsal-mcp",
-   "pkg": "emsal-mcp",
-   "prev": "Citation-safe MCP hukuk ara\u015ft\u0131rma ve belge haz\u0131rl\u0131k sistemi",
-   "cur": "emsal-mcp artik Dayanak: bu paket yalnizca `dayanak`i kurar (renamed to dayanak)"
+   "server": "io.github.Ivanolegvak/sonar-mcp",
+   "pkg": "getsonar-mcp",
+   "prev": "MCP server for SONAR \u2014 KYB due diligence, competitive intelligence, and strategic accounts",
+   "cur": "MCP server for SONAR: KYB due diligence on vendors, partners and resellers (registries, sa"
   },
   {
-   "server": "io.github.DanceNitra/mnemo",
-   "pkg": "agora-mnemo",
-   "prev": "The self-correcting memory layer for AI agents: when a fact is corrected, mnemo serves the",
-   "cur": "DEPRECATED - renamed to `inspeximus`. This release forwards to it; install `inspeximus` in"
+   "server": "dev.fly.veles-finance-gateway/veles-finance-mcp",
+   "pkg": "veles-finance-mcp",
+   "prev": "MCP server for Veles Finance Agent \u2014 AI-powered financial analysis via x402 micropayments ",
+   "cur": "Veles Finance Agent MCP server \u2014 institutional DD reports for Claude Desktop, Cursor, Wind"
   },
   {
-   "server": "io.github.CSOAI-ORG/quiz-generator-ai-mcp",
-   "pkg": "quiz-generator-ai-mcp",
-   "prev": "AI-powered quiz generator ai MCP server for agents. Supports generate quiz, validate answe",
-   "cur": "Quiz Generator Ai Mcp: generate quiz (Generate a quiz from provided content text.); valida"
+   "server": "io.github.Massed-Compute/mcp",
+   "pkg": "massed-compute-mcp",
+   "prev": "MCP server for the Massed Compute API.",
+   "cur": "Stdio bridge to the hosted Massed Compute MCP endpoint \u2014 a verbatim JSON-RPC pass-through."
   },
   {
-   "server": "com.altfndata/altfinance-mcp",
-   "pkg": "altfinance-mcp",
-   "prev": "MCP server for querying auction results across 20 luxury and collectibles categories via t",
-   "cur": "MCP server for querying auction results across 20 luxury and collectibles categories via t"
+   "server": "io.github.ahmedEid1/forgejudge",
+   "pkg": "forgejudge",
+   "prev": "Reserved for ForgeJudge \u2014 open eval leaderboard + CI gate for autonomous coding agents.",
+   "cur": "Open, always-on leaderboard + CI gate for autonomous coding agents \u2014 every patch sandboxed"
   },
   {
-   "server": "io.github.SnipMCP/gadschain",
-   "pkg": "gadschain",
-   "prev": "Google Ads MCP server \u2014 clean, agent-friendly tools over the Google Ads API.",
-   "cur": "Google Ads MCP server. Read campaigns, manage budgets, pause/enable, add negative keywords"
+   "server": "io.github.alyiox/mcp-atlassian-attachments",
+   "pkg": "mcp-atlassian-attachments",
+   "prev": "MCP server for downloading Jira and Confluence Cloud attachments",
+   "cur": "MCP server for downloading Jira and Confluence Cloud attachments and uploading Jira attach"
   },
   {
-   "server": "io.github.Blite-HQ/qnexus-mcp",
-   "pkg": "qnexus-mcp",
-   "prev": "A community MCP server for Quantinuum Nexus, wrapping the qnexus SDK. Not affiliated with ",
-   "cur": "MCP server for Quantinuum Nexus, wrapping the qnexus SDK. Not affiliated with Quantinuum."
+   "server": "com.macaroonnetwork/mcp-server",
+   "pkg": "macaroonnetwork-mcp",
+   "prev": "MCP client for Macaroon Network -- discover and buy from a live marketplace where AI agent",
+   "cur": "MCP discovery router for Macaroon Network categories, sources, vertical MCPs, and x402 USD"
   },
   {
-   "server": "ai.magnemo/magnemo",
-   "pkg": "magnemo-mcp",
-   "prev": "Governed memory for AI agents. Memory with receipts. (MCP server entry point for magnemo)",
-   "cur": "Persistent Memory for AI agents, in plain local files. Nothing becomes Memory until you ap"
+   "server": "io.github.BigJai/tokennuke",
+   "pkg": "tokennuke",
+   "prev": "Nuke your token usage. Intelligent code indexer with O(1) symbol retrieval, hybrid search,",
+   "cur": "Intelligent code indexing MCP server. Tree-sitter AST extraction, hybrid search (FTS5 + ve"
   },
   {
-   "server": "io.github.RudrenduPaul/agent-observability",
-   "pkg": "agent-observability-trace-cli",
-   "prev": "Deterministic record and replay for LLM agent HTTP traffic. Capture a failing LangGraph, C",
-   "cur": "AI agent observability with deterministic record/replay \u2014 capture any LangGraph or OpenAI "
+   "server": "io.github.atomno-mcp/mcp-pharma",
+   "pkg": "atomno-mcp-pharma",
+   "prev": "MCP server: Russian drug reference \u2014 check \u0413\u0420\u041b\u0421 registration status, get a drug card (form",
+   "cur": "MCP client for Russian drug reference: official GRLS, VEDL prices and Roszdravnadzor serie"
   },
   {
-   "server": "io.github.ArkNill/feedkit",
-   "pkg": "feedkit",
-   "prev": "RSS/Atom feed collection with 449 curated feeds. Python MCP server included.",
-   "cur": "RSS/Atom feed collection with 444 curated feeds. Python MCP server included."
+   "server": "io.github.bawbel/bawbel-scanner",
+   "pkg": "bawbel-scanner",
+   "prev": "Agentic AI component security scanner. Detects AVE vulnerabilities. Produces OWASP AIVSS v",
+   "cur": "Security linter and scanner for MCP servers and AI skill files. Detects toxic flows, promp"
   },
   {
-   "server": "io.github.MauroDruwel/smartschool-mcp",
-   "pkg": "smartschool-mcp",
-   "prev": "Access Smartschool courses, grades, assignments, and messages through the Model Context Pr",
-   "cur": "Access Smartschool courses, grades, assignments, messages, schedule, reports and more thro"
+   "server": "io.github.Arun-kc/schemabrain",
+   "pkg": "schemabrain",
+   "prev": "The SQL firewall between AI agents and your production database.",
+   "cur": "The trust and intelligence layer between AI agents and your database."
   }
  ]
 }

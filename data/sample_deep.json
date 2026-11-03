@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-11-02T11:32:20Z",
- "universe_declared_github_repos": 15554,
- "universe_declared_npm_packages": 6029,
+ "generated_at": "2026-11-03T11:08:23Z",
+ "universe_declared_github_repos": 15715,
+ "universe_declared_npm_packages": 6016,
  "github_sample": {
   "n": 1200,
-  "dead": 189,
-  "dead_pct": 15.8,
+  "dead": 180,
+  "dead_pct": 15.0,
   "ci95": [
-   13.8,
-   17.9
+   13.1,
+   17.1
   ],
-  "archived": 16,
-  "no_license": 131,
-  "stale_365d": 8,
+  "archived": 9,
+  "no_license": 132,
+  "stale_365d": 10,
   "extrapolated_dead": [
-   2146,
-   2784
+   2059,
+   2687
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 785,
-  "unresolved": 15,
-  "version_desync": 205,
-  "desync_pct": 25.6,
+  "resolved": 786,
+  "unresolved": 14,
+  "version_desync": 176,
+  "desync_pct": 22.0,
   "ci95": [
-   22.7,
-   28.8
+   19.3,
+   25.0
   ],
-  "description_drift": 135,
-  "drift_pct": 16.9,
-  "desc_mismatch_vs_registry": 688,
-  "mismatch_pct": 86.0,
+  "description_drift": 142,
+  "drift_pct": 17.8,
+  "desc_mismatch_vs_registry": 707,
+  "mismatch_pct": 88.4,
   "extrapolated_desync": [
-   1369,
-   1736
+   1161,
+   1504
   ]
  },
  "examples_dead_repo": [
-  "abbacusgroup/Cortex",
-  "syntheticinc/syntheticbrew",
-  "corslet1/truth-api",
-  "rchtjn2-gif/indiarestros-mcp-server",
-  "progenly/progenly",
-  "c64dos-png/vector-mirror",
-  "SorcRR/HiveShip",
+  "JDWilliums/crumbless",
+  "JakubTrousil/agentsjunction",
+  "bjnagent/crowd",
+  "Writehand-Solutions/productised-mcp",
+  "OchaNomitsu/Uncle-Haven",
   "ee324/a2awire",
   "ee324/a2awire",
-  "brightseth/vibe",
-  "atomsai/pyai-platform-backend",
-  "builtforai/builtforai-healthcare",
-  "rooz21/x402",
-  "Goingparabolic/painprep-mcp-server",
-  "FoundryNet/cyber-intel-mcp"
+  "adiny/nomad-crypto-travel",
+  "Empower-AI-training/usda-ps-counterparty-guard",
+  "0xsims/rubric-mcp",
+  "CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-toolprint-mcp",
+  "CommonNinja/commonninja-mcp-server",
+  "TravisLinkey/provision-stack",
+  "Ravesteijntjes/qquickpick",
+  "crystalsignal/saferoute"
  ],
  "examples_drift": [
   {
-   "server": "io.github.codeislaw101/katzilla",
-   "pkg": "@katzilla/mcp",
-   "prev": "MCP server for Katzilla \u2014 300+ data sources for Claude Desktop, Cursor, and AI agents.",
-   "cur": "MCP server for Katzilla \u2014 the government-data backbone for AI agents. Claude Desktop, Curs"
-  },
-  {
-   "server": "io.github.bguillow-rgb/perfume-picks",
-   "pkg": "perfume-picks-mcp",
-   "prev": "MCP server exposing the Perfume Picks fragrance database (13,000+ scents) as read-only too",
-   "cur": "MCP server exposing the Perfume Picks fragrance database (10,000+ scents) as read-only too"
-  },
-  {
-   "server": "io.github.apatilgtn/architecture-diagrams",
-   "pkg": "arch-diagram-mcp",
+   "server": "com.tradealmanac/mcp-server",
+   "pkg": "@tradealmanac/mcp-server",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for AWS, Azure and GCP architecture diagrams with official icons (launches the "
+   "cur": "MCP server for the TradeAlmanac public API: dividends, screener, indicators, calendar effe"
   },
   {
-   "server": "com.dataville/dataville-mcp",
-   "pkg": "@dataville/dataville-mcp",
-   "prev": "MCP server exposing Dataville's data source API as tools for MCP clients",
-   "cur": "MCP server for Dataville: SEC EDGAR filings, Wikipedia, arXiv, US Census and more for AI a"
-  },
-  {
-   "server": "ai.sinogate/mcp",
-   "pkg": "@sinogate/mcp",
+   "server": "io.github.CloudCorpRecords/vaultnotes",
+   "pkg": "@reneturcios/vaultnotes",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Use SinoGate Chinese LLMs from MCP clients"
+   "cur": "Work with a local vault of markdown notes: list, read, search, append, patch, and delete f"
   },
   {
-   "server": "io.github.6mickswagger9/x402-risk-mcp",
-   "pkg": "x402-risk-mcp",
+   "server": "io.github.Vovala14/vynly-mcp",
+   "pkg": "@vynly/mcp",
+   "prev": "MCP server for Vynly \u2014 the AI-only social feed. Exposes post/spark/read/search tools to MC",
+   "cur": "MCP server for Vynly - the AI-only social feed. Post AI images, carousels and video, plus "
+  },
+  {
+   "server": "io.github.SemanticDataCharter/sdcvalidator-ts",
+   "pkg": "sdcvalidator-ts",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for x402 risk API: address risk, transaction risk, and full risk reports. Pay p"
+   "cur": "SDC4 validation in TypeScript: validates Governed Data Records against their published SDC"
   },
   {
-   "server": "io.github.XGamesFun/solana-kit",
-   "pkg": "@xgamesfun/solana",
+   "server": "ai.agenttrust/mcp-server",
+   "pkg": "@agenttrust/mcp-server",
+   "prev": "MCP server for AgentTrust \u2014 email, file storage, and instant messaging for AI agents",
+   "cur": "Free email for AI agents, instant messaging between agents, and cloud file storage \u2014 all t"
+  },
+  {
+   "server": "io.github.STiFLeR7/memex",
+   "pkg": "stifler-memex-mcp",
+   "prev": "Trusted engineering context for agentic software engineering via Hermes MemoryProvider and",
+   "cur": "Open-source MCP server and hook service that keeps Claude Code and Codex engineering conte"
+  },
+  {
+   "server": "com.fynepdf/fynepdf",
+   "pkg": "@fynepdf/mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "One shared Solana program for game and community economies, its JS client, and the tools t"
+   "cur": "FynePDF's MCP server over stdio, with tools to upload files from this computer and save re"
   },
   {
-   "server": "com.spoolis/mcp",
-   "pkg": "@spoolis/mcp",
-   "prev": "Turn an agreement into verifiable acceptance criteria, verify fulfillment, and determine w",
-   "cur": "From Spoolis, financial guarantees for consequential AI work. This MCP server turns an agr"
-  },
-  {
-   "server": "io.github.adsandcode/serp-title-width",
-   "pkg": "mcp-server-serp-title-width",
+   "server": "io.github.CloudCorpRecords/routerbase",
+   "pkg": "@reneturcios/routerbase",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Check whether Chinese, Japanese and Korean page titles fit in Google search results by ren"
+   "cur": "Router factory defaults, UK PSTI / EU CRA default-password compliance checks, and MAC addr"
   },
   {
-   "server": "io.github.Unselfisheologism/supercarto",
-   "pkg": "supercarto",
-   "prev": "LLM-native spatial middleware. Give an AI agent a map of any location on earth as a token-",
-   "cur": "LLM-native spatial middleware. Give an AI agent a map of any location on earth as a token-"
+   "server": "io.github.CloudCorpRecords/searchport",
+   "pkg": "@reneturcios/searchport",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "Search the web, local listings, news, images, and videos through the Brave Search API. One"
+  },
+  {
+   "server": "io.github.0design/aindf",
+   "pkg": "@ai-native-design-framework/kit",
+   "prev": "Placeholder. The kit is published from GitHub Actions; use version 0.2.1 or newer.",
+   "cur": "AINDF v2 kit: conformance check, immutable DS bundle, ScreenSpec admission, Next.js codege"
   }
  ]
 }

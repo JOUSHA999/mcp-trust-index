@@ -1,83 +1,83 @@
 {
- "generated_at": "2026-11-03T11:08:32Z",
- "universe_declared_pypi": 2550,
+ "generated_at": "2026-11-04T11:13:54Z",
+ "universe_declared_pypi": 2522,
  "sample": {
   "n_sampled": 500,
-  "resolved": 497,
-  "unresolved": 3,
-  "version_desync": 92,
-  "desync_pct": 18.5,
+  "resolved": 498,
+  "unresolved": 2,
+  "version_desync": 102,
+  "desync_pct": 20.5,
   "ci95": [
-   15.3,
-   22.2
+   17.2,
+   24.2
   ],
   "extrapolated_desync": [
-   390,
-   566
+   434,
+   610
   ],
-  "description_drift": 20,
-  "drift_pct": 4.0
+  "description_drift": 32,
+  "drift_pct": 6.4
  },
  "examples_drift": [
   {
-   "server": "io.github.TranThienTrong/asset-auto-picker",
-   "pkg": "asset-auto-picker",
-   "prev": "Add your description here",
-   "cur": "The MCP Server use for auto pick file"
+   "server": "io.github.ThiagoJacobLannes/portugal-mcp",
+   "pkg": "portugal-mcp",
+   "prev": "Portugal's public data for AI assistants in one MCP server: weather (IPMA), places, INE an",
+   "cur": "Portugal's public data for AI assistants in one MCP server: weather (IPMA), places, INE an"
   },
   {
-   "server": "io.arcaeon/adapter",
-   "pkg": "arcaeon-adapter",
-   "prev": "Compatibility shim: arcaeon-adapter is now part of arcaeon (arcaeon.record.adapter). Insta",
-   "cur": "Compatibility shim: arcaeon-adapter is now part of arcaeon (arcaeon.record.adapter). Insta"
+   "server": "io.github.5uper0/parley",
+   "pkg": "parley-consensus",
+   "prev": "Consensus among personal AI agents that faithfully represent owners with conflicting priva",
+   "cur": "Consensus among personal AI agents that faithfully represent owners with conflicting priva"
   },
   {
-   "server": "io.github.AMRITO-KUNDU/llmscribe",
-   "pkg": "llmscribe",
-   "prev": "Deterministic repository extractor and structured code-access tool for local projects and ",
-   "cur": "Deterministic project extractor and structured code-access tool for local projects."
+   "server": "app.srift/srift",
+   "pkg": "srift",
+   "prev": "Send any file as a download link from the CLI, Python or an AI agent (MCP server). Encrypt",
+   "cur": "Decentralized, end-to-end encrypted P2P file transfer, chat and calls: human to human, hum"
   },
   {
-   "server": "io.github.andreasd083/amazing-marvin-complete-mcp",
-   "pkg": "amazing-marvin-complete-mcp",
-   "prev": "MCP server for Amazing Marvin with complete public-API coverage (34 tools)",
-   "cur": "MCP server for Amazing Marvin with complete public-API coverage (50 tools)"
+   "server": "io.github.Jason26214/computer-use-omni",
+   "pkg": "computer-use-omni",
+   "prev": "Windows computer-use MCP for the Claude Code CLI \u2014 a 1:1 replica of Claude Desktop's compu",
+   "cur": "Renamed: this project is now published as omni-computer-use-mcp. This package just forward"
   },
   {
-   "server": "io.github.chopmob-cloud/algovoi-mcp-server",
-   "pkg": "algovoi-mcp",
-   "prev": "MCP server for AlgoVoi \u2014 create crypto payment links, verify payments, probe MPP endpoints",
-   "cur": "MCP server for AlgoVoi \u2014 create crypto payment links, verify payments, probe MPP endpoints"
+   "server": "io.github.MauroDruwel/smartschool-mcp",
+   "pkg": "smartschool-mcp",
+   "prev": "Access Smartschool courses, grades, assignments, and messages through the Model Context Pr",
+   "cur": "Access Smartschool courses, grades, assignments, messages, schedule, reports and more thro"
   },
   {
-   "server": "io.github.ArkNill/feedkit",
-   "pkg": "feedkit",
-   "prev": "RSS/Atom feed collection with 449 curated feeds. Python MCP server included.",
-   "cur": "RSS/Atom feed collection with 444 curated feeds. Python MCP server included."
+   "server": "io.github.ahmedEid1/forgejudge",
+   "pkg": "forgejudge",
+   "prev": "Reserved for ForgeJudge \u2014 open eval leaderboard + CI gate for autonomous coding agents.",
+   "cur": "Open, always-on leaderboard + CI gate for autonomous coding agents \u2014 every patch sandboxed"
   },
   {
-   "server": "io.github.chernistry/bernstein",
-   "pkg": "bernstein",
-   "prev": "The open-source governance layer for AI agents. No model in the coordination loop, so repl",
-   "cur": "The open-source governance layer for AI agents. No model in the coordination loop, so repl"
+   "server": "io.github.CSOAI-ORG/quiz-generator-ai-mcp",
+   "pkg": "quiz-generator-ai-mcp",
+   "prev": "AI-powered quiz generator ai MCP server for agents. Supports generate quiz, validate answe",
+   "cur": "Quiz Generator Ai Mcp: generate quiz (Generate a quiz from provided content text.); valida"
   },
   {
-   "server": "io.github.Blite-HQ/qnexus-mcp",
-   "pkg": "qnexus-mcp",
-   "prev": "A community MCP server for Quantinuum Nexus, wrapping the qnexus SDK. Not affiliated with ",
-   "cur": "MCP server for Quantinuum Nexus, wrapping the qnexus SDK. Not affiliated with Quantinuum."
+   "server": "io.github.TheRealDataBoss/contextkeeper",
+   "pkg": "contextkeeper",
+   "prev": "Zero model drift between AI agents. Universal session continuity CLI and Python library fo",
+   "cur": "DEPRECATED: contextkeeper is now vaultit. Install: pip install vaultit"
   },
   {
-   "server": "io.github.YichengYang-Ethan/oracle3",
-   "pkg": "oracle3",
-   "prev": "Paper-trading engine and MCP server for prediction markets (Kalshi, Polymarket): no-arbitr",
-   "cur": "Trading engine and MCP server for prediction markets: fee-aware no-arbitrage trading acros"
+   "server": "com.mcparmory/google-drive",
+   "pkg": "mcparmory-google-drive",
+   "prev": "MCP server for Google Drive",
+   "cur": "Manage files, folders, permissions, and collaborative content in Google Drive"
   },
   {
-   "server": "io.github.ThiagoJacobLannes/sns-portugal-mcp",
-   "pkg": "sns-portugal-mcp",
-   "prev": "MCP server for official open-data statistics about Portugal's national health service (SNS",
-   "cur": "DEPRECATED: now part of portugal-mcp. MCP server for official open-data statistics about P"
+   "server": "io.github.ThiagoJacobLannes/portugal-medicines-mcp",
+   "pkg": "portugal-medicines-mcp",
+   "prev": "MCP server for medicine shortages and pharmacies on duty in Portugal (public sources, read",
+   "cur": "DEPRECATED: now part of portugal-mcp. MCP server for medicine shortages and pharmacies on "
   }
  ]
 }

@@ -1,89 +1,71 @@
 {
- "generated_at": "2026-11-03T11:08:23Z",
- "universe_declared_github_repos": 15715,
- "universe_declared_npm_packages": 6016,
+ "generated_at": "2026-11-04T11:13:46Z",
+ "universe_declared_github_repos": 15631,
+ "universe_declared_npm_packages": 5961,
  "github_sample": {
   "n": 1200,
-  "dead": 180,
-  "dead_pct": 15.0,
+  "dead": 195,
+  "dead_pct": 16.2,
   "ci95": [
-   13.1,
-   17.1
+   14.3,
+   18.4
   ],
-  "archived": 9,
-  "no_license": 132,
-  "stale_365d": 10,
+  "archived": 16,
+  "no_license": 133,
+  "stale_365d": 11,
   "extrapolated_dead": [
-   2059,
-   2687
+   2235,
+   2876
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 786,
-  "unresolved": 14,
-  "version_desync": 176,
-  "desync_pct": 22.0,
+  "resolved": 783,
+  "unresolved": 17,
+  "version_desync": 157,
+  "desync_pct": 19.6,
   "ci95": [
-   19.3,
-   25.0
+   17.0,
+   22.5
   ],
-  "description_drift": 142,
-  "drift_pct": 17.8,
-  "desc_mismatch_vs_registry": 707,
-  "mismatch_pct": 88.4,
+  "description_drift": 140,
+  "drift_pct": 17.5,
+  "desc_mismatch_vs_registry": 702,
+  "mismatch_pct": 87.8,
   "extrapolated_desync": [
-   1161,
-   1504
+   1013,
+   1341
   ]
  },
  "examples_dead_repo": [
-  "JDWilliums/crumbless",
-  "JakubTrousil/agentsjunction",
-  "bjnagent/crowd",
-  "Writehand-Solutions/productised-mcp",
-  "OchaNomitsu/Uncle-Haven",
+  "beepboop2025/pdf-suite-mcp",
   "ee324/a2awire",
   "ee324/a2awire",
-  "adiny/nomad-crypto-travel",
-  "Empower-AI-training/usda-ps-counterparty-guard",
-  "0xsims/rubric-mcp",
-  "CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-toolprint-mcp",
-  "CommonNinja/commonninja-mcp-server",
-  "TravisLinkey/provision-stack",
-  "Ravesteijntjes/qquickpick",
-  "crystalsignal/saferoute"
+  "mrmps/SMRY",
+  "prak16/PaniniOS",
+  "beshogun/milewiseai",
+  "seolith-llc/seolith-tax-manager",
+  "data-mindset/sts-google-forms-mcp",
+  "RCOLKITT/hardening-mcp",
+  "CyberMax-tools/product-factory",
+  "TartanHQ/mcp-be",
+  "AndreaBarghigiani/career-crafting",
+  "billylui/temporal-cortex-mcp",
+  "Seamgrin/dubdubdub",
+  "RCOLKITT/VasperaMemory"
  ],
  "examples_drift": [
   {
-   "server": "com.tradealmanac/mcp-server",
-   "pkg": "@tradealmanac/mcp-server",
+   "server": "com.yatmo/yatmo",
+   "pkg": "@yatmo/mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for the TradeAlmanac public API: dividends, screener, indicators, calendar effe"
+   "cur": "Yatmo MCP server (local stdio edition): neighbourhood data for AI assistants and agents. N"
   },
   {
-   "server": "io.github.CloudCorpRecords/vaultnotes",
-   "pkg": "@reneturcios/vaultnotes",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Work with a local vault of markdown notes: list, read, search, append, patch, and delete f"
-  },
-  {
-   "server": "io.github.Vovala14/vynly-mcp",
-   "pkg": "@vynly/mcp",
-   "prev": "MCP server for Vynly \u2014 the AI-only social feed. Exposes post/spark/read/search tools to MC",
-   "cur": "MCP server for Vynly - the AI-only social feed. Post AI images, carousels and video, plus "
-  },
-  {
-   "server": "io.github.SemanticDataCharter/sdcvalidator-ts",
-   "pkg": "sdcvalidator-ts",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "SDC4 validation in TypeScript: validates Governed Data Records against their published SDC"
-  },
-  {
-   "server": "ai.agenttrust/mcp-server",
-   "pkg": "@agenttrust/mcp-server",
-   "prev": "MCP server for AgentTrust \u2014 email, file storage, and instant messaging for AI agents",
-   "cur": "Free email for AI agents, instant messaging between agents, and cloud file storage \u2014 all t"
+   "server": "io.github.codespar/mcp-ap2",
+   "pkg": "@codespar/mcp-ap2",
+   "prev": "MCP server for AP2 \u2014 Google's Agent-to-Agent Payment Protocol (authorization, audit, trust",
+   "cur": "DEPRECATED: no live endpoint (AP2 is a spec; ap2.googleapis.com serves no API). MCP server"
   },
   {
    "server": "io.github.STiFLeR7/memex",
@@ -92,28 +74,46 @@
    "cur": "Open-source MCP server and hook service that keeps Claude Code and Codex engineering conte"
   },
   {
-   "server": "com.fynepdf/fynepdf",
-   "pkg": "@fynepdf/mcp",
+   "server": "io.github.CloudCorpRecords/mapport",
+   "pkg": "@reneturcios/mapport",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "FynePDF's MCP server over stdio, with tools to upload files from this computer and save re"
+   "cur": "Geocode addresses, search places, and get directions, distances, and elevation through the"
   },
   {
-   "server": "io.github.CloudCorpRecords/routerbase",
-   "pkg": "@reneturcios/routerbase",
+   "server": "io.github.CloudCorpRecords/mediafleet",
+   "pkg": "@reneturcios/mediafleet",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Router factory defaults, UK PSTI / EU CRA default-password compliance checks, and MAC addr"
+   "cur": "Code Mode for a self-hosted media stack: run one JavaScript async arrow function in a sand"
   },
   {
-   "server": "io.github.CloudCorpRecords/searchport",
-   "pkg": "@reneturcios/searchport",
+   "server": "io.github.CloudCorpRecords/imageport",
+   "pkg": "@reneturcios/imageport",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Search the web, local listings, news, images, and videos through the Brave Search API. One"
+   "cur": "Local image processing over ImageMagick: read metadata, resize, convert between formats, c"
   },
   {
-   "server": "io.github.0design/aindf",
-   "pkg": "@ai-native-design-framework/kit",
-   "prev": "Placeholder. The kit is published from GitHub Actions; use version 0.2.1 or newer.",
-   "cur": "AINDF v2 kit: conformance check, immutable DS bundle, ScreenSpec admission, Next.js codege"
+   "server": "io.github.botzrDev/dreamd",
+   "pkg": "dreamd-mcp",
+   "prev": "Local-first memory for AI coding agents. One .agent/ folder shared by Claude Code, Cursor ",
+   "cur": "Agent memory you can audit. Every lesson cites its source; trace a bad memory and remove i"
+  },
+  {
+   "server": "io.github.Vitalini/ebb-ai",
+   "pkg": "@ebb-ai/mcp",
+   "prev": "MCP server: run non-urgent LLM tasks at the cleanest grid hour before a deadline, via Batc",
+   "cur": "Renamed to @tidegap/mcp. This shim starts the @tidegap/mcp server and stops receiving upda"
+  },
+  {
+   "server": "holdings.proof/mcp-server",
+   "pkg": "@proof-holdings/mcp-server",
+   "prev": "MCP server for the proof.holdings API \u2014 167 tools for identity verification, proofs, and a",
+   "cur": "MCP server for the proof.holdings API \u2014 176 tools for identity verification, proofs, and a"
+  },
+  {
+   "server": "io.github.CloudCorpRecords/weatherport",
+   "pkg": "@reneturcios/weatherport",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "Answer weather questions through OpenWeather: current conditions, five-day forecasts, One "
   }
  ]
 }

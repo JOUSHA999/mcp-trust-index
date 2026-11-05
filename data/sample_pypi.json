@@ -1,83 +1,83 @@
 {
- "generated_at": "2026-11-04T11:13:54Z",
- "universe_declared_pypi": 2522,
+ "generated_at": "2026-11-05T11:13:33Z",
+ "universe_declared_pypi": 2500,
  "sample": {
   "n_sampled": 500,
-  "resolved": 498,
-  "unresolved": 2,
-  "version_desync": 102,
-  "desync_pct": 20.5,
+  "resolved": 495,
+  "unresolved": 5,
+  "version_desync": 101,
+  "desync_pct": 20.4,
   "ci95": [
-   17.2,
+   17.1,
    24.2
   ],
   "extrapolated_desync": [
-   434,
-   610
+   428,
+   605
   ],
-  "description_drift": 32,
-  "drift_pct": 6.4
+  "description_drift": 27,
+  "drift_pct": 5.5
  },
  "examples_drift": [
   {
-   "server": "io.github.ThiagoJacobLannes/portugal-mcp",
-   "pkg": "portugal-mcp",
-   "prev": "Portugal's public data for AI assistants in one MCP server: weather (IPMA), places, INE an",
-   "cur": "Portugal's public data for AI assistants in one MCP server: weather (IPMA), places, INE an"
+   "server": "app.peil/peil-mcp",
+   "pkg": "peil-mcp",
+   "prev": "MCP server for Peil \u2014 log hours, draft invoices and check where you stand from an AI assis",
+   "cur": "MCP server for Peil \u2014 log hours, draft invoices, add expenses and check where you stand fr"
   },
   {
-   "server": "io.github.5uper0/parley",
-   "pkg": "parley-consensus",
-   "prev": "Consensus among personal AI agents that faithfully represent owners with conflicting priva",
-   "cur": "Consensus among personal AI agents that faithfully represent owners with conflicting priva"
+   "server": "io.github.Buggy1111/wrapper-mcp",
+   "pkg": "wrapper-mcp",
+   "prev": "MCP server wrapping LINDAT NLP tools \u2014 production-grade anonymization, multilingual NER (3",
+   "cur": "DEPRECATED \u2014 renamed to anonymize-mcp. Run: pip install anonymize-mcp"
   },
   {
-   "server": "app.srift/srift",
-   "pkg": "srift",
-   "prev": "Send any file as a download link from the CLI, Python or an AI agent (MCP server). Encrypt",
-   "cur": "Decentralized, end-to-end encrypted P2P file transfer, chat and calls: human to human, hum"
+   "server": "io.github.anp2protocol/anp2-mcp-server",
+   "pkg": "anp2-mcp-server",
+   "prev": "MCP server for ANP2 \u2014 where AI agents talk, share knowledge, build trust, and (when useful",
+   "cur": "MCP server for ANP2 \u2014 where AI agents talk, share knowledge, build trust, and (when useful"
   },
   {
-   "server": "io.github.Jason26214/computer-use-omni",
-   "pkg": "computer-use-omni",
-   "prev": "Windows computer-use MCP for the Claude Code CLI \u2014 a 1:1 replica of Claude Desktop's compu",
-   "cur": "Renamed: this project is now published as omni-computer-use-mcp. This package just forward"
+   "server": "ai.bowmark/bowmark",
+   "pkg": "bowmark-mcp",
+   "prev": "Bowmark MCP over stdio \u2014 a thin bridge to the hosted Bowmark MCP at https://api.bowmark.ai",
+   "cur": "Bowmark MCP for stdio hosts: web scraping and automation for AI agents. Live prices, quote"
   },
   {
-   "server": "io.github.MauroDruwel/smartschool-mcp",
-   "pkg": "smartschool-mcp",
-   "prev": "Access Smartschool courses, grades, assignments, and messages through the Model Context Pr",
-   "cur": "Access Smartschool courses, grades, assignments, messages, schedule, reports and more thro"
+   "server": "io.github.atomno-mcp/mcp-pharma",
+   "pkg": "atomno-mcp-pharma",
+   "prev": "MCP server: Russian drug reference \u2014 check \u0413\u0420\u041b\u0421 registration status, get a drug card (form",
+   "cur": "MCP client for Russian drug reference: official GRLS, VEDL prices and Roszdravnadzor serie"
   },
   {
-   "server": "io.github.ahmedEid1/forgejudge",
-   "pkg": "forgejudge",
-   "prev": "Reserved for ForgeJudge \u2014 open eval leaderboard + CI gate for autonomous coding agents.",
-   "cur": "Open, always-on leaderboard + CI gate for autonomous coding agents \u2014 every patch sandboxed"
+   "server": "io.github.atomno-mcp/mcp-zakupki",
+   "pkg": "atomno-mcp-zakupki",
+   "prev": "MCP-\u0441\u0435\u0440\u0432\u0435\u0440 \u0434\u043b\u044f \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0445 \u0433\u043e\u0441\u0437\u0430\u043a\u0443\u043f\u043e\u043a (zakupki.gov.ru, 44-\u0424\u0417 / 223-\u0424\u0417 / 615-\u041f\u041f): \u043f\u043e\u0438\u0441\u043a \u0442\u0435\u043d\u0434",
+   "cur": "MCP-\u0441\u0435\u0440\u0432\u0435\u0440 \u0434\u043b\u044f \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0445 \u0433\u043e\u0441\u0437\u0430\u043a\u0443\u043f\u043e\u043a (zakupki.gov.ru, 44-\u0424\u0417 / 223-\u0424\u0417 / 615-\u041f\u041f): \u043f\u043e\u0438\u0441\u043a, \u043a\u0430\u0440"
   },
   {
-   "server": "io.github.CSOAI-ORG/quiz-generator-ai-mcp",
-   "pkg": "quiz-generator-ai-mcp",
-   "prev": "AI-powered quiz generator ai MCP server for agents. Supports generate quiz, validate answe",
-   "cur": "Quiz Generator Ai Mcp: generate quiz (Generate a quiz from provided content text.); valida"
+   "server": "com.coinrailz/mcp",
+   "pkg": "coinrailz-mcp",
+   "prev": "MCP server exposing 63 Coin Railz x402 micropayment services \u2014 crypto analytics, trading s",
+   "cur": "MCP server exposing 63 Coin Railz tools \u2014 crypto analytics, trading signals, NASA/ESA sate"
   },
   {
-   "server": "io.github.TheRealDataBoss/contextkeeper",
-   "pkg": "contextkeeper",
-   "prev": "Zero model drift between AI agents. Universal session continuity CLI and Python library fo",
-   "cur": "DEPRECATED: contextkeeper is now vaultit. Install: pip install vaultit"
+   "server": "io.github.astrogilda/tsbootstrap",
+   "pkg": "tsbootstrap",
+   "prev": "A Python package to generate bootstrapped time series",
+   "cur": "Fast, dependence-aware resampling and uncertainty for time series and panels"
   },
   {
-   "server": "com.mcparmory/google-drive",
-   "pkg": "mcparmory-google-drive",
-   "prev": "MCP server for Google Drive",
-   "cur": "Manage files, folders, permissions, and collaborative content in Google Drive"
+   "server": "io.github.AddyCuber/ybe-check",
+   "pkg": "ybe-check",
+   "prev": "Production-readiness gatekeeper for vibe-coded apps. Scans repos for secrets, prompt injec",
+   "cur": "Production-readiness security gatekeeper for vibe-coded apps \u2014 16 scan modules, AI remedia"
   },
   {
-   "server": "io.github.ThiagoJacobLannes/portugal-medicines-mcp",
-   "pkg": "portugal-medicines-mcp",
-   "prev": "MCP server for medicine shortages and pharmacies on duty in Portugal (public sources, read",
-   "cur": "DEPRECATED: now part of portugal-mcp. MCP server for medicine shortages and pharmacies on "
+   "server": "io.github.ZohaibCodez/discrete-structures",
+   "pkg": "discrete-structures-mcp",
+   "prev": "MCP server for Discrete Structures - Logic, Algorithms, Number Theory, and Cryptography to",
+   "cur": "MCP server for Discrete Mathematics: Boolean Logic, Algorithms, Number Theory, Cryptograph"
   }
  ]
 }

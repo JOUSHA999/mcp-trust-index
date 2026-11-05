@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-11-04T11:13:46Z",
- "universe_declared_github_repos": 15631,
- "universe_declared_npm_packages": 5961,
+ "generated_at": "2026-11-05T11:13:30Z",
+ "universe_declared_github_repos": 15500,
+ "universe_declared_npm_packages": 5833,
  "github_sample": {
   "n": 1200,
-  "dead": 195,
-  "dead_pct": 16.2,
+  "dead": 186,
+  "dead_pct": 15.5,
   "ci95": [
-   14.3,
-   18.4
+   13.6,
+   17.7
   ],
-  "archived": 16,
-  "no_license": 133,
-  "stale_365d": 11,
+  "archived": 6,
+  "no_license": 119,
+  "stale_365d": 12,
   "extrapolated_dead": [
-   2235,
-   2876
+   2108,
+   2744
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 783,
-  "unresolved": 17,
-  "version_desync": 157,
-  "desync_pct": 19.6,
+  "resolved": 786,
+  "unresolved": 14,
+  "version_desync": 196,
+  "desync_pct": 24.5,
   "ci95": [
-   17.0,
-   22.5
+   21.6,
+   27.6
   ],
-  "description_drift": 140,
-  "drift_pct": 17.5,
-  "desc_mismatch_vs_registry": 702,
-  "mismatch_pct": 87.8,
+  "description_drift": 145,
+  "drift_pct": 18.1,
+  "desc_mismatch_vs_registry": 706,
+  "mismatch_pct": 88.2,
   "extrapolated_desync": [
-   1013,
-   1341
+   1260,
+   1610
   ]
  },
  "examples_dead_repo": [
-  "beepboop2025/pdf-suite-mcp",
+  "Turaxia/apps",
+  "Hei33enberg/Strajk-Polski-mcp",
+  "iitian-vibes/AIDesign",
+  "BorisProsper/netsuite-link",
   "ee324/a2awire",
-  "ee324/a2awire",
-  "mrmps/SMRY",
-  "prak16/PaniniOS",
-  "beshogun/milewiseai",
-  "seolith-llc/seolith-tax-manager",
-  "data-mindset/sts-google-forms-mcp",
-  "RCOLKITT/hardening-mcp",
-  "CyberMax-tools/product-factory",
-  "TartanHQ/mcp-be",
-  "AndreaBarghigiani/career-crafting",
-  "billylui/temporal-cortex-mcp",
-  "Seamgrin/dubdubdub",
-  "RCOLKITT/VasperaMemory"
+  "asume21/music-theory-mcp",
+  "BeyondFolder/mailyond",
+  "CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-crawlway-mcp",
+  "jimbursch/memotrader-mcp",
+  "Kzino/vorim-mcp-server",
+  "bbb-build/humanproof",
+  "S-CurveLabs/fxray",
+  "denizozzgur/agentrade",
+  "joeetdev/venture-estate",
+  "KazKozDev/mcp-search-server"
  ],
  "examples_drift": [
   {
-   "server": "com.yatmo/yatmo",
-   "pkg": "@yatmo/mcp",
+   "server": "io.github.CloudCorpRecords/hostpanel",
+   "pkg": "@reneturcios/hostpanel",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Yatmo MCP server (local stdio edition): neighbourhood data for AI assistants and agents. N"
+   "cur": "Host operations through two action-router tools: flux for Docker daemon, containers, host "
   },
   {
-   "server": "io.github.codespar/mcp-ap2",
-   "pkg": "@codespar/mcp-ap2",
-   "prev": "MCP server for AP2 \u2014 Google's Agent-to-Agent Payment Protocol (authorization, audit, trust",
-   "cur": "DEPRECATED: no live endpoint (AP2 is a spec; ap2.googleapis.com serves no API). MCP server"
-  },
-  {
-   "server": "io.github.STiFLeR7/memex",
-   "pkg": "stifler-memex-mcp",
-   "prev": "Trusted engineering context for agentic software engineering via Hermes MemoryProvider and",
-   "cur": "Open-source MCP server and hook service that keeps Claude Code and Codex engineering conte"
-  },
-  {
-   "server": "io.github.CloudCorpRecords/mapport",
-   "pkg": "@reneturcios/mapport",
+   "server": "io.github.CloudCorpRecords/indexsearch",
+   "pkg": "@reneturcios/indexsearch",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Geocode addresses, search places, and get directions, distances, and elevation through the"
+   "cur": "Query Elasticsearch from the command line or as a stdio MCP server: list indices, inspect "
   },
   {
-   "server": "io.github.CloudCorpRecords/mediafleet",
-   "pkg": "@reneturcios/mediafleet",
+   "server": "io.echothread/mcp",
+   "pkg": "@echothread/mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Code Mode for a self-hosted media stack: run one JavaScript async arrow function in a sand"
+   "cur": "MCP server for EchoThread: read and moderate your site's comments from Claude, ChatGPT or "
   },
   {
-   "server": "io.github.CloudCorpRecords/imageport",
-   "pkg": "@reneturcios/imageport",
+   "server": "io.github.CloudCorpRecords/fleetwatch",
+   "pkg": "@reneturcios/fleetwatch",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Local image processing over ImageMagick: read metadata, resize, convert between formats, c"
+   "cur": "Read-only visibility into an ET Ducky endpoint fleet: agents, health samples, alerts and o"
   },
   {
-   "server": "io.github.botzrDev/dreamd",
-   "pkg": "dreamd-mcp",
-   "prev": "Local-first memory for AI coding agents. One .agent/ folder shared by Claude Code, Cursor ",
-   "cur": "Agent memory you can audit. Every lesson cites its source; trace a bad memory and remove i"
+   "server": "io.github.26048608982lp-ai/gamenumerics",
+   "pkg": "mcp-server-gamenumerics",
+   "prev": "MCP server for game numerical design & balance auditing \u2014 20 deterministic tools (xlsx tab",
+   "cur": "MCP server for game numerical design & balance auditing \u2014 25 deterministic tools (xlsx tab"
   },
   {
-   "server": "io.github.Vitalini/ebb-ai",
-   "pkg": "@ebb-ai/mcp",
-   "prev": "MCP server: run non-urgent LLM tasks at the cleanest grid hour before a deadline, via Batc",
-   "cur": "Renamed to @tidegap/mcp. This shim starts the @tidegap/mcp server and stops receiving upda"
+   "server": "com.ai-rook.agents/trading-mcp",
+   "pkg": "ai-rook-trading-mcp",
+   "prev": "AI Rook MCP server \u2014 22 pay-per-call APIs (trading intelligence, web utilities, AI inferen",
+   "cur": "AI Rook MCP server \u2014 72 x402 endpoints (56 paid, 16 free): trading intelligence, local 456"
   },
   {
-   "server": "holdings.proof/mcp-server",
-   "pkg": "@proof-holdings/mcp-server",
-   "prev": "MCP server for the proof.holdings API \u2014 167 tools for identity verification, proofs, and a",
-   "cur": "MCP server for the proof.holdings API \u2014 176 tools for identity verification, proofs, and a"
+   "server": "finance.aggregate/aggregate",
+   "pkg": "aggregate-finance",
+   "prev": "Aggregate: one reconciled ledger for your AI. Launching soon.",
+   "cur": "Connect Claude, ChatGPT, Cursor and other AI apps to Aggregate, the open-source finance MC"
   },
   {
-   "server": "io.github.CloudCorpRecords/weatherport",
-   "pkg": "@reneturcios/weatherport",
+   "server": "io.github.CloudCorpRecords/streetmap-port",
+   "pkg": "@reneturcios/streetmap-port",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Answer weather questions through OpenWeather: current conditions, five-day forecasts, One "
+   "cur": "Geocode, reverse geocode, look up OSM objects, find nearby places and compute distances wi"
+  },
+  {
+   "server": "io.github.CloudCorpRecords/apisurface",
+   "pkg": "@reneturcios/apisurface",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "Public API surface diff between two versions: compares the exports of a before and an afte"
+  },
+  {
+   "server": "io.github.CloudCorpRecords/agentsfile",
+   "pkg": "@reneturcios/agentsfile",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "Validate AGENTS.md and CLAUDE.md against repo reality: referenced paths, package.json scri"
   }
  ]
 }

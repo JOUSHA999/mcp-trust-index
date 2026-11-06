@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-11-05T11:13:30Z",
- "universe_declared_github_repos": 15500,
- "universe_declared_npm_packages": 5833,
+ "generated_at": "2026-11-06T11:12:55Z",
+ "universe_declared_github_repos": 15572,
+ "universe_declared_npm_packages": 5810,
  "github_sample": {
   "n": 1200,
-  "dead": 186,
-  "dead_pct": 15.5,
+  "dead": 192,
+  "dead_pct": 16.0,
   "ci95": [
-   13.6,
-   17.7
+   14.0,
+   18.2
   ],
-  "archived": 6,
-  "no_license": 119,
-  "stale_365d": 12,
+  "archived": 11,
+  "no_license": 126,
+  "stale_365d": 13,
   "extrapolated_dead": [
-   2108,
-   2744
+   2180,
+   2834
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 786,
-  "unresolved": 14,
-  "version_desync": 196,
-  "desync_pct": 24.5,
+  "resolved": 784,
+  "unresolved": 16,
+  "version_desync": 202,
+  "desync_pct": 25.2,
   "ci95": [
-   21.6,
-   27.6
+   22.4,
+   28.4
   ],
-  "description_drift": 145,
-  "drift_pct": 18.1,
+  "description_drift": 157,
+  "drift_pct": 19.6,
   "desc_mismatch_vs_registry": 706,
   "mismatch_pct": 88.2,
   "extrapolated_desync": [
-   1260,
-   1610
+   1301,
+   1650
   ]
  },
  "examples_dead_repo": [
-  "Turaxia/apps",
-  "Hei33enberg/Strajk-Polski-mcp",
-  "iitian-vibes/AIDesign",
-  "BorisProsper/netsuite-link",
+  "FDSchaefer/bessPerformance",
+  "IDTitanium/clippy",
+  "cosmonote/pocketbase",
+  "smithery-ai/mcp-servers",
   "ee324/a2awire",
-  "asume21/music-theory-mcp",
-  "BeyondFolder/mailyond",
-  "CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-crawlway-mcp",
-  "jimbursch/memotrader-mcp",
-  "Kzino/vorim-mcp-server",
-  "bbb-build/humanproof",
-  "S-CurveLabs/fxray",
-  "denizozzgur/agentrade",
-  "joeetdev/venture-estate",
-  "KazKozDev/mcp-search-server"
+  "kaikhq/manekineko",
+  "people-analyst/bicycle-guide",
+  "davisvillelabs/filmrightsproof",
+  "arjunkmrm/time",
+  "CyberMax-tools/product-factory",
+  "tonnooooo/kleo-mcp",
+  "alphaparkinc/genpark-agent-state-snapshot-time-travel-skill",
+  "KingMandase/dataco",
+  "ayoubsalem-spec/PennyAPI",
+  "alphaparkinc/genpark-lru-ttl-multi-tier-cache-skill"
  ],
  "examples_drift": [
   {
-   "server": "io.github.CloudCorpRecords/hostpanel",
-   "pkg": "@reneturcios/hostpanel",
+   "server": "io.github.Nodeflare-app/nodeflare-mcp",
+   "pkg": "nodeflare-mcp",
+   "prev": "MCP server for NodeFlare RPC \u2014 blockchain data on 23 EVM chains for AI agents. Free public",
+   "cur": "MCP server for NodeFlare RPC \u2014 blockchain data on 18 EVM chains for AI agents. Free public"
+  },
+  {
+   "server": "io.github.ant-dev-lab/nightmarquee",
+   "pkg": "nightmarquee",
+   "prev": "Cinematic website prompts with live previews, inside your editor. MCP server for Claude Co",
+   "cur": "Cinematic website prompts with live previews, inside your editor. MCP server for Claude Co"
+  },
+  {
+   "server": "io.github.Reksely/korpi-api-mcp",
+   "pkg": "@korpiai/api-mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Host operations through two action-router tools: flux for Docker daemon, containers, host "
+   "cur": "MCP server for the Korpi API: every top AI video, image and text model behind one key and "
   },
   {
-   "server": "io.github.CloudCorpRecords/indexsearch",
-   "pkg": "@reneturcios/indexsearch",
+   "server": "cc.ipforai/ipforai",
+   "pkg": "ipforai-mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Query Elasticsearch from the command line or as a stdio MCP server: list indices, inspect "
+   "cur": "MCP server: check whether your exit IP works for ChatGPT, Claude, Gemini and other AI serv"
   },
   {
-   "server": "io.echothread/mcp",
-   "pkg": "@echothread/mcp",
+   "server": "eu.ansvar/polish-law-mcp",
+   "pkg": "@ansvar/polish-law-mcp",
+   "prev": "Polish law database covering data protection (RODO/GDPR implementing provisions), national",
+   "cur": "Complete Polish law database \u2014 8,943 Acts (Ustawy), 161,705 provisions from the Sejm ELI A"
+  },
+  {
+   "server": "io.github.CloudCorpRecords/glazemath",
+   "pkg": "@reneturcios/glazemath",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for EchoThread: read and moderate your site's comments from Claude, ChatGPT or "
+   "cur": "Ceramic glaze chemistry from your agent: a local bridge to the hosted Glazecalc MCP servic"
   },
   {
-   "server": "io.github.CloudCorpRecords/fleetwatch",
-   "pkg": "@reneturcios/fleetwatch",
+   "server": "io.github.CloudCorpRecords/grouppulse",
+   "pkg": "@reneturcios/grouppulse",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Read-only visibility into an ET Ducky endpoint fleet: agents, health samples, alerts and o"
+   "cur": "Public Telegram group statistics without a key: browse the Limzo group directory, read one"
   },
   {
-   "server": "io.github.26048608982lp-ai/gamenumerics",
-   "pkg": "mcp-server-gamenumerics",
-   "prev": "MCP server for game numerical design & balance auditing \u2014 20 deterministic tools (xlsx tab",
-   "cur": "MCP server for game numerical design & balance auditing \u2014 25 deterministic tools (xlsx tab"
-  },
-  {
-   "server": "com.ai-rook.agents/trading-mcp",
-   "pkg": "ai-rook-trading-mcp",
-   "prev": "AI Rook MCP server \u2014 22 pay-per-call APIs (trading intelligence, web utilities, AI inferen",
-   "cur": "AI Rook MCP server \u2014 72 x402 endpoints (56 paid, 16 free): trading intelligence, local 456"
-  },
-  {
-   "server": "finance.aggregate/aggregate",
-   "pkg": "aggregate-finance",
-   "prev": "Aggregate: one reconciled ledger for your AI. Launching soon.",
-   "cur": "Connect Claude, ChatGPT, Cursor and other AI apps to Aggregate, the open-source finance MC"
-  },
-  {
-   "server": "io.github.CloudCorpRecords/streetmap-port",
-   "pkg": "@reneturcios/streetmap-port",
+   "server": "io.github.CloudCorpRecords/familyorg",
+   "pkg": "@reneturcios/familyorg",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Geocode, reverse geocode, look up OSM objects, find nearby places and compute distances wi"
+   "cur": "Work with a Cozi family account from an MCP client: family members, shopping and to-do lis"
   },
   {
-   "server": "io.github.CloudCorpRecords/apisurface",
-   "pkg": "@reneturcios/apisurface",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Public API surface diff between two versions: compares the exports of a before and an afte"
+   "server": "com.schellingaf/schellingaf",
+   "pkg": "schellingaf",
+   "prev": "Schelling Add Forward's connector over stdio, with your KEY kept on your own machine.",
+   "cur": "Schelling Add Forward's connector over stdio for multi-agent coordination, with your KEY k"
   },
   {
-   "server": "io.github.CloudCorpRecords/agentsfile",
-   "pkg": "@reneturcios/agentsfile",
+   "server": "eu.einvoice-api/mcp",
+   "pkg": "@einvoiceapi/mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Validate AGENTS.md and CLAUDE.md against repo reality: referenced paths, package.json scri"
+   "cur": "MCP server for the EU E-Invoice API: validate, parse and generate XRechnung, ZUGFeRD/Factu"
   }
  ]
 }

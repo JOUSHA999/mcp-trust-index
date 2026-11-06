@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-11-05T11:13:33Z",
- "universe_declared_pypi": 2500,
+ "generated_at": "2026-11-06T11:13:05Z",
+ "universe_declared_pypi": 2524,
  "sample": {
   "n_sampled": 500,
-  "resolved": 495,
-  "unresolved": 5,
-  "version_desync": 101,
-  "desync_pct": 20.4,
+  "resolved": 498,
+  "unresolved": 2,
+  "version_desync": 99,
+  "desync_pct": 19.9,
   "ci95": [
-   17.1,
-   24.2
+   16.6,
+   23.6
   ],
   "extrapolated_desync": [
-   428,
-   605
+   419,
+   596
   ],
-  "description_drift": 27,
-  "drift_pct": 5.5
+  "description_drift": 37,
+  "drift_pct": 7.4
  },
  "examples_drift": [
   {
@@ -26,16 +26,40 @@
    "cur": "MCP server for Peil \u2014 log hours, draft invoices, add expenses and check where you stand fr"
   },
   {
-   "server": "io.github.Buggy1111/wrapper-mcp",
-   "pkg": "wrapper-mcp",
-   "prev": "MCP server wrapping LINDAT NLP tools \u2014 production-grade anonymization, multilingual NER (3",
-   "cur": "DEPRECATED \u2014 renamed to anonymize-mcp. Run: pip install anonymize-mcp"
+   "server": "dev.cotlet/skool",
+   "pkg": "skool-api-mcp",
+   "prev": "Self-hosted Skool API and MCP server on your own Chrome session. Noncommercial use (PolyFo",
+   "cur": "Self-hosted Skool API and MCP server on your own Chrome session. Use Skool from Claude, Cu"
   },
   {
-   "server": "io.github.anp2protocol/anp2-mcp-server",
-   "pkg": "anp2-mcp-server",
-   "prev": "MCP server for ANP2 \u2014 where AI agents talk, share knowledge, build trust, and (when useful",
-   "cur": "MCP server for ANP2 \u2014 where AI agents talk, share knowledge, build trust, and (when useful"
+   "server": "dev.cotlet/peopleperhour",
+   "pkg": "peopleperhour-api-mcp",
+   "prev": "Self-hosted PeoplePerHour API and MCP server on your own Chrome session. Noncommercial use",
+   "cur": "Self-hosted PeoplePerHour API and MCP server on your own Chrome session. Use PeoplePerHour"
+  },
+  {
+   "server": "io.github.andreasd083/amazing-marvin-complete-mcp",
+   "pkg": "amazing-marvin-complete-mcp",
+   "prev": "MCP server for Amazing Marvin with complete public-API coverage (34 tools)",
+   "cur": "MCP server for Amazing Marvin with complete public-API coverage (50 tools)"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/dora-compliance-mcp",
+   "pkg": "dora-compliance-mcp",
+   "prev": "DORA (EU Digital Operational Resilience Act) compliance for AI agents. 5-pillar audit, inc",
+   "cur": "DORA measurement for AI agents. 5-pillar audit, incident classification, Article 28 Regist"
+  },
+  {
+   "server": "io.github.BigJai/tokennuke",
+   "pkg": "tokennuke",
+   "prev": "Nuke your token usage. Intelligent code indexer with O(1) symbol retrieval, hybrid search,",
+   "cur": "Intelligent code indexing MCP server. Tree-sitter AST extraction, hybrid search (FTS5 + ve"
+  },
+  {
+   "server": "io.github.agenticempire/axint",
+   "pkg": "axint",
+   "prev": "Python SDK for Axint \u2014 define Apple App Intents, Views, Widgets, and Apps in Python.",
+   "cur": "Python SDK for Axint: define, validate, and generate inspectable Swift for App Intents, Sw"
   },
   {
    "server": "ai.bowmark/bowmark",
@@ -44,40 +68,16 @@
    "cur": "Bowmark MCP for stdio hosts: web scraping and automation for AI agents. Live prices, quote"
   },
   {
-   "server": "io.github.atomno-mcp/mcp-pharma",
-   "pkg": "atomno-mcp-pharma",
-   "prev": "MCP server: Russian drug reference \u2014 check \u0413\u0420\u041b\u0421 registration status, get a drug card (form",
-   "cur": "MCP client for Russian drug reference: official GRLS, VEDL prices and Roszdravnadzor serie"
+   "server": "io.github.LGDiMaggio/predictive-maintenance-mcp",
+   "pkg": "predictive-maintenance-mcp",
+   "prev": "AI agent for predictive maintenance & condition monitoring \u2014 Open-source MCP server and Cl",
+   "cur": "AI agent for predictive maintenance & condition monitoring \u2014 Open-source MCP server and Cl"
   },
   {
-   "server": "io.github.atomno-mcp/mcp-zakupki",
-   "pkg": "atomno-mcp-zakupki",
-   "prev": "MCP-\u0441\u0435\u0440\u0432\u0435\u0440 \u0434\u043b\u044f \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0445 \u0433\u043e\u0441\u0437\u0430\u043a\u0443\u043f\u043e\u043a (zakupki.gov.ru, 44-\u0424\u0417 / 223-\u0424\u0417 / 615-\u041f\u041f): \u043f\u043e\u0438\u0441\u043a \u0442\u0435\u043d\u0434",
-   "cur": "MCP-\u0441\u0435\u0440\u0432\u0435\u0440 \u0434\u043b\u044f \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0445 \u0433\u043e\u0441\u0437\u0430\u043a\u0443\u043f\u043e\u043a (zakupki.gov.ru, 44-\u0424\u0417 / 223-\u0424\u0417 / 615-\u041f\u041f): \u043f\u043e\u0438\u0441\u043a, \u043a\u0430\u0440"
-  },
-  {
-   "server": "com.coinrailz/mcp",
-   "pkg": "coinrailz-mcp",
-   "prev": "MCP server exposing 63 Coin Railz x402 micropayment services \u2014 crypto analytics, trading s",
-   "cur": "MCP server exposing 63 Coin Railz tools \u2014 crypto analytics, trading signals, NASA/ESA sate"
-  },
-  {
-   "server": "io.github.astrogilda/tsbootstrap",
-   "pkg": "tsbootstrap",
-   "prev": "A Python package to generate bootstrapped time series",
-   "cur": "Fast, dependence-aware resampling and uncertainty for time series and panels"
-  },
-  {
-   "server": "io.github.AddyCuber/ybe-check",
-   "pkg": "ybe-check",
-   "prev": "Production-readiness gatekeeper for vibe-coded apps. Scans repos for secrets, prompt injec",
-   "cur": "Production-readiness security gatekeeper for vibe-coded apps \u2014 16 scan modules, AI remedia"
-  },
-  {
-   "server": "io.github.ZohaibCodez/discrete-structures",
-   "pkg": "discrete-structures-mcp",
-   "prev": "MCP server for Discrete Structures - Logic, Algorithms, Number Theory, and Cryptography to",
-   "cur": "MCP server for Discrete Mathematics: Boolean Logic, Algorithms, Number Theory, Cryptograph"
+   "server": "io.github.ChesterHsu/flyto-indexer",
+   "pkg": "flyto-indexer",
+   "prev": "Code intelligence MCP server for AI-assisted development \u2014 impact analysis, semantic searc",
+   "cur": "Code intelligence MCP server for AI coding agents with impact analysis, semantic search, d"
   }
  ]
 }

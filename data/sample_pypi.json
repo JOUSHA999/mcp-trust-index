@@ -1,24 +1,30 @@
 {
- "generated_at": "2026-11-06T11:13:05Z",
+ "generated_at": "2026-11-07T10:31:40Z",
  "universe_declared_pypi": 2524,
  "sample": {
   "n_sampled": 500,
-  "resolved": 498,
-  "unresolved": 2,
-  "version_desync": 99,
-  "desync_pct": 19.9,
+  "resolved": 495,
+  "unresolved": 5,
+  "version_desync": 82,
+  "desync_pct": 16.6,
   "ci95": [
-   16.6,
-   23.6
+   13.6,
+   20.1
   ],
   "extrapolated_desync": [
-   419,
-   596
+   343,
+   507
   ],
-  "description_drift": 37,
-  "drift_pct": 7.4
+  "description_drift": 30,
+  "drift_pct": 6.1
  },
  "examples_drift": [
+  {
+   "server": "io.github.bawbel/bawbel-scanner",
+   "pkg": "bawbel-scanner",
+   "prev": "Agentic AI component security scanner. Detects AVE vulnerabilities. Produces OWASP AIVSS v",
+   "cur": "Security linter and scanner for MCP servers and AI skill files. Detects toxic flows, promp"
+  },
   {
    "server": "app.peil/peil-mcp",
    "pkg": "peil-mcp",
@@ -38,28 +44,28 @@
    "cur": "Self-hosted PeoplePerHour API and MCP server on your own Chrome session. Use PeoplePerHour"
   },
   {
-   "server": "io.github.andreasd083/amazing-marvin-complete-mcp",
-   "pkg": "amazing-marvin-complete-mcp",
-   "prev": "MCP server for Amazing Marvin with complete public-API coverage (34 tools)",
-   "cur": "MCP server for Amazing Marvin with complete public-API coverage (50 tools)"
+   "server": "io.github.alyiox/mcp-atlassian-attachments",
+   "pkg": "mcp-atlassian-attachments",
+   "prev": "MCP server for downloading Jira and Confluence Cloud attachments",
+   "cur": "MCP server for downloading Jira and Confluence Cloud attachments and uploading Jira attach"
   },
   {
-   "server": "io.github.CSOAI-ORG/dora-compliance-mcp",
-   "pkg": "dora-compliance-mcp",
-   "prev": "DORA (EU Digital Operational Resilience Act) compliance for AI agents. 5-pillar audit, inc",
-   "cur": "DORA measurement for AI agents. 5-pillar audit, incident classification, Article 28 Regist"
+   "server": "gg.batru/batru-mcp",
+   "pkg": "batru-mcp",
+   "prev": "Read-only MCP server over batru.gg's live, calibrated Dota 2 / Deadlock win-rate predictio",
+   "cur": "Read-only MCP server over batru.gg's live, calibrated Dota 2 / Deadlock / Marvel Rivals wi"
   },
   {
-   "server": "io.github.BigJai/tokennuke",
-   "pkg": "tokennuke",
-   "prev": "Nuke your token usage. Intelligent code indexer with O(1) symbol retrieval, hybrid search,",
-   "cur": "Intelligent code indexing MCP server. Tree-sitter AST extraction, hybrid search (FTS5 + ve"
+   "server": "io.github.KitchenSink4AI/kitchensink4xl",
+   "pkg": "kitchensink4xl",
+   "prev": "Read and edit Excel (.xlsx) files with your AI assistant: formulas, tables, CSV and JSON, ",
+   "cur": "Read and edit Excel (.xlsx) files with your AI assistant: 131 actions, a backup before eve"
   },
   {
-   "server": "io.github.agenticempire/axint",
-   "pkg": "axint",
-   "prev": "Python SDK for Axint \u2014 define Apple App Intents, Views, Widgets, and Apps in Python.",
-   "cur": "Python SDK for Axint: define, validate, and generate inspectable Swift for App Intents, Sw"
+   "server": "io.github.CSOAI-ORG/councilof_mcp",
+   "pkg": "councilof_mcp",
+   "prev": "CouncilOf.AI MCP \u2014 the UK sovereign defence BFT council orchestrator. UK MOD + AUKUS Pilla",
+   "cur": "Deprecated. Superseded by the Council of AI GSPC MCP server (remote: https://councilof.ai/"
   },
   {
    "server": "ai.bowmark/bowmark",
@@ -68,16 +74,10 @@
    "cur": "Bowmark MCP for stdio hosts: web scraping and automation for AI agents. Live prices, quote"
   },
   {
-   "server": "io.github.LGDiMaggio/predictive-maintenance-mcp",
-   "pkg": "predictive-maintenance-mcp",
-   "prev": "AI agent for predictive maintenance & condition monitoring \u2014 Open-source MCP server and Cl",
-   "cur": "AI agent for predictive maintenance & condition monitoring \u2014 Open-source MCP server and Cl"
-  },
-  {
-   "server": "io.github.ChesterHsu/flyto-indexer",
-   "pkg": "flyto-indexer",
-   "prev": "Code intelligence MCP server for AI-assisted development \u2014 impact analysis, semantic searc",
-   "cur": "Code intelligence MCP server for AI coding agents with impact analysis, semantic search, d"
+   "server": "io.github.Astrix-Labs/genesys-memory",
+   "pkg": "genesys-memory",
+   "prev": "The intelligence layer for AI memory \u2014 scoring, causal inference, lifecycle management, an",
+   "cur": "genesys-memory has been renamed to papez. This package installs papez and keeps `import ge"
   }
  ]
 }

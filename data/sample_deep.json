@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-11-06T11:12:55Z",
- "universe_declared_github_repos": 15572,
- "universe_declared_npm_packages": 5810,
+ "generated_at": "2026-11-07T10:31:35Z",
+ "universe_declared_github_repos": 15591,
+ "universe_declared_npm_packages": 5793,
  "github_sample": {
   "n": 1200,
-  "dead": 192,
-  "dead_pct": 16.0,
+  "dead": 215,
+  "dead_pct": 17.9,
   "ci95": [
-   14.0,
-   18.2
+   15.9,
+   20.2
   ],
-  "archived": 11,
-  "no_license": 126,
-  "stale_365d": 13,
+  "archived": 21,
+  "no_license": 123,
+  "stale_365d": 12,
   "extrapolated_dead": [
-   2180,
-   2834
+   2479,
+   3149
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 784,
-  "unresolved": 16,
-  "version_desync": 202,
-  "desync_pct": 25.2,
+  "resolved": 789,
+  "unresolved": 11,
+  "version_desync": 169,
+  "desync_pct": 21.1,
   "ci95": [
-   22.4,
-   28.4
+   18.4,
+   24.1
   ],
-  "description_drift": 157,
-  "drift_pct": 19.6,
-  "desc_mismatch_vs_registry": 706,
-  "mismatch_pct": 88.2,
+  "description_drift": 153,
+  "drift_pct": 19.1,
+  "desc_mismatch_vs_registry": 714,
+  "mismatch_pct": 89.2,
   "extrapolated_desync": [
-   1301,
-   1650
+   1066,
+   1396
   ]
  },
  "examples_dead_repo": [
-  "FDSchaefer/bessPerformance",
-  "IDTitanium/clippy",
-  "cosmonote/pocketbase",
-  "smithery-ai/mcp-servers",
-  "ee324/a2awire",
-  "kaikhq/manekineko",
+  "CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-mockmint-mcp",
+  "HelloSafe/travel",
+  "alphaparkinc/genpark-vector-embedding-cache-deduplication-sentinel-skill",
+  "civicteam/civic-mcp",
   "people-analyst/bicycle-guide",
-  "davisvillelabs/filmrightsproof",
-  "arjunkmrm/time",
-  "CyberMax-tools/product-factory",
-  "tonnooooo/kleo-mcp",
-  "alphaparkinc/genpark-agent-state-snapshot-time-travel-skill",
-  "KingMandase/dataco",
-  "ayoubsalem-spec/PennyAPI",
-  "alphaparkinc/genpark-lru-ttl-multi-tier-cache-skill"
+  "Im5tu/haus",
+  "akbaraziz/conduitai-bolt",
+  "agentbuilders/cli",
+  "arjunkmrm/mango-sago",
+  "Ravesteijntjes/qquickpick",
+  "art-crazy/language-coach-codex",
+  "people-analyst/bicycle-guide",
+  "jekaterinavaivade-del/tovrek",
+  "Openfinanceorg/openfinance-app",
+  "anburan-tech/shoe-fit-checker"
  ],
  "examples_drift": [
   {
-   "server": "io.github.Nodeflare-app/nodeflare-mcp",
-   "pkg": "nodeflare-mcp",
-   "prev": "MCP server for NodeFlare RPC \u2014 blockchain data on 23 EVM chains for AI agents. Free public",
-   "cur": "MCP server for NodeFlare RPC \u2014 blockchain data on 18 EVM chains for AI agents. Free public"
-  },
-  {
-   "server": "io.github.ant-dev-lab/nightmarquee",
-   "pkg": "nightmarquee",
-   "prev": "Cinematic website prompts with live previews, inside your editor. MCP server for Claude Co",
-   "cur": "Cinematic website prompts with live previews, inside your editor. MCP server for Claude Co"
-  },
-  {
-   "server": "io.github.Reksely/korpi-api-mcp",
-   "pkg": "@korpiai/api-mcp",
+   "server": "io.github.Ratz00007/murmur-mcp",
+   "pkg": "murmur-mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for the Korpi API: every top AI video, image and text model behind one key and "
+   "cur": "Rehearse community reaction to a pricing or launch change \u2014 social-simulation MCP for codi"
   },
   {
-   "server": "cc.ipforai/ipforai",
-   "pkg": "ipforai-mcp",
+   "server": "io.github.YuzuKyouma/ponzu",
+   "pkg": "@ponzu_app/mcp",
+   "prev": "MCP server for Ponzu \u2014 deploy tokens, buy presales, swap, and farm on Ethereum via AI agen",
+   "cur": "MCP server for Ponzu \u2014 deploy tokens, buy presales, swap, and farm on Ethereum, Sepolia, a"
+  },
+  {
+   "server": "io.github.Antmanbuilds/ari-mcp",
+   "pkg": "ari-mcp",
+   "prev": "MCP server for ARI (Agentic Rate Indicators). Gives any MCP-aware agent (Claude Desktop, C",
+   "cur": "MCP server that stops AI agents from overpaying. Drops into Claude Desktop, Cursor, Contin"
+  },
+  {
+   "server": "io.github.CloudCorpRecords/fieldscribe",
+   "pkg": "@reneturcios/fieldscribe",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server: check whether your exit IP works for ChatGPT, Claude, Gemini and other AI serv"
+   "cur": "Local bridge to the hosted FieldTranscript MCP server: submit public audio and video URLs "
   },
   {
-   "server": "eu.ansvar/polish-law-mcp",
-   "pkg": "@ansvar/polish-law-mcp",
-   "prev": "Polish law database covering data protection (RODO/GDPR implementing provisions), national",
-   "cur": "Complete Polish law database \u2014 8,943 Acts (Ustawy), 161,705 provisions from the Sejm ELI A"
-  },
-  {
-   "server": "io.github.CloudCorpRecords/glazemath",
-   "pkg": "@reneturcios/glazemath",
+   "server": "io.github.CloudCorpRecords/firmproof",
+   "pkg": "@reneturcios/firmproof",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Ceramic glaze chemistry from your agent: a local bridge to the hosted Glazecalc MCP servic"
+   "cur": "Official company checks for the UK, France and Spain from your agent: a local bridge to th"
   },
   {
-   "server": "io.github.CloudCorpRecords/grouppulse",
-   "pkg": "@reneturcios/grouppulse",
+   "server": "io.github.CloudCorpRecords/domaincheck",
+   "pkg": "@reneturcios/domaincheck",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Public Telegram group statistics without a key: browse the Limzo group directory, read one"
+   "cur": "Domain availability and pricing search, transfer prechecks, and trademark register checks "
   },
   {
-   "server": "io.github.CloudCorpRecords/familyorg",
-   "pkg": "@reneturcios/familyorg",
+   "server": "io.github.0design/aindf",
+   "pkg": "@ai-native-design-framework/kit",
+   "prev": "Placeholder. The kit is published from GitHub Actions; use version 0.2.1 or newer.",
+   "cur": "AINDF v2 kit: conformance check, immutable DS bundle, ScreenSpec admission, Next.js codege"
+  },
+  {
+   "server": "io.github.Craig-Horton/aibvf-mcp",
+   "pkg": "aibvf-mcp",
+   "prev": "AI BVF: score AI portfolios Stop/Fix/Accelerate with decision confidence and pace-layer dr",
+   "cur": "AI BVF: review AI proposals with Stop, Fix or Accelerate, evidence gaps and next actions."
+  },
+  {
+   "server": "com.aditumdata/mcp",
+   "pkg": "aditum-mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Work with a Cozi family account from an MCP client: family members, shopping and to-do lis"
+   "cur": "MCP server for Aditum: read your industrial data sources, pipelines, incidents and dataset"
   },
   {
-   "server": "com.schellingaf/schellingaf",
-   "pkg": "schellingaf",
-   "prev": "Schelling Add Forward's connector over stdio, with your KEY kept on your own machine.",
-   "cur": "Schelling Add Forward's connector over stdio for multi-agent coordination, with your KEY k"
-  },
-  {
-   "server": "eu.einvoice-api/mcp",
-   "pkg": "@einvoiceapi/mcp",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for the EU E-Invoice API: validate, parse and generate XRechnung, ZUGFeRD/Factu"
+   "server": "io.github.b-hash88/knownfix",
+   "pkg": "knownfix",
+   "prev": "Search 38 npm publish/EOTP, GitHub Actions, MCP, Windows and Base fixes; 12 free, USDC/ETH",
+   "cur": "Developer fixes, six free agent skills, local response/retry tools and scoped services ove"
   }
  ]
 }

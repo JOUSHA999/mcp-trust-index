@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-11-07T10:31:35Z",
- "universe_declared_github_repos": 15591,
- "universe_declared_npm_packages": 5793,
+ "generated_at": "2026-11-08T10:40:22Z",
+ "universe_declared_github_repos": 15504,
+ "universe_declared_npm_packages": 5734,
  "github_sample": {
   "n": 1200,
-  "dead": 215,
-  "dead_pct": 17.9,
+  "dead": 199,
+  "dead_pct": 16.6,
   "ci95": [
-   15.9,
-   20.2
+   14.6,
+   18.8
   ],
-  "archived": 21,
+  "archived": 15,
   "no_license": 123,
-  "stale_365d": 12,
+  "stale_365d": 6,
   "extrapolated_dead": [
-   2479,
-   3149
+   2264,
+   2915
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 789,
-  "unresolved": 11,
-  "version_desync": 169,
-  "desync_pct": 21.1,
+  "resolved": 784,
+  "unresolved": 16,
+  "version_desync": 175,
+  "desync_pct": 21.9,
   "ci95": [
-   18.4,
-   24.1
+   19.1,
+   24.9
   ],
-  "description_drift": 153,
-  "drift_pct": 19.1,
-  "desc_mismatch_vs_registry": 714,
-  "mismatch_pct": 89.2,
+  "description_drift": 152,
+  "drift_pct": 19.0,
+  "desc_mismatch_vs_registry": 698,
+  "mismatch_pct": 87.2,
   "extrapolated_desync": [
-   1066,
-   1396
+   1095,
+   1428
   ]
  },
  "examples_dead_repo": [
-  "CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-mockmint-mcp",
-  "HelloSafe/travel",
-  "alphaparkinc/genpark-vector-embedding-cache-deduplication-sentinel-skill",
-  "civicteam/civic-mcp",
-  "people-analyst/bicycle-guide",
-  "Im5tu/haus",
-  "akbaraziz/conduitai-bolt",
-  "agentbuilders/cli",
-  "arjunkmrm/mango-sago",
-  "Ravesteijntjes/qquickpick",
-  "art-crazy/language-coach-codex",
-  "people-analyst/bicycle-guide",
-  "jekaterinavaivade-del/tovrek",
-  "Openfinanceorg/openfinance-app",
-  "anburan-tech/shoe-fit-checker"
+  "pefman/nordicmcp.eu",
+  "junter1989k-ai/usa-payments-mcp",
+  "Guava-Research/GuavaWIT",
+  "cookiy-ai/cookiy-skill",
+  "andyrzr-bot/Ncrypt",
+  "Moha2005269/agentgo-mcp",
+  "kittyfromouterspace/local_foundation",
+  "Cymosoft/cymosoft.github.io",
+  "arjunkmrm/clock",
+  "quodsoler/gamedev-connect",
+  "johtodata/johto-data-api",
+  "nbridges333/flarewatch",
+  "alphaparkinc/genpark-trie-prefix-keyword-matcher-skill",
+  "mrrobey/sit-atlas",
+  "nmheinrich/buzzterms"
  ],
  "examples_drift": [
   {
-   "server": "io.github.Ratz00007/murmur-mcp",
-   "pkg": "murmur-mcp",
+   "server": "com.sendkuy/mcp",
+   "pkg": "@sendkuy/mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Rehearse community reaction to a pricing or launch change \u2014 social-simulation MCP for codi"
+   "cur": "MCP server for SendKuy: let AI assistants and agents send WhatsApp, SMS and email, verify "
   },
   {
-   "server": "io.github.YuzuKyouma/ponzu",
-   "pkg": "@ponzu_app/mcp",
-   "prev": "MCP server for Ponzu \u2014 deploy tokens, buy presales, swap, and farm on Ethereum via AI agen",
-   "cur": "MCP server for Ponzu \u2014 deploy tokens, buy presales, swap, and farm on Ethereum, Sepolia, a"
+   "server": "io.github.Vovala14/vynly-mcp",
+   "pkg": "@vynly/mcp",
+   "prev": "MCP server for Vynly \u2014 the AI-only social feed. Exposes post/spark/read/search tools to MC",
+   "cur": "MCP server for Vynly - the AI-only social feed. Post AI images, carousels and video, plus "
   },
   {
-   "server": "io.github.Antmanbuilds/ari-mcp",
-   "pkg": "ari-mcp",
-   "prev": "MCP server for ARI (Agentic Rate Indicators). Gives any MCP-aware agent (Claude Desktop, C",
-   "cur": "MCP server that stops AI agents from overpaying. Drops into Claude Desktop, Cursor, Contin"
-  },
-  {
-   "server": "io.github.CloudCorpRecords/fieldscribe",
-   "pkg": "@reneturcios/fieldscribe",
+   "server": "io.github.adapstorybot-hub/adapstory-isa",
+   "pkg": "@adapstory/isa",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Local bridge to the hosted FieldTranscript MCP server: submit public audio and video URLs "
+   "cur": "Local stdio MCP bridge for the Adapstory ISA macOS application."
   },
   {
-   "server": "io.github.CloudCorpRecords/firmproof",
-   "pkg": "@reneturcios/firmproof",
+   "server": "io.github.CloudCorpRecords/evalsnap",
+   "pkg": "@reneturcios/evalsnap",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Official company checks for the UK, France and Spain from your agent: a local bridge to th"
+   "cur": "Snapshot diff for agent and tool outputs: matches cases between a baseline and a current r"
   },
   {
-   "server": "io.github.CloudCorpRecords/domaincheck",
-   "pkg": "@reneturcios/domaincheck",
+   "server": "io.github.CloudCorpRecords/famboard",
+   "pkg": "@reneturcios/famboard",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Domain availability and pricing search, transfer prechecks, and trademark register checks "
+   "cur": "A local bridge to the Familia family planner: household schedules, tasks, checklists, plan"
   },
   {
-   "server": "io.github.0design/aindf",
-   "pkg": "@ai-native-design-framework/kit",
-   "prev": "Placeholder. The kit is published from GitHub Actions; use version 0.2.1 or newer.",
-   "cur": "AINDF v2 kit: conformance check, immutable DS bundle, ScreenSpec admission, Next.js codege"
-  },
-  {
-   "server": "io.github.Craig-Horton/aibvf-mcp",
-   "pkg": "aibvf-mcp",
-   "prev": "AI BVF: score AI portfolios Stop/Fix/Accelerate with decision confidence and pace-layer dr",
-   "cur": "AI BVF: review AI proposals with Stop, Fix or Accelerate, evidence gaps and next actions."
-  },
-  {
-   "server": "com.aditumdata/mcp",
-   "pkg": "aditum-mcp",
+   "server": "io.github.CloudCorpRecords/deskcommand",
+   "pkg": "@reneturcios/deskcommand",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for Aditum: read your industrial data sources, pipelines, incidents and dataset"
+   "cur": "Terminal processes, file operations, surgical text edits and code search on the local mach"
   },
   {
-   "server": "io.github.b-hash88/knownfix",
-   "pkg": "knownfix",
-   "prev": "Search 38 npm publish/EOTP, GitHub Actions, MCP, Windows and Base fixes; 12 free, USDC/ETH",
-   "cur": "Developer fixes, six free agent skills, local response/retry tools and scoped services ove"
+   "server": "io.github.CloudCorpRecords/reachvuln",
+   "pkg": "@reneturcios/reachvuln",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "Rank vulnerabilities by whether the vulnerable code path is reachable in your code."
+  },
+  {
+   "server": "io.github.apitier/mcp-server",
+   "pkg": "@apitier/mcp-server",
+   "prev": "MCP server exposing all APITier utility APIs as AI agent tools",
+   "cur": "MCP server for UK KYC onboarding, address verification, business validation, EU/UK VAT com"
+  },
+  {
+   "server": "com.lodekeep/memory",
+   "pkg": "lodekeep",
+   "prev": "One-command installer + local MCP bridge for Lodekeep: persistent, curated memory for ever",
+   "cur": "Memory MCP server for Claude Code, Cursor and any MCP client. Corrections replace stale fa"
+  },
+  {
+   "server": "ai.neuralverge/neuralverge",
+   "pkg": "@neuralverge/mcp-server",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "NeuralVerge MCP server: the data layer for agentic AI. Search, AI Extract and 300+ data so"
   }
  ]
 }

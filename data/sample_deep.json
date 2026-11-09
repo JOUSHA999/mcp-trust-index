@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-08T10:40:22Z",
- "universe_declared_github_repos": 15504,
- "universe_declared_npm_packages": 5734,
+ "generated_at": "2026-11-09T11:54:54Z",
+ "universe_declared_github_repos": 15576,
+ "universe_declared_npm_packages": 5729,
  "github_sample": {
   "n": 1200,
   "dead": 199,
@@ -10,110 +10,110 @@
    14.6,
    18.8
   ],
-  "archived": 15,
-  "no_license": 123,
-  "stale_365d": 6,
+  "archived": 17,
+  "no_license": 102,
+  "stale_365d": 10,
   "extrapolated_dead": [
-   2264,
-   2915
+   2274,
+   2928
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 784,
-  "unresolved": 16,
-  "version_desync": 175,
-  "desync_pct": 21.9,
+  "resolved": 788,
+  "unresolved": 12,
+  "version_desync": 194,
+  "desync_pct": 24.2,
   "ci95": [
-   19.1,
-   24.9
+   21.4,
+   27.3
   ],
-  "description_drift": 152,
-  "drift_pct": 19.0,
-  "desc_mismatch_vs_registry": 698,
-  "mismatch_pct": 87.2,
+  "description_drift": 173,
+  "drift_pct": 21.6,
+  "desc_mismatch_vs_registry": 699,
+  "mismatch_pct": 87.4,
   "extrapolated_desync": [
-   1095,
-   1428
+   1226,
+   1564
   ]
  },
  "examples_dead_repo": [
-  "pefman/nordicmcp.eu",
-  "junter1989k-ai/usa-payments-mcp",
-  "Guava-Research/GuavaWIT",
-  "cookiy-ai/cookiy-skill",
-  "andyrzr-bot/Ncrypt",
-  "Moha2005269/agentgo-mcp",
-  "kittyfromouterspace/local_foundation",
-  "Cymosoft/cymosoft.github.io",
-  "arjunkmrm/clock",
-  "quodsoler/gamedev-connect",
-  "johtodata/johto-data-api",
-  "nbridges333/flarewatch",
-  "alphaparkinc/genpark-trie-prefix-keyword-matcher-skill",
-  "mrrobey/sit-atlas",
-  "nmheinrich/buzzterms"
+  "junter1989k-ai/uae-payments-mcp",
+  "alphaparkinc/genpark-sql-injection-ast-taint-analyzer-skill",
+  "sornkan/sornflow",
+  "vanmoose/truncus-mcp-server",
+  "Tactic-Systems/leafwright",
+  "Ansvar-Systems/singapore-law-mcp",
+  "AlexFloyd13/clevername",
+  "Ahmedmkarrar/simpleverifier-mcp",
+  "fedlinllc/fedlin-mcp-server",
+  "CyberMax-tools/product-factory",
+  "angelo-leone/talent-augmenting-layer",
+  "CSOAI-ORG/meek-circulatory-capillary-mcp",
+  "adriancasas/geo360-concierge",
+  "Vico86/redditreach",
+  "MichaelLJessop/SensorAnalytics"
  ],
  "examples_drift": [
   {
-   "server": "com.sendkuy/mcp",
-   "pkg": "@sendkuy/mcp",
+   "server": "com.useweckr/weckr",
+   "pkg": "@weckr/mcp",
+   "prev": "Weckr MCP server \u2014 query your AI cost and margin data directly from Claude, Cursor, or any",
+   "cur": "Weckr MCP server. Query your AI cost and margin data directly from Claude, Cursor, or any "
+  },
+  {
+   "server": "io.github.CloudCorpRecords/domaintrack",
+   "pkg": "@reneturcios/domaintrack",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for SendKuy: let AI assistants and agents send WhatsApp, SMS and email, verify "
+   "cur": "Forwarding client for Domduck's public domain store: reputation snapshots, AI crawler poli"
   },
   {
-   "server": "io.github.Vovala14/vynly-mcp",
-   "pkg": "@vynly/mcp",
-   "prev": "MCP server for Vynly \u2014 the AI-only social feed. Exposes post/spark/read/search tools to MC",
-   "cur": "MCP server for Vynly - the AI-only social feed. Post AI images, carousels and video, plus "
-  },
-  {
-   "server": "io.github.adapstorybot-hub/adapstory-isa",
-   "pkg": "@adapstory/isa",
+   "server": "io.github.CloudCorpRecords/edgeport",
+   "pkg": "@reneturcios/edgeport",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Local stdio MCP bridge for the Adapstory ISA macOS application."
+   "cur": "Work with Cloudflare zones, DNS records, cache purge, Worker scripts, KV namespaces, and R"
   },
   {
-   "server": "io.github.CloudCorpRecords/evalsnap",
-   "pkg": "@reneturcios/evalsnap",
+   "server": "io.github.Swih/mistral-mcp",
+   "pkg": "mistral-mcp",
+   "prev": "Mistral capabilities through MCP: chat, documents, audio, code, agents and workflows, with",
+   "cur": "Mistral MCP server for invoice and document extraction. Turn text, Markdown or OCR into ty"
+  },
+  {
+   "server": "io.github.CloudCorpRecords/cryptoprice",
+   "pkg": "@reneturcios/cryptoprice",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Snapshot diff for agent and tool outputs: matches cases between a baseline and a current r"
+   "cur": "CoinGecko crypto data without a key: current prices, full coin data, coin lists, search, m"
   },
   {
-   "server": "io.github.CloudCorpRecords/famboard",
-   "pkg": "@reneturcios/famboard",
+   "server": "io.github.Company-Gibraltar/company-gibraltar",
+   "pkg": "company-gibraltar-mcp",
+   "prev": "Gibraltar company tools for AI agents. Calculate corporate tax payments, check compliance ",
+   "cur": "Gibraltar company tools for AI agents. Calculate corporate tax payments, check compliance "
+  },
+  {
+   "server": "io.github.avclabs/media-mcp",
+   "pkg": "@avclabs.ai/media-mcp",
+   "prev": "MCP Server for video enhancement, image enhancement/colorization/denoising, and image segm",
+   "cur": "Legacy all-in-one MCP Server for video enhancement, image enhancement/colorization/denoisi"
+  },
+  {
+   "server": "com.queryrev/ai-readiness",
+   "pkg": "@queryrev/ai-readiness-mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "A local bridge to the Familia family planner: household schedules, tasks, checklists, plan"
+   "cur": "A local MCP server for QueryRev AI Readiness: AI crawler access, robots.txt and llms.txt c"
   },
   {
-   "server": "io.github.CloudCorpRecords/deskcommand",
-   "pkg": "@reneturcios/deskcommand",
+   "server": "io.github.SumCodeAI/chatgenius",
+   "pkg": "chatgenius-mcp",
+   "prev": "MCP server for ChatGenius: give Claude, Cursor, Gemini CLI or any MCP client tools over yo",
+   "cur": "MCP server for ChatGenius: give Claude, Cursor, Gemini CLI or any MCP client tools over yo"
+  },
+  {
+   "server": "io.github.CloudCorpRecords/porefind",
+   "pkg": "@reneturcios/porefind",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Terminal processes, file operations, surgical text edits and code search on the local mach"
-  },
-  {
-   "server": "io.github.CloudCorpRecords/reachvuln",
-   "pkg": "@reneturcios/reachvuln",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Rank vulnerabilities by whether the vulnerable code path is reachable in your code."
-  },
-  {
-   "server": "io.github.apitier/mcp-server",
-   "pkg": "@apitier/mcp-server",
-   "prev": "MCP server exposing all APITier utility APIs as AI agent tools",
-   "cur": "MCP server for UK KYC onboarding, address verification, business validation, EU/UK VAT com"
-  },
-  {
-   "server": "com.lodekeep/memory",
-   "pkg": "lodekeep",
-   "prev": "One-command installer + local MCP bridge for Lodekeep: persistent, curated memory for ever",
-   "cur": "Memory MCP server for Claude Code, Cursor and any MCP client. Corrections replace stale fa"
-  },
-  {
-   "server": "ai.neuralverge/neuralverge",
-   "pkg": "@neuralverge/mcp-server",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "NeuralVerge MCP server: the data layer for agentic AI. Search, AI Extract and 300+ data so"
+   "cur": "A local bridge to the hosted Filtrous lab-filtration catalog: search products by free text"
   }
  ]
 }

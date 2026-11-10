@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-11-09T11:54:54Z",
- "universe_declared_github_repos": 15576,
- "universe_declared_npm_packages": 5729,
+ "generated_at": "2026-11-10T11:29:47Z",
+ "universe_declared_github_repos": 15406,
+ "universe_declared_npm_packages": 5640,
  "github_sample": {
   "n": 1200,
-  "dead": 199,
-  "dead_pct": 16.6,
+  "dead": 188,
+  "dead_pct": 15.7,
   "ci95": [
-   14.6,
-   18.8
+   13.7,
+   17.8
   ],
-  "archived": 17,
-  "no_license": 102,
-  "stale_365d": 10,
+  "archived": 10,
+  "no_license": 123,
+  "stale_365d": 4,
   "extrapolated_dead": [
-   2274,
-   2928
+   2111,
+   2742
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 788,
-  "unresolved": 12,
-  "version_desync": 194,
-  "desync_pct": 24.2,
+  "resolved": 786,
+  "unresolved": 14,
+  "version_desync": 206,
+  "desync_pct": 25.8,
   "ci95": [
-   21.4,
-   27.3
+   22.8,
+   28.9
   ],
-  "description_drift": 173,
-  "drift_pct": 21.6,
-  "desc_mismatch_vs_registry": 699,
-  "mismatch_pct": 87.4,
+  "description_drift": 160,
+  "drift_pct": 20.0,
+  "desc_mismatch_vs_registry": 709,
+  "mismatch_pct": 88.6,
   "extrapolated_desync": [
-   1226,
-   1564
+   1286,
+   1630
   ]
  },
  "examples_dead_repo": [
-  "junter1989k-ai/uae-payments-mcp",
-  "alphaparkinc/genpark-sql-injection-ast-taint-analyzer-skill",
-  "sornkan/sornflow",
-  "vanmoose/truncus-mcp-server",
-  "Tactic-Systems/leafwright",
-  "Ansvar-Systems/singapore-law-mcp",
-  "AlexFloyd13/clevername",
-  "Ahmedmkarrar/simpleverifier-mcp",
-  "fedlinllc/fedlin-mcp-server",
-  "CyberMax-tools/product-factory",
-  "angelo-leone/talent-augmenting-layer",
-  "CSOAI-ORG/meek-circulatory-capillary-mcp",
-  "adriancasas/geo360-concierge",
-  "Vico86/redditreach",
-  "MichaelLJessop/SensorAnalytics"
+  "alphaparkinc/genpark-concurrency-semaphore-guard-skill",
+  "junter1989k-ai/south-africa-payments-mcp",
+  "atest5050/regbot-landing-page",
+  "sravanism/esrp-oss-mcp-server",
+  "holdings-io/workspace",
+  "alphaparkinc/genpark-conversational-barge-in-interruption-arbitrator-skill",
+  "promptguardhq/promptguard",
+  "brightdata/brightdata-mcp-sse",
+  "Collabzonex/StyleFlow",
+  "Tixdorm/tixdorm",
+  "Samrajtheailyceum/adprotocols",
+  "Shiuglen/esme",
+  "Ansvar-Systems/Greek-law-mcp",
+  "The-825/a2a-trust-plane",
+  "people-analyst/bicycle-guide"
  ],
  "examples_drift": [
   {
-   "server": "com.useweckr/weckr",
-   "pkg": "@weckr/mcp",
-   "prev": "Weckr MCP server \u2014 query your AI cost and margin data directly from Claude, Cursor, or any",
-   "cur": "Weckr MCP server. Query your AI cost and margin data directly from Claude, Cursor, or any "
+   "server": "io.github.PackkitJS/packkit-mcp",
+   "pkg": "packkit-mcp",
+   "prev": "MCP server for Packkit \u2014 let AI agents scaffold and upgrade modern projects in any support",
+   "cur": "MCP server for Packkit \u2014 let AI agents scaffold, compose, and upgrade modern multi-languag"
   },
   {
-   "server": "io.github.CloudCorpRecords/domaintrack",
-   "pkg": "@reneturcios/domaintrack",
+   "server": "io.github.CloudCorpRecords/cueport",
+   "pkg": "@reneturcios/cueport",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Forwarding client for Domduck's public domain store: reputation snapshots, AI crawler poli"
+   "cur": "CueAPI agent-work scheduling from an MCP host or CLI: create, fire, pause and update cues,"
   },
   {
-   "server": "io.github.CloudCorpRecords/edgeport",
-   "pkg": "@reneturcios/edgeport",
+   "server": "io.github.CloudCorpRecords/datawatch",
+   "pkg": "@reneturcios/datawatch",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Work with Cloudflare zones, DNS records, cache purge, Worker scripts, KV namespaces, and R"
+   "cur": "Data observability over an API-key REST API: alert summaries, inbox and rules, data assets"
   },
   {
-   "server": "io.github.Swih/mistral-mcp",
-   "pkg": "mistral-mcp",
-   "prev": "Mistral capabilities through MCP: chat, documents, audio, code, agents and workflows, with",
-   "cur": "Mistral MCP server for invoice and document extraction. Turn text, Markdown or OCR into ty"
-  },
-  {
-   "server": "io.github.CloudCorpRecords/cryptoprice",
-   "pkg": "@reneturcios/cryptoprice",
+   "server": "com.comparecloudcosts/mcp-server",
+   "pkg": "@comparecloudcosts/mcp-server",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "CoinGecko crypto data without a key: current prices, full coin data, coin lists, search, m"
+   "cur": "MCP server for Compare Cloud Costs \u2014 compare cloud and AI model pricing across AWS, Azure,"
   },
   {
-   "server": "io.github.Company-Gibraltar/company-gibraltar",
-   "pkg": "company-gibraltar-mcp",
-   "prev": "Gibraltar company tools for AI agents. Calculate corporate tax payments, check compliance ",
-   "cur": "Gibraltar company tools for AI agents. Calculate corporate tax payments, check compliance "
+   "server": "finance.orbt/intelligence",
+   "pkg": "@orbt-finance/mcp-server",
+   "prev": "MCP server wrapper for ORBT Financial Intelligence API",
+   "cur": "Advanced AI-powered MCP server for ORBT Financial Intelligence API with Gemini-powered nat"
   },
   {
-   "server": "io.github.avclabs/media-mcp",
-   "pkg": "@avclabs.ai/media-mcp",
-   "prev": "MCP Server for video enhancement, image enhancement/colorization/denoising, and image segm",
-   "cur": "Legacy all-in-one MCP Server for video enhancement, image enhancement/colorization/denoisi"
-  },
-  {
-   "server": "com.queryrev/ai-readiness",
-   "pkg": "@queryrev/ai-readiness-mcp",
+   "server": "io.github.CloudCorpRecords/chatvault",
+   "pkg": "@reneturcios/chatvault",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "A local MCP server for QueryRev AI Readiness: AI crawler access, robots.txt and llms.txt c"
+   "cur": "Search and read a local AI chat-history corpus from disk: tokenised full-text search, full"
   },
   {
-   "server": "io.github.SumCodeAI/chatgenius",
-   "pkg": "chatgenius-mcp",
-   "prev": "MCP server for ChatGenius: give Claude, Cursor, Gemini CLI or any MCP client tools over yo",
-   "cur": "MCP server for ChatGenius: give Claude, Cursor, Gemini CLI or any MCP client tools over yo"
-  },
-  {
-   "server": "io.github.CloudCorpRecords/porefind",
-   "pkg": "@reneturcios/porefind",
+   "server": "io.github.CloudCorpRecords/taskboard-port",
+   "pkg": "@reneturcios/taskboard-port",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "A local bridge to the hosted Filtrous lab-filtration catalog: search products by free text"
+   "cur": "Work with Asana workspaces, projects and tasks from an MCP client: list and search tasks, "
+  },
+  {
+   "server": "io.github.Z333Q/p402",
+   "pkg": "@p402/mcp-server",
+   "prev": "MCP server for P402 AI Payment Router \u2014 route 300+ AI models with per-request USDC micropa",
+   "cur": "MCP server for P402 AI Payment Router \u2014 route 300+ AI models with per-request USDC micropa"
+  },
+  {
+   "server": "io.github.ZachDreamZ/agent-api-gateway",
+   "pkg": "agent-api-gateway-mcp",
+   "prev": "MCP server for Agent API Gateway \u2014 extract structured web data (product, article, company)",
+   "cur": "MCP server for Agent API Gateway - extract structured web data (product, article, company)"
+  },
+  {
+   "server": "io.github.CloudCorpRecords/lockdrift",
+   "pkg": "@reneturcios/lockdrift",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "Lockfile drift auditor: compares package.json dependency ranges against package-lock.json,"
   }
  ]
 }

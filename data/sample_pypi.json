@@ -1,35 +1,35 @@
 {
- "generated_at": "2026-11-09T11:55:04Z",
- "universe_declared_pypi": 2501,
+ "generated_at": "2026-11-10T11:29:56Z",
+ "universe_declared_pypi": 2422,
  "sample": {
   "n_sampled": 500,
   "resolved": 497,
   "unresolved": 3,
-  "version_desync": 96,
-  "desync_pct": 19.3,
+  "version_desync": 97,
+  "desync_pct": 19.5,
   "ci95": [
-   16.1,
-   23.0
+   16.3,
+   23.2
   ],
   "extrapolated_desync": [
-   403,
-   575
+   395,
+   562
   ],
-  "description_drift": 32,
-  "drift_pct": 6.4
+  "description_drift": 35,
+  "drift_pct": 7.0
  },
  "examples_drift": [
+  {
+   "server": "io.github.19Alma98/trekking-mcp",
+   "pkg": "trekking-mcp",
+   "prev": "Server MCP per sentieri, rifugi e condizioni di montagna sulle Alpi italiane",
+   "cur": "Server MCP per sentieri, rifugi e condizioni di montagna sul territorio italiano"
+  },
   {
    "server": "app.peil/peil-mcp",
    "pkg": "peil-mcp",
    "prev": "MCP server for Peil \u2014 log hours, draft invoices and check where you stand from an AI assis",
    "cur": "MCP server for Peil \u2014 log hours, draft invoices, add expenses and check where you stand fr"
-  },
-  {
-   "server": "dev.cotlet/skool",
-   "pkg": "skool-api-mcp",
-   "prev": "Self-hosted Skool API and MCP server on your own Chrome session. Noncommercial use (PolyFo",
-   "cur": "Self-hosted Skool API and MCP server on your own Chrome session. Use Skool from Claude, Cu"
   },
   {
    "server": "dev.cotlet/peopleperhour",
@@ -38,22 +38,34 @@
    "cur": "Self-hosted PeoplePerHour API and MCP server on your own Chrome session. Use PeoplePerHour"
   },
   {
-   "server": "gg.batru/batru-mcp",
-   "pkg": "batru-mcp",
-   "prev": "Read-only MCP server over batru.gg's live, calibrated Dota 2 / Deadlock win-rate predictio",
-   "cur": "Read-only MCP server over batru.gg's live, calibrated Dota 2 / Deadlock / Marvel Rivals wi"
+   "server": "dev.cotlet/milanote",
+   "pkg": "milanote-api-mcp",
+   "prev": "Self-hosted Milanote API and MCP server on your own Chrome session. Noncommercial use (Pol",
+   "cur": "Self-hosted Milanote API and MCP server on your own Chrome session. Use Milanote from Clau"
   },
   {
-   "server": "io.github.afernandeztem/flowglyph",
-   "pkg": "flowglyph",
-   "prev": "Turn enterprise automations into a vendor-neutral IR that agents can discover, plan with a",
-   "cur": "Make automation workflows discoverable, executable and safe for AI agents."
+   "server": "io.github.CSOAI-ORG/self-healing-infrastructure-mcp",
+   "pkg": "self-healing-infrastructure-mcp",
+   "prev": "AI-powered self healing infrastructure MCP server for agents. Supports node health check, ",
+   "cur": "The only self-healing infrastructure MCP with cryptographic governance. Ed25519 sigil, BFT"
   },
   {
-   "server": "io.github.SuperAngryMonkey/iris",
-   "pkg": "iris-mcp",
-   "prev": "A Microsoft 365 mail MCP server that drafts into Outlook. Sending is off by default and op",
-   "cur": "A Microsoft 365 mail MCP server that reads your mailbox and drafts into Outlook. Sending i"
+   "server": "io.github.ThiagoJacobLannes/portugal-medicines-mcp",
+   "pkg": "portugal-medicines-mcp",
+   "prev": "MCP server for medicine shortages and pharmacies on duty in Portugal (public sources, read",
+   "cur": "DEPRECATED: now part of portugal-mcp. MCP server for medicine shortages and pharmacies on "
+  },
+  {
+   "server": "io.github.UpstageAI/korean-tax-calc-mcp",
+   "pkg": "korean-tax-calc-mcp",
+   "prev": "Korea (South Korea) tax calculator MCP server \u2014 98 tools: tax calculation (incl. end-to-en",
+   "cur": "Korea (South Korea) tax calculator MCP server \u2014 101 tools: tax calculation (incl. end-to-e"
+  },
+  {
+   "server": "com.aiinfradecoded/mcp-anvil",
+   "pkg": "mcp-anvil",
+   "prev": "Scaffold, audit, and inspect Model Context Protocol (MCP) servers from the CLI.",
+   "cur": "Local MCP daemon with a dashboard, REST/WebSocket API, and 64 built-in tools \u2014 plus scaffo"
   },
   {
    "server": "ai.bowmark/bowmark",
@@ -62,22 +74,10 @@
    "cur": "Bowmark MCP for stdio hosts: web scraping and automation for AI agents. Live prices, quote"
   },
   {
-   "server": "io.github.Codeturion/codesurface",
-   "pkg": "codesurface",
-   "prev": "MCP server that indexes a codebase's public API at startup and serves it via compact tool ",
-   "cur": "MCP server that indexes a codebase's public API at startup and serves it via compact tool "
-  },
-  {
-   "server": "io.github.MICONNM/openclaw-consensus-mcp",
-   "pkg": "openclaw-consensus-mcp",
-   "prev": "MCP server for OpenClaw Consensus \u2014 9-LLM consensus to fight hallucinations. Built by yanm",
-   "cur": "MCP server for OpenClaw Consensus ??9-LLM consensus to fight hallucinations. Built by yanm"
-  },
-  {
-   "server": "io.github.SuperAngryMonkey/mcpie",
-   "pkg": "mcpie-pizza",
-   "prev": "The standing-order pizza button: an MCP server that orders your usual Domino's. Cash at pi",
-   "cur": "The standing-order pizza button: an MCP server that orders your usual Domino's. Cash at pi"
+   "server": "io.github.Arun-kc/schemabrain",
+   "pkg": "schemabrain",
+   "prev": "The SQL firewall between AI agents and your production database.",
+   "cur": "The trust and intelligence layer between AI agents and your database."
   }
  ]
 }

@@ -1,29 +1,29 @@
 {
- "generated_at": "2026-11-10T11:29:56Z",
- "universe_declared_pypi": 2422,
+ "generated_at": "2026-11-11T11:16:43Z",
+ "universe_declared_pypi": 2333,
  "sample": {
   "n_sampled": 500,
-  "resolved": 497,
-  "unresolved": 3,
-  "version_desync": 97,
-  "desync_pct": 19.5,
+  "resolved": 496,
+  "unresolved": 4,
+  "version_desync": 86,
+  "desync_pct": 17.3,
   "ci95": [
-   16.3,
-   23.2
+   14.3,
+   20.9
   ],
   "extrapolated_desync": [
-   395,
-   562
+   334,
+   488
   ],
   "description_drift": 35,
-  "drift_pct": 7.0
+  "drift_pct": 7.1
  },
  "examples_drift": [
   {
-   "server": "io.github.19Alma98/trekking-mcp",
-   "pkg": "trekking-mcp",
-   "prev": "Server MCP per sentieri, rifugi e condizioni di montagna sulle Alpi italiane",
-   "cur": "Server MCP per sentieri, rifugi e condizioni di montagna sul territorio italiano"
+   "server": "io.github.YichengYang-Ethan/oracle3",
+   "pkg": "oracle3",
+   "prev": "Paper-trading engine and MCP server for prediction markets (Kalshi, Polymarket): no-arbitr",
+   "cur": "Trading engine and MCP server for prediction markets: fee-aware no-arbitrage trading acros"
   },
   {
    "server": "app.peil/peil-mcp",
@@ -32,34 +32,34 @@
    "cur": "MCP server for Peil \u2014 log hours, draft invoices, add expenses and check where you stand fr"
   },
   {
-   "server": "dev.cotlet/peopleperhour",
-   "pkg": "peopleperhour-api-mcp",
-   "prev": "Self-hosted PeoplePerHour API and MCP server on your own Chrome session. Noncommercial use",
-   "cur": "Self-hosted PeoplePerHour API and MCP server on your own Chrome session. Use PeoplePerHour"
-  },
-  {
    "server": "dev.cotlet/milanote",
    "pkg": "milanote-api-mcp",
    "prev": "Self-hosted Milanote API and MCP server on your own Chrome session. Noncommercial use (Pol",
    "cur": "Self-hosted Milanote API and MCP server on your own Chrome session. Use Milanote from Clau"
   },
   {
-   "server": "io.github.CSOAI-ORG/self-healing-infrastructure-mcp",
-   "pkg": "self-healing-infrastructure-mcp",
-   "prev": "AI-powered self healing infrastructure MCP server for agents. Supports node health check, ",
-   "cur": "The only self-healing infrastructure MCP with cryptographic governance. Ed25519 sigil, BFT"
+   "server": "dev.cotlet/contractor-foreman",
+   "pkg": "contractor-foreman-api-mcp",
+   "prev": "Self-hosted Contractor Foreman API and MCP server on your own Chrome session. Noncommercia",
+   "cur": "Self-hosted Contractor Foreman API and MCP server on your own Chrome session. Use Contract"
   },
   {
-   "server": "io.github.ThiagoJacobLannes/portugal-medicines-mcp",
-   "pkg": "portugal-medicines-mcp",
-   "prev": "MCP server for medicine shortages and pharmacies on duty in Portugal (public sources, read",
-   "cur": "DEPRECATED: now part of portugal-mcp. MCP server for medicine shortages and pharmacies on "
+   "server": "io.github.anp2protocol/anp2-mcp-server",
+   "pkg": "anp2-mcp-server",
+   "prev": "MCP server for ANP2 \u2014 where AI agents talk, share knowledge, build trust, and (when useful",
+   "cur": "MCP server for ANP2 \u2014 where AI agents talk, share knowledge, build trust, and (when useful"
   },
   {
-   "server": "io.github.UpstageAI/korean-tax-calc-mcp",
-   "pkg": "korean-tax-calc-mcp",
-   "prev": "Korea (South Korea) tax calculator MCP server \u2014 98 tools: tax calculation (incl. end-to-en",
-   "cur": "Korea (South Korea) tax calculator MCP server \u2014 101 tools: tax calculation (incl. end-to-e"
+   "server": "io.github.CSOAI-ORG/dora-compliance-mcp",
+   "pkg": "dora-compliance-mcp",
+   "prev": "DORA (EU Digital Operational Resilience Act) compliance for AI agents. 5-pillar audit, inc",
+   "cur": "DORA measurement for AI agents. 5-pillar audit, incident classification, Article 28 Regist"
+  },
+  {
+   "server": "io.github.CoderDayton/semantic-cache-mcp",
+   "pkg": "semantic-cache-mcp",
+   "prev": "Lightweight MCP server for semantic file caching with 80%+ token reduction",
+   "cur": "MCP file cache for AI coding agents: re-reads cost ~40 tokens, changed files return diffs,"
   },
   {
    "server": "com.aiinfradecoded/mcp-anvil",
@@ -74,10 +74,10 @@
    "cur": "Bowmark MCP for stdio hosts: web scraping and automation for AI agents. Live prices, quote"
   },
   {
-   "server": "io.github.Arun-kc/schemabrain",
-   "pkg": "schemabrain",
-   "prev": "The SQL firewall between AI agents and your production database.",
-   "cur": "The trust and intelligence layer between AI agents and your database."
+   "server": "io.github.WimSuenens/gs1belu-mpm",
+   "pkg": "gs1belu-mpm-mcp",
+   "prev": "FastMCP server exposing GS1 Belgium & Luxembourg My Product Manager (Upload + Download v17",
+   "cur": "Deprecated \u2014 split into gs1belu-mpm-upload-mcp and gs1belu-mpm-download-mcp. FastMCP serve"
   }
  ]
 }

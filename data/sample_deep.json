@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-11-10T11:29:47Z",
- "universe_declared_github_repos": 15406,
- "universe_declared_npm_packages": 5640,
+ "generated_at": "2026-11-11T11:16:35Z",
+ "universe_declared_github_repos": 15244,
+ "universe_declared_npm_packages": 5555,
  "github_sample": {
   "n": 1200,
-  "dead": 188,
-  "dead_pct": 15.7,
+  "dead": 177,
+  "dead_pct": 14.8,
   "ci95": [
-   13.7,
-   17.8
+   12.9,
+   16.9
   ],
-  "archived": 10,
-  "no_license": 123,
-  "stale_365d": 4,
+  "archived": 7,
+  "no_license": 144,
+  "stale_365d": 11,
   "extrapolated_dead": [
-   2111,
-   2742
+   1966,
+   2576
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 786,
-  "unresolved": 14,
-  "version_desync": 206,
-  "desync_pct": 25.8,
+  "resolved": 780,
+  "unresolved": 20,
+  "version_desync": 177,
+  "desync_pct": 22.1,
   "ci95": [
-   22.8,
-   28.9
+   19.4,
+   25.1
   ],
-  "description_drift": 160,
-  "drift_pct": 20.0,
-  "desc_mismatch_vs_registry": 709,
-  "mismatch_pct": 88.6,
+  "description_drift": 161,
+  "drift_pct": 20.1,
+  "desc_mismatch_vs_registry": 702,
+  "mismatch_pct": 87.8,
   "extrapolated_desync": [
-   1286,
-   1630
+   1078,
+   1394
   ]
  },
  "examples_dead_repo": [
-  "alphaparkinc/genpark-concurrency-semaphore-guard-skill",
-  "junter1989k-ai/south-africa-payments-mcp",
-  "atest5050/regbot-landing-page",
-  "sravanism/esrp-oss-mcp-server",
-  "holdings-io/workspace",
-  "alphaparkinc/genpark-conversational-barge-in-interruption-arbitrator-skill",
-  "promptguardhq/promptguard",
+  "junter1989k-ai/peru-payments-mcp",
+  "raisonnai/raisonnai",
+  "DotNova/context-layer",
   "brightdata/brightdata-mcp-sse",
-  "Collabzonex/StyleFlow",
-  "Tixdorm/tixdorm",
-  "Samrajtheailyceum/adprotocols",
-  "Shiuglen/esme",
-  "Ansvar-Systems/Greek-law-mcp",
-  "The-825/a2a-trust-plane",
-  "people-analyst/bicycle-guide"
+  "HaayanchandravatSr/jeeva-jyotish",
+  "CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-roll-mcp",
+  "elkassabgi/hfdatalibrary",
+  "johnaio281/textkit",
+  "BerriAI/litellm-agent-mcp",
+  "sonenta/tools",
+  "MarcinDudekDev/curlship",
+  "WonkaRed/Omnial",
+  "CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-boomerang-mcp",
+  "Atmosphere-Technologies/atmosphere_app",
+  "Ansarii/neoninnovationlab"
  ],
  "examples_drift": [
   {
-   "server": "io.github.PackkitJS/packkit-mcp",
-   "pkg": "packkit-mcp",
-   "prev": "MCP server for Packkit \u2014 let AI agents scaffold and upgrade modern projects in any support",
-   "cur": "MCP server for Packkit \u2014 let AI agents scaffold, compose, and upgrade modern multi-languag"
-  },
-  {
-   "server": "io.github.CloudCorpRecords/cueport",
-   "pkg": "@reneturcios/cueport",
+   "server": "io.github.CloudCorpRecords/codehost-port",
+   "pkg": "@reneturcios/codehost-port",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "CueAPI agent-work scheduling from an MCP host or CLI: create, fire, pause and update cues,"
+   "cur": "Work with GitHub repositories, issues and pull requests from an MCP client: create and for"
   },
   {
-   "server": "io.github.CloudCorpRecords/datawatch",
-   "pkg": "@reneturcios/datawatch",
+   "server": "io.github.CloudCorpRecords/commitcheck",
+   "pkg": "@reneturcios/commitcheck",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Data observability over an API-key REST API: alert summaries, inbox and rules, data assets"
+   "cur": "Commit hygiene checker: over a git history range, checks subject length, the repo's own do"
   },
   {
-   "server": "com.comparecloudcosts/mcp-server",
-   "pkg": "@comparecloudcosts/mcp-server",
+   "server": "ai.sellinger/mcp-server",
+   "pkg": "sellinger-mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for Compare Cloud Costs \u2014 compare cloud and AI model pricing across AWS, Azure,"
+   "cur": "MCP server exposing Sellinger CRM operations as tools"
   },
   {
-   "server": "finance.orbt/intelligence",
-   "pkg": "@orbt-finance/mcp-server",
-   "prev": "MCP server wrapper for ORBT Financial Intelligence API",
-   "cur": "Advanced AI-powered MCP server for ORBT Financial Intelligence API with Gemini-powered nat"
-  },
-  {
-   "server": "io.github.CloudCorpRecords/chatvault",
-   "pkg": "@reneturcios/chatvault",
+   "server": "eu.einvoice-api/mcp",
+   "pkg": "@einvoiceapi/mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Search and read a local AI chat-history corpus from disk: tokenised full-text search, full"
+   "cur": "MCP server for the EU E-Invoice API: validate, parse and generate XRechnung, ZUGFeRD/Factu"
   },
   {
-   "server": "io.github.CloudCorpRecords/taskboard-port",
-   "pkg": "@reneturcios/taskboard-port",
+   "server": "io.github.CloudCorpRecords/browserstage",
+   "pkg": "@reneturcios/browserstage",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Work with Asana workspaces, projects and tasks from an MCP client: list and search tasks, "
+   "cur": "Snapshot-driven browser automation as a CLI and a stdio MCP server: navigate, snapshot, cl"
   },
   {
-   "server": "io.github.Z333Q/p402",
-   "pkg": "@p402/mcp-server",
-   "prev": "MCP server for P402 AI Payment Router \u2014 route 300+ AI models with per-request USDC micropa",
-   "cur": "MCP server for P402 AI Payment Router \u2014 route 300+ AI models with per-request USDC micropa"
-  },
-  {
-   "server": "io.github.ZachDreamZ/agent-api-gateway",
-   "pkg": "agent-api-gateway-mcp",
-   "prev": "MCP server for Agent API Gateway \u2014 extract structured web data (product, article, company)",
-   "cur": "MCP server for Agent API Gateway - extract structured web data (product, article, company)"
-  },
-  {
-   "server": "io.github.CloudCorpRecords/lockdrift",
-   "pkg": "@reneturcios/lockdrift",
+   "server": "io.github.DynamicsNinja/garmin-connect-personal-api",
+   "pkg": "garmin-connect-personal-api-mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Lockfile drift auditor: compares package.json dependency ranges against package-lock.json,"
+   "cur": "Unofficial MCP server for the Garmin Connect Personal API: let Claude and other AI assista"
+  },
+  {
+   "server": "io.github.CloudCorpRecords/sociallens",
+   "pkg": "@reneturcios/sociallens",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "Rolli IQ social-media search and analytics: keyword, user and expert searches, posts, topi"
+  },
+  {
+   "server": "io.github.ETSquareAI/sev",
+   "pkg": "@etsquare/sev-mcp",
+   "prev": "SEV company discovery and original SEC passage access over hosted REST.",
+   "cur": "Ask a research question in plain English and, in seconds, get a ranked shortlist of public"
+  },
+  {
+   "server": "io.github.A0Nexus-bit/a0nexus-bitcoin-mcp",
+   "pkg": "a0nexus-bitcoin-mcp",
+   "prev": "Live Bitcoin network, mempool, fees, and AI price/fee forecasts as MCP tools for Claude an",
+   "cur": "Predictive data as MCP tools for Claude and other AI apps: live Bitcoin + Ethereum on-chai"
+  },
+  {
+   "server": "io.github.CloudCorpRecords/keywordminer",
+   "pkg": "@reneturcios/keywordminer",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "Marketing Miner Profilers API as MCP tools: keyword search volume and suggestions, plus we"
   }
  ]
 }

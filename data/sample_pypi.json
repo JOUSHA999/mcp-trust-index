@@ -1,24 +1,36 @@
 {
- "generated_at": "2026-11-11T11:16:43Z",
- "universe_declared_pypi": 2333,
+ "generated_at": "2026-11-12T11:37:12Z",
+ "universe_declared_pypi": 2283,
  "sample": {
   "n_sampled": 500,
-  "resolved": 496,
-  "unresolved": 4,
+  "resolved": 498,
+  "unresolved": 2,
   "version_desync": 86,
   "desync_pct": 17.3,
   "ci95": [
-   14.3,
-   20.9
+   14.2,
+   20.8
   ],
   "extrapolated_desync": [
-   334,
-   488
+   324,
+   475
   ],
-  "description_drift": 35,
-  "drift_pct": 7.1
+  "description_drift": 29,
+  "drift_pct": 5.8
  },
  "examples_drift": [
+  {
+   "server": "io.github.Battam1111/omniseek",
+   "pkg": "omniseek",
+   "prev": "Your agent seeks what search can't find. A self-hosted perception MCP server that transcri",
+   "cur": "Give your AI agent the parts of the internet web search doesn't reach: podcasts and videos"
+  },
+  {
+   "server": "dev.cotlet/bookingkoala",
+   "pkg": "bookingkoala-api-mcp",
+   "prev": "Self-hosted BookingKoala API and MCP server on your own Chrome session. Noncommercial use ",
+   "cur": "Self-hosted BookingKoala API and MCP server on your own Chrome session. Use BookingKoala f"
+  },
   {
    "server": "io.github.YichengYang-Ethan/oracle3",
    "pkg": "oracle3",
@@ -26,46 +38,10 @@
    "cur": "Trading engine and MCP server for prediction markets: fee-aware no-arbitrage trading acros"
   },
   {
-   "server": "app.peil/peil-mcp",
-   "pkg": "peil-mcp",
-   "prev": "MCP server for Peil \u2014 log hours, draft invoices and check where you stand from an AI assis",
-   "cur": "MCP server for Peil \u2014 log hours, draft invoices, add expenses and check where you stand fr"
-  },
-  {
-   "server": "dev.cotlet/milanote",
-   "pkg": "milanote-api-mcp",
-   "prev": "Self-hosted Milanote API and MCP server on your own Chrome session. Noncommercial use (Pol",
-   "cur": "Self-hosted Milanote API and MCP server on your own Chrome session. Use Milanote from Clau"
-  },
-  {
-   "server": "dev.cotlet/contractor-foreman",
-   "pkg": "contractor-foreman-api-mcp",
-   "prev": "Self-hosted Contractor Foreman API and MCP server on your own Chrome session. Noncommercia",
-   "cur": "Self-hosted Contractor Foreman API and MCP server on your own Chrome session. Use Contract"
-  },
-  {
-   "server": "io.github.anp2protocol/anp2-mcp-server",
-   "pkg": "anp2-mcp-server",
-   "prev": "MCP server for ANP2 \u2014 where AI agents talk, share knowledge, build trust, and (when useful",
-   "cur": "MCP server for ANP2 \u2014 where AI agents talk, share knowledge, build trust, and (when useful"
-  },
-  {
-   "server": "io.github.CSOAI-ORG/dora-compliance-mcp",
-   "pkg": "dora-compliance-mcp",
-   "prev": "DORA (EU Digital Operational Resilience Act) compliance for AI agents. 5-pillar audit, inc",
-   "cur": "DORA measurement for AI agents. 5-pillar audit, incident classification, Article 28 Regist"
-  },
-  {
-   "server": "io.github.CoderDayton/semantic-cache-mcp",
-   "pkg": "semantic-cache-mcp",
-   "prev": "Lightweight MCP server for semantic file caching with 80%+ token reduction",
-   "cur": "MCP file cache for AI coding agents: re-reads cost ~40 tokens, changed files return diffs,"
-  },
-  {
-   "server": "com.aiinfradecoded/mcp-anvil",
-   "pkg": "mcp-anvil",
-   "prev": "Scaffold, audit, and inspect Model Context Protocol (MCP) servers from the CLI.",
-   "cur": "Local MCP daemon with a dashboard, REST/WebSocket API, and 64 built-in tools \u2014 plus scaffo"
+   "server": "io.github.alyiox/mcp-atlassian-attachments",
+   "pkg": "mcp-atlassian-attachments",
+   "prev": "MCP server for downloading Jira and Confluence Cloud attachments",
+   "cur": "MCP server for downloading Jira and Confluence Cloud attachments and uploading Jira attach"
   },
   {
    "server": "ai.bowmark/bowmark",
@@ -74,10 +50,34 @@
    "cur": "Bowmark MCP for stdio hosts: web scraping and automation for AI agents. Live prices, quote"
   },
   {
-   "server": "io.github.WimSuenens/gs1belu-mpm",
-   "pkg": "gs1belu-mpm-mcp",
-   "prev": "FastMCP server exposing GS1 Belgium & Luxembourg My Product Manager (Upload + Download v17",
-   "cur": "Deprecated \u2014 split into gs1belu-mpm-upload-mcp and gs1belu-mpm-download-mcp. FastMCP serve"
+   "server": "io.github.Fino-wind/vaultbeat",
+   "pkg": "vaultbeat-mcp",
+   "prev": "Local MCP server for Vaultbeat \u2014 AI Health Sync: your AI agent reads your end-to-end-encry",
+   "cur": "Renamed to vaultbeat-apple-health. This package forwards to it \u2014 install vaultbeat-apple-h"
+  },
+  {
+   "server": "dev.fly.veles-finance-gateway/veles-finance-mcp",
+   "pkg": "veles-finance-mcp",
+   "prev": "MCP server for Veles Finance Agent \u2014 AI-powered financial analysis via x402 micropayments ",
+   "cur": "Veles Finance Agent MCP server \u2014 institutional DD reports for Claude Desktop, Cursor, Wind"
+  },
+  {
+   "server": "io.github.Ivanolegvak/sonar-mcp",
+   "pkg": "getsonar-mcp",
+   "prev": "MCP server for SONAR: KYB due diligence on vendors, partners and resellers (registries, sa",
+   "cur": "MCP server for SONAR: company register lookups and KYB due diligence on vendors, partners "
+  },
+  {
+   "server": "io.github.CSOAI-ORG/self-healing-infrastructure-mcp",
+   "pkg": "self-healing-infrastructure-mcp",
+   "prev": "AI-powered self healing infrastructure MCP server for agents. Supports node health check, ",
+   "cur": "The only self-healing infrastructure MCP with cryptographic governance. Ed25519 sigil, BFT"
+  },
+  {
+   "server": "io.github.BigJai/codemunch-pro",
+   "pkg": "codemunch-pro",
+   "prev": "Intelligent code indexing MCP server. Tree-sitter AST extraction, hybrid search (FTS5 + ve",
+   "cur": "DEPRECATED: renamed to tokennuke. Run: pip install tokennuke"
   }
  ]
 }

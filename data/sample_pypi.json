@@ -1,47 +1,41 @@
 {
- "generated_at": "2026-11-12T11:37:12Z",
- "universe_declared_pypi": 2283,
+ "generated_at": "2026-11-13T11:18:08Z",
+ "universe_declared_pypi": 2220,
  "sample": {
   "n_sampled": 500,
-  "resolved": 498,
-  "unresolved": 2,
-  "version_desync": 86,
-  "desync_pct": 17.3,
+  "resolved": 496,
+  "unresolved": 4,
+  "version_desync": 94,
+  "desync_pct": 19.0,
   "ci95": [
-   14.2,
-   20.8
+   15.7,
+   22.6
   ],
   "extrapolated_desync": [
-   324,
-   475
+   349,
+   502
   ],
-  "description_drift": 29,
-  "drift_pct": 5.8
+  "description_drift": 24,
+  "drift_pct": 4.8
  },
  "examples_drift": [
   {
-   "server": "io.github.Battam1111/omniseek",
-   "pkg": "omniseek",
-   "prev": "Your agent seeks what search can't find. A self-hosted perception MCP server that transcri",
-   "cur": "Give your AI agent the parts of the internet web search doesn't reach: podcasts and videos"
+   "server": "io.github.ChesterHsu/flyto-indexer",
+   "pkg": "flyto-indexer",
+   "prev": "Code intelligence MCP server for AI-assisted development \u2014 impact analysis, semantic searc",
+   "cur": "Code intelligence MCP server for AI coding agents with impact analysis, semantic search, d"
   },
   {
-   "server": "dev.cotlet/bookingkoala",
-   "pkg": "bookingkoala-api-mcp",
-   "prev": "Self-hosted BookingKoala API and MCP server on your own Chrome session. Noncommercial use ",
-   "cur": "Self-hosted BookingKoala API and MCP server on your own Chrome session. Use BookingKoala f"
+   "server": "com.matlogica/aadc-mcp",
+   "pkg": "aadc-mcp",
+   "prev": "MatLogica AADC and the AADC Tracer from your coding agent: a local MCP server that checks ",
+   "cur": "MatLogica AADC from your coding agent: exact AAD derivatives and Greeks for Python pricers"
   },
   {
-   "server": "io.github.YichengYang-Ethan/oracle3",
-   "pkg": "oracle3",
-   "prev": "Paper-trading engine and MCP server for prediction markets (Kalshi, Polymarket): no-arbitr",
-   "cur": "Trading engine and MCP server for prediction markets: fee-aware no-arbitrage trading acros"
-  },
-  {
-   "server": "io.github.alyiox/mcp-atlassian-attachments",
-   "pkg": "mcp-atlassian-attachments",
-   "prev": "MCP server for downloading Jira and Confluence Cloud attachments",
-   "cur": "MCP server for downloading Jira and Confluence Cloud attachments and uploading Jira attach"
+   "server": "io.github.SuperAngryMonkey/mcpie",
+   "pkg": "mcpie-pizza",
+   "prev": "The standing-order pizza button: an MCP server that orders your usual Domino's. Cash at pi",
+   "cur": "The standing-order pizza button: an MCP server that orders your usual Domino's. Cash at pi"
   },
   {
    "server": "ai.bowmark/bowmark",
@@ -50,34 +44,40 @@
    "cur": "Bowmark MCP for stdio hosts: web scraping and automation for AI agents. Live prices, quote"
   },
   {
-   "server": "io.github.Fino-wind/vaultbeat",
-   "pkg": "vaultbeat-mcp",
-   "prev": "Local MCP server for Vaultbeat \u2014 AI Health Sync: your AI agent reads your end-to-end-encry",
-   "cur": "Renamed to vaultbeat-apple-health. This package forwards to it \u2014 install vaultbeat-apple-h"
+   "server": "com.scento/perfume-api",
+   "pkg": "scento-perfume-api",
+   "prev": "Scento Perfume API: a free perfume and fragrance API and MCP server over Scento's verified",
+   "cur": "Free perfume API and perfume MCP server: 1,500+ perfumes, 160+ houses, 400+ raw materials "
   },
   {
-   "server": "dev.fly.veles-finance-gateway/veles-finance-mcp",
-   "pkg": "veles-finance-mcp",
-   "prev": "MCP server for Veles Finance Agent \u2014 AI-powered financial analysis via x402 micropayments ",
-   "cur": "Veles Finance Agent MCP server \u2014 institutional DD reports for Claude Desktop, Cursor, Wind"
+   "server": "dev.cotlet/skool",
+   "pkg": "skool-api-mcp",
+   "prev": "Self-hosted Skool API and MCP server on your own Chrome session. Noncommercial use (PolyFo",
+   "cur": "Self-hosted Skool API and MCP server on your own Chrome session. Use Skool from Claude, Cu"
   },
   {
-   "server": "io.github.Ivanolegvak/sonar-mcp",
-   "pkg": "getsonar-mcp",
-   "prev": "MCP server for SONAR: KYB due diligence on vendors, partners and resellers (registries, sa",
-   "cur": "MCP server for SONAR: company register lookups and KYB due diligence on vendors, partners "
+   "server": "app.srift/srift",
+   "pkg": "srift",
+   "prev": "Send any file as a download link from the CLI, Python or an AI agent (MCP server). Encrypt",
+   "cur": "Decentralized, end-to-end encrypted P2P file transfer, chat and calls: human to human, hum"
   },
   {
-   "server": "io.github.CSOAI-ORG/self-healing-infrastructure-mcp",
-   "pkg": "self-healing-infrastructure-mcp",
-   "prev": "AI-powered self healing infrastructure MCP server for agents. Supports node health check, ",
-   "cur": "The only self-healing infrastructure MCP with cryptographic governance. Ed25519 sigil, BFT"
+   "server": "io.github.YichengYang-Ethan/oracle3",
+   "pkg": "oracle3",
+   "prev": "Paper-trading engine and MCP server for prediction markets (Kalshi, Polymarket): no-arbitr",
+   "cur": "Trading engine and MCP server for prediction markets: fee-aware no-arbitrage trading acros"
   },
   {
-   "server": "io.github.BigJai/codemunch-pro",
-   "pkg": "codemunch-pro",
-   "prev": "Intelligent code indexing MCP server. Tree-sitter AST extraction, hybrid search (FTS5 + ve",
-   "cur": "DEPRECATED: renamed to tokennuke. Run: pip install tokennuke"
+   "server": "io.github.Clousd-Android/clousd-mcp",
+   "pkg": "clousd-mcp",
+   "prev": "MCP server: give an AI agent a real Android phone in the cloud",
+   "cur": "MCP server: give an AI agent an Android phone in the cloud"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/pdf-document-mcp",
+   "pkg": "pdf-document-mcp",
+   "prev": "AI-powered pdf document MCP server for agents. Supports extract text from pdf, convert pdf",
+   "cur": "Pdf Document Mcp: extract text from pdf (Extract text content from a PDF file. Optionally "
   }
  ]
 }

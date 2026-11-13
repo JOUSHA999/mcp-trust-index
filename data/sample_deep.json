@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-11-12T11:37:02Z",
- "universe_declared_github_repos": 15137,
- "universe_declared_npm_packages": 5473,
+ "generated_at": "2026-11-13T11:18:05Z",
+ "universe_declared_github_repos": 14922,
+ "universe_declared_npm_packages": 5398,
  "github_sample": {
   "n": 1200,
-  "dead": 171,
-  "dead_pct": 14.2,
+  "dead": 172,
+  "dead_pct": 14.3,
   "ci95": [
-   12.4,
-   16.3
+   12.5,
+   16.4
   ],
-  "archived": 13,
-  "no_license": 129,
-  "stale_365d": 12,
+  "archived": 6,
+  "no_license": 140,
+  "stale_365d": 13,
   "extrapolated_dead": [
-   1877,
-   2467
+   1865,
+   2447
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 788,
-  "unresolved": 12,
-  "version_desync": 174,
-  "desync_pct": 21.8,
+  "resolved": 783,
+  "unresolved": 17,
+  "version_desync": 183,
+  "desync_pct": 22.9,
   "ci95": [
-   19.0,
-   24.7
+   20.1,
+   25.9
   ],
-  "description_drift": 150,
-  "drift_pct": 18.8,
-  "desc_mismatch_vs_registry": 710,
-  "mismatch_pct": 88.8,
+  "description_drift": 164,
+  "drift_pct": 20.5,
+  "desc_mismatch_vs_registry": 705,
+  "mismatch_pct": 88.1,
   "extrapolated_desync": [
-   1040,
-   1352
+   1085,
+   1398
   ]
  },
  "examples_dead_repo": [
-  "junter1989k-ai/malaysia-payments-mcp",
-  "RQM-Technologies-dev/RQM-Jobs-MCP",
-  "bajwavikram/foodose",
-  "findmetool/todayshoroscope",
-  "AIWerk/mcp-server-imap",
-  "HARJAP-SINGH-3105/Splitwise_MCP",
-  "NOTTIBOY137/mcp-update-hijack-demo",
-  "agentmark-ai/agentmark",
+  "junter1989k-ai/japan-logistics-mcp",
+  "DarkMatteros/DarkMatter",
+  "DoughyJoeyD/friday-seller-tools",
+  "RobertAlsop/bartram_foundry",
+  "jirispilka/actors-mcp-server",
+  "BeyondFolder/beyondfolder-landing-page",
+  "tonnooooo/kleo-mcp",
   "people-analyst/bicycle-guide",
-  "mikeslone/snowsure-web",
-  "AllocContext/alloc-context",
-  "SpearmanMODE/flynn-nexus-dashboard",
-  "naturalnet/wedding-seat-app",
-  "alphaparkinc/genpark-json-rpc-batch-pipelining-dispatcher-skill",
-  "joeetdev/venture-estate"
+  "agraciag/patxin",
+  "aditya-ariosity/wcag-accessibility-mcp",
+  "CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-trueprice-mcp",
+  "Ansvar-Systems/Serbian-law-mcp",
+  "CSOAI-ORG/meek-circulatory-capillary-mcp",
+  "mtre-ai/DealGeneraitor-app",
+  "CyberMax-tools/product-factory"
  ],
  "examples_drift": [
   {
-   "server": "io.github.CloudCorpRecords/asinlens",
-   "pkg": "@reneturcios/asinlens",
+   "server": "io.github.Vilancer/droppage",
+   "pkg": "droppage",
+   "prev": "Publish HTML files as shareable, access-controlled live pages",
+   "cur": "Share analyst reports and dashboards as a live link"
+  },
+  {
+   "server": "io.github.SPIRY-RO/slush-meme-mcp",
+   "pkg": "slush-meme-mcp-server",
+   "prev": "MCP Server for slush.meme \u2014 the AI-native meme coin launchpad on Avalanche. Deploy tokens,",
+   "cur": "MCP Server for slush.meme \u2014 AI-native meme coin launchpad on Avalanche. Real on-chain trad"
+  },
+  {
+   "server": "com.njligames/kanban-importer",
+   "pkg": "@njligames/kanban-importer-mcp",
+   "prev": "Read and move Kanban Importer tasks on a Trello board from Claude, Codex or any MCP client",
+   "cur": "Let Claude or Codex move Trello cards by the task ids it invented itself, not by Trello ca"
+  },
+  {
+   "server": "io.github.CloudCorpRecords/flightdata",
+   "pkg": "@reneturcios/flightdata",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Amazon product, seller and search data from the hosted Easyparser MCP server: product deta"
+   "cur": "Google Flights results as JSON from your agent: a local bridge to the hosted HasData Googl"
   },
   {
-   "server": "io.github.CloudCorpRecords/seedgen",
-   "pkg": "@reneturcios/seedgen",
+   "server": "io.github.Lex-API/lexapi-mcp",
+   "pkg": "@lexapi/mcp",
+   "prev": "Model Context Protocol server for LexAPI \u2014 query EUR-Lex and EU case law from Claude, Curs",
+   "cur": "Model Context Protocol server for LexAPI \u2014 EUR-Lex legislation, CJEU case law, the citatio"
+  },
+  {
+   "server": "com.familiarvtt/familiar",
+   "pkg": "familiar-vtt",
+   "prev": "Your AI co-pilot for Foundry VTT. 230 tools across 26 domains: characters, combat, scenes,",
+   "cur": "Your AI co-pilot for Foundry VTT. 200+ tools across 27 domains: characters, combat, scenes"
+  },
+  {
+   "server": "app.3dstreet/3dstreet",
+   "pkg": "3dstreet-mcp",
+   "prev": "Model Context Protocol server for 3DStreet \u2014 drive an open 3DStreet tab from Claude Deskto",
+   "cur": "Fallback MCP relay for 3DStreet: drive an open 3DStreet tab from clients without WebMCP (C"
+  },
+  {
+   "server": "io.github.Banjo-Ventures/lodestar-stamp",
+   "pkg": "lodestar-stamp-mcp",
+   "prev": "Dated, source-linked receipts before an agent recommends or books. Lodestar does not appro",
+   "cur": "Lodestar issues signed, dated business records. Reads are free."
+  },
+  {
+   "server": "com.cloudinary/analysis-mcp",
+   "pkg": "@cloudinary/analysis-mcp",
+   "prev": "<!-- mcp-name: io.github.cloudinary/analysis-mcp -->",
+   "cur": "<!-- mcp-name: com.cloudinary/analysis-mcp -->"
+  },
+  {
+   "server": "io.github.CloudCorpRecords/changelogforge",
+   "pkg": "@reneturcios/changelogforge",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Deterministic seed and fixture data generated from field specs and a numeric seed: integer"
-  },
-  {
-   "server": "io.github.6mickswagger9/x402-sec-scan",
-   "pkg": "x402-sec-scan",
-   "prev": "Security scan MCP - OWASP top 10 check on any URL via x402",
-   "cur": "Security scan (OWASP) MCP. Activate: npx x402-sec-scan --x402 https://scan-api-production-"
-  },
-  {
-   "server": "io.github.CloudCorpRecords/imageport",
-   "pkg": "@reneturcios/imageport",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Local image processing over ImageMagick: read metadata, resize, convert between formats, c"
-  },
-  {
-   "server": "io.github.LuxorLabs/luxor-mcp",
-   "pkg": "@luxorai/mcp",
-   "prev": "Model Context Protocol server for Tenki Cloud \u2014 disposable microVM sandboxes for AI agents",
-   "cur": "Model Context Protocol server for Luxor Sandbox (Luxor Agent Cloud): disposable microVM sa"
-  },
-  {
-   "server": "io.github.CloudCorpRecords/dailytoolkit",
-   "pkg": "@reneturcios/dailytoolkit",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "185 everyday utilities from your agent: a local bridge to the hosted FreeDailyPro MCP serv"
-  },
-  {
-   "server": "io.github.SarutobiSasuke8/obsidian-github-mcp",
-   "pkg": "@sarutobi-sasuke/obsidian-github-mcp",
-   "prev": "Name reservation. The first real release is 0.1.0, published from GitHub Actions with prov",
-   "cur": "A white-label, permissioned MCP gateway for agent-authored proposals to an Obsidian vault "
-  },
-  {
-   "server": "io.github.NomadBuilder/un-default",
-   "pkg": "anti-default",
-   "prev": "Un-Default \u2014 inclusive language review for AI-generated and human copy (CLI, MCP, GitHub A",
-   "cur": "Un-Default \u2014 catch racist, sexist & ableist defaults in AI and human copy (CLI, MCP, GitHu"
-  },
-  {
-   "server": "io.github.CloudCorpRecords/streetmap-port",
-   "pkg": "@reneturcios/streetmap-port",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Geocode, reverse geocode, look up OSM objects, find nearby places and compute distances wi"
-  },
-  {
-   "server": "io.github.CLAW-AI-FL/agentiscript-mcp",
-   "pkg": "agentiscript-mcp",
-   "prev": "AgentiScript MCP Server - 27,000+ SVG icons for AI agents, blockchain, DeFi, finance, and ",
-   "cur": "AgentiScript MCP Server - 27000+ SVG icons for AI agents"
+   "cur": "Render a release changelog section from merged pull requests, grouped by label in a fixed "
   }
  ]
 }

@@ -1,41 +1,29 @@
 {
- "generated_at": "2026-11-13T11:18:08Z",
- "universe_declared_pypi": 2220,
+ "generated_at": "2026-11-14T10:45:29Z",
+ "universe_declared_pypi": 2177,
  "sample": {
   "n_sampled": 500,
-  "resolved": 496,
-  "unresolved": 4,
-  "version_desync": 94,
-  "desync_pct": 19.0,
+  "resolved": 500,
+  "unresolved": 0,
+  "version_desync": 84,
+  "desync_pct": 16.8,
   "ci95": [
-   15.7,
-   22.6
+   13.8,
+   20.3
   ],
   "extrapolated_desync": [
-   349,
-   502
+   300,
+   442
   ],
-  "description_drift": 24,
-  "drift_pct": 4.8
+  "description_drift": 19,
+  "drift_pct": 3.8
  },
  "examples_drift": [
   {
-   "server": "io.github.ChesterHsu/flyto-indexer",
-   "pkg": "flyto-indexer",
-   "prev": "Code intelligence MCP server for AI-assisted development \u2014 impact analysis, semantic searc",
-   "cur": "Code intelligence MCP server for AI coding agents with impact analysis, semantic search, d"
-  },
-  {
-   "server": "com.matlogica/aadc-mcp",
-   "pkg": "aadc-mcp",
-   "prev": "MatLogica AADC and the AADC Tracer from your coding agent: a local MCP server that checks ",
-   "cur": "MatLogica AADC from your coding agent: exact AAD derivatives and Greeks for Python pricers"
-  },
-  {
-   "server": "io.github.SuperAngryMonkey/mcpie",
-   "pkg": "mcpie-pizza",
-   "prev": "The standing-order pizza button: an MCP server that orders your usual Domino's. Cash at pi",
-   "cur": "The standing-order pizza button: an MCP server that orders your usual Domino's. Cash at pi"
+   "server": "io.github.MauroDruwel/smartschool-mcp",
+   "pkg": "smartschool-mcp",
+   "prev": "Access Smartschool courses, grades, assignments, and messages through the Model Context Pr",
+   "cur": "Access Smartschool courses, grades, assignments, messages, schedule, reports and more thro"
   },
   {
    "server": "ai.bowmark/bowmark",
@@ -44,40 +32,52 @@
    "cur": "Bowmark MCP for stdio hosts: web scraping and automation for AI agents. Live prices, quote"
   },
   {
-   "server": "com.scento/perfume-api",
-   "pkg": "scento-perfume-api",
-   "prev": "Scento Perfume API: a free perfume and fragrance API and MCP server over Scento's verified",
-   "cur": "Free perfume API and perfume MCP server: 1,500+ perfumes, 160+ houses, 400+ raw materials "
+   "server": "io.github.Blite-HQ/qnexus-mcp",
+   "pkg": "qnexus-mcp",
+   "prev": "A community MCP server for Quantinuum Nexus, wrapping the qnexus SDK. Not affiliated with ",
+   "cur": "MCP server for Quantinuum Nexus, wrapping the qnexus SDK. Not affiliated with Quantinuum."
   },
   {
-   "server": "dev.cotlet/skool",
-   "pkg": "skool-api-mcp",
-   "prev": "Self-hosted Skool API and MCP server on your own Chrome session. Noncommercial use (PolyFo",
-   "cur": "Self-hosted Skool API and MCP server on your own Chrome session. Use Skool from Claude, Cu"
+   "server": "ai.lbrain/lbrain",
+   "pkg": "lbrain-coding-agents",
+   "prev": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start.",
+   "cur": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start."
+  },
+  {
+   "server": "io.github.Raffaele86/seo-stack-mcp",
+   "pkg": "seo-stack-mcp",
+   "prev": "The complete open-source SEO data stack for AI agents \u2014 Google Search Console, GA4, Bing W",
+   "cur": "The complete open-source SEO data stack for AI agents \u2014 Google Search Console, GA4, Bing W"
+  },
+  {
+   "server": "io.github.ThiagoJacobLannes/carris-metropolitana-mcp",
+   "pkg": "carris-metropolitana-mcp",
+   "prev": "MCP server for real-time Carris Metropolitana bus info (Greater Lisbon) from the official ",
+   "cur": "DEPRECATED: now part of portugal-mcp. MCP server for real-time Carris Metropolitana bus in"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/quiz-generator-ai-mcp",
+   "pkg": "quiz-generator-ai-mcp",
+   "prev": "AI-powered quiz generator ai MCP server for agents. Supports generate quiz, validate answe",
+   "cur": "Quiz Generator Ai Mcp: generate quiz (Generate a quiz from provided content text.); valida"
+  },
+  {
+   "server": "com.kiprio/kiprio-mcp",
+   "pkg": "kiprio-mcp",
+   "prev": "MCP server giving AI agents 23 API tools: email validation, DNS/WHOIS, SSL inspection, web",
+   "cur": "MCP server giving AI agents 27 API tools: email/phone validation, geocoding, timezone conv"
+  },
+  {
+   "server": "io.github.aaryagodbole/dsa-coach-mcp",
+   "pkg": "dsa-coach-mcp",
+   "prev": "MCP server that coaches DSA practice across LeetCode and Codeforces",
+   "cur": "MCP server that coaches DSA practice on any judge: spaced-repetition revision and a mistak"
   },
   {
    "server": "app.srift/srift",
    "pkg": "srift",
    "prev": "Send any file as a download link from the CLI, Python or an AI agent (MCP server). Encrypt",
    "cur": "Decentralized, end-to-end encrypted P2P file transfer, chat and calls: human to human, hum"
-  },
-  {
-   "server": "io.github.YichengYang-Ethan/oracle3",
-   "pkg": "oracle3",
-   "prev": "Paper-trading engine and MCP server for prediction markets (Kalshi, Polymarket): no-arbitr",
-   "cur": "Trading engine and MCP server for prediction markets: fee-aware no-arbitrage trading acros"
-  },
-  {
-   "server": "io.github.Clousd-Android/clousd-mcp",
-   "pkg": "clousd-mcp",
-   "prev": "MCP server: give an AI agent a real Android phone in the cloud",
-   "cur": "MCP server: give an AI agent an Android phone in the cloud"
-  },
-  {
-   "server": "io.github.CSOAI-ORG/pdf-document-mcp",
-   "pkg": "pdf-document-mcp",
-   "prev": "AI-powered pdf document MCP server for agents. Supports extract text from pdf, convert pdf",
-   "cur": "Pdf Document Mcp: extract text from pdf (Extract text content from a PDF file. Optionally "
   }
  ]
 }

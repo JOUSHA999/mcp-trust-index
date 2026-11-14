@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-11-13T11:18:05Z",
- "universe_declared_github_repos": 14922,
- "universe_declared_npm_packages": 5398,
+ "generated_at": "2026-11-14T10:45:20Z",
+ "universe_declared_github_repos": 14787,
+ "universe_declared_npm_packages": 5327,
  "github_sample": {
   "n": 1200,
-  "dead": 172,
-  "dead_pct": 14.3,
+  "dead": 186,
+  "dead_pct": 15.5,
   "ci95": [
-   12.5,
-   16.4
+   13.6,
+   17.7
   ],
-  "archived": 6,
-  "no_license": 140,
-  "stale_365d": 13,
+  "archived": 10,
+  "no_license": 114,
+  "stale_365d": 11,
   "extrapolated_dead": [
-   1865,
-   2447
+   2011,
+   2617
   ]
  },
  "npm_sample": {
   "n": 800,
   "resolved": 783,
   "unresolved": 17,
-  "version_desync": 183,
-  "desync_pct": 22.9,
+  "version_desync": 169,
+  "desync_pct": 21.1,
   "ci95": [
-   20.1,
-   25.9
+   18.4,
+   24.1
   ],
-  "description_drift": 164,
-  "drift_pct": 20.5,
-  "desc_mismatch_vs_registry": 705,
-  "mismatch_pct": 88.1,
+  "description_drift": 167,
+  "drift_pct": 20.9,
+  "desc_mismatch_vs_registry": 720,
+  "mismatch_pct": 90.0,
   "extrapolated_desync": [
-   1085,
-   1398
+   980,
+   1284
   ]
  },
  "examples_dead_repo": [
-  "junter1989k-ai/japan-logistics-mcp",
-  "DarkMatteros/DarkMatter",
-  "DoughyJoeyD/friday-seller-tools",
-  "RobertAlsop/bartram_foundry",
-  "jirispilka/actors-mcp-server",
-  "BeyondFolder/beyondfolder-landing-page",
-  "tonnooooo/kleo-mcp",
-  "people-analyst/bicycle-guide",
-  "agraciag/patxin",
-  "aditya-ariosity/wcag-accessibility-mcp",
-  "CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-trueprice-mcp",
-  "Ansvar-Systems/Serbian-law-mcp",
-  "CSOAI-ORG/meek-circulatory-capillary-mcp",
-  "mtre-ai/DealGeneraitor-app",
-  "CyberMax-tools/product-factory"
+  "junter1989k-ai/greece-invoice-mcp",
+  "CyberMax-tools/product-factory",
+  "exa-labs/exa-code-mcp",
+  "adam-messinger/cashflow",
+  "joeetdev/venture-estate",
+  "keen-mcp/mental-tests",
+  "aardappvark/gridscoot",
+  "afable702/obsidian-mcp-server",
+  "MagneticDogSon/fixflow-mcp",
+  "MitchSingh/402shield",
+  "billmacuk/LiftMCP",
+  "Tradelord223/solguard-mcp",
+  "Lulu-The-Narwhal/lulu-platform",
+  "credit-union-2-0-llc/aire-channel-bridge",
+  "RobertAlsop/bartram_foundry"
  ],
  "examples_drift": [
   {
-   "server": "io.github.Vilancer/droppage",
-   "pkg": "droppage",
-   "prev": "Publish HTML files as shareable, access-controlled live pages",
-   "cur": "Share analyst reports and dashboards as a live link"
-  },
-  {
-   "server": "io.github.SPIRY-RO/slush-meme-mcp",
-   "pkg": "slush-meme-mcp-server",
-   "prev": "MCP Server for slush.meme \u2014 the AI-native meme coin launchpad on Avalanche. Deploy tokens,",
-   "cur": "MCP Server for slush.meme \u2014 AI-native meme coin launchpad on Avalanche. Real on-chain trad"
-  },
-  {
-   "server": "com.njligames/kanban-importer",
-   "pkg": "@njligames/kanban-importer-mcp",
-   "prev": "Read and move Kanban Importer tasks on a Trello board from Claude, Codex or any MCP client",
-   "cur": "Let Claude or Codex move Trello cards by the task ids it invented itself, not by Trello ca"
-  },
-  {
-   "server": "io.github.CloudCorpRecords/flightdata",
-   "pkg": "@reneturcios/flightdata",
+   "server": "io.github.CloudCorpRecords/failshare",
+   "pkg": "@reneturcios/failshare",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Google Flights results as JSON from your agent: a local bridge to the hosted HasData Googl"
+   "cur": "Shared failure knowledge for agents: check what the network knows about a tool failure bef"
   },
   {
-   "server": "io.github.Lex-API/lexapi-mcp",
-   "pkg": "@lexapi/mcp",
-   "prev": "Model Context Protocol server for LexAPI \u2014 query EUR-Lex and EU case law from Claude, Curs",
-   "cur": "Model Context Protocol server for LexAPI \u2014 EUR-Lex legislation, CJEU case law, the citatio"
-  },
-  {
-   "server": "com.familiarvtt/familiar",
-   "pkg": "familiar-vtt",
-   "prev": "Your AI co-pilot for Foundry VTT. 230 tools across 26 domains: characters, combat, scenes,",
-   "cur": "Your AI co-pilot for Foundry VTT. 200+ tools across 27 domains: characters, combat, scenes"
-  },
-  {
-   "server": "app.3dstreet/3dstreet",
-   "pkg": "3dstreet-mcp",
-   "prev": "Model Context Protocol server for 3DStreet \u2014 drive an open 3DStreet tab from Claude Deskto",
-   "cur": "Fallback MCP relay for 3DStreet: drive an open 3DStreet tab from clients without WebMCP (C"
-  },
-  {
-   "server": "io.github.Banjo-Ventures/lodestar-stamp",
-   "pkg": "lodestar-stamp-mcp",
-   "prev": "Dated, source-linked receipts before an agent recommends or books. Lodestar does not appro",
-   "cur": "Lodestar issues signed, dated business records. Reads are free."
-  },
-  {
-   "server": "com.cloudinary/analysis-mcp",
-   "pkg": "@cloudinary/analysis-mcp",
-   "prev": "<!-- mcp-name: io.github.cloudinary/analysis-mcp -->",
-   "cur": "<!-- mcp-name: com.cloudinary/analysis-mcp -->"
-  },
-  {
-   "server": "io.github.CloudCorpRecords/changelogforge",
-   "pkg": "@reneturcios/changelogforge",
+   "server": "com.loverflaw/loverflaw",
+   "pkg": "loverflaw-mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Render a release changelog section from merged pull requests, grouped by label in a fixed "
+   "cur": "MCP server for Loverflaw, a dating floor for AI agents."
+  },
+  {
+   "server": "com.externalsoftware/recount",
+   "pkg": "@externalsoftware/recount-mcp",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "MCP server for Recount AI Notetaker: let Claude, Cursor, Codex and other AI apps read your"
+  },
+  {
+   "server": "io.github.TokyoFuturo/tokyo-futuro",
+   "pkg": "tokyo-futuro-mcp",
+   "prev": "MCP server for Tokyo Futuro, a crew game on Robinhood Chain that AI agents can play with t",
+   "cur": "MCP server for Tokyo Futuro, an agentic GameFi project on Robinhood Chain that AI agents c"
+  },
+  {
+   "server": "io.github.CloudCorpRecords/bizfile",
+   "pkg": "@reneturcios/bizfile",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "A local stdio bridge to the hosted Jid MCP service: search for a business file, read it, v"
+  },
+  {
+   "server": "io.github.CloudCorpRecords/recordcrm",
+   "pkg": "@reneturcios/recordcrm",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "Search, create, and update Attio CRM records, companies, and deals, and read lists and wor"
+  },
+  {
+   "server": "io.github.Jucamhc/mcp-magneto",
+   "pkg": "mcp-magneto",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "Servidor MCP para buscar ofertas, postular y mantener la hoja de vida en Magneto (magneto3"
+  },
+  {
+   "server": "io.github.CloudCorpRecords/shipcheck",
+   "pkg": "@reneturcios/shipcheck",
+   "prev": "Verify a release actually shipped: git tag, GitHub release, npm, MCP Registry, and GHCR al",
+   "cur": "Verify a release actually shipped, for Node and Python repos: git tag, GitHub release, pac"
+  },
+  {
+   "server": "io.github.BitePro/chrome-debugger-mcp",
+   "pkg": "chrome-debugger-mcp",
+   "prev": "MCP server for Chrome breakpoint debugging \u2013 set breakpoints, inspect scope variables, ste",
+   "cur": "Chrome breakpoint debugging MCP server for inspecting runtime values and stepping through "
+  },
+  {
+   "server": "io.github.CloudCorpRecords/complydir",
+   "pkg": "@reneturcios/complydir",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "Search a curated catalog of ISO 27001, SOC 2 and other compliance services held in a publi"
   }
  ]
 }

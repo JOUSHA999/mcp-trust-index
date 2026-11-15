@@ -1,24 +1,48 @@
 {
- "generated_at": "2026-11-14T10:45:29Z",
- "universe_declared_pypi": 2177,
+ "generated_at": "2026-11-15T11:17:16Z",
+ "universe_declared_pypi": 2129,
  "sample": {
   "n_sampled": 500,
-  "resolved": 500,
-  "unresolved": 0,
-  "version_desync": 84,
-  "desync_pct": 16.8,
+  "resolved": 497,
+  "unresolved": 3,
+  "version_desync": 93,
+  "desync_pct": 18.7,
   "ci95": [
-   13.8,
-   20.3
+   15.5,
+   22.4
   ],
   "extrapolated_desync": [
-   300,
-   442
+   330,
+   477
   ],
-  "description_drift": 19,
-  "drift_pct": 3.8
+  "description_drift": 24,
+  "drift_pct": 4.8
  },
  "examples_drift": [
+  {
+   "server": "io.github.Massed-Compute/mcp",
+   "pkg": "massed-compute-mcp",
+   "prev": "MCP server for the Massed Compute API.",
+   "cur": "Stdio bridge to the hosted Massed Compute MCP endpoint \u2014 a verbatim JSON-RPC pass-through."
+  },
+  {
+   "server": "io.github.HLIntel/headron",
+   "pkg": "headron-software",
+   "prev": "AI coding-agent verification: tells agents which commands prove a change and fails the bui",
+   "cur": "Command line tool and rule contract for AI coding agents: each changed file maps to the ch"
+  },
+  {
+   "server": "com.matlogica/aadc-mcp",
+   "pkg": "aadc-mcp",
+   "prev": "MatLogica AADC and the AADC Tracer from your coding agent: a local MCP server that checks ",
+   "cur": "MatLogica AADC from your coding agent: exact AAD derivatives and Greeks for Python pricers"
+  },
+  {
+   "server": "dev.cotlet/contractor-foreman",
+   "pkg": "contractor-foreman-api-mcp",
+   "prev": "Self-hosted Contractor Foreman API and MCP server on your own Chrome session. Noncommercia",
+   "cur": "Self-hosted Contractor Foreman API and MCP server on your own Chrome session. Use Contract"
+  },
   {
    "server": "io.github.MauroDruwel/smartschool-mcp",
    "pkg": "smartschool-mcp",
@@ -26,16 +50,10 @@
    "cur": "Access Smartschool courses, grades, assignments, messages, schedule, reports and more thro"
   },
   {
-   "server": "ai.bowmark/bowmark",
-   "pkg": "bowmark-mcp",
-   "prev": "Bowmark MCP over stdio \u2014 a thin bridge to the hosted Bowmark MCP at https://api.bowmark.ai",
-   "cur": "Bowmark MCP for stdio hosts: web scraping and automation for AI agents. Live prices, quote"
-  },
-  {
-   "server": "io.github.Blite-HQ/qnexus-mcp",
-   "pkg": "qnexus-mcp",
-   "prev": "A community MCP server for Quantinuum Nexus, wrapping the qnexus SDK. Not affiliated with ",
-   "cur": "MCP server for Quantinuum Nexus, wrapping the qnexus SDK. Not affiliated with Quantinuum."
+   "server": "io.github.Buggy1111/wrapper-mcp",
+   "pkg": "wrapper-mcp",
+   "prev": "MCP server wrapping LINDAT NLP tools \u2014 production-grade anonymization, multilingual NER (3",
+   "cur": "DEPRECATED \u2014 renamed to anonymize-mcp. Run: pip install anonymize-mcp"
   },
   {
    "server": "ai.lbrain/lbrain",
@@ -44,40 +62,22 @@
    "cur": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start."
   },
   {
-   "server": "io.github.Raffaele86/seo-stack-mcp",
-   "pkg": "seo-stack-mcp",
-   "prev": "The complete open-source SEO data stack for AI agents \u2014 Google Search Console, GA4, Bing W",
-   "cur": "The complete open-source SEO data stack for AI agents \u2014 Google Search Console, GA4, Bing W"
+   "server": "io.github.RAEN-DT/pynet-mcp-bridge",
+   "pkg": "pynet-mcp-bridge",
+   "prev": "MCP server that connects AI models with Navisworks, Revit, Civil 3D, Rhino and Tekla Struc",
+   "cur": "MCP server that connects AI models with Navisworks, Revit, Civil 3D, Rhino, Tekla Structur"
   },
   {
-   "server": "io.github.ThiagoJacobLannes/carris-metropolitana-mcp",
-   "pkg": "carris-metropolitana-mcp",
-   "prev": "MCP server for real-time Carris Metropolitana bus info (Greater Lisbon) from the official ",
-   "cur": "DEPRECATED: now part of portugal-mcp. MCP server for real-time Carris Metropolitana bus in"
+   "server": "com.originalpictures/mcp",
+   "pkg": "originalpictures-mcp",
+   "prev": "MCP server: sign media with C2PA Content Credentials, add invisible watermarks, verify ori",
+   "cur": "Sign media with C2PA Content Credentials and verify its declared origin."
   },
   {
-   "server": "io.github.CSOAI-ORG/quiz-generator-ai-mcp",
-   "pkg": "quiz-generator-ai-mcp",
-   "prev": "AI-powered quiz generator ai MCP server for agents. Supports generate quiz, validate answe",
-   "cur": "Quiz Generator Ai Mcp: generate quiz (Generate a quiz from provided content text.); valida"
-  },
-  {
-   "server": "com.kiprio/kiprio-mcp",
-   "pkg": "kiprio-mcp",
-   "prev": "MCP server giving AI agents 23 API tools: email validation, DNS/WHOIS, SSL inspection, web",
-   "cur": "MCP server giving AI agents 27 API tools: email/phone validation, geocoding, timezone conv"
-  },
-  {
-   "server": "io.github.aaryagodbole/dsa-coach-mcp",
-   "pkg": "dsa-coach-mcp",
-   "prev": "MCP server that coaches DSA practice across LeetCode and Codeforces",
-   "cur": "MCP server that coaches DSA practice on any judge: spaced-repetition revision and a mistak"
-  },
-  {
-   "server": "app.srift/srift",
-   "pkg": "srift",
-   "prev": "Send any file as a download link from the CLI, Python or an AI agent (MCP server). Encrypt",
-   "cur": "Decentralized, end-to-end encrypted P2P file transfer, chat and calls: human to human, hum"
+   "server": "io.github.Michael-WhiteCapData/WhiteCapData-Dev",
+   "pkg": "whitecapdata-dev",
+   "prev": "WhiteCapData-Dev \u2014 an MCP server to operate a k3s / Kubernetes cluster (health, logs, and ",
+   "cur": "WhiteCapData-Dev \u00e2\u20ac\u201d an MCP server to operate a k3s / Kubernetes cluster (health, logs, an"
   }
  ]
 }

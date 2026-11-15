@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-11-14T10:45:20Z",
- "universe_declared_github_repos": 14787,
- "universe_declared_npm_packages": 5327,
+ "generated_at": "2026-11-15T11:17:06Z",
+ "universe_declared_github_repos": 14572,
+ "universe_declared_npm_packages": 5221,
  "github_sample": {
   "n": 1200,
-  "dead": 186,
-  "dead_pct": 15.5,
+  "dead": 174,
+  "dead_pct": 14.5,
   "ci95": [
-   13.6,
-   17.7
+   12.6,
+   16.6
   ],
-  "archived": 10,
-  "no_license": 114,
-  "stale_365d": 11,
+  "archived": 13,
+  "no_license": 116,
+  "stale_365d": 15,
   "extrapolated_dead": [
-   2011,
-   2617
+   1836,
+   2419
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 783,
-  "unresolved": 17,
-  "version_desync": 169,
-  "desync_pct": 21.1,
+  "resolved": 788,
+  "unresolved": 12,
+  "version_desync": 178,
+  "desync_pct": 22.2,
   "ci95": [
-   18.4,
-   24.1
+   19.5,
+   25.3
   ],
-  "description_drift": 167,
-  "drift_pct": 20.9,
-  "desc_mismatch_vs_registry": 720,
-  "mismatch_pct": 90.0,
+  "description_drift": 174,
+  "drift_pct": 21.8,
+  "desc_mismatch_vs_registry": 728,
+  "mismatch_pct": 91.0,
   "extrapolated_desync": [
-   980,
-   1284
+   1018,
+   1321
   ]
  },
  "examples_dead_repo": [
-  "junter1989k-ai/greece-invoice-mcp",
-  "CyberMax-tools/product-factory",
-  "exa-labs/exa-code-mcp",
-  "adam-messinger/cashflow",
-  "joeetdev/venture-estate",
-  "keen-mcp/mental-tests",
-  "aardappvark/gridscoot",
-  "afable702/obsidian-mcp-server",
-  "MagneticDogSon/fixflow-mcp",
-  "MitchSingh/402shield",
-  "billmacuk/LiftMCP",
-  "Tradelord223/solguard-mcp",
-  "Lulu-The-Narwhal/lulu-platform",
-  "credit-union-2-0-llc/aire-channel-bridge",
-  "RobertAlsop/bartram_foundry"
+  "ian-assistant/wayfinder",
+  "junter1989k-ai/estonia-payments-mcp",
+  "Wolfe-Jam/wjttc",
+  "Lightning-FM/lightning-fm-mcp",
+  "weeklymoat/weeklymoat-mcp",
+  "Melusi-M/pdf-editor-front-end",
+  "janleitner/agentic-workflows",
+  "Limited-Horizon/ReplenishRadar",
+  "ThomasViennet/mcp-referencime",
+  "ee324/a2awire",
+  "TotesMagotes/expensebot",
+  "ShafiCodes25/coreforge-mcp-servers",
+  "KeyanGroup/mydanktank",
+  "smithery-ai/mcp-servers",
+  "banbosh/fordeal"
  ],
  "examples_drift": [
   {
-   "server": "io.github.CloudCorpRecords/failshare",
-   "pkg": "@reneturcios/failshare",
+   "server": "com.pcrzero/mcp",
+   "pkg": "@scytalex-llc/pcrzero-mcp",
+   "prev": "PCRZERO MCP server \u2014 issue signed receipts for agent actions and verify any receipt offlin",
+   "cur": "PCRZERO MCP server \u2014 issue signed receipts for agent actions and verify any receipt offlin"
+  },
+  {
+   "server": "com.kage-core/kage",
+   "pkg": "@kage-core/kage-graph-mcp",
+   "prev": "Agent memory on Google's Open Knowledge Format (OKF). Kage maintains your coding agents' O",
+   "cur": "Kage manages your memory and agents. It briefs and runs agents in isolated git worktrees f"
+  },
+  {
+   "server": "com.clearedindex/mcp",
+   "pkg": "@n747ai/clearedindex-mcp-server",
+   "prev": "Cleared Index MCP 1.4.3 \u2014 soft Check wall \u2192 Agent Lite/Check Stripe; Check \u2192 Gateway \u2192 pay",
+   "cur": "Cleared Index MCP 1.5.0 \u2014 check \u00b7 route \u00b7 witness \u00b7 regime. OpenRouter for x402."
+  },
+  {
+   "server": "io.github.CloudCorpRecords/audioport",
+   "pkg": "@reneturcios/audioport",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Shared failure knowledge for agents: check what the network knows about a tool failure bef"
+   "cur": "Local audio tools over ffmpeg/ffprobe: read metadata, convert, trim, and normalize audio f"
   },
   {
-   "server": "com.loverflaw/loverflaw",
-   "pkg": "loverflaw-mcp",
+   "server": "io.github.Supercompress/supercompress",
+   "pkg": "supercompress-proxy",
+   "prev": "SuperCompress v2 for coding agents \u2014 ~400M Neural Keep via MCP/hooks across 40+ harnesses.",
+   "cur": "SuperCompress v2 for coding agents \u2014 ~400M Neural Keep via MCP/hooks across 40+ harnesses."
+  },
+  {
+   "server": "io.github.CloudCorpRecords/pushnote",
+   "pkg": "@reneturcios/pushnote",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for Loverflaw, a dating floor for AI agents."
+   "cur": "Gotify push notifications over MCP and CLI: send notifications, read messages, and manage "
   },
   {
-   "server": "com.externalsoftware/recount",
-   "pkg": "@externalsoftware/recount-mcp",
+   "server": "finance.orbt/intelligence",
+   "pkg": "@orbt-finance/mcp-server",
+   "prev": "MCP server wrapper for ORBT Financial Intelligence API",
+   "cur": "Advanced AI-powered MCP server for ORBT Financial Intelligence API with Gemini-powered nat"
+  },
+  {
+   "server": "com.dechonet/mcp",
+   "pkg": "dechonet-mcp",
+   "prev": "Domain security reconnaissance MCP server \u2014 30 tools for AI agents, also usable from the c",
+   "cur": "Domain security reconnaissance MCP server \u2014 34 tools for AI agents, also usable from the c"
+  },
+  {
+   "server": "io.github.CloudCorpRecords/sealtier",
+   "pkg": "@reneturcios/sealtier",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for Recount AI Notetaker: let Claude, Cursor, Codex and other AI apps read your"
+   "cur": "Local, read-only OKF v0.2 tier checker for Markdown folders: scan frontmatter tiers, check"
   },
   {
-   "server": "io.github.TokyoFuturo/tokyo-futuro",
-   "pkg": "tokyo-futuro-mcp",
-   "prev": "MCP server for Tokyo Futuro, a crew game on Robinhood Chain that AI agents can play with t",
-   "cur": "MCP server for Tokyo Futuro, an agentic GameFi project on Robinhood Chain that AI agents c"
-  },
-  {
-   "server": "io.github.CloudCorpRecords/bizfile",
-   "pkg": "@reneturcios/bizfile",
+   "server": "io.github.CloudCorpRecords/cloudsuite",
+   "pkg": "@reneturcios/cloudsuite",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "A local stdio bridge to the hosted Jid MCP service: search for a business file, read it, v"
-  },
-  {
-   "server": "io.github.CloudCorpRecords/recordcrm",
-   "pkg": "@reneturcios/recordcrm",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Search, create, and update Attio CRM records, companies, and deals, and read lists and wor"
-  },
-  {
-   "server": "io.github.Jucamhc/mcp-magneto",
-   "pkg": "mcp-magneto",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Servidor MCP para buscar ofertas, postular y mantener la hoja de vida en Magneto (magneto3"
-  },
-  {
-   "server": "io.github.CloudCorpRecords/shipcheck",
-   "pkg": "@reneturcios/shipcheck",
-   "prev": "Verify a release actually shipped: git tag, GitHub release, npm, MCP Registry, and GHCR al",
-   "cur": "Verify a release actually shipped, for Node and Python repos: git tag, GitHub release, pac"
-  },
-  {
-   "server": "io.github.BitePro/chrome-debugger-mcp",
-   "pkg": "chrome-debugger-mcp",
-   "prev": "MCP server for Chrome breakpoint debugging \u2013 set breakpoints, inspect scope variables, ste",
-   "cur": "Chrome breakpoint debugging MCP server for inspecting runtime values and stepping through "
-  },
-  {
-   "server": "io.github.CloudCorpRecords/complydir",
-   "pkg": "@reneturcios/complydir",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Search a curated catalog of ISO 27001, SOC 2 and other compliance services held in a publi"
+   "cur": "Work with a self-hosted Nextcloud instance from your agent: search and edit Notes, manage "
   }
  ]
 }

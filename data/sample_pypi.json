@@ -1,83 +1,83 @@
 {
- "generated_at": "2026-11-15T11:17:16Z",
- "universe_declared_pypi": 2129,
+ "generated_at": "2026-11-16T11:46:28Z",
+ "universe_declared_pypi": 2097,
  "sample": {
   "n_sampled": 500,
   "resolved": 497,
   "unresolved": 3,
-  "version_desync": 93,
-  "desync_pct": 18.7,
+  "version_desync": 81,
+  "desync_pct": 16.3,
   "ci95": [
-   15.5,
-   22.4
+   13.3,
+   19.8
   ],
   "extrapolated_desync": [
-   330,
-   477
+   279,
+   415
   ],
-  "description_drift": 24,
-  "drift_pct": 4.8
+  "description_drift": 25,
+  "drift_pct": 5.0
  },
  "examples_drift": [
   {
-   "server": "io.github.Massed-Compute/mcp",
-   "pkg": "massed-compute-mcp",
-   "prev": "MCP server for the Massed Compute API.",
-   "cur": "Stdio bridge to the hosted Massed Compute MCP endpoint \u2014 a verbatim JSON-RPC pass-through."
+   "server": "io.github.Muzaqil555/gemini-pro-mcp",
+   "pkg": "gemini-pro-mcp",
+   "prev": "MCP server that brings your Google AI Pro subscription (Gemini via Antigravity CLI, Flow) ",
+   "cur": "Use your Google AI Pro subscription from Claude, Codex, Antigravity and Gemini CLI: Gemini"
   },
   {
-   "server": "io.github.HLIntel/headron",
-   "pkg": "headron-software",
-   "prev": "AI coding-agent verification: tells agents which commands prove a change and fails the bui",
-   "cur": "Command line tool and rule contract for AI coding agents: each changed file maps to the ch"
+   "server": "dev.fly.veles-finance-gateway/veles-finance-mcp",
+   "pkg": "veles-finance-mcp",
+   "prev": "MCP server for Veles Finance Agent \u2014 AI-powered financial analysis via x402 micropayments ",
+   "cur": "Veles Finance Agent MCP server \u2014 institutional DD reports for Claude Desktop, Cursor, Wind"
   },
   {
-   "server": "com.matlogica/aadc-mcp",
-   "pkg": "aadc-mcp",
-   "prev": "MatLogica AADC and the AADC Tracer from your coding agent: a local MCP server that checks ",
-   "cur": "MatLogica AADC from your coding agent: exact AAD derivatives and Greeks for Python pricers"
+   "server": "ai.sugra/api-mcp",
+   "pkg": "sugra-api-mcp",
+   "prev": "Connect AI agents to primary sources - markets, macro, entities, news, network, earth and ",
+   "cur": "Connect AI agents to primary sources - markets, macro, news, earth, network, entities and "
   },
   {
-   "server": "dev.cotlet/contractor-foreman",
-   "pkg": "contractor-foreman-api-mcp",
-   "prev": "Self-hosted Contractor Foreman API and MCP server on your own Chrome session. Noncommercia",
-   "cur": "Self-hosted Contractor Foreman API and MCP server on your own Chrome session. Use Contract"
+   "server": "io.github.Jason26214/computer-use-omni",
+   "pkg": "computer-use-omni",
+   "prev": "Windows computer-use MCP for the Claude Code CLI \u2014 a 1:1 replica of Claude Desktop's compu",
+   "cur": "Renamed: this project is now published as omni-computer-use-mcp. This package just forward"
   },
   {
-   "server": "io.github.MauroDruwel/smartschool-mcp",
-   "pkg": "smartschool-mcp",
-   "prev": "Access Smartschool courses, grades, assignments, and messages through the Model Context Pr",
-   "cur": "Access Smartschool courses, grades, assignments, messages, schedule, reports and more thro"
+   "server": "io.github.SaravananJaichandar/world-model-mcp",
+   "pkg": "world-model-mcp",
+   "prev": "MCP server that builds a world model for codebases to prevent hallucinations, repeated mis",
+   "cur": "MCP world-model memory server for coding agents; ships the etch-verify offline audit-chain"
   },
   {
-   "server": "io.github.Buggy1111/wrapper-mcp",
-   "pkg": "wrapper-mcp",
-   "prev": "MCP server wrapping LINDAT NLP tools \u2014 production-grade anonymization, multilingual NER (3",
-   "cur": "DEPRECATED \u2014 renamed to anonymize-mcp. Run: pip install anonymize-mcp"
+   "server": "com.facts402/facts402-mcp",
+   "pkg": "facts402-mcp",
+   "prev": "MCP server: pay-per-call fact checks for AI agents (IBAN, EU VAT, OFAC sanctions, LEI, pho",
+   "cur": "MCP server: find the right paid x402 API for a task, plus pay-per-call fact checks for AI "
   },
   {
-   "server": "ai.lbrain/lbrain",
-   "pkg": "lbrain-coding-agents",
-   "prev": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start.",
-   "cur": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start."
+   "server": "io.github.LGDiMaggio/predictive-maintenance-mcp",
+   "pkg": "predictive-maintenance-mcp",
+   "prev": "AI agent for predictive maintenance & condition monitoring \u2014 Open-source MCP server and Cl",
+   "cur": "AI agent for predictive maintenance & condition monitoring \u2014 Open-source MCP server and Cl"
   },
   {
-   "server": "io.github.RAEN-DT/pynet-mcp-bridge",
-   "pkg": "pynet-mcp-bridge",
-   "prev": "MCP server that connects AI models with Navisworks, Revit, Civil 3D, Rhino and Tekla Struc",
-   "cur": "MCP server that connects AI models with Navisworks, Revit, Civil 3D, Rhino, Tekla Structur"
+   "server": "io.github.Raffaele86/seo-stack-mcp",
+   "pkg": "seo-stack-mcp",
+   "prev": "The complete open-source SEO data stack for AI agents \u2014 Google Search Console, GA4, Bing W",
+   "cur": "The complete open-source SEO data stack for AI agents \u2014 Google Search Console, GA4, Bing W"
   },
   {
-   "server": "com.originalpictures/mcp",
-   "pkg": "originalpictures-mcp",
-   "prev": "MCP server: sign media with C2PA Content Credentials, add invisible watermarks, verify ori",
-   "cur": "Sign media with C2PA Content Credentials and verify its declared origin."
+   "server": "io.github.Adeniyikayodee/ng-postcode",
+   "pkg": "ng-postcode-mcp",
+   "prev": "MCP server for Nigerian postcodes (Nigeria's NIPOST digital postcode, NDAPS): validate, lo",
+   "cur": "MCP server for Nigerian postcodes (postal codes), Nigeria's NIPOST digital postcode (NDAPS"
   },
   {
-   "server": "io.github.Michael-WhiteCapData/WhiteCapData-Dev",
-   "pkg": "whitecapdata-dev",
-   "prev": "WhiteCapData-Dev \u2014 an MCP server to operate a k3s / Kubernetes cluster (health, logs, and ",
-   "cur": "WhiteCapData-Dev \u00e2\u20ac\u201d an MCP server to operate a k3s / Kubernetes cluster (health, logs, an"
+   "server": "dev.cotlet/bookingkoala",
+   "pkg": "bookingkoala-api-mcp",
+   "prev": "Self-hosted BookingKoala API and MCP server on your own Chrome session. Noncommercial use ",
+   "cur": "Self-hosted BookingKoala API and MCP server on your own Chrome session. Use BookingKoala f"
   }
  ]
 }

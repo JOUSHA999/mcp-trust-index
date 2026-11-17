@@ -1,71 +1,53 @@
 {
- "generated_at": "2026-11-16T11:46:28Z",
- "universe_declared_pypi": 2097,
+ "generated_at": "2026-11-17T12:09:16Z",
+ "universe_declared_pypi": 2077,
  "sample": {
   "n_sampled": 500,
   "resolved": 497,
   "unresolved": 3,
-  "version_desync": 81,
-  "desync_pct": 16.3,
+  "version_desync": 97,
+  "desync_pct": 19.5,
   "ci95": [
-   13.3,
-   19.8
+   16.3,
+   23.2
   ],
   "extrapolated_desync": [
-   279,
-   415
+   339,
+   482
   ],
-  "description_drift": 25,
-  "drift_pct": 5.0
+  "description_drift": 31,
+  "drift_pct": 6.2
  },
  "examples_drift": [
   {
-   "server": "io.github.Muzaqil555/gemini-pro-mcp",
-   "pkg": "gemini-pro-mcp",
-   "prev": "MCP server that brings your Google AI Pro subscription (Gemini via Antigravity CLI, Flow) ",
-   "cur": "Use your Google AI Pro subscription from Claude, Codex, Antigravity and Gemini CLI: Gemini"
+   "server": "com.undercurrentholdings/aegis",
+   "pkg": "aegis-governance",
+   "prev": "Quantitative AI governance \u2014 works immediately, no signup required. 10 free evaluations/da",
+   "cur": "AEGIS governance Python client, async client, and local MCP server. The hosted evaluation "
   },
   {
-   "server": "dev.fly.veles-finance-gateway/veles-finance-mcp",
-   "pkg": "veles-finance-mcp",
-   "prev": "MCP server for Veles Finance Agent \u2014 AI-powered financial analysis via x402 micropayments ",
-   "cur": "Veles Finance Agent MCP server \u2014 institutional DD reports for Claude Desktop, Cursor, Wind"
+   "server": "com.twelvetake/gimp-studio-mcp",
+   "pkg": "twelvetake-gimp-studio-mcp",
+   "prev": "A GIMP 3.x MCP server with structured returns, a compat layer, safety checkpoints, and pri",
+   "cur": "Model Context Protocol server that enables AI assistants to edit images in GIMP 3, with to"
   },
   {
-   "server": "ai.sugra/api-mcp",
-   "pkg": "sugra-api-mcp",
-   "prev": "Connect AI agents to primary sources - markets, macro, entities, news, network, earth and ",
-   "cur": "Connect AI agents to primary sources - markets, macro, news, earth, network, entities and "
+   "server": "io.github.ThiagoJacobLannes/carris-metropolitana-mcp",
+   "pkg": "carris-metropolitana-mcp",
+   "prev": "MCP server for real-time Carris Metropolitana bus info (Greater Lisbon) from the official ",
+   "cur": "DEPRECATED: now part of portugal-mcp. MCP server for real-time Carris Metropolitana bus in"
   },
   {
-   "server": "io.github.Jason26214/computer-use-omni",
-   "pkg": "computer-use-omni",
-   "prev": "Windows computer-use MCP for the Claude Code CLI \u2014 a 1:1 replica of Claude Desktop's compu",
-   "cur": "Renamed: this project is now published as omni-computer-use-mcp. This package just forward"
+   "server": "io.github.Arun-kc/schemabrain",
+   "pkg": "schemabrain",
+   "prev": "The SQL firewall between AI agents and your production database.",
+   "cur": "The trust and intelligence layer between AI agents and your database."
   },
   {
-   "server": "io.github.SaravananJaichandar/world-model-mcp",
-   "pkg": "world-model-mcp",
-   "prev": "MCP server that builds a world model for codebases to prevent hallucinations, repeated mis",
-   "cur": "MCP world-model memory server for coding agents; ships the etch-verify offline audit-chain"
-  },
-  {
-   "server": "com.facts402/facts402-mcp",
-   "pkg": "facts402-mcp",
-   "prev": "MCP server: pay-per-call fact checks for AI agents (IBAN, EU VAT, OFAC sanctions, LEI, pho",
-   "cur": "MCP server: find the right paid x402 API for a task, plus pay-per-call fact checks for AI "
-  },
-  {
-   "server": "io.github.LGDiMaggio/predictive-maintenance-mcp",
-   "pkg": "predictive-maintenance-mcp",
-   "prev": "AI agent for predictive maintenance & condition monitoring \u2014 Open-source MCP server and Cl",
-   "cur": "AI agent for predictive maintenance & condition monitoring \u2014 Open-source MCP server and Cl"
-  },
-  {
-   "server": "io.github.Raffaele86/seo-stack-mcp",
-   "pkg": "seo-stack-mcp",
-   "prev": "The complete open-source SEO data stack for AI agents \u2014 Google Search Console, GA4, Bing W",
-   "cur": "The complete open-source SEO data stack for AI agents \u2014 Google Search Console, GA4, Bing W"
+   "server": "com.coinrailz/mcp",
+   "pkg": "coinrailz-mcp",
+   "prev": "MCP server exposing 63 Coin Railz x402 micropayment services \u2014 crypto analytics, trading s",
+   "cur": "MCP server exposing 63 Coin Railz tools \u2014 crypto analytics, trading signals, NASA/ESA sate"
   },
   {
    "server": "io.github.Adeniyikayodee/ng-postcode",
@@ -74,10 +56,28 @@
    "cur": "MCP server for Nigerian postcodes (postal codes), Nigeria's NIPOST digital postcode (NDAPS"
   },
   {
-   "server": "dev.cotlet/bookingkoala",
-   "pkg": "bookingkoala-api-mcp",
-   "prev": "Self-hosted BookingKoala API and MCP server on your own Chrome session. Noncommercial use ",
-   "cur": "Self-hosted BookingKoala API and MCP server on your own Chrome session. Use BookingKoala f"
+   "server": "io.github.SuperAngryMonkey/iris",
+   "pkg": "iris-mcp",
+   "prev": "A Microsoft 365 mail MCP server that drafts into Outlook. Sending is off by default and op",
+   "cur": "A Microsoft 365 mail MCP server that reads your mailbox and drafts into Outlook. Sending i"
+  },
+  {
+   "server": "ai.sugra/api-mcp",
+   "pkg": "sugra-api-mcp",
+   "prev": "Connect AI agents to primary sources - markets, macro, entities, news, network, earth and ",
+   "cur": "Connect AI agents to primary sources - markets, macro, news, earth, network, entities and "
+  },
+  {
+   "server": "com.aiinfradecoded/mcp-anvil",
+   "pkg": "mcp-anvil",
+   "prev": "Scaffold, audit, and inspect Model Context Protocol (MCP) servers from the CLI.",
+   "cur": "Local MCP daemon with a dashboard, REST/WebSocket API, and 64 built-in tools \u2014 plus scaffo"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/self-healing-infrastructure-mcp",
+   "pkg": "self-healing-infrastructure-mcp",
+   "prev": "AI-powered self healing infrastructure MCP server for agents. Supports node health check, ",
+   "cur": "The only self-healing infrastructure MCP with cryptographic governance. Ed25519 sigil, BFT"
   }
  ]
 }

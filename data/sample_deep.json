@@ -1,107 +1,71 @@
 {
- "generated_at": "2026-11-16T11:46:18Z",
- "universe_declared_github_repos": 14604,
- "universe_declared_npm_packages": 5231,
+ "generated_at": "2026-11-17T12:09:11Z",
+ "universe_declared_github_repos": 14493,
+ "universe_declared_npm_packages": 5204,
  "github_sample": {
   "n": 1200,
-  "dead": 184,
-  "dead_pct": 15.3,
+  "dead": 206,
+  "dead_pct": 17.2,
   "ci95": [
-   13.4,
-   17.5
+   15.1,
+   19.4
   ],
-  "archived": 12,
-  "no_license": 129,
-  "stale_365d": 12,
+  "archived": 9,
+  "no_license": 123,
+  "stale_365d": 6,
   "extrapolated_dead": [
-   1957,
-   2556
+   2188,
+   2812
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 781,
-  "unresolved": 19,
-  "version_desync": 179,
-  "desync_pct": 22.4,
+  "resolved": 778,
+  "unresolved": 22,
+  "version_desync": 170,
+  "desync_pct": 21.2,
   "ci95": [
-   19.6,
-   25.4
+   18.6,
+   24.2
   ],
-  "description_drift": 181,
-  "drift_pct": 22.6,
-  "desc_mismatch_vs_registry": 698,
-  "mismatch_pct": 87.2,
+  "description_drift": 176,
+  "drift_pct": 22.0,
+  "desc_mismatch_vs_registry": 692,
+  "mismatch_pct": 86.5,
   "extrapolated_desync": [
-   1025,
-   1329
+   968,
+   1259
   ]
  },
  "examples_dead_repo": [
-  "junter1989k-ai/czechia-payments-mcp",
-  "demomagic/duckchain-mcp",
-  "Livvux/fivemdocs",
-  "jellypod-inc/frontend-website-v2",
-  "FocusedCreativity/knowngate",
-  "KingMandase/dataco",
-  "WaterTian/wechat-devtools",
-  "CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-crosspay-mcp",
-  "Ansvar-Systems/Peruvian-law-mcp",
+  "Deaxu/archgraph-gateway",
+  "6mickswagger9/x402-sec-scan",
+  "junter1989k-ai/bahrain-payments-mcp",
+  "clpi/clp-mcp",
   "joeetdev/venture-estate",
-  "people-analyst/bicycle-guide",
-  "ee324/a2awire",
-  "nicolascolombo/Almanac",
-  "joeetdev/venture-estate",
-  "smithery-ai/mcp-servers"
+  "UnityNodes/blobpedia",
+  "Timmy-Hedgr/getmyluna",
+  "LifeAbundantly/akd-vaultpdf-mcp",
+  "Doran56/constat-auto",
+  "GreenZenith/datanem-mcp",
+  "CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-allowance-mcp",
+  "PRDicta/Solitaire-for-Agents",
+  "AllocContext/alloc-context",
+  "Ansvar-Systems/argentine-law-mcp",
+  "TylerKnvpp/time-api"
  ],
  "examples_drift": [
   {
-   "server": "ink.utilia/solana-preflight",
-   "pkg": "utilia-solana-agent",
-   "prev": "Pay-per-call audio normalization, PDF-to-Markdown, and budget-capped Solana x402 tools for",
-   "cur": "Pay-per-call Solana transaction diagnosis, simulation, token risk, and live priority fees "
-  },
-  {
-   "server": "com.jamesrosingmd/tebra",
-   "pkg": "tebra-mcp-server",
-   "prev": "MCP server for Tebra/Kareo practice management \u2014 47 tools covering patients, appointments,",
-   "cur": "Independent MCP server for Tebra/Kareo practice management (not affiliated with Tebra) \u2014 4"
-  },
-  {
-   "server": "com.eorcompass/eor-pricing-index",
-   "pkg": "@ellul-estate/eorcompass-com-eor-pricing-index-mcp",
-   "prev": "EOR Compass: the median advertised EOR price per employee per month, read from verified ve",
-   "cur": "EOR Compass: the median advertised EOR price per employee per month, read from verified ve"
-  },
-  {
-   "server": "io.github.Supercompress/supercompress",
-   "pkg": "supercompress-proxy",
-   "prev": "SuperCompress v2 for coding agents \u2014 ~400M Neural Keep via MCP/hooks across 40+ harnesses.",
-   "cur": "SuperCompress v2 for coding agents \u2014 ~400M Neural Keep via MCP/hooks across 40+ harnesses."
-  },
-  {
-   "server": "io.github.CloudCorpRecords/advisorscope",
-   "pkg": "@reneturcios/advisorscope",
+   "server": "com.chartquery/mcp",
+   "pkg": "@chartquery/mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "SEC-registered investment advisor and firm search via the AdvisorFinder hosted MCP endpoin"
+   "cur": "ChartQuery MCP server: Generate chart images, diagrams, barcodes, QR codes and thermal lab"
   },
   {
-   "server": "com.graziechef/kitchen-tools",
-   "pkg": "@deusflight/graziechef-mcp",
+   "server": "io.github.PixFrixSystems/search-console-mcp",
+   "pkg": "@pixfrix/search-console-mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for restaurant kitchens: food cost, menu price with VAT, recipe scaling with ba"
-  },
-  {
-   "server": "io.github.Banjo-Ventures/lodestar-stamp",
-   "pkg": "lodestar-stamp-mcp",
-   "prev": "Dated, source-linked receipts before an agent recommends or books. Lodestar does not appro",
-   "cur": "Lodestar issues signed, dated business records. Reads are free."
-  },
-  {
-   "server": "io.github.RitualDev-Lab/dbshield",
-   "pkg": "@ritualdev-lab/dbshield",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Safety-first Database Guardrail & Sandboxing MCP Server for AI Coding Agents (Cursor, Clau"
+   "cur": "MCP server for Google Search Console: search performance, URL inspection, sitemaps and rea"
   },
   {
    "server": "dev.ploa/ploa",
@@ -110,10 +74,46 @@
    "cur": "Ship apps for iPhone, iPad, Mac, Apple TV, Vision Pro and Android to the App Store and Goo"
   },
   {
-   "server": "io.github.CloudCorpRecords/listingdata",
-   "pkg": "@reneturcios/listingdata",
+   "server": "io.github.2fizzle/bip-skills-mcp",
+   "pkg": "@2fizzle/bip-skills-mcp",
+   "prev": "MCP server that serves Agent Skills (SKILL.md folders) as tools and resources: list, read ",
+   "cur": "MCP server that serves Agent Skills (SKILL.md folders) as tools and resources over stdio o"
+  },
+  {
+   "server": "io.github.CloudCorpRecords/jobboard",
+   "pkg": "@reneturcios/jobboard",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Redfin real-estate data as JSON from your agent: a local bridge to the hosted HasData Redf"
+   "cur": "Forwarding client for the JobYap job search: search and match postings, read jobs and thei"
+  },
+  {
+   "server": "com.hasdata/chatgpt",
+   "pkg": "@hasdata/chatgpt-mcp",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "MCP server for the ChatGPT Scraper API through HasData's hosted API: send a prompt anonymo"
+  },
+  {
+   "server": "io.github.CloudCorpRecords/lockdrift",
+   "pkg": "@reneturcios/lockdrift",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "Lockfile drift auditor: compares package.json dependency ranges against package-lock.json,"
+  },
+  {
+   "server": "io.github.Crypto-Goatz/rocket-plus-mcp",
+   "pkg": "rocket-plus-mcp",
+   "prev": "AI-powered CRM automation with 56+ tools. Natural language control for contacts, courses, ",
+   "cur": "Rocket+ MCP Server - 50+ AI automation tools for CRM, content, workflows, and more"
+  },
+  {
+   "server": "io.github.CloudCorpRecords/appworth",
+   "pkg": "@reneturcios/appworth",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "iOS App Store revenue and download estimates with confidence labels, for any app by name o"
+  },
+  {
+   "server": "ai.neuralverge/neuralverge",
+   "pkg": "@neuralverge/mcp-server",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "NeuralVerge MCP server: the data layer for agentic AI. Search, AI Extract and 300+ data so"
   }
  ]
 }

@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-11-17T12:09:11Z",
- "universe_declared_github_repos": 14493,
- "universe_declared_npm_packages": 5204,
+ "generated_at": "2026-11-18T12:02:20Z",
+ "universe_declared_github_repos": 14433,
+ "universe_declared_npm_packages": 5173,
  "github_sample": {
   "n": 1200,
-  "dead": 206,
-  "dead_pct": 17.2,
+  "dead": 205,
+  "dead_pct": 17.1,
   "ci95": [
    15.1,
-   19.4
+   19.3
   ],
   "archived": 9,
-  "no_license": 123,
-  "stale_365d": 6,
+  "no_license": 125,
+  "stale_365d": 11,
   "extrapolated_dead": [
-   2188,
-   2812
+   2179,
+   2786
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 778,
-  "unresolved": 22,
-  "version_desync": 170,
-  "desync_pct": 21.2,
+  "resolved": 784,
+  "unresolved": 16,
+  "version_desync": 173,
+  "desync_pct": 21.6,
   "ci95": [
-   18.6,
-   24.2
+   18.9,
+   24.6
   ],
-  "description_drift": 176,
-  "drift_pct": 22.0,
-  "desc_mismatch_vs_registry": 692,
-  "mismatch_pct": 86.5,
+  "description_drift": 181,
+  "drift_pct": 22.6,
+  "desc_mismatch_vs_registry": 721,
+  "mismatch_pct": 90.1,
   "extrapolated_desync": [
-   968,
-   1259
+   978,
+   1273
   ]
  },
  "examples_dead_repo": [
-  "Deaxu/archgraph-gateway",
-  "6mickswagger9/x402-sec-scan",
-  "junter1989k-ai/bahrain-payments-mcp",
-  "clpi/clp-mcp",
-  "joeetdev/venture-estate",
-  "UnityNodes/blobpedia",
-  "Timmy-Hedgr/getmyluna",
-  "LifeAbundantly/akd-vaultpdf-mcp",
-  "Doran56/constat-auto",
-  "GreenZenith/datanem-mcp",
-  "CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-allowance-mcp",
-  "PRDicta/Solitaire-for-Agents",
-  "AllocContext/alloc-context",
-  "Ansvar-Systems/argentine-law-mcp",
-  "TylerKnvpp/time-api"
+  "martinshein/vayacore",
+  "Nomadu27/InsAIts",
+  "Orange-Sky-Software-Inc/echosaw-com",
+  "arjunkmrm/lta-mcp",
+  "bwalvoord/gumball",
+  "Kromatic-Innovation/fermi",
+  "Iyonx/tollmint",
+  "HaayanchandravatSr/jeeva-jyotish",
+  "Jim-Panse/HEIC-to-JPG-MCP",
+  "CSOAI-ORG/meek-antenna-triangle-mcp",
+  "SajanMelcher/plumbline-mcp",
+  "purplegrain/api",
+  "ee324/a2awire",
+  "KlossKarl/loom",
+  "nanocorp-hq/agentarena"
  ],
  "examples_drift": [
   {
-   "server": "com.chartquery/mcp",
-   "pkg": "@chartquery/mcp",
+   "server": "io.github.CloudCorpRecords/types2docs",
+   "pkg": "@reneturcios/types2docs",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "ChartQuery MCP server: Generate chart images, diagrams, barcodes, QR codes and thermal lab"
+   "cur": "Render a markdown API reference from caller-supplied TypeScript type declarations: interfa"
   },
   {
-   "server": "io.github.PixFrixSystems/search-console-mcp",
-   "pkg": "@pixfrix/search-console-mcp",
+   "server": "io.github.CloudCorpRecords/glassdata",
+   "pkg": "@reneturcios/glassdata",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for Google Search Console: search performance, URL inspection, sitemaps and rea"
+   "cur": "Glassdoor job data as JSON from your agent: a local bridge to the hosted HasData Glassdoor"
   },
   {
-   "server": "dev.ploa/ploa",
-   "pkg": "@ploa/cli",
-   "prev": "Take an Expo app to the App Store and Google Play: builds, testers, store pages, approvals",
-   "cur": "Ship apps for iPhone, iPad, Mac, Apple TV, Vision Pro and Android to the App Store and Goo"
+   "server": "com.cryptoquant/mcp-server",
+   "pkg": "cryptoquant-mcp",
+   "prev": "CryptoQuant MCP Server - On-chain analytics for Claude and AI coding agents",
+   "cur": "CryptoQuant MCP stdio proxy - connects MCP clients to the remote CryptoQuant MCP server"
   },
   {
-   "server": "io.github.2fizzle/bip-skills-mcp",
-   "pkg": "@2fizzle/bip-skills-mcp",
-   "prev": "MCP server that serves Agent Skills (SKILL.md folders) as tools and resources: list, read ",
-   "cur": "MCP server that serves Agent Skills (SKILL.md folders) as tools and resources over stdio o"
-  },
-  {
-   "server": "io.github.CloudCorpRecords/jobboard",
-   "pkg": "@reneturcios/jobboard",
+   "server": "io.github.CloudCorpRecords/instadata",
+   "pkg": "@reneturcios/instadata",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Forwarding client for the JobYap job search: search and match postings, read jobs and thei"
+   "cur": "Instagram public data as JSON from your agent: a local bridge to the hosted HasData Instag"
   },
   {
-   "server": "com.hasdata/chatgpt",
-   "pkg": "@hasdata/chatgpt-mcp",
+   "server": "com.antideploy/antideploy-mcp",
+   "pkg": "antideploy-mcp",
+   "prev": "Deploy an application to Antideploy from a coding agent. MCP server and CLI.",
+   "cur": "Deploy and run applications on Antideploy from a coding agent: Claude Code, Cursor, Codex,"
+  },
+  {
+   "server": "io.github.GillMacedo/slowplan",
+   "pkg": "slowplan",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for the ChatGPT Scraper API through HasData's hosted API: send a prompt anonymo"
+   "cur": "Find why a PostgreSQL query is slow from its EXPLAIN output: where the time goes and what "
   },
   {
-   "server": "io.github.CloudCorpRecords/lockdrift",
-   "pkg": "@reneturcios/lockdrift",
+   "server": "io.github.Misar-AI/misarpost-mcp",
+   "pkg": "@misarpost/mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Lockfile drift auditor: compares package.json dependency ranges against package-lock.json,"
+   "cur": "MisarPost MCP server \u2014 schedule and publish posts, generate drafts with AI, repurpose cont"
   },
   {
-   "server": "io.github.Crypto-Goatz/rocket-plus-mcp",
-   "pkg": "rocket-plus-mcp",
-   "prev": "AI-powered CRM automation with 56+ tools. Natural language control for contacts, courses, ",
-   "cur": "Rocket+ MCP Server - 50+ AI automation tools for CRM, content, workflows, and more"
-  },
-  {
-   "server": "io.github.CloudCorpRecords/appworth",
-   "pkg": "@reneturcios/appworth",
+   "server": "io.github.13kailouis-stack/wecut",
+   "pkg": "wecut",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "iOS App Store revenue and download estimates with confidence labels, for any app by name o"
+   "cur": "Free video editing engine for AI agents: cut, caption and render short-form video locally "
   },
   {
-   "server": "ai.neuralverge/neuralverge",
-   "pkg": "@neuralverge/mcp-server",
+   "server": "io.github.CloudCorpRecords/winarchive",
+   "pkg": "@reneturcios/winarchive",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "NeuralVerge MCP server: the data layer for agentic AI. Search, AI Extract and 300+ data so"
+   "cur": "A local stdio bridge to the hosted KalshiSpy MCP service: search settled Kalshi wins, insp"
+  },
+  {
+   "server": "io.github.NOETRA2/noetra",
+   "pkg": "noetra",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "Local-first structured reasoning, evidence, planning and permission-scoped software invest"
   }
  ]
 }

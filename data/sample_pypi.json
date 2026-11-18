@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-17T12:09:16Z",
- "universe_declared_pypi": 2077,
+ "generated_at": "2026-11-18T12:02:31Z",
+ "universe_declared_pypi": 2035,
  "sample": {
   "n_sampled": 500,
-  "resolved": 497,
-  "unresolved": 3,
-  "version_desync": 97,
-  "desync_pct": 19.5,
+  "resolved": 498,
+  "unresolved": 2,
+  "version_desync": 105,
+  "desync_pct": 21.1,
   "ci95": [
-   16.3,
-   23.2
+   17.7,
+   24.9
   ],
   "extrapolated_desync": [
-   339,
-   482
+   360,
+   507
   ],
-  "description_drift": 31,
-  "drift_pct": 6.2
+  "description_drift": 24,
+  "drift_pct": 4.8
  },
  "examples_drift": [
   {
-   "server": "com.undercurrentholdings/aegis",
-   "pkg": "aegis-governance",
-   "prev": "Quantitative AI governance \u2014 works immediately, no signup required. 10 free evaluations/da",
-   "cur": "AEGIS governance Python client, async client, and local MCP server. The hosted evaluation "
+   "server": "io.github.Massed-Compute/mcp",
+   "pkg": "massed-compute-mcp",
+   "prev": "MCP server for the Massed Compute API.",
+   "cur": "Stdio bridge to the hosted Massed Compute MCP endpoint \u2014 a verbatim JSON-RPC pass-through."
   },
   {
-   "server": "com.twelvetake/gimp-studio-mcp",
-   "pkg": "twelvetake-gimp-studio-mcp",
-   "prev": "A GIMP 3.x MCP server with structured returns, a compat layer, safety checkpoints, and pri",
-   "cur": "Model Context Protocol server that enables AI assistants to edit images in GIMP 3, with to"
+   "server": "io.github.CSOAI-ORG/gdpr-compliance-ai-mcp",
+   "pkg": "gdpr-compliance-ai-mcp",
+   "prev": "MCP server for gdpr compliance ai. Features classify processing, lawful basis assessment, ",
+   "cur": "GDPR measurement for AI agents. Processing classification, lawful basis assessment, DPIA g"
   },
   {
-   "server": "io.github.ThiagoJacobLannes/carris-metropolitana-mcp",
-   "pkg": "carris-metropolitana-mcp",
-   "prev": "MCP server for real-time Carris Metropolitana bus info (Greater Lisbon) from the official ",
-   "cur": "DEPRECATED: now part of portugal-mcp. MCP server for real-time Carris Metropolitana bus in"
+   "server": "io.github.Damien829/aipaygen",
+   "pkg": "aipaygen-mcp",
+   "prev": "AI Agent Marketplace + 65 tools for Claude, Cursor, and MCP agents. Buy, sell, deploy trad",
+   "cur": "AIPayGen MCP server for stdio clients: 100+ tools for AI agents (web, company data, crypto"
   },
   {
-   "server": "io.github.Arun-kc/schemabrain",
-   "pkg": "schemabrain",
-   "prev": "The SQL firewall between AI agents and your production database.",
-   "cur": "The trust and intelligence layer between AI agents and your database."
+   "server": "io.github.AddyCuber/ybe-check",
+   "pkg": "ybe-check",
+   "prev": "Production-readiness gatekeeper for vibe-coded apps. Scans repos for secrets, prompt injec",
+   "cur": "Production-readiness security gatekeeper for vibe-coded apps \u2014 16 scan modules, AI remedia"
   },
   {
    "server": "com.coinrailz/mcp",
@@ -50,34 +50,34 @@
    "cur": "MCP server exposing 63 Coin Railz tools \u2014 crypto analytics, trading signals, NASA/ESA sate"
   },
   {
-   "server": "io.github.Adeniyikayodee/ng-postcode",
-   "pkg": "ng-postcode-mcp",
-   "prev": "MCP server for Nigerian postcodes (Nigeria's NIPOST digital postcode, NDAPS): validate, lo",
-   "cur": "MCP server for Nigerian postcodes (postal codes), Nigeria's NIPOST digital postcode (NDAPS"
-  },
-  {
-   "server": "io.github.SuperAngryMonkey/iris",
-   "pkg": "iris-mcp",
-   "prev": "A Microsoft 365 mail MCP server that drafts into Outlook. Sending is off by default and op",
-   "cur": "A Microsoft 365 mail MCP server that reads your mailbox and drafts into Outlook. Sending i"
-  },
-  {
    "server": "ai.sugra/api-mcp",
    "pkg": "sugra-api-mcp",
    "prev": "Connect AI agents to primary sources - markets, macro, entities, news, network, earth and ",
    "cur": "Connect AI agents to primary sources - markets, macro, news, earth, network, entities and "
   },
   {
-   "server": "com.aiinfradecoded/mcp-anvil",
-   "pkg": "mcp-anvil",
-   "prev": "Scaffold, audit, and inspect Model Context Protocol (MCP) servers from the CLI.",
-   "cur": "Local MCP daemon with a dashboard, REST/WebSocket API, and 64 built-in tools \u2014 plus scaffo"
+   "server": "io.github.CSOAI-ORG/pdf-merge-ai-mcp",
+   "pkg": "pdf-merge-ai-mcp",
+   "prev": "AI-powered pdf merge ai MCP server for agents. Supports merge pdfs, split pdf, get pdf inf",
+   "cur": "Pdf Merge Ai Mcp: merge info (Plan a PDF merge operation. Provide file descriptions as JSO"
   },
   {
-   "server": "io.github.CSOAI-ORG/self-healing-infrastructure-mcp",
-   "pkg": "self-healing-infrastructure-mcp",
-   "prev": "AI-powered self healing infrastructure MCP server for agents. Supports node health check, ",
-   "cur": "The only self-healing infrastructure MCP with cryptographic governance. Ed25519 sigil, BFT"
+   "server": "dev.fly.veles-finance-gateway/veles-finance-mcp",
+   "pkg": "veles-finance-mcp",
+   "prev": "MCP server for Veles Finance Agent \u2014 AI-powered financial analysis via x402 micropayments ",
+   "cur": "Veles Finance Agent MCP server \u2014 institutional DD reports for Claude Desktop, Cursor, Wind"
+  },
+  {
+   "server": "com.macaroonnetwork/mcp-server",
+   "pkg": "macaroonnetwork-mcp",
+   "prev": "MCP client for Macaroon Network -- discover and buy from a live marketplace where AI agent",
+   "cur": "MCP discovery router for Macaroon Network categories, sources, vertical MCPs, and x402 USD"
+  },
+  {
+   "server": "io.github.BigJai/codemunch-pro",
+   "pkg": "codemunch-pro",
+   "prev": "Intelligent code indexing MCP server. Tree-sitter AST extraction, hybrid search (FTS5 + ve",
+   "cur": "DEPRECATED: renamed to tokennuke. Run: pip install tokennuke"
   }
  ]
 }

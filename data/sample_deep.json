@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-11-18T12:02:20Z",
- "universe_declared_github_repos": 14433,
- "universe_declared_npm_packages": 5173,
+ "generated_at": "2026-11-19T11:56:53Z",
+ "universe_declared_github_repos": 14236,
+ "universe_declared_npm_packages": 5072,
  "github_sample": {
   "n": 1200,
-  "dead": 205,
-  "dead_pct": 17.1,
+  "dead": 186,
+  "dead_pct": 15.5,
   "ci95": [
-   15.1,
-   19.3
+   13.6,
+   17.7
   ],
-  "archived": 9,
-  "no_license": 125,
-  "stale_365d": 11,
+  "archived": 10,
+  "no_license": 121,
+  "stale_365d": 20,
   "extrapolated_dead": [
-   2179,
-   2786
+   1936,
+   2520
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 784,
-  "unresolved": 16,
-  "version_desync": 173,
-  "desync_pct": 21.6,
+  "resolved": 782,
+  "unresolved": 18,
+  "version_desync": 181,
+  "desync_pct": 22.6,
   "ci95": [
-   18.9,
-   24.6
+   19.9,
+   25.7
   ],
-  "description_drift": 181,
-  "drift_pct": 22.6,
-  "desc_mismatch_vs_registry": 721,
-  "mismatch_pct": 90.1,
+  "description_drift": 179,
+  "drift_pct": 22.4,
+  "desc_mismatch_vs_registry": 719,
+  "mismatch_pct": 89.9,
   "extrapolated_desync": [
-   978,
-   1273
+   1009,
+   1304
   ]
  },
  "examples_dead_repo": [
-  "martinshein/vayacore",
-  "Nomadu27/InsAIts",
-  "Orange-Sky-Software-Inc/echosaw-com",
-  "arjunkmrm/lta-mcp",
-  "bwalvoord/gumball",
-  "Kromatic-Innovation/fermi",
-  "Iyonx/tollmint",
-  "HaayanchandravatSr/jeeva-jyotish",
-  "Jim-Panse/HEIC-to-JPG-MCP",
-  "CSOAI-ORG/meek-antenna-triangle-mcp",
-  "SajanMelcher/plumbline-mcp",
-  "purplegrain/api",
+  "arjunkmrm/clock",
+  "lvlltd/lvlltd-agent-marketplace",
+  "nickvorobiov/betterjobs",
+  "Jcjimenezglez/docchat",
+  "DLJRealty/guesty-mcp-server",
+  "jirispilka/actors-mcp-server",
+  "BlackhatShiftey/Seam_Runtime",
+  "TeamTixxly/tixxly-v2",
+  "people-analyst/bicycle-guide",
+  "Ansarii/neoninnovationlab",
+  "Ansvar-Systems/nigeria-law-mcp",
   "ee324/a2awire",
-  "KlossKarl/loom",
-  "nanocorp-hq/agentarena"
+  "CyberMax-tools/product-factory",
+  "junter1989k-ai/nepal-payments-mcp",
+  "Ansvar-Systems/uk-farm-subsidies-mcp"
  ],
  "examples_drift": [
   {
-   "server": "io.github.CloudCorpRecords/types2docs",
-   "pkg": "@reneturcios/types2docs",
+   "server": "dev.cz-agents/realestate",
+   "pkg": "@czagents/realestate",
+   "prev": "Czech distressed real estate intelligence \u2014 anonymized district-level aggregates (insolven",
+   "cur": "Czech distressed real estate intelligence \u2014 anonymized district-level aggregates (insolven"
+  },
+  {
+   "server": "com.nodes2cloud/mcp",
+   "pkg": "n2c-mcp",
+   "prev": "Nodes2Cloud MCP Client Proxy",
+   "cur": "Nodes2Cloud MCP server: let coding agents build, validate and deploy Cloudflare Workers wo"
+  },
+  {
+   "server": "io.github.CloudCorpRecords/filemorph",
+   "pkg": "@reneturcios/filemorph",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Render a markdown API reference from caller-supplied TypeScript type declarations: interfa"
+   "cur": "File conversion across 44 formats, forwarded to the hosted FileTypeConverters MCP server: "
   },
   {
-   "server": "io.github.CloudCorpRecords/glassdata",
-   "pkg": "@reneturcios/glassdata",
+   "server": "io.github.CloudCorpRecords/grantpulse",
+   "pkg": "@reneturcios/grantpulse",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Glassdoor job data as JSON from your agent: a local bridge to the hosted HasData Glassdoor"
+   "cur": "New NIH grants and clinical trials by institution, PI, sponsor, topic, plus funding-change"
   },
   {
-   "server": "com.cryptoquant/mcp-server",
-   "pkg": "cryptoquant-mcp",
-   "prev": "CryptoQuant MCP Server - On-chain analytics for Claude and AI coding agents",
-   "cur": "CryptoQuant MCP stdio proxy - connects MCP clients to the remote CryptoQuant MCP server"
-  },
-  {
-   "server": "io.github.CloudCorpRecords/instadata",
-   "pkg": "@reneturcios/instadata",
+   "server": "io.github.PixFrixSystems/search-console-mcp",
+   "pkg": "@pixfrix/search-console-mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Instagram public data as JSON from your agent: a local bridge to the hosted HasData Instag"
+   "cur": "MCP server for Google Search Console: search performance, URL inspection, sitemaps and rea"
   },
   {
-   "server": "com.antideploy/antideploy-mcp",
-   "pkg": "antideploy-mcp",
-   "prev": "Deploy an application to Antideploy from a coding agent. MCP server and CLI.",
-   "cur": "Deploy and run applications on Antideploy from a coding agent: Claude Code, Cursor, Codex,"
-  },
-  {
-   "server": "io.github.GillMacedo/slowplan",
-   "pkg": "slowplan",
+   "server": "io.github.CloudCorpRecords/traveldex",
+   "pkg": "@reneturcios/traveldex",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Find why a PostgreSQL query is slow from its EXPLAIN output: where the time goes and what "
+   "cur": "A local stdio bridge to the hosted NUM travel directory: search more than 2.5 million plac"
   },
   {
-   "server": "io.github.Misar-AI/misarpost-mcp",
-   "pkg": "@misarpost/mcp",
+   "server": "io.alion/alion",
+   "pkg": "@alion-io/mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MisarPost MCP server \u2014 schedule and publish posts, generate drafts with AI, repurpose cont"
+   "cur": "The Alion MCP server as a local command (stdio) for Claude Desktop, Cursor, VS Code, Winds"
   },
   {
-   "server": "io.github.13kailouis-stack/wecut",
-   "pkg": "wecut",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Free video editing engine for AI agents: cut, caption and render short-form video locally "
+   "server": "com.enconvert/mcp",
+   "pkg": "@enconvert/mcp",
+   "prev": "MCP server for the EnConvert web data and file conversion API: perceive pages (markdown, H",
+   "cur": "Web and file reading for AI agents with a 0-1 render_quality score on every read. MCP serv"
   },
   {
-   "server": "io.github.CloudCorpRecords/winarchive",
-   "pkg": "@reneturcios/winarchive",
+   "server": "io.github.CharlieJamesGwapo/ph-data-mcp-server",
+   "pkg": "ph-data-mcp-server",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "A local stdio bridge to the hosted KalshiSpy MCP service: search settled Kalshi wins, insp"
+   "cur": "MCP server for Philippine scholarships, holidays, regions, schools, peso rates and weather"
   },
   {
-   "server": "io.github.NOETRA2/noetra",
-   "pkg": "noetra",
+   "server": "ai.neuralverge/neuralverge",
+   "pkg": "@neuralverge/mcp-server",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Local-first structured reasoning, evidence, planning and permission-scoped software invest"
+   "cur": "NeuralVerge MCP server: the data layer for agentic AI. Search, AI Extract and 300+ data so"
   }
  ]
 }

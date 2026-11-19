@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-18T12:02:31Z",
- "universe_declared_pypi": 2035,
+ "generated_at": "2026-11-19T11:56:59Z",
+ "universe_declared_pypi": 1991,
  "sample": {
   "n_sampled": 500,
-  "resolved": 498,
-  "unresolved": 2,
-  "version_desync": 105,
-  "desync_pct": 21.1,
+  "resolved": 496,
+  "unresolved": 4,
+  "version_desync": 86,
+  "desync_pct": 17.3,
   "ci95": [
-   17.7,
-   24.9
+   14.3,
+   20.9
   ],
   "extrapolated_desync": [
-   360,
-   507
+   285,
+   416
   ],
-  "description_drift": 24,
-  "drift_pct": 4.8
+  "description_drift": 27,
+  "drift_pct": 5.4
  },
  "examples_drift": [
   {
-   "server": "io.github.Massed-Compute/mcp",
-   "pkg": "massed-compute-mcp",
-   "prev": "MCP server for the Massed Compute API.",
-   "cur": "Stdio bridge to the hosted Massed Compute MCP endpoint \u2014 a verbatim JSON-RPC pass-through."
+   "server": "eu.quantumreadiness/qrp-mcp",
+   "pkg": "qrp-mcp",
+   "prev": "An adaptive post-quantum readiness scanner. It closes operations against a catalogue of th",
+   "cur": "Offline post-quantum readiness scanner for code; CycloneDX CBOM with what it read and did "
   },
   {
-   "server": "io.github.CSOAI-ORG/gdpr-compliance-ai-mcp",
-   "pkg": "gdpr-compliance-ai-mcp",
-   "prev": "MCP server for gdpr compliance ai. Features classify processing, lawful basis assessment, ",
-   "cur": "GDPR measurement for AI agents. Processing classification, lawful basis assessment, DPIA g"
+   "server": "io.github.CSOAI-ORG/dora-compliance-mcp",
+   "pkg": "dora-compliance-mcp",
+   "prev": "DORA (EU Digital Operational Resilience Act) compliance for AI agents. 5-pillar audit, inc",
+   "cur": "DORA measurement for AI agents. 5-pillar audit, incident classification, Article 28 Regist"
   },
   {
-   "server": "io.github.Damien829/aipaygen",
-   "pkg": "aipaygen-mcp",
-   "prev": "AI Agent Marketplace + 65 tools for Claude, Cursor, and MCP agents. Buy, sell, deploy trad",
-   "cur": "AIPayGen MCP server for stdio clients: 100+ tools for AI agents (web, company data, crypto"
+   "server": "io.github.Eno654/oxyo-mcp",
+   "pkg": "oxyo-mcp",
+   "prev": "Get $200-tier coding capacity for $100 + $49 Oxyo Pro ($39/mo annual, oxyo.si) \u2014 cut Claud",
+   "cur": "Continuously cut Claude Code, Codex, Cursor & VS Code token and quota burn by 60-72% via p"
   },
   {
-   "server": "io.github.AddyCuber/ybe-check",
-   "pkg": "ybe-check",
-   "prev": "Production-readiness gatekeeper for vibe-coded apps. Scans repos for secrets, prompt injec",
-   "cur": "Production-readiness security gatekeeper for vibe-coded apps \u2014 16 scan modules, AI remedia"
+   "server": "io.github.GoogleCloudPlatform/cxidk",
+   "pkg": "cxidk",
+   "prev": "A high-level API for Google's CX Insights.",
+   "cur": "AI-native Python toolkit, MCP server, and ADK toolset for Google Cloud Conversational Insi"
   },
   {
    "server": "com.coinrailz/mcp",
@@ -56,16 +56,16 @@
    "cur": "Connect AI agents to primary sources - markets, macro, news, earth, network, entities and "
   },
   {
-   "server": "io.github.CSOAI-ORG/pdf-merge-ai-mcp",
-   "pkg": "pdf-merge-ai-mcp",
-   "prev": "AI-powered pdf merge ai MCP server for agents. Supports merge pdfs, split pdf, get pdf inf",
-   "cur": "Pdf Merge Ai Mcp: merge info (Plan a PDF merge operation. Provide file descriptions as JSO"
+   "server": "io.github.Ivanolegvak/sonar-mcp",
+   "pkg": "getsonar-mcp",
+   "prev": "MCP server for SONAR: KYB due diligence on vendors, partners and resellers (registries, sa",
+   "cur": "MCP server for SONAR: company register lookups and KYB due diligence on vendors, partners "
   },
   {
-   "server": "dev.fly.veles-finance-gateway/veles-finance-mcp",
-   "pkg": "veles-finance-mcp",
-   "prev": "MCP server for Veles Finance Agent \u2014 AI-powered financial analysis via x402 micropayments ",
-   "cur": "Veles Finance Agent MCP server \u2014 institutional DD reports for Claude Desktop, Cursor, Wind"
+   "server": "com.scento/perfume-api",
+   "pkg": "scento-perfume-api",
+   "prev": "Scento Perfume API: a free perfume and fragrance API and MCP server over Scento's verified",
+   "cur": "Free perfume API and perfume MCP server: 1,500+ perfumes, 160+ houses, 400+ raw materials "
   },
   {
    "server": "com.macaroonnetwork/mcp-server",
@@ -74,10 +74,10 @@
    "cur": "MCP discovery router for Macaroon Network categories, sources, vertical MCPs, and x402 USD"
   },
   {
-   "server": "io.github.BigJai/codemunch-pro",
-   "pkg": "codemunch-pro",
-   "prev": "Intelligent code indexing MCP server. Tree-sitter AST extraction, hybrid search (FTS5 + ve",
-   "cur": "DEPRECATED: renamed to tokennuke. Run: pip install tokennuke"
+   "server": "io.github.SaravananJaichandar/world-model-mcp",
+   "pkg": "world-model-mcp",
+   "prev": "MCP server that builds a world model for codebases to prevent hallucinations, repeated mis",
+   "cur": "MCP world-model memory server for coding agents; ships the etch-verify offline audit-chain"
   }
  ]
 }

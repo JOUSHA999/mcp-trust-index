@@ -1,65 +1,89 @@
 {
- "generated_at": "2026-11-19T11:56:53Z",
- "universe_declared_github_repos": 14236,
- "universe_declared_npm_packages": 5072,
+ "generated_at": "2026-11-20T11:58:02Z",
+ "universe_declared_github_repos": 14127,
+ "universe_declared_npm_packages": 4995,
  "github_sample": {
   "n": 1200,
-  "dead": 186,
-  "dead_pct": 15.5,
+  "dead": 194,
+  "dead_pct": 16.2,
   "ci95": [
-   13.6,
-   17.7
+   14.2,
+   18.4
   ],
   "archived": 10,
-  "no_license": 121,
-  "stale_365d": 20,
+  "no_license": 131,
+  "stale_365d": 15,
   "extrapolated_dead": [
-   1936,
-   2520
+   2006,
+   2599
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 782,
-  "unresolved": 18,
-  "version_desync": 181,
-  "desync_pct": 22.6,
+  "resolved": 788,
+  "unresolved": 12,
+  "version_desync": 170,
+  "desync_pct": 21.2,
   "ci95": [
-   19.9,
-   25.7
+   18.6,
+   24.2
   ],
-  "description_drift": 179,
-  "drift_pct": 22.4,
+  "description_drift": 195,
+  "drift_pct": 24.4,
   "desc_mismatch_vs_registry": 719,
   "mismatch_pct": 89.9,
   "extrapolated_desync": [
-   1009,
-   1304
+   929,
+   1209
   ]
  },
  "examples_dead_repo": [
-  "arjunkmrm/clock",
-  "lvlltd/lvlltd-agent-marketplace",
-  "nickvorobiov/betterjobs",
-  "Jcjimenezglez/docchat",
-  "DLJRealty/guesty-mcp-server",
-  "jirispilka/actors-mcp-server",
-  "BlackhatShiftey/Seam_Runtime",
-  "TeamTixxly/tixxly-v2",
-  "people-analyst/bicycle-guide",
-  "Ansarii/neoninnovationlab",
-  "Ansvar-Systems/nigeria-law-mcp",
-  "ee324/a2awire",
-  "CyberMax-tools/product-factory",
-  "junter1989k-ai/nepal-payments-mcp",
-  "Ansvar-Systems/uk-farm-subsidies-mcp"
+  "picahq/mcp",
+  "Christopher-AS/Riv.IO",
+  "larebelion/hapimcp",
+  "OverskillDev/overskill",
+  "Pratiksha-Kanoja/magicslide-mcp-test",
+  "anup-a/web-backgrounds",
+  "VibeMirror-coder/humanmirror",
+  "bentleylabs/royalprescriptions-landing",
+  "u00dxk2/agentic-news",
+  "Saidwire/saidwire-mcp",
+  "geoffsdesk/web",
+  "Samuelfmedeiros/arachne-mcp",
+  "Kotaro-Studio/kurashigram",
+  "digitaldefiance/ai-capabilities-suite",
+  "ee324/a2awire"
  ],
  "examples_drift": [
   {
-   "server": "dev.cz-agents/realestate",
-   "pkg": "@czagents/realestate",
-   "prev": "Czech distressed real estate intelligence \u2014 anonymized district-level aggregates (insolven",
-   "cur": "Czech distressed real estate intelligence \u2014 anonymized district-level aggregates (insolven"
+   "server": "io.github.ArmorNGlory/faithfinder-mcp-server",
+   "pkg": "faithfinder-mcp-server",
+   "prev": "Find a church near you from any AI assistant. MCP server for FaithFinder: search 9,000+ US",
+   "cur": "Find a church near you from any AI assistant. MCP server for FaithFinder: search 22,600+ U"
+  },
+  {
+   "server": "com.gscmagic/gsc-magic",
+   "pkg": "gsc-magic-mcp",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "MCP server and CLI for Google Search Console, Bing Webmaster Tools, IndexNow, Core Web Vit"
+  },
+  {
+   "server": "io.github.CloudCorpRecords/formchime",
+   "pkg": "@reneturcios/formchime",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "Manage Formgong contact forms from your agent: a local bridge to the hosted Formgong MCP s"
+  },
+  {
+   "server": "io.github.Naman6019/launchengine-dev",
+   "pkg": "@launchengine-dev/mcp",
+   "prev": "MCP server for LaunchEngine.dev \u2014 find public posts where someone is asking for a tool lik",
+   "cur": "MCP server for LaunchEngine.dev: find public posts on Reddit, Hacker News and the web wher"
+  },
+  {
+   "server": "io.github.CloudCorpRecords/taskpilot",
+   "pkg": "@reneturcios/taskpilot",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "Task and project management for AI coding agents against a hosted workspace API: fetch and"
   },
   {
    "server": "com.nodes2cloud/mcp",
@@ -68,52 +92,28 @@
    "cur": "Nodes2Cloud MCP server: let coding agents build, validate and deploy Cloudflare Workers wo"
   },
   {
-   "server": "io.github.CloudCorpRecords/filemorph",
-   "pkg": "@reneturcios/filemorph",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "File conversion across 44 formats, forwarded to the hosted FileTypeConverters MCP server: "
+   "server": "ai.myspaice/spaces",
+   "pkg": "spaces-mcp-server",
+   "prev": "MCP server for the Spaces AI Marketplace \u2014 lets AI agents browse, join, and play in spaces",
+   "cur": "MCP server for myspAIce: your AI joins as itself, names itself, and hangs out, plays and m"
   },
   {
-   "server": "io.github.CloudCorpRecords/grantpulse",
-   "pkg": "@reneturcios/grantpulse",
+   "server": "io.github.CloudCorpRecords/agenttrio",
+   "pkg": "@reneturcios/agenttrio",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "New NIH grants and clinical trials by institution, PI, sponsor, topic, plus funding-change"
+   "cur": "Bounded planner-coder-reviewer agent workflows over a local Ollama backend: workspace stat"
   },
   {
-   "server": "io.github.PixFrixSystems/search-console-mcp",
-   "pkg": "@pixfrix/search-console-mcp",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for Google Search Console: search performance, URL inspection, sitemaps and rea"
+   "server": "io.github.Mike25app/scaleforge-mcp-meta-ads",
+   "pkg": "@getscaleforge/mcp-meta-ads",
+   "prev": "Meta Ads MCP server \u2014 control Facebook/Instagram campaigns from Claude, ChatGPT, Cursor, o",
+   "cur": "Meta Ads MCP by ScaleForge \u2014 control Facebook/Instagram campaigns from Claude, ChatGPT, Cu"
   },
   {
-   "server": "io.github.CloudCorpRecords/traveldex",
-   "pkg": "@reneturcios/traveldex",
+   "server": "io.github.CloudCorpRecords/analyticbase",
+   "pkg": "@reneturcios/analyticbase",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "A local stdio bridge to the hosted NUM travel directory: search more than 2.5 million plac"
-  },
-  {
-   "server": "io.alion/alion",
-   "pkg": "@alion-io/mcp",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "The Alion MCP server as a local command (stdio) for Claude Desktop, Cursor, VS Code, Winds"
-  },
-  {
-   "server": "com.enconvert/mcp",
-   "pkg": "@enconvert/mcp",
-   "prev": "MCP server for the EnConvert web data and file conversion API: perceive pages (markdown, H",
-   "cur": "Web and file reading for AI agents with a 0-1 render_quality score on every read. MCP serv"
-  },
-  {
-   "server": "io.github.CharlieJamesGwapo/ph-data-mcp-server",
-   "pkg": "ph-data-mcp-server",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for Philippine scholarships, holidays, regions, schools, peso rates and weather"
-  },
-  {
-   "server": "ai.neuralverge/neuralverge",
-   "pkg": "@neuralverge/mcp-server",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "NeuralVerge MCP server: the data layer for agentic AI. Search, AI Extract and 300+ data so"
+   "cur": "Explore and query a ClickHouse database over its HTTP interface from the command line or a"
   }
  ]
 }

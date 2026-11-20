@@ -1,36 +1,24 @@
 {
- "generated_at": "2026-11-19T11:56:59Z",
- "universe_declared_pypi": 1991,
+ "generated_at": "2026-11-20T11:58:06Z",
+ "universe_declared_pypi": 1945,
  "sample": {
   "n_sampled": 500,
-  "resolved": 496,
-  "unresolved": 4,
-  "version_desync": 86,
-  "desync_pct": 17.3,
+  "resolved": 499,
+  "unresolved": 1,
+  "version_desync": 93,
+  "desync_pct": 18.6,
   "ci95": [
-   14.3,
-   20.9
+   15.5,
+   22.3
   ],
   "extrapolated_desync": [
-   285,
-   416
+   301,
+   434
   ],
-  "description_drift": 27,
-  "drift_pct": 5.4
+  "description_drift": 23,
+  "drift_pct": 4.6
  },
  "examples_drift": [
-  {
-   "server": "eu.quantumreadiness/qrp-mcp",
-   "pkg": "qrp-mcp",
-   "prev": "An adaptive post-quantum readiness scanner. It closes operations against a catalogue of th",
-   "cur": "Offline post-quantum readiness scanner for code; CycloneDX CBOM with what it read and did "
-  },
-  {
-   "server": "io.github.CSOAI-ORG/dora-compliance-mcp",
-   "pkg": "dora-compliance-mcp",
-   "prev": "DORA (EU Digital Operational Resilience Act) compliance for AI agents. 5-pillar audit, inc",
-   "cur": "DORA measurement for AI agents. 5-pillar audit, incident classification, Article 28 Regist"
-  },
   {
    "server": "io.github.Eno654/oxyo-mcp",
    "pkg": "oxyo-mcp",
@@ -38,46 +26,58 @@
    "cur": "Continuously cut Claude Code, Codex, Cursor & VS Code token and quota burn by 60-72% via p"
   },
   {
-   "server": "io.github.GoogleCloudPlatform/cxidk",
-   "pkg": "cxidk",
-   "prev": "A high-level API for Google's CX Insights.",
-   "cur": "AI-native Python toolkit, MCP server, and ADK toolset for Google Cloud Conversational Insi"
-  },
-  {
-   "server": "com.coinrailz/mcp",
-   "pkg": "coinrailz-mcp",
-   "prev": "MCP server exposing 63 Coin Railz x402 micropayment services \u2014 crypto analytics, trading s",
-   "cur": "MCP server exposing 63 Coin Railz tools \u2014 crypto analytics, trading signals, NASA/ESA sate"
-  },
-  {
-   "server": "ai.sugra/api-mcp",
-   "pkg": "sugra-api-mcp",
-   "prev": "Connect AI agents to primary sources - markets, macro, entities, news, network, earth and ",
-   "cur": "Connect AI agents to primary sources - markets, macro, news, earth, network, entities and "
-  },
-  {
-   "server": "io.github.Ivanolegvak/sonar-mcp",
-   "pkg": "getsonar-mcp",
-   "prev": "MCP server for SONAR: KYB due diligence on vendors, partners and resellers (registries, sa",
-   "cur": "MCP server for SONAR: company register lookups and KYB due diligence on vendors, partners "
-  },
-  {
-   "server": "com.scento/perfume-api",
-   "pkg": "scento-perfume-api",
-   "prev": "Scento Perfume API: a free perfume and fragrance API and MCP server over Scento's verified",
-   "cur": "Free perfume API and perfume MCP server: 1,500+ perfumes, 160+ houses, 400+ raw materials "
-  },
-  {
-   "server": "com.macaroonnetwork/mcp-server",
-   "pkg": "macaroonnetwork-mcp",
-   "prev": "MCP client for Macaroon Network -- discover and buy from a live marketplace where AI agent",
-   "cur": "MCP discovery router for Macaroon Network categories, sources, vertical MCPs, and x402 USD"
-  },
-  {
    "server": "io.github.SaravananJaichandar/world-model-mcp",
    "pkg": "world-model-mcp",
    "prev": "MCP server that builds a world model for codebases to prevent hallucinations, repeated mis",
    "cur": "MCP world-model memory server for coding agents; ships the etch-verify offline audit-chain"
+  },
+  {
+   "server": "dev.cotlet/pirate-ship",
+   "pkg": "pirate-ship-api-mcp",
+   "prev": "Self-hosted Pirate Ship API and MCP server on your own Chrome session. Noncommercial use (",
+   "cur": "Self-hosted Pirate Ship API and MCP server on your own Chrome session. Use Pirate Ship fro"
+  },
+  {
+   "server": "com.cgajs/nl2cga-mcp",
+   "pkg": "nl2cga-mcp",
+   "prev": "NL2CGA Cloud MCP server: natural language to CGA rules for MCP clients (kimi code, codex, ",
+   "cur": "MCP server for nl2cga.com"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/pdf-document-mcp",
+   "pkg": "pdf-document-mcp",
+   "prev": "AI-powered pdf document MCP server for agents. Supports extract text from pdf, convert pdf",
+   "cur": "Pdf Document Mcp: extract text from pdf (Extract text content from a PDF file. Optionally "
+  },
+  {
+   "server": "io.github.Muzaqil555/gemini-pro-mcp",
+   "pkg": "gemini-pro-mcp",
+   "prev": "MCP server that brings your Google AI Pro subscription (Gemini via Antigravity CLI, Flow) ",
+   "cur": "Use your Google AI Pro subscription from Claude, Codex, Antigravity and Gemini CLI: Gemini"
+  },
+  {
+   "server": "ai.sovantica/engrava",
+   "pkg": "engrava-mcp",
+   "prev": "Model Context Protocol server for Engrava \u2014 expose an agent memory database to any MCP cli",
+   "cur": "Model Context Protocol server for Engrava - expose an agent memory database to any MCP cli"
+  },
+  {
+   "server": "com.docfig/docfig",
+   "pkg": "docfig",
+   "prev": "Free offline bank statement reconciliation check (CSV/Excel), plus the DocFig API client: ",
+   "cur": "Free offline bank statement reconciliation check (CSV/Excel), the DocFig API client (state"
+  },
+  {
+   "server": "dev.cotlet/skool",
+   "pkg": "skool-api-mcp",
+   "prev": "Self-hosted Skool API and MCP server on your own Chrome session. Noncommercial use (PolyFo",
+   "cur": "Self-hosted Skool API and MCP server on your own Chrome session. Use Skool from Claude, Cu"
+  },
+  {
+   "server": "com.altfndata/altfinance-mcp",
+   "pkg": "altfinance-mcp",
+   "prev": "MCP server for querying auction results across 20 luxury and collectibles categories via t",
+   "cur": "MCP server for querying auction results across 20 luxury and collectibles categories via t"
   }
  ]
 }

@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-11-20T11:58:02Z",
- "universe_declared_github_repos": 14127,
- "universe_declared_npm_packages": 4995,
+ "generated_at": "2026-11-21T11:25:10Z",
+ "universe_declared_github_repos": 14154,
+ "universe_declared_npm_packages": 5016,
  "github_sample": {
   "n": 1200,
-  "dead": 194,
-  "dead_pct": 16.2,
+  "dead": 199,
+  "dead_pct": 16.6,
   "ci95": [
-   14.2,
-   18.4
+   14.6,
+   18.8
   ],
-  "archived": 10,
-  "no_license": 131,
-  "stale_365d": 15,
+  "archived": 14,
+  "no_license": 125,
+  "stale_365d": 14,
   "extrapolated_dead": [
-   2006,
-   2599
+   2066,
+   2661
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 788,
-  "unresolved": 12,
-  "version_desync": 170,
-  "desync_pct": 21.2,
+  "resolved": 783,
+  "unresolved": 17,
+  "version_desync": 181,
+  "desync_pct": 22.6,
   "ci95": [
-   18.6,
-   24.2
+   19.9,
+   25.7
   ],
-  "description_drift": 195,
-  "drift_pct": 24.4,
-  "desc_mismatch_vs_registry": 719,
-  "mismatch_pct": 89.9,
+  "description_drift": 192,
+  "drift_pct": 24.0,
+  "desc_mismatch_vs_registry": 722,
+  "mismatch_pct": 90.2,
   "extrapolated_desync": [
-   929,
-   1209
+   998,
+   1289
   ]
  },
  "examples_dead_repo": [
-  "picahq/mcp",
-  "Christopher-AS/Riv.IO",
-  "larebelion/hapimcp",
-  "OverskillDev/overskill",
-  "Pratiksha-Kanoja/magicslide-mcp-test",
-  "anup-a/web-backgrounds",
-  "VibeMirror-coder/humanmirror",
-  "bentleylabs/royalprescriptions-landing",
+  "CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-herald-mcp",
+  "ChanghuLiu/uk-taxi-phv-mcp",
+  "Chromatic0618/xiangguangyu-skills",
+  "SebastianBO/quant-platform",
+  "Isometric-Architect/ai-objective-index",
+  "Real-Estate-OS/openhouseboss-backend",
+  "joeetdev/venture-estate",
+  "ryan-the-brodsky/tastemaker",
+  "Ondrej86/shopify-grid-garden",
+  "paboohwow-arch/ifa-wisdom",
   "u00dxk2/agentic-news",
-  "Saidwire/saidwire-mcp",
-  "geoffsdesk/web",
-  "Samuelfmedeiros/arachne-mcp",
-  "Kotaro-Studio/kurashigram",
-  "digitaldefiance/ai-capabilities-suite",
-  "ee324/a2awire"
+  "joeetdev/venture-estate",
+  "eliu243/oura-mcp-server",
+  "AshwinSathian/booklet",
+  "CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-regulens-mcp"
  ],
  "examples_drift": [
   {
-   "server": "io.github.ArmorNGlory/faithfinder-mcp-server",
-   "pkg": "faithfinder-mcp-server",
-   "prev": "Find a church near you from any AI assistant. MCP server for FaithFinder: search 9,000+ US",
-   "cur": "Find a church near you from any AI assistant. MCP server for FaithFinder: search 22,600+ U"
-  },
-  {
-   "server": "com.gscmagic/gsc-magic",
-   "pkg": "gsc-magic-mcp",
+   "server": "io.github.CloudCorpRecords/driveguide",
+   "pkg": "@reneturcios/driveguide",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server and CLI for Google Search Console, Bing Webmaster Tools, IndexNow, Core Web Vit"
+   "cur": "Driving-test study reads forwarded from the hosted Drivings service: published guide searc"
   },
   {
-   "server": "io.github.CloudCorpRecords/formchime",
-   "pkg": "@reneturcios/formchime",
+   "server": "io.github.ApocData/mcp-server",
+   "pkg": "@apocdata-info/mcp-server",
+   "prev": "\u5929\u542f\u81f3\u6570 ApocData - MCP Server for A-share market data (46 free, no-auth endpoints)",
+   "cur": "\u5929\u542f\u81f3\u6570 Apocdata MCP Server \u2014 46 tools, AI-native A-share data (announcements, quotes, financ"
+  },
+  {
+   "server": "io.github.CloudCorpRecords/fedvendor",
+   "pkg": "@reneturcios/fedvendor",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Manage Formgong contact forms from your agent: a local bridge to the hosted Formgong MCP s"
+   "cur": "SAM.gov public data via the official GSA APIs: entity registrations, exclusions, contract "
   },
   {
-   "server": "io.github.Naman6019/launchengine-dev",
-   "pkg": "@launchengine-dev/mcp",
-   "prev": "MCP server for LaunchEngine.dev \u2014 find public posts where someone is asking for a tool lik",
-   "cur": "MCP server for LaunchEngine.dev: find public posts on Reddit, Hacker News and the web wher"
+   "server": "io.cruma/cruma",
+   "pkg": "cruma",
+   "prev": "Cruma tunnel agent",
+   "cur": "Share a local app on a public HTTPS address in one command: localhost tunnels, custom doma"
   },
   {
-   "server": "io.github.CloudCorpRecords/taskpilot",
-   "pkg": "@reneturcios/taskpilot",
+   "server": "io.github.CloudCorpRecords/storedata",
+   "pkg": "@reneturcios/storedata",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Task and project management for AI coding agents against a hosted workspace API: fetch and"
+   "cur": "Shopify storefront data as JSON from your agent: a local bridge to the hosted HasData Shop"
   },
   {
-   "server": "com.nodes2cloud/mcp",
-   "pkg": "n2c-mcp",
-   "prev": "Nodes2Cloud MCP Client Proxy",
-   "cur": "Nodes2Cloud MCP server: let coding agents build, validate and deploy Cloudflare Workers wo"
+   "server": "finance.orbt/intelligence",
+   "pkg": "@orbt-finance/mcp-server",
+   "prev": "MCP server wrapper for ORBT Financial Intelligence API",
+   "cur": "Advanced AI-powered MCP server for ORBT Financial Intelligence API with Gemini-powered nat"
   },
   {
-   "server": "ai.myspaice/spaces",
-   "pkg": "spaces-mcp-server",
-   "prev": "MCP server for the Spaces AI Marketplace \u2014 lets AI agents browse, join, and play in spaces",
-   "cur": "MCP server for myspAIce: your AI joins as itself, names itself, and hangs out, plays and m"
+   "server": "com.nanocalcs/calculators",
+   "pkg": "nanocalcs-mcp",
+   "prev": "MCP server for nanocalcs.com: exact calculators (dates, business days, Schengen, time zone",
+   "cur": "MCP server for nanocalcs.com: exact calculators (dates, business days, Schengen, time zone"
   },
   {
-   "server": "io.github.CloudCorpRecords/agenttrio",
-   "pkg": "@reneturcios/agenttrio",
+   "server": "com.dzgapp/mint",
+   "pkg": "@dzg-studio/mcp-server-mint",
+   "prev": "Mint for Mac's MCP server: 58 tools that keep disk and memory healthy for you and the AI a",
+   "cur": "Smart disk and memory for you and your agents: Mint's local MCP server, 58 tools for Claud"
+  },
+  {
+   "server": "ai.mroffice/office",
+   "pkg": "mroffice-mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Bounded planner-coder-reviewer agent workflows over a local Ollama backend: workspace stat"
+   "cur": "MR Office's document, spreadsheet and PDF editors inside AI conversations: an MCP server w"
   },
   {
-   "server": "io.github.Mike25app/scaleforge-mcp-meta-ads",
-   "pkg": "@getscaleforge/mcp-meta-ads",
-   "prev": "Meta Ads MCP server \u2014 control Facebook/Instagram campaigns from Claude, ChatGPT, Cursor, o",
-   "cur": "Meta Ads MCP by ScaleForge \u2014 control Facebook/Instagram campaigns from Claude, ChatGPT, Cu"
-  },
-  {
-   "server": "io.github.CloudCorpRecords/analyticbase",
-   "pkg": "@reneturcios/analyticbase",
+   "server": "io.github.CloudCorpRecords/a11yscan",
+   "pkg": "@reneturcios/a11yscan",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Explore and query a ClickHouse database over its HTTP interface from the command line or a"
+   "cur": "Forwarding client for the LazyNext accessibility checker: WCAG 2.1/2.2 audits for URLs and"
   }
  ]
 }

@@ -1,41 +1,35 @@
 {
- "generated_at": "2026-11-20T11:58:06Z",
- "universe_declared_pypi": 1945,
+ "generated_at": "2026-11-21T11:25:19Z",
+ "universe_declared_pypi": 1953,
  "sample": {
   "n_sampled": 500,
-  "resolved": 499,
-  "unresolved": 1,
-  "version_desync": 93,
-  "desync_pct": 18.6,
+  "resolved": 498,
+  "unresolved": 2,
+  "version_desync": 83,
+  "desync_pct": 16.7,
   "ci95": [
-   15.5,
-   22.3
+   13.7,
+   20.2
   ],
   "extrapolated_desync": [
-   301,
-   434
+   268,
+   395
   ],
-  "description_drift": 23,
-  "drift_pct": 4.6
+  "description_drift": 32,
+  "drift_pct": 6.4
  },
  "examples_drift": [
   {
-   "server": "io.github.Eno654/oxyo-mcp",
-   "pkg": "oxyo-mcp",
-   "prev": "Get $200-tier coding capacity for $100 + $49 Oxyo Pro ($39/mo annual, oxyo.si) \u2014 cut Claud",
-   "cur": "Continuously cut Claude Code, Codex, Cursor & VS Code token and quota burn by 60-72% via p"
+   "server": "io.github.Elmoaid/tempograph",
+   "pkg": "tempograph",
+   "prev": "Code graph context engine for AI coding agents \u2014 structural dependency graph with adaptive",
+   "cur": "Your AI agent finds the right files. Code graph context engine with 24 MCP tools, 170+ lan"
   },
   {
-   "server": "io.github.SaravananJaichandar/world-model-mcp",
-   "pkg": "world-model-mcp",
-   "prev": "MCP server that builds a world model for codebases to prevent hallucinations, repeated mis",
-   "cur": "MCP world-model memory server for coding agents; ships the etch-verify offline audit-chain"
-  },
-  {
-   "server": "dev.cotlet/pirate-ship",
-   "pkg": "pirate-ship-api-mcp",
-   "prev": "Self-hosted Pirate Ship API and MCP server on your own Chrome session. Noncommercial use (",
-   "cur": "Self-hosted Pirate Ship API and MCP server on your own Chrome session. Use Pirate Ship fro"
+   "server": "dev.cotlet/peopleperhour",
+   "pkg": "peopleperhour-api-mcp",
+   "prev": "Self-hosted PeoplePerHour API and MCP server on your own Chrome session. Noncommercial use",
+   "cur": "Self-hosted PeoplePerHour API and MCP server on your own Chrome session. Use PeoplePerHour"
   },
   {
    "server": "com.cgajs/nl2cga-mcp",
@@ -44,16 +38,34 @@
    "cur": "MCP server for nl2cga.com"
   },
   {
-   "server": "io.github.CSOAI-ORG/pdf-document-mcp",
-   "pkg": "pdf-document-mcp",
-   "prev": "AI-powered pdf document MCP server for agents. Supports extract text from pdf, convert pdf",
-   "cur": "Pdf Document Mcp: extract text from pdf (Extract text content from a PDF file. Optionally "
+   "server": "io.github.Codeturion/codesurface",
+   "pkg": "codesurface",
+   "prev": "MCP server that indexes a codebase's public API at startup and serves it via compact tool ",
+   "cur": "MCP server that indexes a codebase's public API at startup and serves it via compact tool "
   },
   {
-   "server": "io.github.Muzaqil555/gemini-pro-mcp",
-   "pkg": "gemini-pro-mcp",
-   "prev": "MCP server that brings your Google AI Pro subscription (Gemini via Antigravity CLI, Flow) ",
-   "cur": "Use your Google AI Pro subscription from Claude, Codex, Antigravity and Gemini CLI: Gemini"
+   "server": "io.github.STiFLeR7/memex",
+   "pkg": "memex-mcp",
+   "prev": "Trusted engineering context for agentic software engineering \u2014 a temporal knowledge graph ",
+   "cur": "Open-source MCP server and hook service that keeps Claude Code and Codex engineering conte"
+  },
+  {
+   "server": "io.github.AnnasMazhar/pyspark-mcp",
+   "pkg": "pyspark-tools",
+   "prev": "MCP server for SQL migration, AWS Glue job generation, and PySpark optimization",
+   "cur": "Not the live-Spark pyspark-mcp package \u2014 this is SQL\u2192PySpark/Glue codegen. MCP server for "
+  },
+  {
+   "server": "io.github.LuminariSoftwares/tool-guardian",
+   "pkg": "tool-guardian",
+   "prev": "An MCP router that keeps tool definitions from filling the context window \u2014 it fronts your",
+   "cur": "Too many MCP servers eating your context? tool-guardian sits in front of all of them and l"
+  },
+  {
+   "server": "io.github.Buggy1111/wrapper-mcp",
+   "pkg": "wrapper-mcp",
+   "prev": "MCP server wrapping LINDAT NLP tools \u2014 production-grade anonymization, multilingual NER (3",
+   "cur": "DEPRECATED \u2014 renamed to anonymize-mcp. Run: pip install anonymize-mcp"
   },
   {
    "server": "ai.sovantica/engrava",
@@ -62,22 +74,10 @@
    "cur": "Model Context Protocol server for Engrava - expose an agent memory database to any MCP cli"
   },
   {
-   "server": "com.docfig/docfig",
-   "pkg": "docfig",
-   "prev": "Free offline bank statement reconciliation check (CSV/Excel), plus the DocFig API client: ",
-   "cur": "Free offline bank statement reconciliation check (CSV/Excel), the DocFig API client (state"
-  },
-  {
-   "server": "dev.cotlet/skool",
-   "pkg": "skool-api-mcp",
-   "prev": "Self-hosted Skool API and MCP server on your own Chrome session. Noncommercial use (PolyFo",
-   "cur": "Self-hosted Skool API and MCP server on your own Chrome session. Use Skool from Claude, Cu"
-  },
-  {
-   "server": "com.altfndata/altfinance-mcp",
-   "pkg": "altfinance-mcp",
-   "prev": "MCP server for querying auction results across 20 luxury and collectibles categories via t",
-   "cur": "MCP server for querying auction results across 20 luxury and collectibles categories via t"
+   "server": "io.github.GoogleCloudPlatform/cxidk",
+   "pkg": "cxidk",
+   "prev": "A high-level API for Google's CX Insights.",
+   "cur": "AI-native Python toolkit, MCP server, and ADK toolset for Google Cloud Conversational Insi"
   }
  ]
 }

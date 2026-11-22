@@ -1,71 +1,47 @@
 {
- "generated_at": "2026-11-21T11:25:19Z",
- "universe_declared_pypi": 1953,
+ "generated_at": "2026-11-22T11:44:25Z",
+ "universe_declared_pypi": 1920,
  "sample": {
   "n_sampled": 500,
   "resolved": 498,
   "unresolved": 2,
-  "version_desync": 83,
-  "desync_pct": 16.7,
+  "version_desync": 85,
+  "desync_pct": 17.1,
   "ci95": [
-   13.7,
-   20.2
+   14.0,
+   20.6
   ],
   "extrapolated_desync": [
-   268,
-   395
+   269,
+   396
   ],
-  "description_drift": 32,
-  "drift_pct": 6.4
+  "description_drift": 27,
+  "drift_pct": 5.4
  },
  "examples_drift": [
   {
-   "server": "io.github.Elmoaid/tempograph",
-   "pkg": "tempograph",
-   "prev": "Code graph context engine for AI coding agents \u2014 structural dependency graph with adaptive",
-   "cur": "Your AI agent finds the right files. Code graph context engine with 24 MCP tools, 170+ lan"
+   "server": "io.github.CSOAI-ORG/pdf-merge-ai-mcp",
+   "pkg": "pdf-merge-ai-mcp",
+   "prev": "AI-powered pdf merge ai MCP server for agents. Supports merge pdfs, split pdf, get pdf inf",
+   "cur": "Pdf Merge Ai Mcp: merge info (Plan a PDF merge operation. Provide file descriptions as JSO"
   },
   {
-   "server": "dev.cotlet/peopleperhour",
-   "pkg": "peopleperhour-api-mcp",
-   "prev": "Self-hosted PeoplePerHour API and MCP server on your own Chrome session. Noncommercial use",
-   "cur": "Self-hosted PeoplePerHour API and MCP server on your own Chrome session. Use PeoplePerHour"
+   "server": "com.cgajs/cgajs-mcp",
+   "pkg": "cgajs-mcp",
+   "prev": "CGA.js Cloud MCP server: compile CGA rules to 3D models (GLB) for MCP clients (kimi code, ",
+   "cur": "MCP server for cgajs.com"
   },
   {
-   "server": "com.cgajs/nl2cga-mcp",
-   "pkg": "nl2cga-mcp",
-   "prev": "NL2CGA Cloud MCP server: natural language to CGA rules for MCP clients (kimi code, codex, ",
-   "cur": "MCP server for nl2cga.com"
+   "server": "io.github.CSOAI-ORG/self-healing-infrastructure-mcp",
+   "pkg": "self-healing-infrastructure-mcp",
+   "prev": "AI-powered self healing infrastructure MCP server for agents. Supports node health check, ",
+   "cur": "The only self-healing infrastructure MCP with cryptographic governance. Ed25519 sigil, BFT"
   },
   {
-   "server": "io.github.Codeturion/codesurface",
-   "pkg": "codesurface",
-   "prev": "MCP server that indexes a codebase's public API at startup and serves it via compact tool ",
-   "cur": "MCP server that indexes a codebase's public API at startup and serves it via compact tool "
-  },
-  {
-   "server": "io.github.STiFLeR7/memex",
-   "pkg": "memex-mcp",
-   "prev": "Trusted engineering context for agentic software engineering \u2014 a temporal knowledge graph ",
-   "cur": "Open-source MCP server and hook service that keeps Claude Code and Codex engineering conte"
-  },
-  {
-   "server": "io.github.AnnasMazhar/pyspark-mcp",
-   "pkg": "pyspark-tools",
-   "prev": "MCP server for SQL migration, AWS Glue job generation, and PySpark optimization",
-   "cur": "Not the live-Spark pyspark-mcp package \u2014 this is SQL\u2192PySpark/Glue codegen. MCP server for "
-  },
-  {
-   "server": "io.github.LuminariSoftwares/tool-guardian",
-   "pkg": "tool-guardian",
-   "prev": "An MCP router that keeps tool definitions from filling the context window \u2014 it fronts your",
-   "cur": "Too many MCP servers eating your context? tool-guardian sits in front of all of them and l"
-  },
-  {
-   "server": "io.github.Buggy1111/wrapper-mcp",
-   "pkg": "wrapper-mcp",
-   "prev": "MCP server wrapping LINDAT NLP tools \u2014 production-grade anonymization, multilingual NER (3",
-   "cur": "DEPRECATED \u2014 renamed to anonymize-mcp. Run: pip install anonymize-mcp"
+   "server": "io.arcaeon/adapter",
+   "pkg": "arcaeon-adapter",
+   "prev": "Compatibility shim: arcaeon-adapter is now part of arcaeon (arcaeon.record.adapter). Insta",
+   "cur": "Compatibility shim: arcaeon-adapter is now part of arcaeon (arcaeon.record.adapter). Insta"
   },
   {
    "server": "ai.sovantica/engrava",
@@ -74,10 +50,34 @@
    "cur": "Model Context Protocol server for Engrava - expose an agent memory database to any MCP cli"
   },
   {
-   "server": "io.github.GoogleCloudPlatform/cxidk",
-   "pkg": "cxidk",
-   "prev": "A high-level API for Google's CX Insights.",
-   "cur": "AI-native Python toolkit, MCP server, and ADK toolset for Google Cloud Conversational Insi"
+   "server": "dev.cotlet/fresha",
+   "pkg": "fresha-api-mcp",
+   "prev": "Self-hosted Fresha API and MCP server on your own Chrome session. Noncommercial use (PolyF",
+   "cur": "Self-hosted Fresha API and MCP server on your own Chrome session. Use Fresha from Claude, "
+  },
+  {
+   "server": "io.github.CSOAI-ORG/quiz-generator-ai-mcp",
+   "pkg": "quiz-generator-ai-mcp",
+   "prev": "AI-powered quiz generator ai MCP server for agents. Supports generate quiz, validate answe",
+   "cur": "Quiz Generator Ai Mcp: generate quiz (Generate a quiz from provided content text.); valida"
+  },
+  {
+   "server": "dev.cotlet/bookingkoala",
+   "pkg": "bookingkoala-api-mcp",
+   "prev": "Self-hosted BookingKoala API and MCP server on your own Chrome session. Noncommercial use ",
+   "cur": "Self-hosted BookingKoala API and MCP server on your own Chrome session. Use BookingKoala f"
+  },
+  {
+   "server": "gg.batru/batru-mcp",
+   "pkg": "batru-mcp",
+   "prev": "Read-only MCP server over batru.gg's live, calibrated Dota 2 / Deadlock win-rate predictio",
+   "cur": "Read-only MCP server over batru.gg's live, calibrated Dota 2 / Deadlock / Marvel Rivals wi"
+  },
+  {
+   "server": "ai.lbrain/lbrain",
+   "pkg": "lbrain-coding-agents",
+   "prev": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start.",
+   "cur": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start."
   }
  ]
 }

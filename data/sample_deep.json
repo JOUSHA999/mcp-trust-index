@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-11-21T11:25:10Z",
- "universe_declared_github_repos": 14154,
- "universe_declared_npm_packages": 5016,
+ "generated_at": "2026-11-22T11:44:21Z",
+ "universe_declared_github_repos": 14094,
+ "universe_declared_npm_packages": 4963,
  "github_sample": {
   "n": 1200,
-  "dead": 199,
-  "dead_pct": 16.6,
+  "dead": 193,
+  "dead_pct": 16.1,
   "ci95": [
-   14.6,
-   18.8
+   14.1,
+   18.3
   ],
-  "archived": 14,
-  "no_license": 125,
-  "stale_365d": 14,
+  "archived": 7,
+  "no_license": 149,
+  "stale_365d": 13,
   "extrapolated_dead": [
-   2066,
-   2661
+   1987,
+   2579
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 783,
-  "unresolved": 17,
-  "version_desync": 181,
-  "desync_pct": 22.6,
+  "resolved": 782,
+  "unresolved": 18,
+  "version_desync": 173,
+  "desync_pct": 21.6,
   "ci95": [
-   19.9,
-   25.7
+   18.9,
+   24.6
   ],
-  "description_drift": 192,
-  "drift_pct": 24.0,
-  "desc_mismatch_vs_registry": 722,
-  "mismatch_pct": 90.2,
+  "description_drift": 186,
+  "drift_pct": 23.2,
+  "desc_mismatch_vs_registry": 702,
+  "mismatch_pct": 87.8,
   "extrapolated_desync": [
-   998,
-   1289
+   938,
+   1221
   ]
  },
  "examples_dead_repo": [
-  "CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-herald-mcp",
-  "ChanghuLiu/uk-taxi-phv-mcp",
-  "Chromatic0618/xiangguangyu-skills",
-  "SebastianBO/quant-platform",
-  "Isometric-Architect/ai-objective-index",
-  "Real-Estate-OS/openhouseboss-backend",
-  "joeetdev/venture-estate",
-  "ryan-the-brodsky/tastemaker",
-  "Ondrej86/shopify-grid-garden",
-  "paboohwow-arch/ifa-wisdom",
+  "CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-nexus-witness-mcp",
+  "Nvoip/nvoip-mcp",
+  "DynamicEndpoints/m365-core-mcp",
+  "bwalvoord/gumball",
+  "AIBOLLINGMO/eustore",
+  "AIWerk/mcp-server-imap",
+  "Ansvar-Systems/indonesian-law-mcp",
   "u00dxk2/agentic-news",
-  "joeetdev/venture-estate",
-  "eliu243/oura-mcp-server",
-  "AshwinSathian/booklet",
-  "CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-regulens-mcp"
+  "PlaylistExchange/playlistexchange",
+  "6mickswagger9/x402-image-mcp",
+  "data-mindset/sts-google-forms-mcp",
+  "Michelangelo-Z/ai-design-blueprint",
+  "Alex-Dev-Web-C-DE/finance-validators-mcp",
+  "junter1989k-ai/digital-goods-mcp",
+  "Smartling/smartling-mcp-server"
  ],
  "examples_drift": [
   {
-   "server": "io.github.CloudCorpRecords/driveguide",
-   "pkg": "@reneturcios/driveguide",
+   "server": "com.getscreenshotapi/mcp",
+   "pkg": "getscreenshot-mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Driving-test study reads forwarded from the hosted Drivings service: published guide searc"
+   "cur": "MCP server and CLI for the GetScreenshot API: capture web pages, render HTML, diff screens"
   },
   {
-   "server": "io.github.ApocData/mcp-server",
-   "pkg": "@apocdata-info/mcp-server",
-   "prev": "\u5929\u542f\u81f3\u6570 ApocData - MCP Server for A-share market data (46 free, no-auth endpoints)",
-   "cur": "\u5929\u542f\u81f3\u6570 Apocdata MCP Server \u2014 46 tools, AI-native A-share data (announcements, quotes, financ"
-  },
-  {
-   "server": "io.github.CloudCorpRecords/fedvendor",
-   "pkg": "@reneturcios/fedvendor",
+   "server": "io.github.CloudCorpRecords/elemindex",
+   "pkg": "@reneturcios/elemindex",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "SAM.gov public data via the official GSA APIs: entity registrations, exclusions, contract "
+   "cur": "Look up research-intensity trends, top papers and metrics for the 118 chemical elements an"
   },
   {
-   "server": "io.cruma/cruma",
-   "pkg": "cruma",
-   "prev": "Cruma tunnel agent",
-   "cur": "Share a local app on a public HTTPS address in one command: localhost tunnels, custom doma"
-  },
-  {
-   "server": "io.github.CloudCorpRecords/storedata",
-   "pkg": "@reneturcios/storedata",
+   "server": "com.ainovaq/mcp",
+   "pkg": "ainovaq",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Shopify storefront data as JSON from your agent: a local bridge to the hosted HasData Shop"
+   "cur": "Ainovaq SDK and command-line tool: services, blog search, contact details and MCP setup fo"
   },
   {
-   "server": "finance.orbt/intelligence",
-   "pkg": "@orbt-finance/mcp-server",
-   "prev": "MCP server wrapper for ORBT Financial Intelligence API",
-   "cur": "Advanced AI-powered MCP server for ORBT Financial Intelligence API with Gemini-powered nat"
+   "server": "io.github.MojoMo-io/mcp-server",
+   "pkg": "@mojomo/mcp-server",
+   "prev": "MCP server for MOJOMO: a marketplace where AI agents find complementary agents, form teams",
+   "cur": "MCP server for MOJOMO: a marketplace where AI agents find complementary agents, form teams"
   },
   {
-   "server": "com.nanocalcs/calculators",
-   "pkg": "nanocalcs-mcp",
-   "prev": "MCP server for nanocalcs.com: exact calculators (dates, business days, Schengen, time zone",
-   "cur": "MCP server for nanocalcs.com: exact calculators (dates, business days, Schengen, time zone"
-  },
-  {
-   "server": "com.dzgapp/mint",
-   "pkg": "@dzg-studio/mcp-server-mint",
-   "prev": "Mint for Mac's MCP server: 58 tools that keep disk and memory healthy for you and the AI a",
-   "cur": "Smart disk and memory for you and your agents: Mint's local MCP server, 58 tools for Claud"
-  },
-  {
-   "server": "ai.mroffice/office",
-   "pkg": "mroffice-mcp",
+   "server": "io.github.CloudCorpRecords/simscout",
+   "pkg": "@reneturcios/simscout",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MR Office's document, spreadsheet and PDF editors inside AI conversations: an MCP server w"
+   "cur": "Compare travel eSIM plans worldwide from your agent: a local bridge to the hosted esimoa M"
   },
   {
-   "server": "io.github.CloudCorpRecords/a11yscan",
-   "pkg": "@reneturcios/a11yscan",
+   "server": "io.github.CharlieJamesGwapo/ph-data-mcp-server",
+   "pkg": "ph-data-mcp-server",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Forwarding client for the LazyNext accessibility checker: WCAG 2.1/2.2 audits for URLs and"
+   "cur": "MCP server for Philippine scholarships, holidays, regions, schools, peso rates and weather"
+  },
+  {
+   "server": "com.donnyautomation/dex-data",
+   "pkg": "dex-data-mcp",
+   "prev": "DEX data, geocoding, weather, search, holidays, LEI, yield curve. 23 tools: 22 free-tier, ",
+   "cur": "DEX market data, SEC EDGAR change oracles, LEI and US Treasury yield curve as MCP tools. 1"
+  },
+  {
+   "server": "io.github.CloudCorpRecords/nycrentals",
+   "pkg": "@reneturcios/nycrentals",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "NYC real estate through the Borough MCP endpoint: search rentals and sales across all five"
+  },
+  {
+   "server": "io.github.PerryLink/dsh-customs",
+   "pkg": "dsh-customs-mcp",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "Read-only MCP server that checks a Chinese customs declaration ledger for internal inconsi"
+  },
+  {
+   "server": "io.github.CloudCorpRecords/limslens",
+   "pkg": "@reneturcios/limslens",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "A lens on the published Limslane dataset: search rows, look values up, compare them side b"
   }
  ]
 }

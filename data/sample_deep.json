@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-11-22T11:44:21Z",
- "universe_declared_github_repos": 14094,
- "universe_declared_npm_packages": 4963,
+ "generated_at": "2026-11-23T13:09:17Z",
+ "universe_declared_github_repos": 13854,
+ "universe_declared_npm_packages": 4784,
  "github_sample": {
   "n": 1200,
-  "dead": 193,
-  "dead_pct": 16.1,
+  "dead": 179,
+  "dead_pct": 14.9,
   "ci95": [
-   14.1,
-   18.3
+   13.0,
+   17.0
   ],
-  "archived": 7,
-  "no_license": 149,
-  "stale_365d": 13,
+  "archived": 13,
+  "no_license": 131,
+  "stale_365d": 12,
   "extrapolated_dead": [
-   1987,
-   2579
+   1801,
+   2355
   ]
  },
  "npm_sample": {
   "n": 800,
-  "resolved": 782,
-  "unresolved": 18,
-  "version_desync": 173,
-  "desync_pct": 21.6,
+  "resolved": 800,
+  "unresolved": 0,
+  "version_desync": 174,
+  "desync_pct": 21.8,
   "ci95": [
-   18.9,
-   24.6
+   19.0,
+   24.7
   ],
-  "description_drift": 186,
-  "drift_pct": 23.2,
-  "desc_mismatch_vs_registry": 702,
-  "mismatch_pct": 87.8,
+  "description_drift": 195,
+  "drift_pct": 24.4,
+  "desc_mismatch_vs_registry": 736,
+  "mismatch_pct": 92.0,
   "extrapolated_desync": [
-   938,
-   1221
+   909,
+   1182
   ]
  },
  "examples_dead_repo": [
-  "CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-nexus-witness-mcp",
-  "Nvoip/nvoip-mcp",
-  "DynamicEndpoints/m365-core-mcp",
-  "bwalvoord/gumball",
-  "AIBOLLINGMO/eustore",
-  "AIWerk/mcp-server-imap",
-  "Ansvar-Systems/indonesian-law-mcp",
+  "CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-recall-witness-mcp",
+  "Yu1586/cobbles",
+  "Masmedeam/learnthat",
+  "nitrosend/nitrosend",
+  "joeetdev/venture-estate",
+  "tedtrux/helpusagree",
+  "Klawdik/forex-mobile",
   "u00dxk2/agentic-news",
-  "PlaylistExchange/playlistexchange",
-  "6mickswagger9/x402-image-mcp",
-  "data-mindset/sts-google-forms-mcp",
-  "Michelangelo-Z/ai-design-blueprint",
-  "Alex-Dev-Web-C-DE/finance-validators-mcp",
-  "junter1989k-ai/digital-goods-mcp",
-  "Smartling/smartling-mcp-server"
+  "r2nrswkypf-cmyk/voyahomes",
+  "6mickswagger9/agent-sec-scan",
+  "eliu243/oura-mcp-server",
+  "redeal-dev/redeal",
+  "junter1989k-ai/czechia-payments-mcp",
+  "aboul3ata/lazyweb-public-mcp",
+  "FDSchaefer/bessPerformance"
  ],
  "examples_drift": [
   {
-   "server": "com.getscreenshotapi/mcp",
-   "pkg": "getscreenshot-mcp",
+   "server": "io.github.CloudCorpRecords/bizfile",
+   "pkg": "@reneturcios/bizfile",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server and CLI for the GetScreenshot API: capture web pages, render HTML, diff screens"
+   "cur": "A local stdio bridge to the hosted Jid MCP service: search for a business file, read it, v"
   },
   {
-   "server": "io.github.CloudCorpRecords/elemindex",
-   "pkg": "@reneturcios/elemindex",
+   "server": "io.github.CloudCorpRecords/branchname",
+   "pkg": "@reneturcios/branchname",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Look up research-intensity trends, top papers and metrics for the 118 chemical elements an"
+   "cur": "Build a branch name from an issue title: slugify the title and compose it with the type an"
   },
   {
-   "server": "com.ainovaq/mcp",
-   "pkg": "ainovaq",
+   "server": "io.github.Postlytllp/trials-drug-resolver",
+   "pkg": "trials-drug-resolver-mcp",
+   "prev": "MCP server that harmonises drug and clinical-trial identifiers from ClinicalTrials.gov, Ch",
+   "cur": "MCP server that harmonises drug and clinical-trial identifiers from ClinicalTrials.gov, Ch"
+  },
+  {
+   "server": "io.github.Noju-io/docmint",
+   "pkg": "docmint-mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Ainovaq SDK and command-line tool: services, blog search, contact details and MCP setup fo"
+   "cur": "Docmint PDF and image tools for Claude, Cursor and other MCP clients. Files are processed "
   },
   {
-   "server": "io.github.MojoMo-io/mcp-server",
-   "pkg": "@mojomo/mcp-server",
-   "prev": "MCP server for MOJOMO: a marketplace where AI agents find complementary agents, form teams",
-   "cur": "MCP server for MOJOMO: a marketplace where AI agents find complementary agents, form teams"
-  },
-  {
-   "server": "io.github.CloudCorpRecords/simscout",
-   "pkg": "@reneturcios/simscout",
+   "server": "io.github.CloudCorpRecords/repowiki",
+   "pkg": "@reneturcios/repowiki",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Compare travel eSIM plans worldwide from your agent: a local bridge to the hosted esimoa M"
+   "cur": "Read DeepWiki documentation for public GitHub repositories and ask questions about them, f"
   },
   {
-   "server": "io.github.CharlieJamesGwapo/ph-data-mcp-server",
-   "pkg": "ph-data-mcp-server",
+   "server": "io.github.Banjo-Ventures/lodestar-stamp",
+   "pkg": "lodestar-stamp-mcp",
+   "prev": "Dated, source-linked receipts before an agent recommends or books. Lodestar does not appro",
+   "cur": "Lodestar issues signed, dated business records. Reads are free."
+  },
+  {
+   "server": "io.github.CloudCorpRecords/pixelgrade",
+   "pkg": "@reneturcios/pixelgrade",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for Philippine scholarships, holidays, regions, schools, peso rates and weather"
+   "cur": "Check a page's Meta, TikTok and OpenAI ad pixels from your agent: a local bridge to the ho"
   },
   {
-   "server": "com.donnyautomation/dex-data",
-   "pkg": "dex-data-mcp",
-   "prev": "DEX data, geocoding, weather, search, holidays, LEI, yield curve. 23 tools: 22 free-tier, ",
-   "cur": "DEX market data, SEC EDGAR change oracles, LEI and US Treasury yield curve as MCP tools. 1"
+   "server": "ai.tensorfeed/x402-base-mcp",
+   "pkg": "@tensorfeed/x402-base-mcp",
+   "prev": "Read-only MCP server for x402 payment verification on Base mainnet. The x402 ecosystem's c",
+   "cur": "Read-only MCP server for verifying x402 USDC settlements on Base mainnet. The verify-side "
   },
   {
-   "server": "io.github.CloudCorpRecords/nycrentals",
-   "pkg": "@reneturcios/nycrentals",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "NYC real estate through the Borough MCP endpoint: search rentals and sales across all five"
+   "server": "io.github.Doublecheese1/agentsolis",
+   "pkg": "agentsolis-mcp",
+   "prev": "Prepare unsigned USDC escrow transactions and read deal status on Arbitrum One. Never hold",
+   "cur": "Wallet-free escrow sandbox, plus unsigned USDC deal prep on Arbitrum One. Never holds keys"
   },
   {
-   "server": "io.github.PerryLink/dsh-customs",
-   "pkg": "dsh-customs-mcp",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Read-only MCP server that checks a Chinese customs declaration ledger for internal inconsi"
-  },
-  {
-   "server": "io.github.CloudCorpRecords/limslens",
-   "pkg": "@reneturcios/limslens",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "A lens on the published Limslane dataset: search rows, look values up, compare them side b"
+   "server": "com.ai-rook.agents/trading-mcp",
+   "pkg": "ai-rook-trading-mcp",
+   "prev": "AI Rook MCP server \u2014 22 pay-per-call APIs (trading intelligence, web utilities, AI inferen",
+   "cur": "AI Rook MCP server \u2014 72 x402 endpoints (56 paid, 16 free): trading intelligence, local 456"
   }
  ]
 }

@@ -1,41 +1,35 @@
 {
- "generated_at": "2026-11-23T13:09:22Z",
- "universe_declared_pypi": 1834,
+ "generated_at": "2026-11-24T14:01:40Z",
+ "universe_declared_pypi": 1790,
  "sample": {
   "n_sampled": 500,
   "resolved": 500,
   "unresolved": 0,
-  "version_desync": 70,
-  "desync_pct": 14.0,
+  "version_desync": 79,
+  "desync_pct": 15.8,
   "ci95": [
-   11.2,
-   17.3
+   12.9,
+   19.3
   ],
   "extrapolated_desync": [
-   205,
-   317
+   231,
+   345
   ],
-  "description_drift": 31,
-  "drift_pct": 6.2
+  "description_drift": 23,
+  "drift_pct": 4.6
  },
  "examples_drift": [
   {
-   "server": "com.mcparmory/google-drive",
-   "pkg": "mcparmory-google-drive",
-   "prev": "MCP server for Google Drive",
-   "cur": "Manage files, folders, permissions, and collaborative content in Google Drive"
+   "server": "io.github.Eno654/oxyo-mcp",
+   "pkg": "oxyo-mcp",
+   "prev": "Get $200-tier coding capacity for $100 + $49 Oxyo Pro ($39/mo annual, oxyo.si) \u2014 cut Claud",
+   "cur": "Continuously cut Claude Code, Codex, Cursor & VS Code token and quota burn by 60-72% via p"
   },
   {
-   "server": "com.cgajs/cgajs-mcp",
-   "pkg": "cgajs-mcp",
-   "prev": "CGA.js Cloud MCP server: compile CGA rules to 3D models (GLB) for MCP clients (kimi code, ",
-   "cur": "MCP server for cgajs.com"
-  },
-  {
-   "server": "io.github.Buggy1111/wrapper-mcp",
-   "pkg": "wrapper-mcp",
-   "prev": "MCP server wrapping LINDAT NLP tools \u2014 production-grade anonymization, multilingual NER (3",
-   "cur": "DEPRECATED \u2014 renamed to anonymize-mcp. Run: pip install anonymize-mcp"
+   "server": "io.github.Michael-WhiteCapData/WhiteCapData-Dev",
+   "pkg": "whitecapdata-dev",
+   "prev": "WhiteCapData-Dev \u2014 an MCP server to operate a k3s / Kubernetes cluster (health, logs, and ",
+   "cur": "WhiteCapData-Dev \u00e2\u20ac\u201d an MCP server to operate a k3s / Kubernetes cluster (health, logs, an"
   },
   {
    "server": "io.arcaeon/adapter",
@@ -44,22 +38,10 @@
    "cur": "Compatibility shim: arcaeon-adapter is now part of arcaeon (arcaeon.record.adapter). Insta"
   },
   {
-   "server": "io.github.5uper0/parley",
-   "pkg": "parley-consensus",
-   "prev": "Consensus among personal AI agents that faithfully represent owners with conflicting priva",
-   "cur": "Consensus among personal AI agents that faithfully represent owners with conflicting priva"
-  },
-  {
-   "server": "io.github.JoaoBerne/cli-bridge-mcp",
-   "pkg": "cli-bridge-mcp",
-   "prev": "Consult a council of AI CLIs (Gemini, GPT, Claude, Mistral, Qwen, Copilot, OpenCode\u2026) from",
-   "cur": "Expose the other AI CLIs installed on your machine (Gemini, Codex, Claude Code, Mistral, o"
-  },
-  {
-   "server": "com.scento/perfume-api",
-   "pkg": "scento-perfume-api",
-   "prev": "Scento Perfume API: a free perfume and fragrance API and MCP server over Scento's verified",
-   "cur": "Free perfume API and perfume MCP server: 1,500+ perfumes, 160+ houses, 400+ raw materials "
+   "server": "com.cgajs/cgajs-mcp",
+   "pkg": "cgajs-mcp",
+   "prev": "CGA.js Cloud MCP server: compile CGA rules to 3D models (GLB) for MCP clients (kimi code, ",
+   "cur": "MCP server for cgajs.com"
   },
   {
    "server": "ai.sovantica/engrava",
@@ -68,16 +50,34 @@
    "cur": "Model Context Protocol server for Engrava - expose an agent memory database to any MCP cli"
   },
   {
-   "server": "dev.cotlet/milanote",
-   "pkg": "milanote-api-mcp",
-   "prev": "Self-hosted Milanote API and MCP server on your own Chrome session. Noncommercial use (Pol",
-   "cur": "Self-hosted Milanote API and MCP server on your own Chrome session. Use Milanote from Clau"
+   "server": "gg.batru/batru-mcp",
+   "pkg": "batru-mcp",
+   "prev": "Read-only MCP server over batru.gg's live, calibrated Dota 2 / Deadlock win-rate predictio",
+   "cur": "Read-only MCP server over batru.gg's live, calibrated Dota 2 / Deadlock / Marvel Rivals wi"
   },
   {
-   "server": "dev.cotlet/booksy",
-   "pkg": "booksy-api-mcp",
-   "prev": "Self-hosted Skool API and MCP server on your own Chrome session. Noncommercial use (PolyFo",
-   "cur": "Self-hosted Booksy API and MCP server on your own Chrome session. Use Booksy from Claude, "
+   "server": "io.github.AlienatedAliens/epistemic-guard",
+   "pkg": "epistemic-guard",
+   "prev": "Signed tool receipts, out-of-process MCP receipt proxy, Ed25519 memory write-gating, and R",
+   "cur": "Signed tool receipts, stdio & Streamable HTTP MCP proxies, Ed25519 memory write-gating, an"
+  },
+  {
+   "server": "io.github.Benjamin-V-Chan/onet-match",
+   "pkg": "onet-match",
+   "prev": "Map free text (job titles, resume lines, projects, interests, skills) to O*NET occupations",
+   "cur": "Occupation classifier: free text to ranked O*NET-SOC codes with tasks, skills and RIASEC. "
+  },
+  {
+   "server": "ai.lbrain/lbrain",
+   "pkg": "lbrain-coding-agents",
+   "prev": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start.",
+   "cur": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start."
+  },
+  {
+   "server": "io.github.Bortlesboat/bitcoin-mcp",
+   "pkg": "bitcoin-mcp",
+   "prev": "MCP server for Bitcoin \u2014 49 tools for AI agents to save money on fees. Zero config, works ",
+   "cur": "MCP server for Bitcoin \u2014 50 tools for AI agents using Bitcoin Core or a compatible API."
   }
  ]
 }

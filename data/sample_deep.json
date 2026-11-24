@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-23T13:09:17Z",
- "universe_declared_github_repos": 13854,
- "universe_declared_npm_packages": 4784,
+ "generated_at": "2026-11-24T14:01:30Z",
+ "universe_declared_github_repos": 13789,
+ "universe_declared_npm_packages": 4713,
  "github_sample": {
   "n": 1200,
   "dead": 179,
@@ -10,92 +10,86 @@
    13.0,
    17.0
   ],
-  "archived": 13,
-  "no_license": 131,
-  "stale_365d": 12,
+  "archived": 16,
+  "no_license": 139,
+  "stale_365d": 9,
   "extrapolated_dead": [
-   1801,
-   2355
+   1793,
+   2344
   ]
  },
  "npm_sample": {
   "n": 800,
   "resolved": 800,
   "unresolved": 0,
-  "version_desync": 174,
-  "desync_pct": 21.8,
+  "version_desync": 191,
+  "desync_pct": 23.9,
   "ci95": [
-   19.0,
-   24.7
+   21.1,
+   26.9
   ],
-  "description_drift": 195,
-  "drift_pct": 24.4,
-  "desc_mismatch_vs_registry": 736,
-  "mismatch_pct": 92.0,
+  "description_drift": 197,
+  "drift_pct": 24.6,
+  "desc_mismatch_vs_registry": 735,
+  "mismatch_pct": 91.9,
   "extrapolated_desync": [
-   909,
-   1182
+   994,
+   1268
   ]
  },
  "examples_dead_repo": [
-  "CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-recall-witness-mcp",
+  "chaosmibu-blip/OctoDock",
+  "campbel/dead-drop",
   "Yu1586/cobbles",
-  "Masmedeam/learnthat",
-  "nitrosend/nitrosend",
+  "JojoYay/splitbill-mcp",
+  "lmno100/onramperx",
+  "people-analyst/engineerpro-site",
   "joeetdev/venture-estate",
-  "tedtrux/helpusagree",
-  "Klawdik/forex-mobile",
+  "clpi/clp-mcp",
+  "Ansvar-Systems/uk-farm-grants-mcp",
+  "7grounds/universal_vault",
   "u00dxk2/agentic-news",
-  "r2nrswkypf-cmyk/voyahomes",
-  "6mickswagger9/agent-sec-scan",
-  "eliu243/oura-mcp-server",
-  "redeal-dev/redeal",
-  "junter1989k-ai/czechia-payments-mcp",
-  "aboul3ata/lazyweb-public-mcp",
-  "FDSchaefer/bessPerformance"
+  "NOTTIBOY137/mcp-update-hijack-demo",
+  "CSOAI-ORG/meek-antenna-triangle-mcp",
+  "junter1989k-ai/uk-payments-mcp",
+  "Rogues-Lab/film-fun-splice"
  ],
  "examples_drift": [
   {
-   "server": "io.github.CloudCorpRecords/bizfile",
-   "pkg": "@reneturcios/bizfile",
+   "server": "com.cituna/cituna-mcp",
+   "pkg": "cituna-mcp",
+   "prev": "MCP server for Cituna: daily AI-visibility tracking (per-engine citations, positions, and ",
+   "cur": "AI visibility MCP server: track how ChatGPT, Perplexity, Gemini, Claude, Grok, Google AI O"
+  },
+  {
+   "server": "io.github.Helios-One-Oy/odoo-mcp",
+   "pkg": "@heliosone/odoo-mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "A local stdio bridge to the hosted Jid MCP service: search for a business file, read it, v"
+   "cur": "MCP server for Odoo: sales and purchase orders, late lines, supplier promise dates, manufa"
   },
   {
-   "server": "io.github.CloudCorpRecords/branchname",
-   "pkg": "@reneturcios/branchname",
+   "server": "io.github.CloudCorpRecords/qrpaint",
+   "pkg": "@reneturcios/qrpaint",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Build a branch name from an issue title: slugify the title and compose it with the type an"
+   "cur": "Art QR codes via the hosted QRX service: generate, vary, list and retarget scannable pictu"
   },
   {
-   "server": "io.github.Postlytllp/trials-drug-resolver",
-   "pkg": "trials-drug-resolver-mcp",
-   "prev": "MCP server that harmonises drug and clinical-trial identifiers from ClinicalTrials.gov, Ch",
-   "cur": "MCP server that harmonises drug and clinical-trial identifiers from ClinicalTrials.gov, Ch"
+   "server": "com.renzojohnson/google-forms-mcp",
+   "pkg": "@renzo.johnson/google-forms-mcp",
+   "prev": "Google Forms MCP server for Claude Code, Cursor, Copilot and five more AI agents.",
+   "cur": "Google Forms MCP server for Claude Code, Cursor, Copilot and five more AI agents. mcprush."
   },
   {
-   "server": "io.github.Noju-io/docmint",
-   "pkg": "docmint-mcp",
+   "server": "io.github.CloudCorpRecords/pagesnap",
+   "pkg": "@reneturcios/pagesnap",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Docmint PDF and image tools for Claude, Cursor and other MCP clients. Files are processed "
+   "cur": "Screenshot any public web page from an AI agent: a local bridge to the hosted snap MCP ser"
   },
   {
-   "server": "io.github.CloudCorpRecords/repowiki",
-   "pkg": "@reneturcios/repowiki",
+   "server": "com.srigenmedia/bharat-statute",
+   "pkg": "@srigenmedia/bharat-statute-mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Read DeepWiki documentation for public GitHub repositories and ask questions about them, f"
-  },
-  {
-   "server": "io.github.Banjo-Ventures/lodestar-stamp",
-   "pkg": "lodestar-stamp-mcp",
-   "prev": "Dated, source-linked receipts before an agent recommends or books. Lodestar does not appro",
-   "cur": "Lodestar issues signed, dated business records. Reads are free."
-  },
-  {
-   "server": "io.github.CloudCorpRecords/pixelgrade",
-   "pkg": "@reneturcios/pixelgrade",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Check a page's Meta, TikTok and OpenAI ad pixels from your agent: a local bridge to the ho"
+   "cur": "Thin MIT stdio-to-Streamable-HTTP MCP bridge for BharatStatute (statute.srigenmedia.com)."
   },
   {
    "server": "ai.tensorfeed/x402-base-mcp",
@@ -104,16 +98,22 @@
    "cur": "Read-only MCP server for verifying x402 USDC settlements on Base mainnet. The verify-side "
   },
   {
-   "server": "io.github.Doublecheese1/agentsolis",
-   "pkg": "agentsolis-mcp",
-   "prev": "Prepare unsigned USDC escrow transactions and read deal status on Arbitrum One. Never hold",
-   "cur": "Wallet-free escrow sandbox, plus unsigned USDC deal prep on Arbitrum One. Never holds keys"
+   "server": "io.github.CloudCorpRecords/taskboard-port",
+   "pkg": "@reneturcios/taskboard-port",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "Work with Asana workspaces, projects and tasks from an MCP client: list and search tasks, "
   },
   {
-   "server": "com.ai-rook.agents/trading-mcp",
-   "pkg": "ai-rook-trading-mcp",
-   "prev": "AI Rook MCP server \u2014 22 pay-per-call APIs (trading intelligence, web utilities, AI inferen",
-   "cur": "AI Rook MCP server \u2014 72 x402 endpoints (56 paid, 16 free): trading intelligence, local 456"
+   "server": "dev.mailprobe/mailprobe",
+   "pkg": "mailprobe-mcp",
+   "prev": "Official MCP server of the MailProbe API: an AI assistant verifies email addresses in real",
+   "cur": "Official MCP server of the MailProbe API: an AI assistant verifies email addresses in real"
+  },
+  {
+   "server": "io.github.CloudCorpRecords/filingclock",
+   "pkg": "@reneturcios/filingclock",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "US filing-deadline radar, forwarded from the hosted Compliance Radar service: recurring sm"
   }
  ]
 }

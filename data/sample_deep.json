@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-11-24T14:01:30Z",
- "universe_declared_github_repos": 13789,
- "universe_declared_npm_packages": 4713,
+ "generated_at": "2026-11-25T13:16:10Z",
+ "universe_declared_github_repos": 13695,
+ "universe_declared_npm_packages": 4634,
  "github_sample": {
   "n": 1200,
-  "dead": 179,
-  "dead_pct": 14.9,
+  "dead": 184,
+  "dead_pct": 15.3,
   "ci95": [
-   13.0,
-   17.0
+   13.4,
+   17.5
   ],
-  "archived": 16,
-  "no_license": 139,
-  "stale_365d": 9,
+  "archived": 6,
+  "no_license": 138,
+  "stale_365d": 20,
   "extrapolated_dead": [
-   1793,
-   2344
+   1835,
+   2397
   ]
  },
  "npm_sample": {
   "n": 800,
   "resolved": 800,
   "unresolved": 0,
-  "version_desync": 191,
-  "desync_pct": 23.9,
+  "version_desync": 169,
+  "desync_pct": 21.1,
   "ci95": [
-   21.1,
-   26.9
+   18.4,
+   24.1
   ],
-  "description_drift": 197,
-  "drift_pct": 24.6,
-  "desc_mismatch_vs_registry": 735,
-  "mismatch_pct": 91.9,
+  "description_drift": 203,
+  "drift_pct": 25.4,
+  "desc_mismatch_vs_registry": 733,
+  "mismatch_pct": 91.6,
   "extrapolated_desync": [
-   994,
-   1268
+   853,
+   1117
   ]
  },
  "examples_dead_repo": [
-  "chaosmibu-blip/OctoDock",
-  "campbel/dead-drop",
-  "Yu1586/cobbles",
-  "JojoYay/splitbill-mcp",
-  "lmno100/onramperx",
-  "people-analyst/engineerpro-site",
+  "Degergokalp/otto-data",
+  "CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-holdfast-mcp",
+  "harrybuild/modevc-mcp",
+  "topness/callwright",
   "joeetdev/venture-estate",
-  "clpi/clp-mcp",
-  "Ansvar-Systems/uk-farm-grants-mcp",
-  "7grounds/universal_vault",
-  "u00dxk2/agentic-news",
-  "NOTTIBOY137/mcp-update-hijack-demo",
-  "CSOAI-ORG/meek-antenna-triangle-mcp",
-  "junter1989k-ai/uk-payments-mcp",
-  "Rogues-Lab/film-fun-splice"
+  "sarabalawson/website",
+  "Bellator-Schedule-Intelligence/bellator-si-api",
+  "archoor/reddit-insight",
+  "Bigred97/asic-mcp",
+  "BeyondFolder/beyondfolder-landing-page",
+  "junter1989k-ai/serbia-invoice-mcp",
+  "pefman/nordicmcp.eu",
+  "junter1989k-ai/uganda-payments-mcp",
+  "joeetdev/venture-estate",
+  "MPV-LLC/TTM"
  ],
  "examples_drift": [
   {
-   "server": "com.cituna/cituna-mcp",
-   "pkg": "cituna-mcp",
-   "prev": "MCP server for Cituna: daily AI-visibility tracking (per-engine citations, positions, and ",
-   "cur": "AI visibility MCP server: track how ChatGPT, Perplexity, Gemini, Claude, Grok, Google AI O"
-  },
-  {
-   "server": "io.github.Helios-One-Oy/odoo-mcp",
-   "pkg": "@heliosone/odoo-mcp",
+   "server": "io.github.CloudCorpRecords/plantmenu",
+   "pkg": "@reneturcios/plantmenu",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for Odoo: sales and purchase orders, late lines, supplier promise dates, manufa"
+   "cur": "A local stdio bridge to the hosted KaleMap MCP service: find vegan-friendly restaurants, i"
   },
   {
-   "server": "io.github.CloudCorpRecords/qrpaint",
-   "pkg": "@reneturcios/qrpaint",
+   "server": "io.github.CloudCorpRecords/modelcost",
+   "pkg": "@reneturcios/modelcost",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Art QR codes via the hosted QRX service: generate, vary, list and retarget scannable pictu"
+   "cur": "LLM API price intelligence, forwarded from the hosted AI API Radar service: cheapest-model"
   },
   {
-   "server": "com.renzojohnson/google-forms-mcp",
-   "pkg": "@renzo.johnson/google-forms-mcp",
-   "prev": "Google Forms MCP server for Claude Code, Cursor, Copilot and five more AI agents.",
-   "cur": "Google Forms MCP server for Claude Code, Cursor, Copilot and five more AI agents. mcprush."
-  },
-  {
-   "server": "io.github.CloudCorpRecords/pagesnap",
-   "pkg": "@reneturcios/pagesnap",
+   "server": "io.github.CloudCorpRecords/spinspots",
+   "pkg": "@reneturcios/spinspots",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Screenshot any public web page from an AI agent: a local bridge to the hosted snap MCP ser"
+   "cur": "Outdoor table-tennis spots near a coordinate, one spot's details with nearby spots, and cu"
   },
   {
-   "server": "com.srigenmedia/bharat-statute",
-   "pkg": "@srigenmedia/bharat-statute-mcp",
+   "server": "com.agentgruvi/gruvi",
+   "pkg": "@agent-gruvi/gruvi-mcp-server",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Thin MIT stdio-to-Streamable-HTTP MCP bridge for BharatStatute (statute.srigenmedia.com)."
+   "cur": "Content distribution for agents: uploads, custom thumbnails, social publishing, scheduling"
   },
   {
-   "server": "ai.tensorfeed/x402-base-mcp",
-   "pkg": "@tensorfeed/x402-base-mcp",
-   "prev": "Read-only MCP server for x402 payment verification on Base mainnet. The x402 ecosystem's c",
-   "cur": "Read-only MCP server for verifying x402 USDC settlements on Base mainnet. The verify-side "
-  },
-  {
-   "server": "io.github.CloudCorpRecords/taskboard-port",
-   "pkg": "@reneturcios/taskboard-port",
+   "server": "io.github.CloudCorpRecords/envdoctor",
+   "pkg": "@reneturcios/envdoctor",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Work with Asana workspaces, projects and tasks from an MCP client: list and search tasks, "
+   "cur": "Local environment doctor for a repo: node version against engines, git present, package ma"
   },
   {
-   "server": "dev.mailprobe/mailprobe",
-   "pkg": "mailprobe-mcp",
-   "prev": "Official MCP server of the MailProbe API: an AI assistant verifies email addresses in real",
-   "cur": "Official MCP server of the MailProbe API: an AI assistant verifies email addresses in real"
+   "server": "io.github.Invarato/jarroba-tools",
+   "pkg": "@jarroba/mcp",
+   "prev": "MCP server (stdio, local) exposing 149 deterministic tools from Jarroba Tools, reusing the",
+   "cur": "MCP server (stdio, local) exposing 163 deterministic tools from Jarroba Tools, reusing the"
   },
   {
-   "server": "io.github.CloudCorpRecords/filingclock",
-   "pkg": "@reneturcios/filingclock",
+   "server": "io.github.CloudCorpRecords/labelproof",
+   "pkg": "@reneturcios/labelproof",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "US filing-deadline radar, forwarded from the hosted Compliance Radar service: recurring sm"
+   "cur": "Read-only EU energy-label preflight checks against supplier-declared EPREL records: a loca"
+  },
+  {
+   "server": "io.github.CloudCorpRecords/actionbridge",
+   "pkg": "@reneturcios/actionbridge",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "Run Zapier exposed actions: list, search and describe the exposed actions on an account, v"
+  },
+  {
+   "server": "io.github.CloudCorpRecords/mailport",
+   "pkg": "@reneturcios/mailport",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "Work with Gmail: search and read messages and threads, manage labels and drafts, and send "
+  },
+  {
+   "server": "dev.pingpong/pingpong",
+   "pkg": "pingpong-mcp",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "Runs the installed pingpong CLI's MCP server over stdio, and says how to install pingpong "
   }
  ]
 }

@@ -1,53 +1,41 @@
 {
- "generated_at": "2026-11-24T14:01:40Z",
- "universe_declared_pypi": 1790,
+ "generated_at": "2026-11-25T13:16:20Z",
+ "universe_declared_pypi": 1769,
  "sample": {
   "n_sampled": 500,
   "resolved": 500,
   "unresolved": 0,
-  "version_desync": 79,
-  "desync_pct": 15.8,
+  "version_desync": 81,
+  "desync_pct": 16.2,
   "ci95": [
-   12.9,
-   19.3
+   13.2,
+   19.7
   ],
   "extrapolated_desync": [
-   231,
-   345
+   234,
+   348
   ],
-  "description_drift": 23,
-  "drift_pct": 4.6
+  "description_drift": 29,
+  "drift_pct": 5.8
  },
  "examples_drift": [
   {
-   "server": "io.github.Eno654/oxyo-mcp",
-   "pkg": "oxyo-mcp",
-   "prev": "Get $200-tier coding capacity for $100 + $49 Oxyo Pro ($39/mo annual, oxyo.si) \u2014 cut Claud",
-   "cur": "Continuously cut Claude Code, Codex, Cursor & VS Code token and quota burn by 60-72% via p"
+   "server": "io.github.CSOAI-ORG/pdf-document-mcp",
+   "pkg": "pdf-document-mcp",
+   "prev": "AI-powered pdf document MCP server for agents. Supports extract text from pdf, convert pdf",
+   "cur": "Pdf Document Mcp: extract text from pdf (Extract text content from a PDF file. Optionally "
   },
   {
-   "server": "io.github.Michael-WhiteCapData/WhiteCapData-Dev",
-   "pkg": "whitecapdata-dev",
-   "prev": "WhiteCapData-Dev \u2014 an MCP server to operate a k3s / Kubernetes cluster (health, logs, and ",
-   "cur": "WhiteCapData-Dev \u00e2\u20ac\u201d an MCP server to operate a k3s / Kubernetes cluster (health, logs, an"
+   "server": "io.github.MICONNM/openclaw-consensus-mcp",
+   "pkg": "openclaw-consensus-mcp",
+   "prev": "MCP server for OpenClaw Consensus \u2014 9-LLM consensus to fight hallucinations. Built by yanm",
+   "cur": "MCP server for OpenClaw Consensus ??9-LLM consensus to fight hallucinations. Built by yanm"
   },
   {
-   "server": "io.arcaeon/adapter",
-   "pkg": "arcaeon-adapter",
-   "prev": "Compatibility shim: arcaeon-adapter is now part of arcaeon (arcaeon.record.adapter). Insta",
-   "cur": "Compatibility shim: arcaeon-adapter is now part of arcaeon (arcaeon.record.adapter). Insta"
-  },
-  {
-   "server": "com.cgajs/cgajs-mcp",
-   "pkg": "cgajs-mcp",
-   "prev": "CGA.js Cloud MCP server: compile CGA rules to 3D models (GLB) for MCP clients (kimi code, ",
-   "cur": "MCP server for cgajs.com"
-  },
-  {
-   "server": "ai.sovantica/engrava",
-   "pkg": "engrava-mcp",
-   "prev": "Model Context Protocol server for Engrava \u2014 expose an agent memory database to any MCP cli",
-   "cur": "Model Context Protocol server for Engrava - expose an agent memory database to any MCP cli"
+   "server": "dev.cotlet/peopleperhour",
+   "pkg": "peopleperhour-api-mcp",
+   "prev": "Self-hosted PeoplePerHour API and MCP server on your own Chrome session. Noncommercial use",
+   "cur": "Self-hosted PeoplePerHour API and MCP server on your own Chrome session. Use PeoplePerHour"
   },
   {
    "server": "gg.batru/batru-mcp",
@@ -56,28 +44,40 @@
    "cur": "Read-only MCP server over batru.gg's live, calibrated Dota 2 / Deadlock / Marvel Rivals wi"
   },
   {
-   "server": "io.github.AlienatedAliens/epistemic-guard",
-   "pkg": "epistemic-guard",
-   "prev": "Signed tool receipts, out-of-process MCP receipt proxy, Ed25519 memory write-gating, and R",
-   "cur": "Signed tool receipts, stdio & Streamable HTTP MCP proxies, Ed25519 memory write-gating, an"
+   "server": "io.github.MilnaOS/kilonova-mcp",
+   "pkg": "kilonova-mcp",
+   "prev": "Persistent knowledge base MCP server for Claude Code \u2014 remember everything across sessions",
+   "cur": "Local-first persistent memory and structured Knowledge Base MCP server & Antigravity plugi"
   },
   {
-   "server": "io.github.Benjamin-V-Chan/onet-match",
-   "pkg": "onet-match",
-   "prev": "Map free text (job titles, resume lines, projects, interests, skills) to O*NET occupations",
-   "cur": "Occupation classifier: free text to ranked O*NET-SOC codes with tasks, skills and RIASEC. "
+   "server": "com.aiinfradecoded/mcp-anvil",
+   "pkg": "mcp-anvil",
+   "prev": "Scaffold, audit, and inspect Model Context Protocol (MCP) servers from the CLI.",
+   "cur": "Local MCP daemon with a dashboard, REST/WebSocket API, and 64 built-in tools \u2014 plus scaffo"
   },
   {
-   "server": "ai.lbrain/lbrain",
-   "pkg": "lbrain-coding-agents",
-   "prev": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start.",
-   "cur": "Install LBrain into coding agents: native MCP, companion skill, fail-closed session start."
+   "server": "com.coinrailz/mcp",
+   "pkg": "coinrailz-mcp",
+   "prev": "MCP server exposing 63 Coin Railz x402 micropayment services \u2014 crypto analytics, trading s",
+   "cur": "MCP server exposing 63 Coin Railz tools \u2014 crypto analytics, trading signals, NASA/ESA sate"
   },
   {
-   "server": "io.github.Bortlesboat/bitcoin-mcp",
-   "pkg": "bitcoin-mcp",
-   "prev": "MCP server for Bitcoin \u2014 49 tools for AI agents to save money on fees. Zero config, works ",
-   "cur": "MCP server for Bitcoin \u2014 50 tools for AI agents using Bitcoin Core or a compatible API."
+   "server": "io.github.DanceNitra/mnemo",
+   "pkg": "agora-mnemo",
+   "prev": "The self-correcting memory layer for AI agents: when a fact is corrected, mnemo serves the",
+   "cur": "DEPRECATED - renamed to `inspeximus`. This release forwards to it; install `inspeximus` in"
+  },
+  {
+   "server": "com.kashrock/kashrock-mcp",
+   "pkg": "kashrock-mcp",
+   "prev": "KashRock esports MCP \u2014 full tier-scoped API for agents. Google login, then build.",
+   "cur": "KashRock esports MCP: full tier-scoped API for agents. Google login, then build."
+  },
+  {
+   "server": "io.github.Eno654/oxyo-mcp",
+   "pkg": "oxyo-mcp",
+   "prev": "Get $200-tier coding capacity for $100 + $49 Oxyo Pro ($39/mo annual, oxyo.si) \u2014 cut Claud",
+   "cur": "Continuously cut Claude Code, Codex, Cursor & VS Code token and quota burn by 60-72% via p"
   }
  ]
 }

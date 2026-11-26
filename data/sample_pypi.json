@@ -1,83 +1,83 @@
 {
- "generated_at": "2026-11-25T13:16:20Z",
- "universe_declared_pypi": 1769,
+ "generated_at": "2026-11-26T12:57:03Z",
+ "universe_declared_pypi": 1754,
  "sample": {
   "n_sampled": 500,
   "resolved": 500,
   "unresolved": 0,
-  "version_desync": 81,
-  "desync_pct": 16.2,
+  "version_desync": 92,
+  "desync_pct": 18.4,
   "ci95": [
-   13.2,
-   19.7
+   15.2,
+   22.0
   ],
   "extrapolated_desync": [
-   234,
-   348
+   267,
+   386
   ],
-  "description_drift": 29,
-  "drift_pct": 5.8
+  "description_drift": 30,
+  "drift_pct": 6.0
  },
  "examples_drift": [
   {
-   "server": "io.github.CSOAI-ORG/pdf-document-mcp",
-   "pkg": "pdf-document-mcp",
-   "prev": "AI-powered pdf document MCP server for agents. Supports extract text from pdf, convert pdf",
-   "cur": "Pdf Document Mcp: extract text from pdf (Extract text content from a PDF file. Optionally "
+   "server": "io.github.CSOAI-ORG/quiz-generator-ai-mcp",
+   "pkg": "quiz-generator-ai-mcp",
+   "prev": "AI-powered quiz generator ai MCP server for agents. Supports generate quiz, validate answe",
+   "cur": "Quiz Generator Ai Mcp: generate quiz (Generate a quiz from provided content text.); valida"
   },
   {
-   "server": "io.github.MICONNM/openclaw-consensus-mcp",
-   "pkg": "openclaw-consensus-mcp",
-   "prev": "MCP server for OpenClaw Consensus \u2014 9-LLM consensus to fight hallucinations. Built by yanm",
-   "cur": "MCP server for OpenClaw Consensus ??9-LLM consensus to fight hallucinations. Built by yanm"
+   "server": "io.github.Lucky44k/dense-knowledge-mcp",
+   "pkg": "dense-knowledge-mcp",
+   "prev": "Local, append-only knowledge storage and retrieval for language models",
+   "cur": "Local-first MCP memory server for persistent LLM knowledge and BM25 retrieval"
   },
   {
-   "server": "dev.cotlet/peopleperhour",
-   "pkg": "peopleperhour-api-mcp",
-   "prev": "Self-hosted PeoplePerHour API and MCP server on your own Chrome session. Noncommercial use",
-   "cur": "Self-hosted PeoplePerHour API and MCP server on your own Chrome session. Use PeoplePerHour"
+   "server": "com.scento/perfume-api",
+   "pkg": "scento-perfume-api",
+   "prev": "Scento Perfume API: a free perfume and fragrance API and MCP server over Scento's verified",
+   "cur": "Free perfume API and perfume MCP server: 1,500+ perfumes, 160+ houses, 400+ raw materials "
   },
   {
-   "server": "gg.batru/batru-mcp",
-   "pkg": "batru-mcp",
-   "prev": "Read-only MCP server over batru.gg's live, calibrated Dota 2 / Deadlock win-rate predictio",
-   "cur": "Read-only MCP server over batru.gg's live, calibrated Dota 2 / Deadlock / Marvel Rivals wi"
+   "server": "io.github.CSOAI-ORG/dora-compliance-mcp",
+   "pkg": "dora-compliance-mcp",
+   "prev": "DORA (EU Digital Operational Resilience Act) compliance for AI agents. 5-pillar audit, inc",
+   "cur": "DORA measurement for AI agents. 5-pillar audit, incident classification, Article 28 Regist"
   },
   {
-   "server": "io.github.MilnaOS/kilonova-mcp",
-   "pkg": "kilonova-mcp",
-   "prev": "Persistent knowledge base MCP server for Claude Code \u2014 remember everything across sessions",
-   "cur": "Local-first persistent memory and structured Knowledge Base MCP server & Antigravity plugi"
+   "server": "com.undercurrentholdings/aegis",
+   "pkg": "aegis-governance",
+   "prev": "Quantitative AI governance \u2014 works immediately, no signup required. 10 free evaluations/da",
+   "cur": "AEGIS governance Python client, async client, and local MCP server. The hosted evaluation "
+  },
+  {
+   "server": "io.github.Buggy1111/wrapper-mcp",
+   "pkg": "wrapper-mcp",
+   "prev": "MCP server wrapping LINDAT NLP tools \u2014 production-grade anonymization, multilingual NER (3",
+   "cur": "DEPRECATED \u2014 renamed to anonymize-mcp. Run: pip install anonymize-mcp"
+  },
+  {
+   "server": "io.github.Jason26214/omni-computer-use",
+   "pkg": "omni-computer-use-mcp",
+   "prev": "Windows computer-use MCP for the Claude Code CLI \u2014 a 1:1 replica of Claude Desktop's compu",
+   "cur": "Windows computer-use MCP server: a 1:1 replica of Anthropic's computer-use tool surface, f"
+  },
+  {
+   "server": "io.github.CSOAI-ORG/self-healing-infrastructure-mcp",
+   "pkg": "self-healing-infrastructure-mcp",
+   "prev": "AI-powered self healing infrastructure MCP server for agents. Supports node health check, ",
+   "cur": "The only self-healing infrastructure MCP with cryptographic governance. Ed25519 sigil, BFT"
+  },
+  {
+   "server": "com.matlogica/aadc-mcp",
+   "pkg": "aadc-mcp",
+   "prev": "MatLogica AADC and the AADC Tracer from your coding agent: a local MCP server that checks ",
+   "cur": "MatLogica AADC from your coding agent: exact AAD derivatives and Greeks for Python pricers"
   },
   {
    "server": "com.aiinfradecoded/mcp-anvil",
    "pkg": "mcp-anvil",
    "prev": "Scaffold, audit, and inspect Model Context Protocol (MCP) servers from the CLI.",
    "cur": "Local MCP daemon with a dashboard, REST/WebSocket API, and 64 built-in tools \u2014 plus scaffo"
-  },
-  {
-   "server": "com.coinrailz/mcp",
-   "pkg": "coinrailz-mcp",
-   "prev": "MCP server exposing 63 Coin Railz x402 micropayment services \u2014 crypto analytics, trading s",
-   "cur": "MCP server exposing 63 Coin Railz tools \u2014 crypto analytics, trading signals, NASA/ESA sate"
-  },
-  {
-   "server": "io.github.DanceNitra/mnemo",
-   "pkg": "agora-mnemo",
-   "prev": "The self-correcting memory layer for AI agents: when a fact is corrected, mnemo serves the",
-   "cur": "DEPRECATED - renamed to `inspeximus`. This release forwards to it; install `inspeximus` in"
-  },
-  {
-   "server": "com.kashrock/kashrock-mcp",
-   "pkg": "kashrock-mcp",
-   "prev": "KashRock esports MCP \u2014 full tier-scoped API for agents. Google login, then build.",
-   "cur": "KashRock esports MCP: full tier-scoped API for agents. Google login, then build."
-  },
-  {
-   "server": "io.github.Eno654/oxyo-mcp",
-   "pkg": "oxyo-mcp",
-   "prev": "Get $200-tier coding capacity for $100 + $49 Oxyo Pro ($39/mo annual, oxyo.si) \u2014 cut Claud",
-   "cur": "Continuously cut Claude Code, Codex, Cursor & VS Code token and quota burn by 60-72% via p"
   }
  ]
 }

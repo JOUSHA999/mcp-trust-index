@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-11-25T13:16:10Z",
- "universe_declared_github_repos": 13695,
- "universe_declared_npm_packages": 4634,
+ "generated_at": "2026-11-26T12:56:52Z",
+ "universe_declared_github_repos": 13756,
+ "universe_declared_npm_packages": 4632,
  "github_sample": {
   "n": 1200,
-  "dead": 184,
-  "dead_pct": 15.3,
+  "dead": 192,
+  "dead_pct": 16.0,
   "ci95": [
-   13.4,
-   17.5
+   14.0,
+   18.2
   ],
-  "archived": 6,
-  "no_license": 138,
-  "stale_365d": 20,
+  "archived": 8,
+  "no_license": 124,
+  "stale_365d": 9,
   "extrapolated_dead": [
-   1835,
-   2397
+   1926,
+   2504
   ]
  },
  "npm_sample": {
   "n": 800,
   "resolved": 800,
   "unresolved": 0,
-  "version_desync": 169,
-  "desync_pct": 21.1,
+  "version_desync": 177,
+  "desync_pct": 22.1,
   "ci95": [
-   18.4,
-   24.1
+   19.4,
+   25.1
   ],
-  "description_drift": 203,
-  "drift_pct": 25.4,
-  "desc_mismatch_vs_registry": 733,
-  "mismatch_pct": 91.6,
+  "description_drift": 193,
+  "drift_pct": 24.1,
+  "desc_mismatch_vs_registry": 720,
+  "mismatch_pct": 90.0,
   "extrapolated_desync": [
-   853,
-   1117
+   899,
+   1163
   ]
  },
  "examples_dead_repo": [
-  "Degergokalp/otto-data",
-  "CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-holdfast-mcp",
-  "harrybuild/modevc-mcp",
-  "topness/callwright",
   "joeetdev/venture-estate",
-  "sarabalawson/website",
-  "Bellator-Schedule-Intelligence/bellator-si-api",
-  "archoor/reddit-insight",
-  "Bigred97/asic-mcp",
-  "BeyondFolder/beyondfolder-landing-page",
-  "junter1989k-ai/serbia-invoice-mcp",
-  "pefman/nordicmcp.eu",
-  "junter1989k-ai/uganda-payments-mcp",
-  "joeetdev/venture-estate",
-  "MPV-LLC/TTM"
+  "48x-ai/marketbasketanalysis",
+  "astarsupply-hub/forge",
+  "arjunkmrm/ScraperMcp_el",
+  "dwixom/rcs-agent-mvp",
+  "u00dxk2/agentic-news",
+  "people-analyst/bicycle-guide",
+  "3esign/ratchetx",
+  "arjunkmrm/time",
+  "Hiroshi-Ichiyanagi/kagami",
+  "Ghostkey316/vaultfire-mcp-server",
+  "junter1989k-ai/nigeria-invoice-mcp",
+  "msomu/massprint",
+  "FoundryNet/oss-intel-mcp",
+  "6mickswagger9/x402-escrow-mcp"
  ],
  "examples_drift": [
   {
-   "server": "io.github.CloudCorpRecords/plantmenu",
-   "pkg": "@reneturcios/plantmenu",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "A local stdio bridge to the hosted KaleMap MCP service: find vegan-friendly restaurants, i"
+   "server": "io.github.Fabio662/yieldagentx402",
+   "pkg": "agentx402-mcp-server",
+   "prev": "Policy-gated, receipt-backed x402 execution for AI agents \u2014 ShadeGuard before settlement, ",
+   "cur": "The execution layer for AI agent commerce. 100+ DeFi adapters across 20+ chains (BTC, EVM,"
   },
   {
-   "server": "io.github.CloudCorpRecords/modelcost",
-   "pkg": "@reneturcios/modelcost",
+   "server": "io.github.CloudCorpRecords/medprice",
+   "pkg": "@reneturcios/medprice",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "LLM API price intelligence, forwarded from the hosted AI API Radar service: cheapest-model"
+   "cur": "Local bridge to the FineRx prescription-price MCP server: compare what a medicine costs wi"
   },
   {
-   "server": "io.github.CloudCorpRecords/spinspots",
-   "pkg": "@reneturcios/spinspots",
+   "server": "io.github.CloudCorpRecords/launchledger",
+   "pkg": "@reneturcios/launchledger",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Outdoor table-tennis spots near a coordinate, one spot's details with nearby spots, and cu"
+   "cur": "Forwarding client for the Launchelion catalogue of launched AI tools: search the catalogue"
   },
   {
-   "server": "com.agentgruvi/gruvi",
-   "pkg": "@agent-gruvi/gruvi-mcp-server",
+   "server": "io.github.CloudCorpRecords/rerunplan",
+   "pkg": "@reneturcios/rerunplan",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Content distribution for agents: uploads, custom thumbnails, social publishing, scheduling"
+   "cur": "Rerun or fix? Classifies a failed check as infra flake, flaky, real failure, or insufficie"
   },
   {
-   "server": "io.github.CloudCorpRecords/envdoctor",
-   "pkg": "@reneturcios/envdoctor",
+   "server": "dev.hearthbyte/ensemble",
+   "pkg": "@hearthbyte/ensemble-mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Local environment doctor for a repo: node version against engines, git present, package ma"
+   "cur": "MCP server for Ensemble - AI-ready design toolkit. Generate color palettes, typography, sp"
   },
   {
-   "server": "io.github.Invarato/jarroba-tools",
-   "pkg": "@jarroba/mcp",
-   "prev": "MCP server (stdio, local) exposing 149 deterministic tools from Jarroba Tools, reusing the",
-   "cur": "MCP server (stdio, local) exposing 163 deterministic tools from Jarroba Tools, reusing the"
+   "server": "io.github.CloudCorpRecords/dmcguide",
+   "pkg": "@reneturcios/dmcguide",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "Forwarding client for the Kratons boutique destination-management catalogue: company facts"
   },
   {
-   "server": "io.github.CloudCorpRecords/labelproof",
-   "pkg": "@reneturcios/labelproof",
+   "server": "io.github.CloudCorpRecords/gridbase",
+   "pkg": "@reneturcios/gridbase",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Read-only EU energy-label preflight checks against supplier-declared EPREL records: a loca"
+   "cur": "Work with Airtable bases, tables, and records: inspect schemas, list, search, read, create"
   },
   {
-   "server": "io.github.CloudCorpRecords/actionbridge",
-   "pkg": "@reneturcios/actionbridge",
+   "server": "io.github.CloudCorpRecords/npmpreflight",
+   "pkg": "@reneturcios/npmpreflight",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Run Zapier exposed actions: list, search and describe the exposed actions on an account, v"
+   "cur": "Pre-publish npm package auditor: what npm pack would ship, total size, secret-pattern leak"
   },
   {
-   "server": "io.github.CloudCorpRecords/mailport",
-   "pkg": "@reneturcios/mailport",
+   "server": "io.github.CloudCorpRecords/jobfeed",
+   "pkg": "@reneturcios/jobfeed",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Work with Gmail: search and read messages and threads, manage labels and drafts, and send "
+   "cur": "Live job-board reads from your agent: a local bridge to the hosted Fairquery jobs MCP serv"
   },
   {
-   "server": "dev.pingpong/pingpong",
-   "pkg": "pingpong-mcp",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Runs the installed pingpong CLI's MCP server over stdio, and says how to install pingpong "
+   "server": "io.github.CsoftTarun/gstinapi-mcp",
+   "pkg": "gstinapi-mcp",
+   "prev": "MCP server for gstinapi.in \u2014 GSTIN verification, GST return/compliance history, HSN/SAC co",
+   "cur": "MCP server for gstinapi.in \u2014 GSTIN verification, GST return/compliance/filing-preference h"
   }
  ]
 }

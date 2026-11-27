@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-11-26T12:56:52Z",
- "universe_declared_github_repos": 13756,
- "universe_declared_npm_packages": 4632,
+ "generated_at": "2026-11-27T12:48:09Z",
+ "universe_declared_github_repos": 13928,
+ "universe_declared_npm_packages": 4663,
  "github_sample": {
   "n": 1200,
-  "dead": 192,
-  "dead_pct": 16.0,
+  "dead": 196,
+  "dead_pct": 16.3,
   "ci95": [
-   14.0,
-   18.2
+   14.3,
+   18.5
   ],
-  "archived": 8,
-  "no_license": 124,
-  "stale_365d": 9,
+  "archived": 10,
+  "no_license": 133,
+  "stale_365d": 14,
   "extrapolated_dead": [
-   1926,
-   2504
+   1992,
+   2577
   ]
  },
  "npm_sample": {
   "n": 800,
   "resolved": 800,
   "unresolved": 0,
-  "version_desync": 177,
-  "desync_pct": 22.1,
+  "version_desync": 173,
+  "desync_pct": 21.6,
   "ci95": [
-   19.4,
-   25.1
+   18.9,
+   24.6
   ],
-  "description_drift": 193,
-  "drift_pct": 24.1,
-  "desc_mismatch_vs_registry": 720,
-  "mismatch_pct": 90.0,
+  "description_drift": 206,
+  "drift_pct": 25.8,
+  "desc_mismatch_vs_registry": 737,
+  "mismatch_pct": 92.1,
   "extrapolated_desync": [
-   899,
-   1163
+   881,
+   1147
   ]
  },
  "examples_dead_repo": [
-  "joeetdev/venture-estate",
-  "48x-ai/marketbasketanalysis",
-  "astarsupply-hub/forge",
-  "arjunkmrm/ScraperMcp_el",
-  "dwixom/rcs-agent-mvp",
+  "bap-microsoft/MCP-Platform",
+  "Bidit-AU/bidit-registry",
+  "junter1989k-ai/taiwan-logistics-mcp",
+  "CyberMax-tools/product-factory",
+  "Wildcard-Official/deepcontext",
+  "bjothorl/ai-website-builder",
+  "api-search/apis-io-aws",
+  "Bigred97/aihw-mcp",
+  "canopy-identity/canopy",
+  "enesbala5/coverlttr",
   "u00dxk2/agentic-news",
+  "KNambiarDJsc/Meridian",
   "people-analyst/bicycle-guide",
-  "3esign/ratchetx",
-  "arjunkmrm/time",
-  "Hiroshi-Ichiyanagi/kagami",
-  "Ghostkey316/vaultfire-mcp-server",
-  "junter1989k-ai/nigeria-invoice-mcp",
-  "msomu/massprint",
-  "FoundryNet/oss-intel-mcp",
-  "6mickswagger9/x402-escrow-mcp"
+  "buildwithchirp/weather-monorepo",
+  "Aurelix-Solutions/aurelix-mcp"
  ],
  "examples_drift": [
   {
-   "server": "io.github.Fabio662/yieldagentx402",
-   "pkg": "agentx402-mcp-server",
-   "prev": "Policy-gated, receipt-backed x402 execution for AI agents \u2014 ShadeGuard before settlement, ",
-   "cur": "The execution layer for AI agent commerce. 100+ DeFi adapters across 20+ chains (BTC, EVM,"
+   "server": "ai.note1/mcp",
+   "pkg": "@note1ai/mcp",
+   "prev": "note1 MCP server connector \u2014 ask about your meetings, read speaker and question insights, ",
+   "cur": "note1 MCP server connector \u2014 upload recordings, ask about meetings, read insights, manage "
   },
   {
-   "server": "io.github.CloudCorpRecords/medprice",
-   "pkg": "@reneturcios/medprice",
+   "server": "com.decionis/mcp",
+   "pkg": "@decionis/mcp",
+   "prev": "Local MCP policy checks with Decionis policy packs and Presence human verification, plus n",
+   "cur": "Local Decionis execution checks and hooks, with opt-in delegated PolicyAgent authoring and"
+  },
+  {
+   "server": "io.github.CloudCorpRecords/linkguard",
+   "pkg": "@reneturcios/linkguard",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Local bridge to the FineRx prescription-price MCP server: compare what a medicine costs wi"
+   "cur": "Local stdio client for the hosted PreClick URL scanner: forwards synchronous and asynchron"
   },
   {
-   "server": "io.github.CloudCorpRecords/launchledger",
-   "pkg": "@reneturcios/launchledger",
+   "server": "io.github.CloudCorpRecords/importproof",
+   "pkg": "@reneturcios/importproof",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Forwarding client for the Launchelion catalogue of launched AI tools: search the catalogue"
+   "cur": "Read-only EU import preflight from your agent: a local forwarding client for the hosted EU"
   },
   {
-   "server": "io.github.CloudCorpRecords/rerunplan",
-   "pkg": "@reneturcios/rerunplan",
+   "server": "com.getscreenshotapi/mcp",
+   "pkg": "getscreenshot-mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Rerun or fix? Classifies a failed check as infra flake, flaky, real failure, or insufficie"
+   "cur": "MCP server and CLI for the GetScreenshot API: capture web pages, render HTML, diff screens"
   },
   {
-   "server": "dev.hearthbyte/ensemble",
-   "pkg": "@hearthbyte/ensemble-mcp",
+   "server": "io.github.CloudCorpRecords/publishorder",
+   "pkg": "@reneturcios/publishorder",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for Ensemble - AI-ready design toolkit. Generate color palettes, typography, sp"
+   "cur": "Monorepo publish order from the dependency graph: a deterministic topological order and de"
   },
   {
-   "server": "io.github.CloudCorpRecords/dmcguide",
-   "pkg": "@reneturcios/dmcguide",
+   "server": "io.github.6mickswagger9/x402-risk-mcp",
+   "pkg": "x402-risk-mcp",
+   "prev": "MCP server for x402 risk API: address risk, transaction risk, and full risk reports. Pay p",
+   "cur": "Transaction risk scoring MCP. Activate: npx x402-risk-mcp --x402 https://risk-api-producti"
+  },
+  {
+   "server": "io.github.CloudCorpRecords/datasetlas",
+   "pkg": "@reneturcios/datasetlas",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Forwarding client for the Kratons boutique destination-management catalogue: company facts"
+   "cur": "Forwarding client for the DoorsetBook dataset MCP server: search, compare, statistics and "
   },
   {
-   "server": "io.github.CloudCorpRecords/gridbase",
-   "pkg": "@reneturcios/gridbase",
+   "server": "com.makehybrid/mcp",
+   "pkg": "makehybrid-mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Work with Airtable bases, tables, and records: inspect schemas, list, search, read, create"
+   "cur": "MCP server for the MakeHybrid API: LinkedIn, the messaging channels and the work trackers,"
   },
   {
-   "server": "io.github.CloudCorpRecords/npmpreflight",
-   "pkg": "@reneturcios/npmpreflight",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Pre-publish npm package auditor: what npm pack would ship, total size, secret-pattern leak"
-  },
-  {
-   "server": "io.github.CloudCorpRecords/jobfeed",
-   "pkg": "@reneturcios/jobfeed",
-   "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Live job-board reads from your agent: a local bridge to the hosted Fairquery jobs MCP serv"
-  },
-  {
-   "server": "io.github.CsoftTarun/gstinapi-mcp",
-   "pkg": "gstinapi-mcp",
-   "prev": "MCP server for gstinapi.in \u2014 GSTIN verification, GST return/compliance history, HSN/SAC co",
-   "cur": "MCP server for gstinapi.in \u2014 GSTIN verification, GST return/compliance/filing-preference h"
+   "server": "com.offlinecreatorstudio/mcp",
+   "pkg": "@offlinecreator/mcp",
+   "prev": "OfflineCreator Studio MCP server for Cursor, Claude, Hermes, and other MCP clients",
+   "cur": "MCP server and CLI for OfflineCreator Studio: quote, generate and retrieve AI image, video"
   }
  ]
 }

@@ -1,41 +1,47 @@
 {
- "generated_at": "2026-11-26T12:57:03Z",
- "universe_declared_pypi": 1754,
+ "generated_at": "2026-11-27T12:48:17Z",
+ "universe_declared_pypi": 1765,
  "sample": {
   "n_sampled": 500,
   "resolved": 500,
   "unresolved": 0,
-  "version_desync": 92,
-  "desync_pct": 18.4,
+  "version_desync": 82,
+  "desync_pct": 16.4,
   "ci95": [
-   15.2,
-   22.0
+   13.4,
+   19.9
   ],
   "extrapolated_desync": [
-   267,
-   386
+   237,
+   351
   ],
   "description_drift": 30,
   "drift_pct": 6.0
  },
  "examples_drift": [
   {
-   "server": "io.github.CSOAI-ORG/quiz-generator-ai-mcp",
-   "pkg": "quiz-generator-ai-mcp",
-   "prev": "AI-powered quiz generator ai MCP server for agents. Supports generate quiz, validate answe",
-   "cur": "Quiz Generator Ai Mcp: generate quiz (Generate a quiz from provided content text.); valida"
+   "server": "io.github.AnnasMazhar/pyspark-mcp",
+   "pkg": "pyspark-tools",
+   "prev": "MCP server for SQL migration, AWS Glue job generation, and PySpark optimization",
+   "cur": "Not the live-Spark pyspark-mcp package \u2014 this is SQL\u2192PySpark/Glue codegen. MCP server for "
   },
   {
-   "server": "io.github.Lucky44k/dense-knowledge-mcp",
-   "pkg": "dense-knowledge-mcp",
-   "prev": "Local, append-only knowledge storage and retrieval for language models",
-   "cur": "Local-first MCP memory server for persistent LLM knowledge and BM25 retrieval"
+   "server": "dev.fly.veles-finance-gateway/veles-finance-mcp",
+   "pkg": "veles-finance-mcp",
+   "prev": "MCP server for Veles Finance Agent \u2014 AI-powered financial analysis via x402 micropayments ",
+   "cur": "Veles Finance Agent MCP server \u2014 institutional DD reports for Claude Desktop, Cursor, Wind"
   },
   {
-   "server": "com.scento/perfume-api",
-   "pkg": "scento-perfume-api",
-   "prev": "Scento Perfume API: a free perfume and fragrance API and MCP server over Scento's verified",
-   "cur": "Free perfume API and perfume MCP server: 1,500+ perfumes, 160+ houses, 400+ raw materials "
+   "server": "app.srift/srift",
+   "pkg": "srift",
+   "prev": "Send any file as a download link from the CLI, Python or an AI agent (MCP server). Encrypt",
+   "cur": "Decentralized, end-to-end encrypted P2P file transfer, chat and calls: human to human, hum"
+  },
+  {
+   "server": "io.github.BigJai/codemunch-pro",
+   "pkg": "codemunch-pro",
+   "prev": "Intelligent code indexing MCP server. Tree-sitter AST extraction, hybrid search (FTS5 + ve",
+   "cur": "DEPRECATED: renamed to tokennuke. Run: pip install tokennuke"
   },
   {
    "server": "io.github.CSOAI-ORG/dora-compliance-mcp",
@@ -44,40 +50,34 @@
    "cur": "DORA measurement for AI agents. 5-pillar audit, incident classification, Article 28 Regist"
   },
   {
-   "server": "com.undercurrentholdings/aegis",
-   "pkg": "aegis-governance",
-   "prev": "Quantitative AI governance \u2014 works immediately, no signup required. 10 free evaluations/da",
-   "cur": "AEGIS governance Python client, async client, and local MCP server. The hosted evaluation "
+   "server": "com.twelvetake/gimp-studio-mcp",
+   "pkg": "twelvetake-gimp-studio-mcp",
+   "prev": "A GIMP 3.x MCP server with structured returns, a compat layer, safety checkpoints, and pri",
+   "cur": "Model Context Protocol server that enables AI assistants to edit images in GIMP 3, with to"
   },
   {
-   "server": "io.github.Buggy1111/wrapper-mcp",
-   "pkg": "wrapper-mcp",
-   "prev": "MCP server wrapping LINDAT NLP tools \u2014 production-grade anonymization, multilingual NER (3",
-   "cur": "DEPRECATED \u2014 renamed to anonymize-mcp. Run: pip install anonymize-mcp"
+   "server": "io.github.GoogleCloudPlatform/cxidk",
+   "pkg": "cxidk",
+   "prev": "A high-level API for Google's CX Insights.",
+   "cur": "AI-native Python toolkit, MCP server, and ADK toolset for Google Cloud Conversational Insi"
   },
   {
-   "server": "io.github.Jason26214/omni-computer-use",
-   "pkg": "omni-computer-use-mcp",
-   "prev": "Windows computer-use MCP for the Claude Code CLI \u2014 a 1:1 replica of Claude Desktop's compu",
-   "cur": "Windows computer-use MCP server: a 1:1 replica of Anthropic's computer-use tool surface, f"
+   "server": "io.github.Bortlesboat/bitcoin-mcp",
+   "pkg": "bitcoin-mcp",
+   "prev": "MCP server for Bitcoin \u2014 49 tools for AI agents to save money on fees. Zero config, works ",
+   "cur": "MCP server for Bitcoin \u2014 50 tools for AI agents using Bitcoin Core or a compatible API."
   },
   {
-   "server": "io.github.CSOAI-ORG/self-healing-infrastructure-mcp",
-   "pkg": "self-healing-infrastructure-mcp",
-   "prev": "AI-powered self healing infrastructure MCP server for agents. Supports node health check, ",
-   "cur": "The only self-healing infrastructure MCP with cryptographic governance. Ed25519 sigil, BFT"
+   "server": "io.github.Leviathan0x0/chronicle-mcp",
+   "pkg": "chronicle-mcp-server",
+   "prev": "Local MCP server to sync, clean, and index AI chat logs locally. Saves up to 40% context t",
+   "cur": "Local, private AI chat history search & memory MCP server: BM25 search over Cursor, Claude"
   },
   {
-   "server": "com.matlogica/aadc-mcp",
-   "pkg": "aadc-mcp",
-   "prev": "MatLogica AADC and the AADC Tracer from your coding agent: a local MCP server that checks ",
-   "cur": "MatLogica AADC from your coding agent: exact AAD derivatives and Greeks for Python pricers"
-  },
-  {
-   "server": "com.aiinfradecoded/mcp-anvil",
-   "pkg": "mcp-anvil",
-   "prev": "Scaffold, audit, and inspect Model Context Protocol (MCP) servers from the CLI.",
-   "cur": "Local MCP daemon with a dashboard, REST/WebSocket API, and 64 built-in tools \u2014 plus scaffo"
+   "server": "io.github.Battam1111/omniseek",
+   "pkg": "omniseek",
+   "prev": "Your agent seeks what search can't find. A self-hosted perception MCP server that transcri",
+   "cur": "Give your AI agent the parts of the internet web search doesn't reach: podcasts and videos"
   }
  ]
 }

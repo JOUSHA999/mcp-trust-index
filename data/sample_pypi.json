@@ -1,35 +1,35 @@
 {
- "generated_at": "2026-11-27T12:48:17Z",
- "universe_declared_pypi": 1765,
+ "generated_at": "2026-11-28T12:07:46Z",
+ "universe_declared_pypi": 1773,
  "sample": {
   "n_sampled": 500,
   "resolved": 500,
   "unresolved": 0,
-  "version_desync": 82,
-  "desync_pct": 16.4,
+  "version_desync": 92,
+  "desync_pct": 18.4,
   "ci95": [
-   13.4,
-   19.9
+   15.2,
+   22.0
   ],
   "extrapolated_desync": [
-   237,
-   351
+   269,
+   390
   ],
   "description_drift": 30,
   "drift_pct": 6.0
  },
  "examples_drift": [
   {
+   "server": "io.github.Leviathan0x0/chronicle-mcp",
+   "pkg": "chronicle-mcp-server",
+   "prev": "Local MCP server to sync, clean, and index AI chat logs locally. Saves up to 40% context t",
+   "cur": "Local, private AI chat history search & memory MCP server: BM25 search over Cursor, Claude"
+  },
+  {
    "server": "io.github.AnnasMazhar/pyspark-mcp",
    "pkg": "pyspark-tools",
    "prev": "MCP server for SQL migration, AWS Glue job generation, and PySpark optimization",
    "cur": "Not the live-Spark pyspark-mcp package \u2014 this is SQL\u2192PySpark/Glue codegen. MCP server for "
-  },
-  {
-   "server": "dev.fly.veles-finance-gateway/veles-finance-mcp",
-   "pkg": "veles-finance-mcp",
-   "prev": "MCP server for Veles Finance Agent \u2014 AI-powered financial analysis via x402 micropayments ",
-   "cur": "Veles Finance Agent MCP server \u2014 institutional DD reports for Claude Desktop, Cursor, Wind"
   },
   {
    "server": "app.srift/srift",
@@ -38,46 +38,46 @@
    "cur": "Decentralized, end-to-end encrypted P2P file transfer, chat and calls: human to human, hum"
   },
   {
+   "server": "io.github.KitchenSink4AI/kitchensink4xl",
+   "pkg": "kitchensink4xl",
+   "prev": "Read and edit Excel (.xlsx) files with your AI assistant: formulas, tables, CSV and JSON, ",
+   "cur": "Read and edit Excel (.xlsx) files with your AI assistant: 131 actions, a backup before eve"
+  },
+  {
+   "server": "io.github.Massed-Compute/mcp",
+   "pkg": "massed-compute-mcp",
+   "prev": "MCP server for the Massed Compute API.",
+   "cur": "Stdio bridge to the hosted Massed Compute MCP endpoint \u2014 a verbatim JSON-RPC pass-through."
+  },
+  {
    "server": "io.github.BigJai/codemunch-pro",
    "pkg": "codemunch-pro",
    "prev": "Intelligent code indexing MCP server. Tree-sitter AST extraction, hybrid search (FTS5 + ve",
    "cur": "DEPRECATED: renamed to tokennuke. Run: pip install tokennuke"
   },
   {
-   "server": "io.github.CSOAI-ORG/dora-compliance-mcp",
-   "pkg": "dora-compliance-mcp",
-   "prev": "DORA (EU Digital Operational Resilience Act) compliance for AI agents. 5-pillar audit, inc",
-   "cur": "DORA measurement for AI agents. 5-pillar audit, incident classification, Article 28 Regist"
+   "server": "io.github.Hyperliquidguide/hyperliquid-guide",
+   "pkg": "hyperliquid-starter-bots",
+   "prev": "Starter trading bots for Hyperliquid plus a read-only MCP server for coding agents",
+   "cur": "Starter trading bots for Hyperliquid plus an MCP server for coding agents (read-only by de"
+  },
+  {
+   "server": "io.github.GabMJ23/nyambot-mcp",
+   "pkg": "nyambot-mcp",
+   "prev": "L'administration fran\u00e7aise pour vos agents IA \u2014 serveur MCP (communes, g\u00e9ocodage, risques ",
+   "cur": "La couche d'intelligence qui rend la donn\u00e9e publique fran\u00e7aise exploitable par vos agents "
+  },
+  {
+   "server": "io.github.FeraTerra/feraterra-sdk",
+   "pkg": "feraterra-sdk",
+   "prev": "FeraTerra / Arena Exchange official zero-dependency Python REST/WS, 64-byte HFT binary wir",
+   "cur": "FeraTerra / Arena Exchange official zero-dependency Python REST/WS, 64-byte HFT binary wir"
   },
   {
    "server": "com.twelvetake/gimp-studio-mcp",
    "pkg": "twelvetake-gimp-studio-mcp",
    "prev": "A GIMP 3.x MCP server with structured returns, a compat layer, safety checkpoints, and pri",
    "cur": "Model Context Protocol server that enables AI assistants to edit images in GIMP 3, with to"
-  },
-  {
-   "server": "io.github.GoogleCloudPlatform/cxidk",
-   "pkg": "cxidk",
-   "prev": "A high-level API for Google's CX Insights.",
-   "cur": "AI-native Python toolkit, MCP server, and ADK toolset for Google Cloud Conversational Insi"
-  },
-  {
-   "server": "io.github.Bortlesboat/bitcoin-mcp",
-   "pkg": "bitcoin-mcp",
-   "prev": "MCP server for Bitcoin \u2014 49 tools for AI agents to save money on fees. Zero config, works ",
-   "cur": "MCP server for Bitcoin \u2014 50 tools for AI agents using Bitcoin Core or a compatible API."
-  },
-  {
-   "server": "io.github.Leviathan0x0/chronicle-mcp",
-   "pkg": "chronicle-mcp-server",
-   "prev": "Local MCP server to sync, clean, and index AI chat logs locally. Saves up to 40% context t",
-   "cur": "Local, private AI chat history search & memory MCP server: BM25 search over Cursor, Claude"
-  },
-  {
-   "server": "io.github.Battam1111/omniseek",
-   "pkg": "omniseek",
-   "prev": "Your agent seeks what search can't find. A self-hosted perception MCP server that transcri",
-   "cur": "Give your AI agent the parts of the internet web search doesn't reach: podcasts and videos"
   }
  ]
 }

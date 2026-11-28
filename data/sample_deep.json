@@ -1,119 +1,119 @@
 {
- "generated_at": "2026-11-27T12:48:09Z",
- "universe_declared_github_repos": 13928,
- "universe_declared_npm_packages": 4663,
+ "generated_at": "2026-11-28T12:07:37Z",
+ "universe_declared_github_repos": 14099,
+ "universe_declared_npm_packages": 4710,
  "github_sample": {
   "n": 1200,
-  "dead": 196,
-  "dead_pct": 16.3,
+  "dead": 186,
+  "dead_pct": 15.5,
   "ci95": [
-   14.3,
-   18.5
+   13.6,
+   17.7
   ],
-  "archived": 10,
-  "no_license": 133,
-  "stale_365d": 14,
+  "archived": 13,
+  "no_license": 127,
+  "stale_365d": 13,
   "extrapolated_dead": [
-   1992,
-   2577
+   1917,
+   2496
   ]
  },
  "npm_sample": {
   "n": 800,
   "resolved": 800,
   "unresolved": 0,
-  "version_desync": 173,
-  "desync_pct": 21.6,
+  "version_desync": 166,
+  "desync_pct": 20.8,
   "ci95": [
-   18.9,
-   24.6
+   18.1,
+   23.7
   ],
-  "description_drift": 206,
-  "drift_pct": 25.8,
-  "desc_mismatch_vs_registry": 737,
-  "mismatch_pct": 92.1,
+  "description_drift": 209,
+  "drift_pct": 26.1,
+  "desc_mismatch_vs_registry": 731,
+  "mismatch_pct": 91.4,
   "extrapolated_desync": [
-   881,
-   1147
+   853,
+   1116
   ]
  },
  "examples_dead_repo": [
-  "bap-microsoft/MCP-Platform",
-  "Bidit-AU/bidit-registry",
-  "junter1989k-ai/taiwan-logistics-mcp",
-  "CyberMax-tools/product-factory",
-  "Wildcard-Official/deepcontext",
-  "bjothorl/ai-website-builder",
-  "api-search/apis-io-aws",
-  "Bigred97/aihw-mcp",
-  "canopy-identity/canopy",
-  "enesbala5/coverlttr",
-  "u00dxk2/agentic-news",
-  "KNambiarDJsc/Meridian",
+  "junter1989k-ai/poland-invoice-mcp",
+  "entity-zero/entity-mcp",
+  "david025445/ankusi-wheel-fitment-data",
+  "CGABrew7/rentalanalytics",
   "people-analyst/bicycle-guide",
-  "buildwithchirp/weather-monorepo",
-  "Aurelix-Solutions/aurelix-mcp"
+  "luogangan7-lgtm/HumauxMemory",
+  "AndrewVG23/nutrition_mcp",
+  "Ra-Pay-AI/rapay",
+  "FSHolmberg/gridually-mcp",
+  "u00dxk2/agentic-news",
+  "Alfred768/prediction-router-portal",
+  "DabbleLabs-UK/BrainMop",
+  "Ansvar-Systems/Cypriot-law-mcp",
+  "VibeMirror-coder/humanmirror",
+  "talltimbersgroup/VolunteerReminder"
  ],
  "examples_drift": [
   {
-   "server": "ai.note1/mcp",
-   "pkg": "@note1ai/mcp",
-   "prev": "note1 MCP server connector \u2014 ask about your meetings, read speaker and question insights, ",
-   "cur": "note1 MCP server connector \u2014 upload recordings, ask about meetings, read insights, manage "
+   "server": "cc.ipforai/ipforai",
+   "pkg": "ipforai-mcp",
+   "prev": "MCP server: check whether your exit IP works for ChatGPT, Claude, Gemini and other AI serv",
+   "cur": "MCP server for ipforai.cc: check exit IP, AI official status (weather), regional API reach"
   },
   {
-   "server": "com.decionis/mcp",
-   "pkg": "@decionis/mcp",
-   "prev": "Local MCP policy checks with Decionis policy packs and Presence human verification, plus n",
-   "cur": "Local Decionis execution checks and hooks, with opt-in delegated PolicyAgent authoring and"
-  },
-  {
-   "server": "io.github.CloudCorpRecords/linkguard",
-   "pkg": "@reneturcios/linkguard",
+   "server": "io.github.EzkielynaGroup/mcp-hari-libur-indonesia",
+   "pkg": "mcp-hari-libur-indonesia",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Local stdio client for the hosted PreClick URL scanner: forwards synchronous and asynchron"
+   "cur": "MCP server for Indonesian public holidays, cuti bersama (SKB 3 Menteri 2025-2027) and work"
   },
   {
-   "server": "io.github.CloudCorpRecords/importproof",
-   "pkg": "@reneturcios/importproof",
+   "server": "io.github.CloudCorpRecords/dashmetrics",
+   "pkg": "@reneturcios/dashmetrics",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Read-only EU import preflight from your agent: a local forwarding client for the hosted EU"
+   "cur": "Search Grafana dashboards, inspect datasources, query Prometheus and Loki, and read alert "
   },
   {
-   "server": "com.getscreenshotapi/mcp",
-   "pkg": "getscreenshot-mcp",
+   "server": "io.github.Mahesvannan/tx402",
+   "pkg": "tx402-mcp",
+   "prev": "MCP server for plain-English Algorand transaction explanations paid per call with x402.",
+   "cur": "MCP server for Algorand transaction, atomic-group, batch, and account-activity explanation"
+  },
+  {
+   "server": "im.peoplesearch/email-finder",
+   "pkg": "peoplesearch-mcp",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server and CLI for the GetScreenshot API: capture web pages, render HTML, diff screens"
+   "cur": "MCP server for PeopleSearch.im: search people and companies, reveal profiles, and fetch ve"
   },
   {
-   "server": "io.github.CloudCorpRecords/publishorder",
-   "pkg": "@reneturcios/publishorder",
+   "server": "io.github.CloudCorpRecords/prepboard",
+   "pkg": "@reneturcios/prepboard",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Monorepo publish order from the dependency graph: a deterministic topological order and de"
+   "cur": "Calaf recruiting-workspace seeds via MCP: get the seed format, validate a seed, import a s"
   },
   {
-   "server": "io.github.6mickswagger9/x402-risk-mcp",
-   "pkg": "x402-risk-mcp",
-   "prev": "MCP server for x402 risk API: address risk, transaction risk, and full risk reports. Pay p",
-   "cur": "Transaction risk scoring MCP. Activate: npx x402-risk-mcp --x402 https://risk-api-producti"
-  },
-  {
-   "server": "io.github.CloudCorpRecords/datasetlas",
-   "pkg": "@reneturcios/datasetlas",
+   "server": "ai.neuralverge/neuralverge",
+   "pkg": "@neuralverge/mcp-server",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "Forwarding client for the DoorsetBook dataset MCP server: search, compare, statistics and "
+   "cur": "NeuralVerge MCP server: the data layer for agentic AI. Search, AI Extract and 300+ data so"
   },
   {
-   "server": "com.makehybrid/mcp",
-   "pkg": "makehybrid-mcp",
+   "server": "io.github.GilbertKamau/fpl-mcp",
+   "pkg": "fpl-mcp-server",
    "prev": "Temporary package placeholder for staged publishing",
-   "cur": "MCP server for the MakeHybrid API: LinkedIn, the messaging channels and the work trackers,"
+   "cur": "Fantasy Premier League MCP server: data, points predictions, and transfer, captain and chi"
   },
   {
-   "server": "com.offlinecreatorstudio/mcp",
-   "pkg": "@offlinecreator/mcp",
-   "prev": "OfflineCreator Studio MCP server for Cursor, Claude, Hermes, and other MCP clients",
-   "cur": "MCP server and CLI for OfflineCreator Studio: quote, generate and retrieve AI image, video"
+   "server": "com.dataxapi/mcp",
+   "pkg": "@dataxapi/mcp",
+   "prev": "Temporary package placeholder for staged publishing",
+   "cur": "DataXAPI's MCP server on stdio for Claude Desktop, Cursor, Cherry Studio, Cline and other "
+  },
+  {
+   "server": "ai.snapdiff/mcp",
+   "pkg": "@corralimited/snapdiff-mcp",
+   "prev": "Standalone MCP server for SnapDiff. Exposes visual-diff, screenshot capture, change detect",
+   "cur": "Standalone MCP server for SnapDiff. Exposes visual-diff, screenshot capture, change detect"
   }
  ]
 }
